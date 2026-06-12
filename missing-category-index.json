@@ -1,0 +1,153 @@
+{
+  "channel": "Health Manifested",
+  "website": "https://healthmanifested.com",
+  "youtube": "https://www.youtube.com/@HealthManifested",
+  "repository": "https://github.com/SilverNightFall/youtube-healthmanifested-playlist-songs",
+  "purpose": "Additional category folder map for Health Manifested YouTube songs, meditations, videos, cartoons, playlists, and spiritual learning resources.",
+  "categories": [
+    {
+      "id": "aspects",
+      "title": "Astrology Aspect Songs",
+      "path": "aspects/",
+      "metadata": "aspects/category.json",
+      "readme": "aspects/README.md",
+      "purpose": "Playlist guides and metadata for Health Manifested songs that teach astrology aspects, aspect meanings, planetary relationships, and chart interpretation through music and spiritual learning.",
+      "keywords": [
+        "astrology aspects",
+        "planetary aspects",
+        "conjunction",
+        "opposition",
+        "square",
+        "trine",
+        "sextile",
+        "birth chart aspects",
+        "astrology songs"
+      ]
+    },
+    {
+      "id": "retrogrades",
+      "title": "Astrology Retrograde Songs",
+      "path": "retrogrades/",
+      "metadata": "retrogrades/category.json",
+      "readme": "retrogrades/README.md",
+      "purpose": "Playlist guides and metadata for songs that teach retrograde planets, reflection cycles, inner review, delays, revisions, and spiritual lessons connected to retrograde energy.",
+      "keywords": [
+        "retrograde",
+        "Mercury retrograde",
+        "Venus retrograde",
+        "Mars retrograde",
+        "planet retrogrades",
+        "astrology transits",
+        "reflection",
+        "review"
+      ]
+    },
+    {
+      "id": "houses",
+      "title": "Astrology House Songs",
+      "path": "houses/",
+      "metadata": "houses/category.json",
+      "readme": "houses/README.md",
+      "purpose": "Playlist guides and metadata for songs and videos that teach the twelve houses in astrology, life areas, chart interpretation, and house-based spiritual learning.",
+      "keywords": [
+        "astrology houses",
+        "12 houses",
+        "first house",
+        "second house",
+        "birth chart houses",
+        "house meanings",
+        "astrology lessons",
+        "house songs"
+      ]
+    },
+    {
+      "id": "manifestation",
+      "title": "Manifestation Songs",
+      "path": "manifestation/",
+      "metadata": "manifestation/category.json",
+      "readme": "manifestation/README.md",
+      "purpose": "Playlist guides and metadata for songs that support manifestation, abundance, affirmations, self-concept, money mindset, spiritual alignment, and intentional creation.",
+      "keywords": [
+        "manifestation songs",
+        "law of attraction",
+        "abundance",
+        "money manifestation",
+        "affirmations",
+        "self-concept",
+        "positive mindset",
+        "spiritual music"
+      ]
+    },
+    {
+      "id": "seasons",
+      "title": "Zodiac Season Songs",
+      "path": "seasons/",
+      "metadata": "seasons/category.json",
+      "readme": "seasons/README.md",
+      "purpose": "Playlist guides and metadata for songs that teach zodiac seasons, seasonal astrology, solar cycles, and spiritual themes connected to each sign season.",
+      "keywords": [
+        "zodiac seasons",
+        "Aries season",
+        "Taurus season",
+        "Gemini season",
+        "astrology seasons",
+        "solar cycle",
+        "zodiac songs"
+      ]
+    },
+    {
+      "id": "moon-phases",
+      "title": "Moon Phase Songs",
+      "path": "moon-phases/",
+      "metadata": "moon-phases/category.json",
+      "readme": "moon-phases/README.md",
+      "purpose": "Playlist guides and metadata for songs that teach moon phases, lunar cycles, emotional timing, intention setting, release, reflection, and spiritual rhythm.",
+      "keywords": [
+        "moon phases",
+        "new moon",
+        "full moon",
+        "lunar cycle",
+        "moon astrology",
+        "moon songs",
+        "spiritual timing",
+        "intention setting"
+      ]
+    },
+    {
+      "id": "eclipses",
+      "title": "Astrology Eclipse Songs",
+      "path": "eclipses/",
+      "metadata": "eclipses/category.json",
+      "readme": "eclipses/README.md",
+      "purpose": "Playlist guides and metadata for songs that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+      "keywords": [
+        "eclipse astrology",
+        "solar eclipse",
+        "lunar eclipse",
+        "nodes",
+        "karmic change",
+        "astrology transits",
+        "eclipse season",
+        "spiritual shifts"
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Astrology Basics Lessons",
+      "path": "basics/",
+      "metadata": "basics/category.json",
+      "readme": "basics/README.md",
+      "purpose": "Playlist guides and metadata for beginner-friendly astrology lessons, songs, and videos that introduce signs, planets, houses, aspects, chart basics, and spiritual self-discovery.",
+      "keywords": [
+        "astrology basics",
+        "beginner astrology",
+        "learn astrology",
+        "birth chart basics",
+        "zodiac signs",
+        "planets",
+        "houses",
+        "aspects"
+      ]
+    }
+  ]
+}
