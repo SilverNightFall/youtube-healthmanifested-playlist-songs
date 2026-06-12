@@ -1,0 +1,13 @@
+{
+  "channel": "Health Manifested",
+  "repository": "https://github.com/SilverNightFall/youtube-healthmanifested-playlist-songs",
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12",
+  "includedImprovements": [
+    "relatedPlaylists added to metadata files",
+    "category.json added to category folders",
+    "version added to playlist-index.json",
+    "lastUpdated added to playlist-index.json"
+  ],
+  "suggestedCommitMessage": "Add version and last updated fields to playlist index"
+}

@@ -4886,5 +4886,13 @@
         "i_am_ready_affirmations"
       ]
     }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12",
+  "updateNotes": [
+    "Added relatedPlaylists fields to playlist metadata.",
+    "Added category.json files to category folders.",
+    "Added version field to playlist-index.json.",
+    "Added lastUpdated field to playlist-index.json."
   ]
 }
