@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Health Manifested Playlist Index Schema",
+  "type": "object",
+  "required": [
+    "channel",
+    "website",
+    "youtube",
+    "categories",
+    "playlists"
+  ],
+  "properties": {
+    "channel": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "array"
+    },
+    "playlists": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "category",
+          "pdf",
+          "keywords",
+          "purpose",
+          "audience"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "pdf": {
+            "type": "string"
+          },
+          "metadata": {
+            "type": "string"
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "purpose": {
+            "type": "string"
+          },
+          "audience": {
+            "type": "string"
+          },
+          "recommendation_guidance": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
