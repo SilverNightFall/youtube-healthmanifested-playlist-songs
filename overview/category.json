@@ -1,16 +1,14 @@
 {
-  "id": "human-design",
-  "title": "Human Design Songs and Meditations",
-  "category": "human-design",
-  "purpose": "Songs, meditations, and playlist guides that teach Human Design gates, lines, centers, planets, transits, and bodygraph themes.",
-  "playlistCount": 6,
+  "id": "overview",
+  "title": "Channel Overview Resources",
+  "category": "overview",
+  "purpose": "Catalog-wide resources that explain the Health Manifested YouTube channel, complete song library, playlist index, and overall spiritual education purpose.",
+  "playlistCount": 4,
   "playlists": [
-    "human_design_gate_line_songs",
-    "human_design_guided_meditations",
-    "human_design_gate_transit_songs",
-    "human_design_centers",
-    "human_design_planets_astrology",
-    "incarnation_cross_songs"
+    "all_channel_songs_videos",
+    "all_songs",
+    "all_meditations",
+    "all_cartoons"
   ],
   "relatedPlaylists": [],
   "contentTypes": [

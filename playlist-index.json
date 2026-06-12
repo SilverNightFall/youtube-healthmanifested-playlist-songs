@@ -136,7 +136,12 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 6596,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "all_songs",
+        "all_meditations",
+        "all_cartoons"
+      ]
     },
     {
       "id": "all_songs",
@@ -165,7 +170,12 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 3590,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "all_channel_songs_videos",
+        "all_meditations",
+        "all_cartoons"
+      ]
     },
     {
       "id": "all_meditations",
@@ -195,7 +205,12 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 403,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "all_channel_songs_videos",
+        "all_songs",
+        "all_cartoons"
+      ]
     },
     {
       "id": "all_cartoons",
@@ -223,7 +238,12 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 21,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "all_channel_songs_videos",
+        "all_songs",
+        "all_meditations"
+      ]
     },
     {
       "id": "human_design_gate_line_songs",
@@ -255,7 +275,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 386,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "incarnation_cross_songs",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music",
+        "moon_phase_songs"
+      ]
     },
     {
       "id": "human_design_guided_meditations",
@@ -285,7 +319,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 385,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_gate_line_songs",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "incarnation_cross_songs",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music",
+        "moon_phase_songs"
+      ]
     },
     {
       "id": "human_design_gate_transit_songs",
@@ -318,7 +366,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 55,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "incarnation_cross_songs",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music",
+        "moon_phase_songs"
+      ]
     },
     {
       "id": "human_design_centers",
@@ -348,7 +410,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 38,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_planets_astrology",
+        "incarnation_cross_songs",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music",
+        "moon_phase_songs"
+      ]
     },
     {
       "id": "human_design_planets_astrology",
@@ -378,7 +454,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 12,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "incarnation_cross_songs",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music",
+        "moon_phase_songs"
+      ]
     },
     {
       "id": "incarnation_cross_songs",
@@ -408,7 +498,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 193,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music",
+        "moon_phase_songs"
+      ]
     },
     {
       "id": "gene_keys_songs",
@@ -439,7 +543,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 195,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "gene_keys_guided_meditations",
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music"
+      ]
     },
     {
       "id": "gene_keys_guided_meditations",
@@ -469,7 +585,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 0,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "gene_keys_songs",
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "sleep_relaxation_music"
+      ]
     },
     {
       "id": "i_ching_songs",
@@ -499,7 +627,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 449,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_ching_daily_guidance",
+        "i_ching_line_songs",
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "sleep_relaxation_music"
+      ]
     },
     {
       "id": "i_ching_daily_guidance",
@@ -527,7 +667,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 64,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_ching_songs",
+        "i_ching_line_songs",
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "sleep_relaxation_music"
+      ]
     },
     {
       "id": "i_ching_line_songs",
@@ -557,7 +709,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 384,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_ching_songs",
+        "i_ching_daily_guidance",
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "sleep_relaxation_music"
+      ]
     },
     {
       "id": "astrology_planet_house_aspect_songs",
@@ -591,7 +755,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 2154,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "astrology_eclipse_songs",
+        "astrology_basics_lessons",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "astrology_aspect_songs",
@@ -623,7 +801,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 1560,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "astrology_eclipse_songs",
+        "astrology_basics_lessons",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "astrology_retrograde_songs",
@@ -655,7 +847,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 111,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "astrology_eclipse_songs",
+        "astrology_basics_lessons",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "astrology_planets_in_signs",
@@ -686,7 +892,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 331,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_houses",
+        "astrology_eclipse_songs",
+        "astrology_basics_lessons",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "astrology_planets_in_houses",
@@ -718,7 +938,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 121,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_eclipse_songs",
+        "astrology_basics_lessons",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "astrology_nodes_songs",
@@ -749,7 +983,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 31,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "north_node_astrology_songs",
+        "south_node_astrology_songs",
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs"
+      ]
     },
     {
       "id": "astrology_eclipse_songs",
@@ -781,7 +1029,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 27,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "astrology_basics_lessons",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "moon_phase_songs",
@@ -812,7 +1074,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 97,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "zodiac_season_songs",
@@ -841,7 +1117,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 3,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs",
+        "aquarius_astrology_songs",
+        "pisces_astrology_songs"
+      ]
     },
     {
       "id": "sabian_symbol_songs",
@@ -869,7 +1159,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 360,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs",
+        "aquarius_sabian_symbol_songs",
+        "pisces_sabian_symbol_songs"
+      ]
     },
     {
       "id": "astrological_degree_songs",
@@ -898,7 +1202,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 359,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs",
+        "aquarius_astrological_degree_songs",
+        "pisces_astrological_degree_songs"
+      ]
     },
     {
       "id": "zodiac_and_planet_cartoons",
@@ -926,7 +1244,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 21,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations"
+      ]
     },
     {
       "id": "astrology_basics_lessons",
@@ -957,7 +1289,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 939,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "astrology_eclipse_songs",
+        "spiritual_growth_healing_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "sun_astrology_songs",
@@ -988,7 +1334,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 296,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "moon_astrology_songs",
@@ -1019,7 +1379,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 355,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "mercury_astrology_songs",
@@ -1050,7 +1424,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 319,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "venus_astrology_songs",
@@ -1081,7 +1469,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 319,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "mars_astrology_songs",
@@ -1112,7 +1514,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 316,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "jupiter_astrology_songs",
@@ -1143,7 +1559,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 316,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "saturn_astrology_songs",
@@ -1174,7 +1604,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 304,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "uranus_astrology_songs",
@@ -1205,7 +1649,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 302,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "neptune_astrology_songs",
@@ -1236,7 +1694,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 302,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "pluto_astrology_songs",
@@ -1267,7 +1739,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 301,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "chiron_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "chiron_astrology_songs",
@@ -1298,7 +1784,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 172,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "earth_astrology_songs"
+      ]
     },
     {
       "id": "north_node_astrology_songs",
@@ -1329,7 +1829,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 15,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_nodes_songs",
+        "south_node_astrology_songs",
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs"
+      ]
     },
     {
       "id": "south_node_astrology_songs",
@@ -1360,7 +1874,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 16,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_nodes_songs",
+        "north_node_astrology_songs",
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs"
+      ]
     },
     {
       "id": "earth_astrology_songs",
@@ -1391,7 +1919,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 8,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs"
+      ]
     },
     {
       "id": "ascendant_astrology_songs",
@@ -1422,7 +1964,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 118,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs"
+      ]
     },
     {
       "id": "midheaven_astrology_songs",
@@ -1453,7 +2009,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 120,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "moon_phase_songs",
+        "sun_astrology_songs",
+        "moon_astrology_songs",
+        "mercury_astrology_songs",
+        "venus_astrology_songs",
+        "mars_astrology_songs",
+        "jupiter_astrology_songs",
+        "saturn_astrology_songs",
+        "uranus_astrology_songs",
+        "neptune_astrology_songs",
+        "pluto_astrology_songs",
+        "chiron_astrology_songs"
+      ]
     },
     {
       "id": "aries_astrology_songs",
@@ -1485,7 +2055,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 97,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aries_sabian_symbol_songs",
+        "aries_astrological_degree_songs",
+        "zodiac_season_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "aries_sabian_symbol_songs",
@@ -1518,7 +2102,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aries_astrology_songs",
+        "aries_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "aries_astrological_degree_songs",
@@ -1551,7 +2149,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aries_astrology_songs",
+        "aries_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "taurus_astrology_songs",
@@ -1583,7 +2195,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 97,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "taurus_sabian_symbol_songs",
+        "taurus_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "taurus_sabian_symbol_songs",
@@ -1616,7 +2242,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 31,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "taurus_astrology_songs",
+        "taurus_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "taurus_astrological_degree_songs",
@@ -1649,7 +2289,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "taurus_astrology_songs",
+        "taurus_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "gemini_astrology_songs",
@@ -1681,7 +2335,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 96,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "gemini_sabian_symbol_songs",
+        "gemini_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "gemini_sabian_symbol_songs",
@@ -1714,7 +2382,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 31,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "gemini_astrology_songs",
+        "gemini_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "gemini_astrological_degree_songs",
@@ -1747,7 +2429,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "gemini_astrology_songs",
+        "gemini_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "cancer_astrology_songs",
@@ -1779,7 +2475,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 96,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "cancer_sabian_symbol_songs",
+        "cancer_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "cancer_sabian_symbol_songs",
@@ -1812,7 +2522,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 31,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "cancer_astrology_songs",
+        "cancer_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "cancer_astrological_degree_songs",
@@ -1845,7 +2569,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "cancer_astrology_songs",
+        "cancer_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "leo_astrology_songs",
@@ -1877,7 +2615,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 93,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "leo_sabian_symbol_songs",
+        "leo_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "leo_sabian_symbol_songs",
@@ -1910,7 +2662,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "leo_astrology_songs",
+        "leo_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "leo_astrological_degree_songs",
@@ -1943,7 +2709,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "leo_astrology_songs",
+        "leo_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "virgo_astrology_songs",
@@ -1975,7 +2755,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 95,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "virgo_sabian_symbol_songs",
+        "virgo_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "virgo_sabian_symbol_songs",
@@ -2008,7 +2802,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "virgo_astrology_songs",
+        "virgo_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "virgo_astrological_degree_songs",
@@ -2041,7 +2849,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "virgo_astrology_songs",
+        "virgo_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "libra_astrology_songs",
@@ -2073,7 +2895,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 97,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "libra_sabian_symbol_songs",
+        "libra_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "libra_sabian_symbol_songs",
@@ -2106,7 +2942,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "libra_astrology_songs",
+        "libra_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "libra_astrological_degree_songs",
@@ -2139,7 +2989,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "libra_astrology_songs",
+        "libra_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "scorpio_astrology_songs",
@@ -2171,7 +3035,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 94,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "scorpio_sabian_symbol_songs",
+        "scorpio_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "sagittarius_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "scorpio_sabian_symbol_songs",
@@ -2204,7 +3082,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "scorpio_astrology_songs",
+        "scorpio_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "scorpio_astrological_degree_songs",
@@ -2237,7 +3129,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "scorpio_astrology_songs",
+        "scorpio_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "sagittarius_astrology_songs",
@@ -2269,7 +3175,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 94,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "sagittarius_sabian_symbol_songs",
+        "sagittarius_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "capricorn_astrology_songs"
+      ]
     },
     {
       "id": "sagittarius_sabian_symbol_songs",
@@ -2302,7 +3222,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "sagittarius_astrology_songs",
+        "sagittarius_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "capricorn_sabian_symbol_songs"
+      ]
     },
     {
       "id": "sagittarius_astrological_degree_songs",
@@ -2335,7 +3269,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "sagittarius_astrology_songs",
+        "sagittarius_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "capricorn_astrological_degree_songs"
+      ]
     },
     {
       "id": "capricorn_astrology_songs",
@@ -2367,7 +3315,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 95,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "capricorn_sabian_symbol_songs",
+        "capricorn_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs"
+      ]
     },
     {
       "id": "capricorn_sabian_symbol_songs",
@@ -2400,7 +3362,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "capricorn_astrology_songs",
+        "capricorn_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs"
+      ]
     },
     {
       "id": "capricorn_astrological_degree_songs",
@@ -2433,7 +3409,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "capricorn_astrology_songs",
+        "capricorn_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs"
+      ]
     },
     {
       "id": "aquarius_astrology_songs",
@@ -2465,7 +3455,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 94,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aquarius_sabian_symbol_songs",
+        "aquarius_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs"
+      ]
     },
     {
       "id": "aquarius_sabian_symbol_songs",
@@ -2498,7 +3502,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aquarius_astrology_songs",
+        "aquarius_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs"
+      ]
     },
     {
       "id": "aquarius_astrological_degree_songs",
@@ -2531,7 +3549,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "aquarius_astrology_songs",
+        "aquarius_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs"
+      ]
     },
     {
       "id": "pisces_astrology_songs",
@@ -2563,7 +3595,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 97,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "pisces_sabian_symbol_songs",
+        "pisces_astrological_degree_songs",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs",
+        "leo_astrology_songs",
+        "virgo_astrology_songs",
+        "libra_astrology_songs",
+        "scorpio_astrology_songs",
+        "sagittarius_astrology_songs"
+      ]
     },
     {
       "id": "pisces_sabian_symbol_songs",
@@ -2596,7 +3642,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 30,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "pisces_astrology_songs",
+        "pisces_astrological_degree_songs",
+        "sabian_symbol_songs",
+        "aries_sabian_symbol_songs",
+        "taurus_sabian_symbol_songs",
+        "gemini_sabian_symbol_songs",
+        "cancer_sabian_symbol_songs",
+        "leo_sabian_symbol_songs",
+        "virgo_sabian_symbol_songs",
+        "libra_sabian_symbol_songs",
+        "scorpio_sabian_symbol_songs",
+        "sagittarius_sabian_symbol_songs"
+      ]
     },
     {
       "id": "pisces_astrological_degree_songs",
@@ -2629,7 +3689,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 29,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "pisces_astrology_songs",
+        "pisces_sabian_symbol_songs",
+        "astrological_degree_songs",
+        "aries_astrological_degree_songs",
+        "taurus_astrological_degree_songs",
+        "gemini_astrological_degree_songs",
+        "cancer_astrological_degree_songs",
+        "leo_astrological_degree_songs",
+        "virgo_astrological_degree_songs",
+        "libra_astrological_degree_songs",
+        "scorpio_astrological_degree_songs",
+        "sagittarius_astrological_degree_songs"
+      ]
     },
     {
       "id": "i_am_affirmation_songs",
@@ -2660,7 +3734,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 254,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_rooted_affirmations",
@@ -2691,7 +3779,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 11,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_guided_affirmations",
@@ -2722,7 +3824,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 11,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_worthy_affirmations",
@@ -2753,7 +3869,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 11,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_ready_affirmations",
@@ -2784,7 +3914,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 11,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_open_affirmations",
@@ -2815,7 +3959,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 11,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_building_affirmations",
@@ -2846,7 +4004,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 10,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_receiving_affirmations",
@@ -2877,7 +4049,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 10,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_surrounded_affirmations",
@@ -2908,7 +4094,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 10,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_more_than_affirmations",
@@ -2939,7 +4139,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 10,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_choosing_affirmations",
@@ -2970,7 +4184,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 10,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_naturally_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_naturally_affirmations",
@@ -3001,7 +4229,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 10,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_becoming_affirmations"
+      ]
     },
     {
       "id": "i_am_becoming_affirmations",
@@ -3032,7 +4274,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 9,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "i_am_walking_affirmations",
@@ -3063,7 +4319,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 8,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "i_am_rising_affirmations",
@@ -3094,7 +4364,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 7,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "i_am_deeply_affirmations",
@@ -3125,7 +4409,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 6,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "money_manifestation_songs",
@@ -3155,7 +4453,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 36,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "law_of_attraction_manifestation_songs",
@@ -3186,7 +4498,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 1003,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "inspirational_quotes_motivation_songs",
@@ -3216,7 +4542,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 858,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations",
+        "i_am_open_affirmations",
+        "i_am_building_affirmations",
+        "i_am_receiving_affirmations",
+        "i_am_surrounded_affirmations",
+        "i_am_more_than_affirmations",
+        "i_am_choosing_affirmations",
+        "i_am_naturally_affirmations"
+      ]
     },
     {
       "id": "spiritual_growth_healing_songs",
@@ -3247,7 +4587,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 1518,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "astrology_planet_house_aspect_songs",
+        "astrology_aspect_songs",
+        "astrology_retrograde_songs",
+        "astrology_planets_in_signs",
+        "astrology_planets_in_houses",
+        "astrology_eclipse_songs",
+        "astrology_basics_lessons",
+        "zodiac_season_songs",
+        "aries_astrology_songs",
+        "taurus_astrology_songs",
+        "gemini_astrology_songs",
+        "cancer_astrology_songs"
+      ]
     },
     {
       "id": "sleep_relaxation_music",
@@ -3275,7 +4629,21 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 68,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "human_design_gate_line_songs",
+        "human_design_guided_meditations",
+        "human_design_gate_transit_songs",
+        "human_design_centers",
+        "human_design_planets_astrology",
+        "gene_keys_songs",
+        "gene_keys_guided_meditations",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     },
     {
       "id": "tarot_mediumship_spiritual_development",
@@ -3304,7 +4672,15 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 3,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "sleep_relaxation_music",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     },
     {
       "id": "yoga_sutra_songs",
@@ -3332,7 +4708,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 195,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "yoga_sutra_book_1",
+        "yoga_sutra_book_2",
+        "yoga_sutra_book_3",
+        "yoga_sutra_book_4",
+        "sleep_relaxation_music",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     },
     {
       "id": "yoga_sutra_book_1",
@@ -3361,7 +4749,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 51,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "yoga_sutra_songs",
+        "yoga_sutra_book_2",
+        "yoga_sutra_book_3",
+        "yoga_sutra_book_4",
+        "sleep_relaxation_music",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     },
     {
       "id": "yoga_sutra_book_2",
@@ -3390,7 +4790,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 54,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "yoga_sutra_songs",
+        "yoga_sutra_book_1",
+        "yoga_sutra_book_3",
+        "yoga_sutra_book_4",
+        "sleep_relaxation_music",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     },
     {
       "id": "yoga_sutra_book_3",
@@ -3419,7 +4831,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 55,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "yoga_sutra_songs",
+        "yoga_sutra_book_1",
+        "yoga_sutra_book_2",
+        "yoga_sutra_book_4",
+        "sleep_relaxation_music",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     },
     {
       "id": "yoga_sutra_book_4",
@@ -3448,7 +4872,19 @@
       "recommendation_guidance": "Recommend this playlist when the viewer asks about this exact topic or wants music, meditation, or simple spiritual learning support for the theme.",
       "matching_video_count_from_latest_export": 33,
       "youtube_playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
-      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/"
+      "website_playlist_guide_index": "https://healthmanifested.com/playlist-guides/",
+      "relatedPlaylists": [
+        "yoga_sutra_songs",
+        "yoga_sutra_book_1",
+        "yoga_sutra_book_2",
+        "yoga_sutra_book_3",
+        "sleep_relaxation_music",
+        "i_am_affirmation_songs",
+        "i_am_rooted_affirmations",
+        "i_am_guided_affirmations",
+        "i_am_worthy_affirmations",
+        "i_am_ready_affirmations"
+      ]
     }
   ]
 }

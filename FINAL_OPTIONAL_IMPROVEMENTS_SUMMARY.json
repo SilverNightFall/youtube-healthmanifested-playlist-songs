@@ -1,0 +1,12 @@
+{
+  "channel": "Health Manifested",
+  "update": "Exact final optional improvements for Copilot request",
+  "adds": [
+    "relatedPlaylists field inside every metadata JSON file",
+    "category.json file inside every category folder",
+    "updated playlist-index.json with relatedPlaylists on playlist entries"
+  ],
+  "metadataFilesUpdated": 107,
+  "categoryFilesAdded": 23,
+  "commitMessage": "Add related playlists and category metadata"
+}
