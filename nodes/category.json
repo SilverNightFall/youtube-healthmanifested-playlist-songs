@@ -1,20 +1,22 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "nodes",
+  "title": "Astrology Node Songs",
+  "category": "nodes",
+  "purpose": "Songs and playlist guides for the North Node and South Node, including life direction, karmic patterns, soul growth, release, and nodal astrology.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
+    "North Node",
+    "South Node",
     "nodes",
-    "eclipse season"
+    "life purpose",
+    "karma",
+    "soul growth",
+    "astrology nodes"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "eclipses",
+    "astrology",
+    "planets"
   ],
   "contentTypes": [
     "songs",

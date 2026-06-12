@@ -1,9 +1,15 @@
-# meditations playlist resources
+# Guided Meditation Playlists
 
-Meditation, guided reflection, sleep, and relaxation resources
+Guided meditations and playlist guides for Human Design, Gene Keys, affirmations, healing, self-discovery, contemplation, and spiritual reflection.
 
-## Playlists
+## Related playlists
 
-- [Sleep, Calm, and Relaxation Music](sleep_relaxation_music.pdf)
-  - Purpose: Offer spiritual learning, healing music, reflection, and intuitive education through songs, meditations, videos, and playlists.
-  - Audience: People seeking spiritual music, healing, meditation, astrology, Human Design, and self discovery resources.
+- human-design
+- gene-keys
+- affirmations
+- manifestation
+- yoga-sutras
+
+## AI guidance
+
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

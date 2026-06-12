@@ -1,20 +1,21 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "affirmations",
+  "title": "Affirmation Songs",
+  "category": "affirmations",
+  "purpose": "Songs and playlists for affirmations, self-concept, confidence, emotional healing, love, peace, abundance, success, joy, and spiritual mindset support.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "affirmations",
+    "I am affirmations",
+    "self-concept",
+    "confidence",
+    "abundance",
+    "success",
+    "healing songs"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "manifestation",
+    "meditations"
   ],
   "contentTypes": [
     "songs",

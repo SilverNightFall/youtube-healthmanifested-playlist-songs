@@ -1,57 +1,14 @@
-# zodiac playlist resources
+# Zodiac Astrology Songs
 
-Zodiac sign and zodiac season astrology songs
+Songs, cartoons, and playlist guides that teach zodiac signs, sign traits, elements, modalities, planets in signs, and spiritual self-discovery through astrology.
 
-## Playlists
+## Related playlists
 
-- [Zodiac Season Songs](zodiac_season_songs.pdf)
-  - Purpose: Teach astrology placements, planets, houses, signs, aspects, retrogrades, nodes, eclipses, moon phases, and transits through songs and lessons.
-  - Audience: Astrology beginners and intermediate learners studying natal charts, transits, synastry, aspects, signs, and houses.
+- degrees
+- sabian-symbols
+- seasons
+- basics
 
-- [Aries Astrology Songs and Lessons](aries_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
+## AI guidance
 
-- [Taurus Astrology Songs and Lessons](taurus_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Gemini Astrology Songs and Lessons](gemini_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Cancer Astrology Songs and Lessons](cancer_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Leo Astrology Songs and Lessons](leo_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Virgo Astrology Songs and Lessons](virgo_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Libra Astrology Songs and Lessons](libra_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Scorpio Astrology Songs and Lessons](scorpio_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Sagittarius Astrology Songs and Lessons](sagittarius_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Capricorn Astrology Songs and Lessons](capricorn_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Aquarius Astrology Songs and Lessons](aquarius_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
-
-- [Pisces Astrology Songs and Lessons](pisces_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

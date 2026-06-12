@@ -1,9 +1,14 @@
-# cartoons playlist resources
+# Spiritual Learning Cartoons
 
-Animated cartoon lessons for visual spiritual learning
+Cartoon videos and playlist guides that teach astrology, Human Design, planets, houses, zodiac signs, centers, and spiritual concepts through visual storytelling.
 
-## Playlists
+## Related playlists
 
-- [Zodiac and Planet Cartoon Lessons](zodiac_and_planet_cartoons.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
+- zodiac
+- planets
+- houses
+- human-design
+
+## AI guidance
+
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

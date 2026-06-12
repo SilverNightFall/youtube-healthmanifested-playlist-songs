@@ -1,20 +1,23 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "human-design",
+  "title": "Human Design Songs and Meditations",
+  "category": "human-design",
+  "purpose": "Songs, meditations, and playlist guides that teach Human Design gates, lines, centers, planets, transits, and bodygraph themes through memorable spiritual learning resources.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "Human Design",
+    "Human Design gates",
+    "gate lines",
+    "bodygraph",
+    "centers",
+    "Human Design songs",
+    "Human Design meditations"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "gene-keys",
+    "i-ching",
+    "meditations",
+    "planets"
   ],
   "contentTypes": [
     "songs",

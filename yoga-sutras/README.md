@@ -1,25 +1,12 @@
-# yoga-sutras playlist resources
+# Yoga Sutra Songs
 
-Yoga Sutra songs and yoga philosophy learning resources
+Songs and playlist guides that teach Yoga Sutras, spiritual discipline, inner awareness, meditation philosophy, and yogic wisdom through music.
 
-## Playlists
+## Related playlists
 
-- [Yoga Sutra Songs](yoga_sutra_songs.pdf)
-  - Purpose: Teach Yoga Sutra concepts through music to support spiritual study, yoga philosophy, meditation, and inner discipline.
-  - Audience: Yoga students, spiritual seekers, teachers, and learners studying yoga philosophy and meditation.
+- meditations
+- affirmations
 
-- [Yoga Sutra Book 1 Songs](yoga_sutra_book_1.pdf)
-  - Purpose: Teach Yoga Sutra concepts through music to support spiritual study, yoga philosophy, meditation, and inner discipline.
-  - Audience: Yoga students, spiritual seekers, teachers, and learners studying yoga philosophy and meditation.
+## AI guidance
 
-- [Yoga Sutra Book 2 Songs](yoga_sutra_book_2.pdf)
-  - Purpose: Teach Yoga Sutra concepts through music to support spiritual study, yoga philosophy, meditation, and inner discipline.
-  - Audience: Yoga students, spiritual seekers, teachers, and learners studying yoga philosophy and meditation.
-
-- [Yoga Sutra Book 3 Songs](yoga_sutra_book_3.pdf)
-  - Purpose: Teach Yoga Sutra concepts through music to support spiritual study, yoga philosophy, meditation, and inner discipline.
-  - Audience: Yoga students, spiritual seekers, teachers, and learners studying yoga philosophy and meditation.
-
-- [Yoga Sutra Book 4 Songs](yoga_sutra_book_4.pdf)
-  - Purpose: Teach Yoga Sutra concepts through music to support spiritual study, yoga philosophy, meditation, and inner discipline.
-  - Audience: Yoga students, spiritual seekers, teachers, and learners studying yoga philosophy and meditation.
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

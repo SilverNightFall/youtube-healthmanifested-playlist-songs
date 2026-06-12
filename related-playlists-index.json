@@ -1,0 +1,126 @@
+{
+  "channel": "Health Manifested",
+  "purpose": "Relationship map for Health Manifested playlist categories and related playlist groups.",
+  "note": "Use this file with playlist-index.json and category.json files. It helps LLMs understand which Health Manifested playlist topics naturally connect to one another.",
+  "relatedPlaylistsByCategory": {
+    "human-design": [
+      "gene-keys",
+      "i-ching",
+      "meditations",
+      "planets"
+    ],
+    "gene-keys": [
+      "human-design",
+      "i-ching",
+      "meditations"
+    ],
+    "i-ching": [
+      "human-design",
+      "gene-keys",
+      "meditations"
+    ],
+    "zodiac": [
+      "degrees",
+      "sabian-symbols",
+      "seasons",
+      "basics"
+    ],
+    "sabian-symbols": [
+      "degrees",
+      "zodiac",
+      "astrology"
+    ],
+    "degrees": [
+      "sabian-symbols",
+      "zodiac",
+      "astrology"
+    ],
+    "nodes": [
+      "eclipses",
+      "astrology",
+      "planets"
+    ],
+    "planets": [
+      "aspects",
+      "retrogrades",
+      "houses",
+      "astrology"
+    ],
+    "astrology": [
+      "zodiac",
+      "planets",
+      "houses",
+      "aspects",
+      "degrees",
+      "sabian-symbols"
+    ],
+    "affirmations": [
+      "manifestation",
+      "meditations"
+    ],
+    "manifestation": [
+      "affirmations",
+      "meditations"
+    ],
+    "yoga-sutras": [
+      "meditations",
+      "affirmations"
+    ],
+    "meditations": [
+      "human-design",
+      "gene-keys",
+      "affirmations",
+      "manifestation",
+      "yoga-sutras"
+    ],
+    "cartoons": [
+      "zodiac",
+      "planets",
+      "houses",
+      "human-design"
+    ],
+    "tarot": [
+      "meditations",
+      "affirmations"
+    ],
+    "aspects": [
+      "planets",
+      "astrology",
+      "houses"
+    ],
+    "retrogrades": [
+      "planets",
+      "astrology",
+      "transits"
+    ],
+    "houses": [
+      "planets",
+      "aspects",
+      "astrology",
+      "cartoons"
+    ],
+    "seasons": [
+      "zodiac",
+      "moon-phases",
+      "astrology"
+    ],
+    "moon-phases": [
+      "eclipses",
+      "seasons",
+      "astrology"
+    ],
+    "eclipses": [
+      "nodes",
+      "moon-phases",
+      "astrology"
+    ],
+    "basics": [
+      "zodiac",
+      "planets",
+      "houses",
+      "aspects",
+      "astrology"
+    ]
+  },
+  "recommendationGuidance": "Use related playlists to suggest nearby Health Manifested songs, meditations, videos, and playlist guides when they directly support the viewer's topic."
+}

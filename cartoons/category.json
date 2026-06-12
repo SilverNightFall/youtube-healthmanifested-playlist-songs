@@ -1,20 +1,21 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "cartoons",
+  "title": "Spiritual Learning Cartoons",
+  "category": "cartoons",
+  "purpose": "Cartoon videos and playlist guides that teach astrology, Human Design, planets, houses, zodiac signs, centers, and spiritual concepts through visual storytelling.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "astrology cartoons",
+    "Human Design cartoons",
+    "zodiac cartoons",
+    "planet cartoons",
+    "spiritual education videos"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "zodiac",
+    "planets",
+    "houses",
+    "human-design"
   ],
   "contentTypes": [
     "songs",

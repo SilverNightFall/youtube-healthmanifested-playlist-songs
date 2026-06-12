@@ -1,20 +1,22 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "gene-keys",
+  "title": "Gene Keys Songs and Meditations",
+  "category": "gene-keys",
+  "purpose": "Songs, meditations, and playlist guides for Gene Keys contemplation, including Shadow, Gift, Siddhi, prosperity, relationship, and spiritual transformation themes.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "Gene Keys",
+    "Shadow",
+    "Gift",
+    "Siddhi",
+    "contemplation",
+    "Gene Keys meditations",
+    "spiritual transformation"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "human-design",
+    "i-ching",
+    "meditations"
   ],
   "contentTypes": [
     "songs",

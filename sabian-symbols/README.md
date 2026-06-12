@@ -1,57 +1,13 @@
-# sabian-symbols playlist resources
+# Sabian Symbol Songs
 
-Sabian Symbol songs for symbolic zodiac degree meanings
+Songs and playlist guides that teach Sabian Symbols for each zodiac degree, helping viewers explore symbolic astrology, degree meanings, and intuitive interpretation.
 
-## Playlists
+## Related playlists
 
-- [Sabian Symbol Songs](sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
+- degrees
+- zodiac
+- astrology
 
-- [Aries Sabian Symbol Songs](aries_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
+## AI guidance
 
-- [Taurus Sabian Symbol Songs](taurus_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Gemini Sabian Symbol Songs](gemini_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Cancer Sabian Symbol Songs](cancer_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Leo Sabian Symbol Songs](leo_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Virgo Sabian Symbol Songs](virgo_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Libra Sabian Symbol Songs](libra_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Scorpio Sabian Symbol Songs](scorpio_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Sagittarius Sabian Symbol Songs](sagittarius_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Capricorn Sabian Symbol Songs](capricorn_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Aquarius Sabian Symbol Songs](aquarius_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
-
-- [Pisces Sabian Symbol Songs](pisces_sabian_symbol_songs.pdf)
-  - Purpose: Teach Sabian Symbols through music so people can explore the symbolic image and deeper meaning of each zodiac degree.
-  - Audience: People asking about Sabian Symbols, zodiac degrees, spiritual astrology, and symbolic chart interpretation.
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

@@ -1,13 +1,13 @@
-# gene-keys playlist resources
+# Gene Keys Songs and Meditations
 
-Gene Keys songs, guided meditations, Shadow Gift Siddhi contemplation resources
+Songs, meditations, and playlist guides for Gene Keys contemplation, including Shadow, Gift, Siddhi, prosperity, relationship, and spiritual transformation themes.
 
-## Playlists
+## Related playlists
 
-- [Gene Keys Songs and Meditations](gene_keys_songs.pdf)
-  - Purpose: Support contemplation of the Gene Keys Shadow, Gift, and Siddhi through music, meditation, and spiritual reflection.
-  - Audience: People studying the Gene Keys, hologenetic profile, Shadow work, Gift frequency, Siddhi contemplation, and spiritual growth.
+- human-design
+- i-ching
+- meditations
 
-- [Gene Keys Guided Meditations](gene_keys_guided_meditations.pdf)
-  - Purpose: Help people contemplate gates and energy centers through calming audio reflection, embodiment, and inner awareness.
-  - Audience: Human Design students who want meditation, reflection, healing, and nervous system friendly learning.
+## AI guidance
+
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

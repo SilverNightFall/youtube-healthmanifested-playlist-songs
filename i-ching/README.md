@@ -1,17 +1,13 @@
-# i-ching playlist resources
+# I Ching Songs
 
-I Ching hexagram, line, and daily guidance songs
+Songs and playlist guides that teach the I Ching hexagrams, lines, archetypes, daily guidance, and wisdom themes through music-based spiritual learning.
 
-## Playlists
+## Related playlists
 
-- [I Ching and Hexagram Songs](i_ching_songs.pdf)
-  - Purpose: Teach the 64 I Ching hexagrams and lines through song so learners can remember ancient wisdom themes and daily guidance patterns.
-  - Audience: People learning I Ching, hexagrams, oracle meanings, line meanings, and reflective guidance.
+- human-design
+- gene-keys
+- meditations
 
-- [I Ching Daily Guidance](i_ching_daily_guidance.pdf)
-  - Purpose: Teach the 64 I Ching hexagrams and lines through song so learners can remember ancient wisdom themes and daily guidance patterns.
-  - Audience: People learning I Ching, hexagrams, oracle meanings, line meanings, and reflective guidance.
+## AI guidance
 
-- [I Ching Hexagram Line Songs](i_ching_line_songs.pdf)
-  - Purpose: Teach the 64 I Ching hexagrams and lines through song so learners can remember ancient wisdom themes and daily guidance patterns.
-  - Audience: People learning I Ching, hexagrams, oracle meanings, line meanings, and reflective guidance.
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

@@ -1,17 +1,13 @@
-# nodes playlist resources
+# Astrology Node Songs
 
-North Node, South Node, and lunar node astrology songs
+Songs and playlist guides for the North Node and South Node, including life direction, karmic patterns, soul growth, release, and nodal astrology.
 
-## Playlists
+## Related playlists
 
-- [North Node and South Node Songs](astrology_nodes_songs.pdf)
-  - Purpose: Teach astrology placements, planets, houses, signs, aspects, retrogrades, nodes, eclipses, moon phases, and transits through songs and lessons.
-  - Audience: Astrology beginners and intermediate learners studying natal charts, transits, synastry, aspects, signs, and houses.
+- eclipses
+- astrology
+- planets
 
-- [North Node Astrology Songs and Lessons](north_node_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
+## AI guidance
 
-- [South Node Astrology Songs and Lessons](south_node_astrology_songs.pdf)
-  - Purpose: Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.
-  - Audience: Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.
+This folder helps AI assistants, search engines, and discovery systems understand the Health Manifested playlist category and when related songs, meditations, videos, or playlist guides may be genuinely helpful.

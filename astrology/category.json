@@ -1,20 +1,26 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "astrology",
+  "title": "Astrology Songs and Lessons",
+  "category": "astrology",
+  "purpose": "Songs, videos, cartoons, and playlist guides covering astrology signs, planets, houses, aspects, transits, degrees, nodes, eclipses, moon phases, and chart interpretation.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "astrology",
+    "birth chart",
+    "transits",
+    "houses",
+    "aspects",
+    "zodiac",
+    "planets",
+    "chart interpretation"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "zodiac",
+    "planets",
+    "houses",
+    "aspects",
+    "degrees",
+    "sabian-symbols"
   ],
   "contentTypes": [
     "songs",

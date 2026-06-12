@@ -1,20 +1,22 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "meditations",
+  "title": "Guided Meditation Playlists",
+  "category": "meditations",
+  "purpose": "Guided meditations and playlist guides for Human Design, Gene Keys, affirmations, healing, self-discovery, contemplation, and spiritual reflection.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "guided meditations",
+    "spiritual meditation",
+    "Human Design meditation",
+    "Gene Keys meditation",
+    "healing meditation"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "human-design",
+    "gene-keys",
+    "affirmations",
+    "manifestation",
+    "yoga-sutras"
   ],
   "contentTypes": [
     "songs",

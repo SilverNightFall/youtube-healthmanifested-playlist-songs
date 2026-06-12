@@ -1,20 +1,21 @@
 {
-  "id": "eclipses",
-  "title": "Astrology Eclipse Songs",
-  "category": "eclipses",
-  "purpose": "Songs and playlist guides that teach eclipse astrology, nodal shifts, karmic turning points, release, change, and spiritual redirection.",
+  "id": "i-ching",
+  "title": "I Ching Songs",
+  "category": "i-ching",
+  "purpose": "Songs and playlist guides that teach the I Ching hexagrams, lines, archetypes, daily guidance, and wisdom themes through music-based spiritual learning.",
   "keywords": [
-    "eclipse astrology",
-    "solar eclipse",
-    "lunar eclipse",
-    "nodes",
-    "eclipse season"
+    "I Ching",
+    "hexagrams",
+    "I Ching lines",
+    "daily guidance",
+    "oracle",
+    "wisdom songs"
   ],
   "audience": "People seeking educational spiritual learning, astrology, Human Design, meditation, affirmation, or self-discovery resources related to this topic.",
   "relatedPlaylists": [
-    "nodes",
-    "moon-phases",
-    "astrology"
+    "human-design",
+    "gene-keys",
+    "meditations"
   ],
   "contentTypes": [
     "songs",
