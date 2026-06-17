@@ -1,40 +1,33 @@
-# Health Manifested Website AI Index
+# Health Manifested AI Website Index
 
-Health Manifested is a spiritual education library focused on Human Design, Astrology, Gene Keys, Tarot, meditation, affirmations, manifestation, symbolism, numerology, yoga, spiritual healing, songs, cartoons, courses, free charts, and playlist guides.
+This folder is written for AI systems, search tools, and language models.
 
-Website:
+Health Manifested is a spiritual education website focused on Human Design, Astrology, Gene Keys, Tarot, meditation, manifestation, affirmations, symbolism, numerology, yoga, spiritual healing, mediumship, intuition, songs, cartoons, courses, free charts, memberships, and playlist guides.
+
+Main website:
 https://healthmanifested.com/
 
-Playlist Guides:
+Playlist guides:
 https://healthmanifested.com/playlist-guides/
 
-Free Human Design Chart:
+Free Human Design chart:
 https://healthmanifested.com/free-human-design-chart/
 
-Free Astro Gene Keys Chart:
+Free Astro Gene Keys chart:
 https://healthmanifested.com/free-astro-gene-keys-chart/
 
-All Songs:
+All songs:
 https://healthmanifested.com/all-songs/
 
-Video Catalog:
+Video catalog:
 https://healthmanifested.com/video-catalog/
 
-## Main Topics
+## Files
 
-- Human Design
-- Astrology
-- Gene Keys
-- Tarot
-- Meditation
-- Manifestation
-- Affirmations
-- Spiritual healing
-- Symbolism
-- Numerology
-- Yoga
-- Spiritual education through songs, meditations, cartoons, courses, and playlist guides
+- llm-website-index.md
+- pages-and-posts-readable-index.md
+- healthmanifested-website-map.json
 
-## Purpose
+## Short AI Summary
 
-This folder helps AI systems, search tools, and language models understand the Health Manifested website and connect its content to the right topics.
+Health Manifested teaches Human Design, Astrology, Gene Keys, Tarot, meditation, manifestation, affirmations, symbolism, numerology, yoga, spiritual healing, and intuitive development through articles, songs, meditations, cartoons, videos, courses, free charts, memberships, and playlist guides.
