@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://healthmanifested.com/wp-content/plugins/wpseo-video/xml-video-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://healthmanifested.com/automated-human-design-calendar/</loc>
+		<video:video>
+			<video:player_loc>https://www.youtube.com/embed/rdyiaxr_zFg</video:player_loc>
+			<video:thumbnail_loc>https://www.healthmanifested.com/wp-content/uploads/2020/01/rdyiaxr_zfg.jpg</video:thumbnail_loc>
+			<video:duration>939</video:duration>
+			<video:view_count>714</video:view_count>
+			<video:width>480</video:width>
+			<video:height>360</video:height>
+			<video:title><![CDATA[Automated Human Design Calendar - Health Manifested]]></video:title>
+			<video:publication_date>2020-01-28T20:01:48+00:00</video:publication_date>
+			<video:description><![CDATA[Automated Human Design Calendar - Monthly Human Design Calendar - Weekly Human Design Calendar - Daily Human Design Calendar - Health Manifested]]></video:description>
+			<video:category><![CDATA[Genetic Matrix]]></video:category>
+			<video:tag><![CDATA[Human Design Calendar]]></video:tag>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info='https://healthmanifested.com/author/hdastro/'>Victoria Bagnell</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://healthmanifested.com/how-to-read-an-hd-astro-chart/</loc>
+		<video:video>
+			<video:player_loc>https://www.youtube.com/embed/qH9_Y0CI3Jg</video:player_loc>
+			<video:thumbnail_loc>https://www.healthmanifested.com/wp-content/uploads/2020/01/qh9_y0ci3jg.jpg</video:thumbnail_loc>
+			<video:duration>939</video:duration>
+			<video:view_count>1350</video:view_count>
+			<video:width>480</video:width>
+			<video:height>270</video:height>
+			<video:title><![CDATA[How to Read an HD Astro Chart - Health Manifested]]></video:title>
+			<video:publication_date>2020-01-23T03:23:37+00:00</video:publication_date>
+			<video:description><![CDATA[How to Read an HD Astro Chart - Human Design Astrology Chart - Astrology House system incorporated into Human Design - Health Manifested]]></video:description>
+			<video:category><![CDATA[Astrology Basics]]></video:category>
+			<video:tag><![CDATA[How to Read an HD Astro Chart]]></video:tag>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info='https://healthmanifested.com/author/hdastro/'>Victoria Bagnell</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://healthmanifested.com/why-i-wrote-reclaiming-myself-when-healing-becomes-remembering/</loc>
+		<video:video>
+			<video:player_loc>https://www.youtube.com/embed/8DFdEp0S5eQ</video:player_loc>
+			<video:thumbnail_loc>https://healthmanifested.com/wp-content/uploads/2026/04/8dfdep0s5eq.jpg</video:thumbnail_loc>
+			<video:duration>242</video:duration>
+			<video:view_count>36</video:view_count>
+			<video:width>480</video:width>
+			<video:height>360</video:height>
+			<video:title><![CDATA[Reclaiming Myself/Healing Through Music, Nervous System and Embodiment]]></video:title>
+			<video:publication_date>2026-04-21T19:26:54+00:00</video:publication_date>
+			<video:description><![CDATA[Physical Therapist Heather Culpepper shares the story behind Reclaiming Myself; a song about healing, nervous system recovery, embodiment, and reclaiming your true self.]]></video:description>
+			<video:tag><![CDATA[Reclaiming Myself: When Healing Becomes Remembering]]></video:tag>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info='https://healthmanifested.com/author/heather-culpepper/'>Heather Culpepper</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://healthmanifested.com/topic/north-node/</loc>
+		<video:video>
+			<video:title><![CDATA[North Node - Health Manifested]]></video:title>
+			<video:publication_date>2025-08-16T16:17:56+00:00</video:publication_date>
+			<video:description><![CDATA[The North Node is the direction of growth and purpose we move toward after our Uranus Opposition.The house you find the North Node in represents the]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/fF2ST5hZn94</video:player_loc>
+			<video:thumbnail_loc>https://healthmanifested.com/wp-content/uploads/2025/08/ff2st5hzn94.jpg</video:thumbnail_loc>
+			<video:duration>122</video:duration>
+			<video:view_count>18</video:view_count>
+			<video:width>480</video:width>
+			<video:height>270</video:height>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info='https://healthmanifested.com/author/hdastro/'>Victoria Bagnell</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://healthmanifested.com/topic/moon/</loc>
+		<video:video>
+			<video:title><![CDATA[Moon - Health Manifested]]></video:title>
+			<video:publication_date>2024-04-27T13:25:12+00:00</video:publication_date>
+			<video:description><![CDATA[Explore how the Moon in Human Design reveals your emotional drives and subconscious motivations influencing your life's path.]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/qfXEDlBssGg</video:player_loc>
+			<video:thumbnail_loc>https://healthmanifested.com/wp-content/uploads/2024/04/qfxedlbssgg.jpg</video:thumbnail_loc>
+			<video:duration>103</video:duration>
+			<video:view_count>9</video:view_count>
+			<video:width>480</video:width>
+			<video:height>270</video:height>
+			<video:tag><![CDATA[Human Design Moon influence]]></video:tag>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info='https://healthmanifested.com/author/hdastro/'>Victoria Bagnell</video:uploader>
+		</video:video>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
