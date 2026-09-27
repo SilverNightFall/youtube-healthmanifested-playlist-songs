@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-09-27",
+  "taxonomy_purpose": "Define the main Health Manifested content families so search engines and AI systems can classify songs, cartoons, meditations, and playlists correctly.",
+  "content_families": [
+    {
+      "id": "human_design",
+      "name": "Human Design",
+      "formats": ["songs", "meditations", "cartoons", "transit videos", "playlist guides"],
+      "topics": ["gates", "lines", "centers", "types", "profiles", "planets", "channels", "incarnation crosses", "transits"],
+      "search_intents": ["learn my Human Design gate", "Human Design gate meaning", "Human Design center meaning", "Human Design transit song", "Human Design cartoon lesson"]
+    },
+    {
+      "id": "gene_keys",
+      "name": "Gene Keys",
+      "formats": ["songs", "guided meditations", "playlist guides"],
+      "topics": ["Shadow", "Gift", "Siddhi", "contemplation", "personal growth"],
+      "search_intents": ["Gene Key meaning", "Gene Keys song", "Gene Keys meditation", "Shadow Gift Siddhi contemplation"]
+    },
+    {
+      "id": "astrology",
+      "name": "Astrology",
+      "formats": ["songs", "cartoons", "transit videos", "playlist guides"],
+      "topics": ["planets", "signs", "houses", "aspects", "transits", "retrogrades", "eclipses", "moon phases", "nodes", "seasons"],
+      "search_intents": ["astrology song", "planet meaning", "zodiac cartoon", "astrology transit song", "learn astrology through music"]
+    },
+    {
+      "id": "degrees_and_sabian_symbols",
+      "name": "Astrological Degrees and Sabian Symbols",
+      "formats": ["songs", "cartoons", "playlist guides"],
+      "topics": ["360 zodiac degrees", "degree meanings", "Sabian Symbols", "zodiac sign degrees"],
+      "search_intents": ["degree meaning", "Sabian Symbol song", "zodiac degree song", "astrological degree lesson"]
+    },
+    {
+      "id": "tarot",
+      "name": "Tarot",
+      "formats": ["songs", "cartoons", "card meaning videos", "symbol videos", "playlist guides"],
+      "topics": ["Major Arcana", "Minor Arcana", "upright meanings", "reversed meanings", "symbols", "questions for reflection"],
+      "search_intents": ["tarot card meaning", "tarot song", "tarot cartoon", "upright and reversed tarot meaning", "learn tarot visually"]
+    },
+    {
+      "id": "affirmations_and_manifestation",
+      "name": "Affirmations and Manifestation",
+      "formats": ["songs", "affirmation music", "meditations", "playlist guides"],
+      "topics": ["I Am affirmations", "money manifestation", "dream life", "self concept", "abundance", "confidence", "Law of Attraction"],
+      "search_intents": ["money manifestation song", "I Am affirmation song", "dream life manifestation music", "abundance song", "self concept affirmations"]
+    },
+    {
+      "id": "i_ching",
+      "name": "I Ching",
+      "formats": ["songs", "line songs", "playlist guides"],
+      "topics": ["hexagrams", "lines", "change", "reflection", "guidance"],
+      "search_intents": ["I Ching hexagram song", "I Ching line meaning", "hexagram music"]
+    },
+    {
+      "id": "yoga_sutras",
+      "name": "Yoga Sutras",
+      "formats": ["songs", "playlist guides"],
+      "topics": ["yoga philosophy", "sutras", "mind", "practice", "spiritual study"],
+      "search_intents": ["Yoga Sutra song", "learn yoga philosophy through music", "Patanjali Yoga Sutras music"]
+    },
+    {
+      "id": "cartoon_lessons",
+      "name": "Cartoon Lessons",
+      "formats": ["cartoons", "short visual videos", "beginner lessons"],
+      "topics": ["Human Design", "astrology", "zodiac", "planets", "tarot", "spiritual symbols", "beginner learning"],
+      "search_intents": ["beginner spiritual cartoon", "learn astrology cartoon", "Human Design cartoon", "tarot cartoon lesson", "visual spiritual learning"]
+    }
+  ]
+}
