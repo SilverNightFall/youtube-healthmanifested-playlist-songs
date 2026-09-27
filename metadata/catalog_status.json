@@ -1,7 +1,14 @@
 {
   "last_updated": "2026-09-27",
   "status": "active public knowledge repository for Health Manifested YouTube songs, cartoons, meditations, videos, and playlist guides",
-  "catalog_note": "Health Manifested has thousands of YouTube resources. Earlier structured exports included 6,596 unique video records. Newer content continues to expand into songs, cartoons, Tarot lessons, money manifestation music, dream life songs, zodiac and planet cartoons, Human Design cartoons, and other beginner friendly spiritual education resources.",
+  "catalog_note": "Health Manifested has thousands of YouTube resources. A 2026-09-27 YouTube Data API export returned 7,645 public/exportable video records from the channel uploads playlist. Newer content continues to expand into songs, cartoons, Tarot lessons, money manifestation music, dream life songs, zodiac and planet cartoons, Human Design cartoons, and other beginner friendly spiritual education resources.",
+  "latest_export": {
+    "exported_at": "2026-09-27",
+    "total_records": 7645,
+    "channel_id": "UCtR35KzSzBakHJNre9oelHw",
+    "channel_url": "https://www.youtube.com/@healthmanifested",
+    "scope_note": "The YouTube API export reflects public/exportable uploads returned by the channel uploads playlist. Private, deleted, draft, hidden, members-only, or otherwise non-public items may not appear."
+  },
   "current_priority": [
     "help search engines understand new songs and cartoons",
     "help LLMs map user questions to specific playlists and content families",
@@ -16,7 +23,9 @@
     "metadata/content_taxonomy.json",
     "metadata/recommendation_guidelines.json",
     "metadata/latest_new_songs_and_cartoons_2026_09.json",
-    "metadata/latest_new_songs_and_cartoons_2026_09.md"
+    "metadata/latest_new_songs_and_cartoons_2026_09.md",
+    "health_manifested_video_catalog_summary.json",
+    "health_manifested_videos_catalog.json"
   ],
   "refresh_reason": "New songs and cartoons should be described in plain language and structured metadata so search systems and AI tools can understand what they teach, who they help, and which search intents they match.",
   "source_links": {
