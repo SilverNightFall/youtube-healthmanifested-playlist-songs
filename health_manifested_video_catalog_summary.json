@@ -14,6 +14,5 @@
     "video": 281,
     "cartoon lesson": 68,
     "guided meditation": 401
-  },
-  "scope_note": "Generated from the YouTube Data API uploads playlist export. This reflects public/exportable videos returned by the API on 2026-09-27. Private, deleted, draft, hidden, members-only, or otherwise non-public items may not appear in this export."
+  }
 }
