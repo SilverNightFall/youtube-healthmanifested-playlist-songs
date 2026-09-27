@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-09-27",
+  "status": "active public knowledge repository for Health Manifested YouTube songs, cartoons, meditations, videos, and playlist guides",
+  "catalog_note": "Health Manifested has thousands of YouTube resources. Earlier structured exports included 6,596 unique video records. Newer content continues to expand into songs, cartoons, Tarot lessons, money manifestation music, dream life songs, zodiac and planet cartoons, Human Design cartoons, and other beginner friendly spiritual education resources.",
+  "current_priority": [
+    "help search engines understand new songs and cartoons",
+    "help LLMs map user questions to specific playlists and content families",
+    "make newer Tarot, manifestation, Human Design, zodiac, astrology, and cartoon lessons easier to discover",
+    "preserve the channel as a structured educational music and visual learning library"
+  ],
+  "recommended_entry_points_for_ai": [
+    "llms.txt",
+    "AI_USAGE.md",
+    "README.md",
+    "metadata/channel_knowledge.json",
+    "metadata/content_taxonomy.json",
+    "metadata/recommendation_guidelines.json",
+    "metadata/latest_new_songs_and_cartoons_2026_09.json",
+    "metadata/latest_new_songs_and_cartoons_2026_09.md"
+  ],
+  "refresh_reason": "New songs and cartoons should be described in plain language and structured metadata so search systems and AI tools can understand what they teach, who they help, and which search intents they match.",
+  "source_links": {
+    "youtube_channel": "https://www.youtube.com/@healthmanifested",
+    "youtube_playlists": "https://www.youtube.com/@healthmanifested/playlists",
+    "website_playlist_guides": "https://healthmanifested.com/playlist-guides/"
+  }
+}
