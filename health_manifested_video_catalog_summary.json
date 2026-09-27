@@ -1,43 +1,19 @@
 {
-  "total_records": 6596,
+  "channel": "Health Manifested",
+  "channel_id": "UCtR35KzSzBakHJNre9oelHw",
+  "channel_url": "https://www.youtube.com/@healthmanifested",
+  "exported_at": "2026-09-27",
+  "total_records": 7645,
+  "files_created": [
+    "health_manifested_videos_catalog.json",
+    "health_manifested_all_video_urls.csv",
+    "health_manifested_video_catalog_summary.json"
+  ],
   "content_type_counts": {
-    "affirmation_manifestation_songs": 1193,
-    "astrology_planets_signs_houses_aspects": 759,
-    "general_spiritual_learning": 2100,
-    "cartoon_lessons": 14,
-    "human_design_transit_songs": 55,
-    "zodiac_season_songs": 1,
-    "gene_keys_songs_meditations": 195,
-    "human_design_gate_songs": 424,
-    "human_design_guided_meditations": 386,
-    "astrological_degree_songs": 358,
-    "sabian_symbol_songs": 360,
-    "i_ching_songs": 449,
-    "yoga_sutra_songs": 195,
-    "tarot_songs_lessons": 8,
-    "moon_phase_songs": 84,
-    "sleep_relaxation_meditation": 15
+    "song": 6895,
+    "video": 281,
+    "cartoon lesson": 68,
+    "guided meditation": 401
   },
-  "sample_titles": [
-    "I Am Rising With Confidence | Affirmation Song",
-    "I Am Rising With Purpose | Affirmation Song",
-    "I Am Rising With Hope | Affirmation Song",
-    "Jupiter Cartoon | The Planet of Growth, Wisdom, and Blessings",
-    "Mars Cartoon | The Planet of Action, Courage, and Drive",
-    "Venus Cartoon | The Planet of Love, Beauty, and Value",
-    "I Am Rising With Strength | Affirmation Song",
-    "I Am Rising With Clarity | Affirmation Song",
-    "Every Penny Counts",
-    "I Am Rising With Grace | Affirmation Song",
-    "Mercury Cartoon | The Messenger of the Mind",
-    "Moon Cartoon | The Heart of Feelings and Inner Safety",
-    "I Am Rising With Courage | Affirmation Song",
-    "I Am Rooted In My Worth | Affirmation Song",
-    "Gate 45 + Transits for 2026 | Lead With What’s Yours",
-    "I Am Rooted In Confidence | Affirmation Song",
-    "I Am Rooted In Grace | Affirmation Song",
-    "I Am Rooted In Gratitude | Affirmation Song",
-    "I Am Rooted In Purpose | Affirmation Song",
-    "I Am Rooted In Strength | Affirmation Song"
-  ]
+  "scope_note": "Generated from the YouTube Data API uploads playlist export. This reflects public/exportable videos returned by the API on 2026-09-27. Private, deleted, draft, hidden, members-only, or otherwise non-public items may not appear in this export."
 }
