@@ -4,15 +4,13 @@
   "channel_url": "https://www.youtube.com/@healthmanifested",
   "exported_at": "2026-09-27",
   "total_records": 7645,
+  "catalog_scope": "YouTube Data API export from the public/exportable channel uploads playlist.",
+  "content_note": "This catalog includes songs, meditations, cartoons, Tarot lessons, astrology videos, Human Design videos, Gene Keys content, I Ching content, manifestation songs, degree songs, Sabian Symbol songs, Yoga Sutra songs, moon phase songs, and other Health Manifested uploads returned by the export.",
+  "classification_note": "The previous automated song/video/cartoon/meditation counts were removed because they were machine guesses and did not accurately represent the full content library. Use the full catalog records, titles, descriptions, tags, URLs, and topic fields for discovery instead of treating a small category count as final.",
+  "expected_channel_count_note": "The owner expects the broader channel/library count to be closer to 8,017 items. This file represents the 7,645 items returned by the current API export. Additional private, hidden, draft, members-only, deleted, scheduled, or otherwise non-public/non-exported items may need a separate YouTube Studio or Google Takeout export.",
   "files_created": [
     "health_manifested_videos_catalog.json",
     "health_manifested_all_video_urls.csv",
     "health_manifested_video_catalog_summary.json"
-  ],
-  "content_type_counts": {
-    "song": 6895,
-    "video": 281,
-    "cartoon lesson": 68,
-    "guided meditation": 401
-  }
+  ]
 }
