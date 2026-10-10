@@ -5,11 +5,10 @@
     "id": "neptune_astrology_songs",
     "title": "Neptune Astrology Songs and Lessons",
     "category": "planets",
-    "content_family": "cartoon lessons",
+    "content_family": "astrology songs and lessons",
     "pdf": "planets/neptune_astrology_songs.pdf",
     "metadata": "metadata/planets/neptune_astrology_songs.json",
     "keywords": [
-      "cartoon lessons",
       "neptune",
       "neptune astrology songs and lessons",
       "neptune astrology and lessons",
@@ -19,8 +18,8 @@
       "natal chart",
       "neptune astrology"
     ],
-    "purpose": "Use friendly animated characters to teach astrology, Human Design, planets, houses, zodiac signs, and energy centers in an easy visual way.",
-    "audience": "Beginners, visual learners, students who prefer simple spiritual education, and people who enjoy character based learning.",
+    "purpose": "Songs and lessons connected to Neptune in astrology, Human Design, signs, houses, aspects, and retrogrades.",
+    "audience": "People searching for Neptune meanings, placements, transits, and astrology learning through music.",
     "search_intent_examples": [
       "learn neptune astrology songs and lessons",
       "neptune astrology songs and lessons music",
@@ -44,6 +43,27 @@
       "pluto_astrology_songs",
       "chiron_astrology_songs",
       "earth_astrology_songs"
+    ],
+    "source_pdf_url": "https://healthmanifested.com/wp-content/uploads/2026/06/neptune_astrology_songs.pdf",
+    "focused_guides": [
+      {
+        "title": "Neptune in the Houses: Astrology Song Guide",
+        "guide": "planets/guides/neptune_in_houses_song_guide.md",
+        "metadata": "metadata/planets/neptune_in_houses_song_guide.json",
+        "video_count": 12
+      },
+      {
+        "title": "Neptune Retrograde in the Signs: Astrology Song Guide",
+        "guide": "planets/guides/neptune_retrograde_song_guide.md",
+        "metadata": "metadata/planets/neptune_retrograde_song_guide.json",
+        "video_count": 12
+      },
+      {
+        "title": "Venus and Neptune: Love, Dreams, and Astrology Songs",
+        "guide": "planets/guides/venus_neptune_love_song_guide.md",
+        "metadata": "metadata/planets/venus_neptune_love_song_guide.json",
+        "video_count": 24
+      }
     ]
   },
   "ai_understanding_notes": [
