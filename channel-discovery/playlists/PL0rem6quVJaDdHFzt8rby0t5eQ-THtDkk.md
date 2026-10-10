@@ -1,0 +1,61 @@
+# August Inspirational and Motivational Songs
+
+Health Manifested songs, videos, meditations, and cartoon learning resources.
+
+[Open this playlist on YouTube](https://www.youtube.com/playlist?list=PL0rem6quVJaDdHFzt8rby0t5eQ-THtDkk)
+
+Source: the public YouTube playlist page, retrieved October 10, 2026. Listed entries may require membership. This guide reproduces titles and links, rather than reviewing or transcribing the videos.
+
+## Listed videos
+
+1. [One Step to the Light | Inspirational Song](https://www.youtube.com/watch?v=5BLmRLzQ6AU)
+2. [Uniquely You | Inspirational Song](https://www.youtube.com/watch?v=LHdp1ozYHkQ)
+3. [Reach for the Sky | Inspirational Song](https://www.youtube.com/watch?v=PBXgs5m_Ab4)
+4. [Better Solutions | Inspirational Song](https://www.youtube.com/watch?v=-4vpI4C_nRc)
+5. [New Path Ahead | Inspirational Song](https://www.youtube.com/watch?v=vkf9rZ1VghE)
+6. [Grow What You Choose | Inspirational Song](https://www.youtube.com/watch?v=heIsDG6iSpY)
+7. [Wrapped in Beauty and Grace | Inspirational Song](https://www.youtube.com/watch?v=pCPtteyAsqY)
+8. [Joy Returns to You | Inspirational Song](https://www.youtube.com/watch?v=4MEoBiownqM)
+9. [Open to the Change | Inspirational Song](https://www.youtube.com/watch?v=kdNl-psCiQM)
+10. [Closer Than You Think | Inspirational Song](https://www.youtube.com/watch?v=3MeA7D1jGtA)
+11. [Ride Toward Better Days  Inspirational Country Song](https://www.youtube.com/watch?v=Z-Ir3yChvSI)
+12. [Run Free Toward Joy | Inspirational Song](https://www.youtube.com/watch?v=yvvDQ73faq4)
+13. [Just Beyond the Horizon | Inspirational Song](https://www.youtube.com/watch?v=cpJQvKnhHzY)
+14. [Let the Future Shine | Inspirational Song](https://www.youtube.com/watch?v=5C-_5xtgC8I)
+15. [Bloom Into What’s Next | Inspirational Song](https://www.youtube.com/watch?v=2864cFmr6qM)
+16. [Get It Rolling | Inspirational Song](https://www.youtube.com/watch?v=3gcFKYCfH5c)
+17. [Move Like Your Spirit Knows | Inspirational Song](https://www.youtube.com/watch?v=y_dv9O_AAFs)
+18. [Hidden Potential | Inspirational Song](https://www.youtube.com/watch?v=sbu-GJ1ELB4)
+19. [Just Around the Corner | Inspirational Song](https://www.youtube.com/watch?v=QXc9qt6HZcc)
+20. [Strong Enough to Last | Inspirational Song](https://www.youtube.com/watch?v=u1jfiuNXDAE)
+21. [The Path Is Yours | Inspirational Song](https://www.youtube.com/watch?v=EXN46wku6Vc)
+22. [Believe In The New | Inspirational Song](https://www.youtube.com/watch?v=LZUQrY9hXqs)
+23. [A New Life Is Loading | Inspirational Song](https://www.youtube.com/watch?v=z0eCLEmlgKg)
+24. [Set Your Priorities | Inspirational Song](https://www.youtube.com/watch?v=ZmOqz7fZvUg)
+25. [Focus On What Is Important | Inspirational Song](https://www.youtube.com/watch?v=N3mGulPpWC0)
+26. [Rise Into Your Bliss | Inspirational Song](https://www.youtube.com/watch?v=-V0y8qZps0A)
+27. [The Magic Of Your Heart | Inspirational Song](https://www.youtube.com/watch?v=RhkXPuOv9OI)
+28. [Smiles Are Universal](https://www.youtube.com/watch?v=nZKPo09lvfs)
+29. [Get the Show on the Road | Inspirational Song](https://www.youtube.com/watch?v=7kxQbljYVaI)
+30. [Shake Things Up | Inspirational Song](https://www.youtube.com/watch?v=1f3aUuA4JYc)
+31. [Attitude Is Everything | Inspirational Song](https://www.youtube.com/watch?v=frUx2saStBY)
+32. [Wings of New Insight | Inspirational Song](https://www.youtube.com/watch?v=OY1wxtTXFvg)
+33. [Blueprint of Tomorrow | Inspirational Song](https://www.youtube.com/watch?v=QsdEYbSxKGg)
+34. [Centered Light | Inspirational Song](https://www.youtube.com/watch?v=Cqn6lHOLAhg)
+35. [Good Things Are Coming | Inspirational Song](https://www.youtube.com/watch?v=veNhirvY4TM)
+36. [Follow Your Heart Path | Inspirational Song](https://www.youtube.com/watch?v=-yvi3XcZJFo)
+37. [Change Your Reality | Inspirational Song](https://www.youtube.com/watch?v=tUjUgdvd-vs)
+38. [Courage Changes Everything | Inspirational Song](https://www.youtube.com/watch?v=ficEQ945cd4)
+39. [Step Into More | Inspirational Song](https://www.youtube.com/watch?v=Y2YkffvzJEU)
+40. [Run Toward Your Vision | Inspirational Song](https://www.youtube.com/watch?v=460vxPzhGf8)
+41. [Write Your New Chapter | Inspirational Song](https://www.youtube.com/watch?v=_q7ZvBTWC3Y)
+42. [Peace Leads the Way | Inspirational Song](https://www.youtube.com/watch?v=_i6Z_MiOWXc)
+43. [One Step Closer | Inspirational Song](https://www.youtube.com/watch?v=5NOt4Bw08TU)
+44. [Slow and Steady | Inspirational Song](https://www.youtube.com/watch?v=GjJbdhiPApg)
+45. [There’d Be No Butterflies | Inspirational Song](https://www.youtube.com/watch?v=9vqI_pfJRkw)
+46. [Be the Change | Inspirational Song](https://www.youtube.com/watch?v=JknyWi3nSb4)
+47. [Peace in the Plan | Inspirational Song](https://www.youtube.com/watch?v=CIdPvqfrXyQ)
+
+[Explore all channel guides](../README.md)
+
+[Explore memberships, products, and services](https://healthmanifested.com/products-memberships-services/)

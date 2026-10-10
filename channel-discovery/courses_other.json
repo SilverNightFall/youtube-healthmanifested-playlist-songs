@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Courses, Memberships, and Other Channel Videos",
+  "purpose": "Channel collections explaining courses, learning resources, memberships, and other topics.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 3,
+  "unique_listed_video_ids": 33,
+  "playlists": [
+    {
+      "playlist_id": "PL0rem6quVJaAQ0Pu7jIioXi_aLHmFW1zR",
+      "title": "Rune Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAQ0Pu7jIioXi_aLHmFW1zR",
+      "displayed_video_count": "24 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "AtPhDdMizmU",
+          "title": "Fehu   Rune",
+          "url": "https://www.youtube.com/watch?v=AtPhDdMizmU"
+        },
+        {
+          "video_id": "cVukmC6tfOw",
+          "title": "Uruz   rune song",
+          "url": "https://www.youtube.com/watch?v=cVukmC6tfOw"
+        },
+        {
+          "video_id": "0RGuBgkvtRE",
+          "title": "Thurisaz   Rune song",
+          "url": "https://www.youtube.com/watch?v=0RGuBgkvtRE"
+        },
+        {
+          "video_id": "N_cunLZl56o",
+          "title": "Ansuz – Rune Song",
+          "url": "https://www.youtube.com/watch?v=N_cunLZl56o"
+        },
+        {
+          "video_id": "1qpMxNbNPWQ",
+          "title": "Raidho   rune song",
+          "url": "https://www.youtube.com/watch?v=1qpMxNbNPWQ"
+        },
+        {
+          "video_id": "6MHpF6_2vpI",
+          "title": "Kenaz   rune song",
+          "url": "https://www.youtube.com/watch?v=6MHpF6_2vpI"
+        },
+        {
+          "video_id": "8EUQZelGeSo",
+          "title": "Gebo – Rune Song",
+          "url": "https://www.youtube.com/watch?v=8EUQZelGeSo"
+        },
+        {
+          "video_id": "YmYuSyixMn0",
+          "title": "Wunjo   rune song",
+          "url": "https://www.youtube.com/watch?v=YmYuSyixMn0"
+        },
+        {
+          "video_id": "IJqU399cjYk",
+          "title": "Jera   rune song",
+          "url": "https://www.youtube.com/watch?v=IJqU399cjYk"
+        },
+        {
+          "video_id": "e22QHbuhmI8",
+          "title": "Eihwaz   rune song",
+          "url": "https://www.youtube.com/watch?v=e22QHbuhmI8"
+        },
+        {
+          "video_id": "YLPEbCwbwvI",
+          "title": "Perthro   rune song",
+          "url": "https://www.youtube.com/watch?v=YLPEbCwbwvI"
+        },
+        {
+          "video_id": "VqvmjTHcEVQ",
+          "title": "Hagalaz   Rune song",
+          "url": "https://www.youtube.com/watch?v=VqvmjTHcEVQ"
+        },
+        {
+          "video_id": "aG3emLpXIGo",
+          "title": "Nauthiz   rune song",
+          "url": "https://www.youtube.com/watch?v=aG3emLpXIGo"
+        },
+        {
+          "video_id": "1DZkCbRFaUA",
+          "title": "Isa   rune song",
+          "url": "https://www.youtube.com/watch?v=1DZkCbRFaUA"
+        },
+        {
+          "video_id": "H8v3dSbalXo",
+          "title": "Sowilo – rune song",
+          "url": "https://www.youtube.com/watch?v=H8v3dSbalXo"
+        },
+        {
+          "video_id": "XNOG6GJC8lo",
+          "title": "Algiz   rune song",
+          "url": "https://www.youtube.com/watch?v=XNOG6GJC8lo"
+        },
+        {
+          "video_id": "IGAo61SuLtg",
+          "title": "Teiwaz – rune song",
+          "url": "https://www.youtube.com/watch?v=IGAo61SuLtg"
+        },
+        {
+          "video_id": "3HAUPHgF-YI",
+          "title": "Ehwaz – rune song",
+          "url": "https://www.youtube.com/watch?v=3HAUPHgF-YI"
+        },
+        {
+          "video_id": "p_fqZKU6WOU",
+          "title": "Mannaz – rune song",
+          "url": "https://www.youtube.com/watch?v=p_fqZKU6WOU"
+        },
+        {
+          "video_id": "nbtCEAAWkrQ",
+          "title": "Laguz – rune song",
+          "url": "https://www.youtube.com/watch?v=nbtCEAAWkrQ"
+        },
+        {
+          "video_id": "IlRBxStepAM",
+          "title": "Ingwaz – rune song",
+          "url": "https://www.youtube.com/watch?v=IlRBxStepAM"
+        },
+        {
+          "video_id": "Und7tImykqo",
+          "title": "Othala – rune song",
+          "url": "https://www.youtube.com/watch?v=Und7tImykqo"
+        },
+        {
+          "video_id": "OaUTRzH4404",
+          "title": "Dagaz – rune song",
+          "url": "https://www.youtube.com/watch?v=OaUTRzH4404"
+        },
+        {
+          "video_id": "zW7ic8iHQRg",
+          "title": "Berkano – rune song",
+          "url": "https://www.youtube.com/watch?v=zW7ic8iHQRg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist is a collection of rune songs inspired by the Elder Futhark.\n\nThese songs are not meant to teach the runes or explain their meanings. They are created to help people feel the energy, rhythm, and atmosphere of each rune and to serve as an entry point into deeper rune work.\n\nRunes are not something to fully understand through music alone. They are living symbols that reveal themselves through study, experience, and direct engagement. Learning to work with runes properly takes guidance, practice, and time.\n\nIf you feel drawn to the runes and want to truly learn how they function in readings, spiritual practice, and everyday life, I recommend connecting with Marco Mueller.\n\nMarco offers rune readings and in-depth guidance for people who want more than surface interpretations. Working with someone who actively practices rune work can help bring clarity, direction, and insight that cannot be gained from books or music alone.\n\nTo learn more about the runes or to book a rune reading with Marco, visit:\nhttps://healthmanifested.com/members/idunasapples/\n\nLet these songs be a doorway, not the destination.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAQ0Pu7jIioXi_aLHmFW1zR.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBDOeD9Vl3EaNjul19VdIbx",
+      "title": "Products",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBDOeD9Vl3EaNjul19VdIbx",
+      "displayed_video_count": "1 video",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "-48eVaALqXg",
+          "title": "HD Astro Mini Report",
+          "url": "https://www.youtube.com/watch?v=-48eVaALqXg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBDOeD9Vl3EaNjul19VdIbx.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaACIrIjeYRtFJMVvvR56H8u",
+      "title": "Membership platform",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaACIrIjeYRtFJMVvvR56H8u",
+      "displayed_video_count": "9 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "45x4ejvJzWw",
+          "title": "Professional Profile - Membership Teaching Professional Platform",
+          "url": "https://www.youtube.com/watch?v=45x4ejvJzWw"
+        },
+        {
+          "video_id": "7b0nQhxhmc8",
+          "title": "Health Manifested Profile Membership",
+          "url": "https://www.youtube.com/watch?v=7b0nQhxhmc8"
+        },
+        {
+          "video_id": "u9nyaIh1jGw",
+          "title": "Articles Membership",
+          "url": "https://www.youtube.com/watch?v=u9nyaIh1jGw"
+        },
+        {
+          "video_id": "tvAnPAe2-so",
+          "title": "Membership platform small introduction of Profiles and Application form",
+          "url": "https://www.youtube.com/watch?v=tvAnPAe2-so"
+        },
+        {
+          "video_id": "qdDBFLl5-QY",
+          "title": "Sample Professional Profile",
+          "url": "https://www.youtube.com/watch?v=qdDBFLl5-QY"
+        },
+        {
+          "video_id": "gDoQVxS3UTk",
+          "title": "Article Membership on Platform",
+          "url": "https://www.youtube.com/watch?v=gDoQVxS3UTk"
+        },
+        {
+          "video_id": "Q9Z5avM0_L8",
+          "title": "Viewing a course from the platform",
+          "url": "https://www.youtube.com/watch?v=Q9Z5avM0_L8"
+        },
+        {
+          "video_id": "-48eVaALqXg",
+          "title": "HD Astro Mini Report",
+          "url": "https://www.youtube.com/watch?v=-48eVaALqXg"
+        },
+        {
+          "video_id": "jXrTBOXgldE",
+          "title": "Human Design Astrology Mini Report Membership",
+          "url": "https://www.youtube.com/watch?v=jXrTBOXgldE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaACIrIjeYRtFJMVvvR56H8u.md"
+    }
+  ]
+}

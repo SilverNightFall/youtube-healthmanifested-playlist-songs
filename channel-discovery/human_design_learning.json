@@ -1,0 +1,1163 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Human Design Types, Centers, Channels, and Learning",
+  "purpose": "Human Design collections for types, centers, authority, definition, profiles, channels, circuitry, and matched pairs.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 16,
+  "unique_listed_video_ids": 157,
+  "playlists": [
+    {
+      "playlist_id": "PLdr6-AKFwKRs",
+      "title": "Human Design Matched Pairs | Programming Partners & Opposing Gates",
+      "url": "https://www.youtube.com/playlist?list=PLdr6-AKFwKRs",
+      "displayed_video_count": "32 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "RNeR98qOEmI",
+          "title": "Matched Pair 41/31 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=RNeR98qOEmI"
+        },
+        {
+          "video_id": "2T7P5xPdVeY",
+          "title": "Matched Pair 19/33 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=2T7P5xPdVeY"
+        },
+        {
+          "video_id": "79tlTZTyTwI",
+          "title": "Matched Pair 13/7 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=79tlTZTyTwI"
+        },
+        {
+          "video_id": "gmRc3Wx-W6o",
+          "title": "Matched Pair 49/4 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=gmRc3Wx-W6o"
+        },
+        {
+          "video_id": "kjckCzkm6Z0",
+          "title": "Matched Pair 30/29 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=kjckCzkm6Z0"
+        },
+        {
+          "video_id": "458jShKp91A",
+          "title": "Matched Pair 55/59 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=458jShKp91A"
+        },
+        {
+          "video_id": "tP0zhCYbuPQ",
+          "title": "Matched Pair 37/40 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=tP0zhCYbuPQ"
+        },
+        {
+          "video_id": "OgZLski8DZo",
+          "title": "Matched Pair 63/64 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=OgZLski8DZo"
+        },
+        {
+          "video_id": "nO6jNnCL2dc",
+          "title": "Matched Pair 22/47 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=nO6jNnCL2dc"
+        },
+        {
+          "video_id": "_rHNQjlMo5k",
+          "title": "Matched Pair 366 Cartoon  Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=_rHNQjlMo5k"
+        },
+        {
+          "video_id": "2E9vx-kuGzI",
+          "title": "Matched Pair 25/46 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=2E9vx-kuGzI"
+        },
+        {
+          "video_id": "QaltqyCQGUk",
+          "title": "Matched Pair 17/18 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=QaltqyCQGUk"
+        },
+        {
+          "video_id": "wBnXgAXFGDM",
+          "title": "Matched Pair 21/48 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=wBnXgAXFGDM"
+        },
+        {
+          "video_id": "-Zeo93XRUeg",
+          "title": "Matched Pair 51/57 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=-Zeo93XRUeg"
+        },
+        {
+          "video_id": "g3oZ4BqFH5g",
+          "title": "Matched Pair 32/42 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=g3oZ4BqFH5g"
+        },
+        {
+          "video_id": "6vqxKW5pWxY",
+          "title": "Matched Pair 50/3 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=6vqxKW5pWxY"
+        },
+        {
+          "video_id": "o0amVRxk6P8",
+          "title": "Matched Pair 27/28 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=o0amVRxk6P8"
+        },
+        {
+          "video_id": "oG01xTwOAn4",
+          "title": "Matched Pair 24/44 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=oG01xTwOAn4"
+        },
+        {
+          "video_id": "Jtaa32YuXX0",
+          "title": "Matched Pair 1/2 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=Jtaa32YuXX0"
+        },
+        {
+          "video_id": "GkofXo258QI",
+          "title": "Matched Pair 23/43 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=GkofXo258QI"
+        },
+        {
+          "video_id": "TNeepDlAjiQ",
+          "title": "Matched Pair 8/14 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=TNeepDlAjiQ"
+        },
+        {
+          "video_id": "ATn0CLohHOY",
+          "title": "Matched Pair 20/34 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=ATn0CLohHOY"
+        },
+        {
+          "video_id": "qzjJqvORAts",
+          "title": "Matched Pair 16/9 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=qzjJqvORAts"
+        },
+        {
+          "video_id": "ov4shcSbu5M",
+          "title": "Matched Pair 35/5 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=ov4shcSbu5M"
+        },
+        {
+          "video_id": "oRQSvAQmtE4",
+          "title": "Matched Pair 25/46 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=oRQSvAQmtE4"
+        },
+        {
+          "video_id": "paQIYFlGbq0",
+          "title": "Matched Pair 12/11 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=paQIYFlGbq0"
+        },
+        {
+          "video_id": "X-AwNFMkeJA",
+          "title": "Matched Pair 15/10 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=X-AwNFMkeJA"
+        },
+        {
+          "video_id": "Ipkp-877uhM",
+          "title": "Matched Pair 52/58 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=Ipkp-877uhM"
+        },
+        {
+          "video_id": "J2clan1mFOY",
+          "title": "Matched Pair 39/38 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=J2clan1mFOY"
+        },
+        {
+          "video_id": "ZGTX8oZXD68",
+          "title": "Matched Pair 53/54 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=ZGTX8oZXD68"
+        },
+        {
+          "video_id": "UlXsQNyyo9M",
+          "title": "Matched Pair 61/62 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=UlXsQNyyo9M"
+        },
+        {
+          "video_id": "wWBcTAmpPmA",
+          "title": "Matched Pair 56/60 Cartoon | Human Design Programming Partners",
+          "url": "https://www.youtube.com/watch?v=wWBcTAmpPmA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Explore the Human Design Matched Pairs through this cartoon learning series from Health Manifested.\n\nMatched Pairs are gates that oppose one another in the Human Design mandala. They are also commonly explored as Programming Partners and Opposing Gates. In Gene Keys, these relationships can also be studied through opposing Gene Keys.\n\nEach cartoon in this playlist explores one Matched Pair at a time, helping you understand how the two gates relate, where their energies differ, and how they can work together as part of a larger Human Design interpretation.\n\nThese lessons are designed to make Human Design easier to understand through visual learning, simple explanations, and memorable characters.\n\nThe full Matched Pair cartoon lessons are available inside the Health Manifested YouTube Inner Circle Membership and are also included inside the HD Astro Membership for deeper study.\n\nInside the HD Astro Membership, you can explore Human Design, Astrology, Gene Keys, gates, lines, channels, matched pairs, programming partners, opposing gates, incarnation crosses, planets, transits, chart interpretation, and spiritual self-understanding in one place.\n\nJoin the HD Astro Membership here:\nhttps://healthmanifested.com/hd-astro-course-options/\n\nJoin the YouTube Inner Circle Membership here:\nhttps://www.youtube.com/channel/UCtR35KzSzBakHJNre9oelHw/join\n\n#HumanDesign #HumanDesignGates #ProgrammingPartners #MatchedPairs #HDAstro #HealthManifested",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PLdr6-AKFwKRs.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBB8ARyPqB6AVErfP5GyF8b",
+      "title": "Human Design and Astrology Planets Explained",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBB8ARyPqB6AVErfP5GyF8b",
+      "displayed_video_count": "14 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "IrvJsNxMp_g",
+          "title": "Sun in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=IrvJsNxMp_g"
+        },
+        {
+          "video_id": "WqEq-7rLHQE",
+          "title": "Venus in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=WqEq-7rLHQE"
+        },
+        {
+          "video_id": "PcDO8ldCpUg",
+          "title": "Mercury In Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=PcDO8ldCpUg"
+        },
+        {
+          "video_id": "TV9GvFX048Y",
+          "title": "South Node in Human design And Astrology",
+          "url": "https://www.youtube.com/watch?v=TV9GvFX048Y"
+        },
+        {
+          "video_id": "fF2ST5hZn94",
+          "title": "North Node in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=fF2ST5hZn94"
+        },
+        {
+          "video_id": "cFBdG4aK2Dg",
+          "title": "Earth in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=cFBdG4aK2Dg"
+        },
+        {
+          "video_id": "djd0vmAEGMY",
+          "title": "Mars in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=djd0vmAEGMY"
+        },
+        {
+          "video_id": "_QNfKnGb4rY",
+          "title": "Jupiter in Astrology and Human Design",
+          "url": "https://www.youtube.com/watch?v=_QNfKnGb4rY"
+        },
+        {
+          "video_id": "OKdHqIS2w5k",
+          "title": "Saturn in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=OKdHqIS2w5k"
+        },
+        {
+          "video_id": "XSs5rXh3hfk",
+          "title": "Pluto in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=XSs5rXh3hfk"
+        },
+        {
+          "video_id": "qfXEDlBssGg",
+          "title": "Moon in Human Design and Astrology 1",
+          "url": "https://www.youtube.com/watch?v=qfXEDlBssGg"
+        },
+        {
+          "video_id": "nCBXan-Oi-c",
+          "title": "Uranus in Human Design and Astrology",
+          "url": "https://www.youtube.com/watch?v=nCBXan-Oi-c"
+        },
+        {
+          "video_id": "fQqHWnGZiKc",
+          "title": "Neptune in Astrology and Human Design",
+          "url": "https://www.youtube.com/watch?v=fQqHWnGZiKc"
+        },
+        {
+          "video_id": "xTGuPytipqQ",
+          "title": "Chiron in Human Design and astrology",
+          "url": "https://www.youtube.com/watch?v=xTGuPytipqQ"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist is designed to help people understand how each planet influences their chart through both Astrology and Human Design.\n\nEach video explores the meaning of a planet and how it expresses energy through thoughts, emotions, actions, and life experiences. These explanations are simple, clear, and easy to follow while still offering depth for people who want to learn more.\n\nThe planets act as different forces that shape how energy is experienced. By understanding them, people can begin to recognize patterns in their life and gain more clarity about their direction.\n\nThis playlist is a great place to start for anyone learning how to read their chart or deepen their understanding of planetary influence.\n\nGet your free Human Design chart here:\nhttps://healthmanifested.com/free-human-design-chart/\n\nExplore the HD Astro Membership for full courses and deeper guidance:\nhttps://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBB8ARyPqB6AVErfP5GyF8b.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB4DhxAAbBtsIAmhZfElggS",
+      "title": "Human Design Circuitry Songs – Individual, Collective, and Tribal",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB4DhxAAbBtsIAmhZfElggS",
+      "displayed_video_count": "10 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Kl_6ONkMnqA",
+          "title": "Human Design Individual Circuit Agents of Change",
+          "url": "https://www.youtube.com/watch?v=Kl_6ONkMnqA"
+        },
+        {
+          "video_id": "49js13iunro",
+          "title": "Human Design Integration Circuit – Soul of Humanity",
+          "url": "https://www.youtube.com/watch?v=49js13iunro"
+        },
+        {
+          "video_id": "Z2r7yRuS-aA",
+          "title": "Human Design Knowing Circuit Seeds of Change",
+          "url": "https://www.youtube.com/watch?v=Z2r7yRuS-aA"
+        },
+        {
+          "video_id": "MsUiNUvsS50",
+          "title": "Human Design Centering Circuit – Power of Direction",
+          "url": "https://www.youtube.com/watch?v=MsUiNUvsS50"
+        },
+        {
+          "video_id": "lcY9NkTHDNQ",
+          "title": "Human Design Collective Circuit – We Are One",
+          "url": "https://www.youtube.com/watch?v=lcY9NkTHDNQ"
+        },
+        {
+          "video_id": "CjEzNhuY_7M",
+          "title": "Human Design Logical Circuit – Patterns of the Future",
+          "url": "https://www.youtube.com/watch?v=CjEzNhuY_7M"
+        },
+        {
+          "video_id": "X-CQpGWedgk",
+          "title": "Human Design Sensing Circuit – Story of Humanity",
+          "url": "https://www.youtube.com/watch?v=X-CQpGWedgk"
+        },
+        {
+          "video_id": "8xqA3hpu6ls",
+          "title": "Human Design Tribal Circuit – Heart of the Tribe",
+          "url": "https://www.youtube.com/watch?v=8xqA3hpu6ls"
+        },
+        {
+          "video_id": "X0MyadxS614",
+          "title": "Human Design Ego Circuit – Power and Purpose",
+          "url": "https://www.youtube.com/watch?v=X0MyadxS614"
+        },
+        {
+          "video_id": "V7o0ZerG3No",
+          "title": "Human Design Defense Circuit – Guardian of Life",
+          "url": "https://www.youtube.com/watch?v=V7o0ZerG3No"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist brings together songs inspired by all the Human Design Circuits – Individual, Collective, and Tribal. Each circuit represents a unique way energy flows and expresses itself through people:\n\nFor a deeper understanding of Human Design and Astrology, sign up for the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB4DhxAAbBtsIAmhZfElggS.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaC-GM92ooGvS73LBefBjxeS",
+      "title": "Human Design Tribal Circuitry Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaC-GM92ooGvS73LBefBjxeS",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "V7o0ZerG3No",
+          "title": "Human Design Defense Circuit – Guardian of Life",
+          "url": "https://www.youtube.com/watch?v=V7o0ZerG3No"
+        },
+        {
+          "video_id": "X0MyadxS614",
+          "title": "Human Design Ego Circuit – Power and Purpose",
+          "url": "https://www.youtube.com/watch?v=X0MyadxS614"
+        },
+        {
+          "video_id": "8xqA3hpu6ls",
+          "title": "Human Design Tribal Circuit – Heart of the Tribe",
+          "url": "https://www.youtube.com/watch?v=8xqA3hpu6ls"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features songs inspired by the Human Design Tribal Circuit, which is made up of the Ego Circuit and the Defense Circuit. These energies emphasize love, support, community, and survival. The Tribal Circuit holds the themes of providing, protecting, and ensuring the well-being of the group.\n\nEach song in this playlist captures the energy of a Gate or Channel within the Tribal Circuit, helping you reflect on the importance of connection, trust, and mutual care in relationships and communities.\n\nFor a deeper understanding of Human Design and Astrology, sign up for the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaC-GM92ooGvS73LBefBjxeS.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCpu7JEpekRVAlNfM5ApGto",
+      "title": "Human Design Collective Circuitry Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCpu7JEpekRVAlNfM5ApGto",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "lcY9NkTHDNQ",
+          "title": "Human Design Collective Circuit – We Are One",
+          "url": "https://www.youtube.com/watch?v=lcY9NkTHDNQ"
+        },
+        {
+          "video_id": "CjEzNhuY_7M",
+          "title": "Human Design Logical Circuit – Patterns of the Future",
+          "url": "https://www.youtube.com/watch?v=CjEzNhuY_7M"
+        },
+        {
+          "video_id": "X-CQpGWedgk",
+          "title": "Human Design Sensing Circuit – Story of Humanity",
+          "url": "https://www.youtube.com/watch?v=X-CQpGWedgk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features songs inspired by the Human Design Collective Circuit, which is made up of the Logic and Sensing Circuits. These energies highlight the themes of learning from the past, anticipating the future, and sharing insights with others for the benefit of the collective.\n\nEach song in this playlist captures the essence of a Gate or Channel within the Collective Circuit, helping you reflect on patterns, cycles, and stories that connect us all.\n\nFor a deeper understanding of Human Design and Astrology, sign up for the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCpu7JEpekRVAlNfM5ApGto.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBeZ6V6D0eEPYG5nHPj9BBi",
+      "title": "Human Design Individual Ciruitry Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBeZ6V6D0eEPYG5nHPj9BBi",
+      "displayed_video_count": "4 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Kl_6ONkMnqA",
+          "title": "Human Design Individual Circuit Agents of Change",
+          "url": "https://www.youtube.com/watch?v=Kl_6ONkMnqA"
+        },
+        {
+          "video_id": "49js13iunro",
+          "title": "Human Design Integration Circuit – Soul of Humanity",
+          "url": "https://www.youtube.com/watch?v=49js13iunro"
+        },
+        {
+          "video_id": "Z2r7yRuS-aA",
+          "title": "Human Design Knowing Circuit Seeds of Change",
+          "url": "https://www.youtube.com/watch?v=Z2r7yRuS-aA"
+        },
+        {
+          "video_id": "MsUiNUvsS50",
+          "title": "Human Design Centering Circuit – Power of Direction",
+          "url": "https://www.youtube.com/watch?v=MsUiNUvsS50"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features songs inspired by the Human Design Individual Circuit, which emphasizes empowerment, creativity, and the transformative energy of being uniquely yourself. Each song captures the essence of a Gate or Channel within this circuit, helping you connect more deeply with the energy of individuality.\n\nExplore the music as a way to reflect on your design and align with the themes of personal expression, self-empowerment, and transformation.\n\nFor a deeper understanding of Human Design and Astrology, sign up for the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBeZ6V6D0eEPYG5nHPj9BBi.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCGEZjC5QLSUlCGZAT46tZ-",
+      "title": "Human Design Channel Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCGEZjC5QLSUlCGZAT46tZ-",
+      "displayed_video_count": "36 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "mjg4OtWtmy8",
+          "title": "53-42 Channel of Maturation – From Start to End",
+          "url": "https://www.youtube.com/watch?v=mjg4OtWtmy8"
+        },
+        {
+          "video_id": "NRgvgrHPp0Q",
+          "title": "37-40 Channel of Community – Bound by Promise",
+          "url": "https://www.youtube.com/watch?v=NRgvgrHPp0Q"
+        },
+        {
+          "video_id": "bYv0BzufIIM",
+          "title": "29-46 Channel of Discovery – Roads Less Traveled",
+          "url": "https://www.youtube.com/watch?v=bYv0BzufIIM"
+        },
+        {
+          "video_id": "EG7Ddavl4No",
+          "title": "17-62 Channel of Acceptance – Voices of Detail",
+          "url": "https://www.youtube.com/watch?v=EG7Ddavl4No"
+        },
+        {
+          "video_id": "jdV_EUcrsvg",
+          "title": "28-38 Channel of Struggle – Worth the Fight",
+          "url": "https://www.youtube.com/watch?v=jdV_EUcrsvg"
+        },
+        {
+          "video_id": "l-uEszWjCOA",
+          "title": "39-55 Channel of Emoting – Waves of the Heart",
+          "url": "https://www.youtube.com/watch?v=l-uEszWjCOA"
+        },
+        {
+          "video_id": "_gi03qvPXzs",
+          "title": "41-30 Channel of Fantasy and Desire – Dreamfire",
+          "url": "https://www.youtube.com/watch?v=_gi03qvPXzs"
+        },
+        {
+          "video_id": "Ljv0QKjS2cI",
+          "title": "57-20 Channel of the Brainwave – Sparks of Knowing",
+          "url": "https://www.youtube.com/watch?v=Ljv0QKjS2cI"
+        },
+        {
+          "video_id": "8gaWslG3t_c",
+          "title": "34-20 Power and Charisma – Fire in Motion",
+          "url": "https://www.youtube.com/watch?v=8gaWslG3t_c"
+        },
+        {
+          "video_id": "lPn1HBM-ipY",
+          "title": "64-47 Channel of Abstraction – Aha Horizon",
+          "url": "https://www.youtube.com/watch?v=lPn1HBM-ipY"
+        },
+        {
+          "video_id": "rgP47IdYeDY",
+          "title": "54-32 Channel of Transformation – Alchemy Rising",
+          "url": "https://www.youtube.com/watch?v=rgP47IdYeDY"
+        },
+        {
+          "video_id": "WvBNBal6aAE",
+          "title": "7-31 Channel of the Alpha – Called to Lead",
+          "url": "https://www.youtube.com/watch?v=WvBNBal6aAE"
+        },
+        {
+          "video_id": "EHx9IGNLm4I",
+          "title": "16-48 Channel of Talent – Gift in Motion",
+          "url": "https://www.youtube.com/watch?v=EHx9IGNLm4I"
+        },
+        {
+          "video_id": "IWDnh7Q4S3I",
+          "title": "13-33 Channel of the Prodigal – Keeper of Stories",
+          "url": "https://www.youtube.com/watch?v=IWDnh7Q4S3I"
+        },
+        {
+          "video_id": "FIWtfff3zCk",
+          "title": "18-58 Channel of Judgment – Patterns of Truth",
+          "url": "https://www.youtube.com/watch?v=FIWtfff3zCk"
+        },
+        {
+          "video_id": "nnikFrHelGc",
+          "title": "9-52 Channel of Focus – Steady Flame",
+          "url": "https://www.youtube.com/watch?v=nnikFrHelGc"
+        },
+        {
+          "video_id": "JLBXAE6SR_Y",
+          "title": "59-6 Channel of Reproduction and Mating – Bonds of Fire",
+          "url": "https://www.youtube.com/watch?v=JLBXAE6SR_Y"
+        },
+        {
+          "video_id": "J7wy-SU0jH8",
+          "title": "61-24 Channel of Awareness – Mystery’s Edge",
+          "url": "https://www.youtube.com/watch?v=J7wy-SU0jH8"
+        },
+        {
+          "video_id": "YcZMWDNVxzM",
+          "title": "11-56 Channel of Curiosity – Stories in Motion",
+          "url": "https://www.youtube.com/watch?v=YcZMWDNVxzM"
+        },
+        {
+          "video_id": "lZDwS9XmL0w",
+          "title": "63-4 Channel of Logic – Certain Uncertainty",
+          "url": "https://www.youtube.com/watch?v=lZDwS9XmL0w"
+        },
+        {
+          "video_id": "x2Wql2e2PMY",
+          "title": "44-26 Channel of Transmission – Voice of Truth",
+          "url": "https://www.youtube.com/watch?v=x2Wql2e2PMY"
+        },
+        {
+          "video_id": "g3TWPKk6VtY",
+          "title": "12-22 Channel of Openness – In the Right Time",
+          "url": "https://www.youtube.com/watch?v=g3TWPKk6VtY"
+        },
+        {
+          "video_id": "SfpXd-iVhGg",
+          "title": "3-60 Channel of Mutation – Sparks of Change",
+          "url": "https://www.youtube.com/watch?v=SfpXd-iVhGg"
+        },
+        {
+          "video_id": "WwOtk3jsxJ8",
+          "title": "14-2 Channel of the Beat – Rhythm of Fortune",
+          "url": "https://www.youtube.com/watch?v=WwOtk3jsxJ8"
+        },
+        {
+          "video_id": "QlUWoVJ0ng4",
+          "title": "1-8 Channel of Inspiration – Heart of Change",
+          "url": "https://www.youtube.com/watch?v=QlUWoVJ0ng4"
+        },
+        {
+          "video_id": "QfdPdbVzW24",
+          "title": "19-49 Channel of Love and Marriage – Bound by Heart",
+          "url": "https://www.youtube.com/watch?v=QfdPdbVzW24"
+        },
+        {
+          "video_id": "Q7Nb1XoFtF4",
+          "title": "43-23 Channel of Structuring – Voice of Vision",
+          "url": "https://www.youtube.com/watch?v=Q7Nb1XoFtF4"
+        },
+        {
+          "video_id": "d0-56pSlNLI",
+          "title": "45-21 Channel of Money – Crown of Gold",
+          "url": "https://www.youtube.com/watch?v=d0-56pSlNLI"
+        },
+        {
+          "video_id": "gvyNYK13ibQ",
+          "title": "10-20 Channel of Awakening – Voice of the Heart",
+          "url": "https://www.youtube.com/watch?v=gvyNYK13ibQ"
+        },
+        {
+          "video_id": "fckTIdh1jN4",
+          "title": "57-10 Channel of Perfected Form – Shape of the Soul",
+          "url": "https://www.youtube.com/watch?v=fckTIdh1jN4"
+        },
+        {
+          "video_id": "Sw2i3sxrHbg",
+          "title": "34-10 Channel of Exploration – Path of Power",
+          "url": "https://www.youtube.com/watch?v=Sw2i3sxrHbg"
+        },
+        {
+          "video_id": "3wSMVR8nx6k",
+          "title": "34-57 Channel of Power – Echoes of Strength",
+          "url": "https://www.youtube.com/watch?v=3wSMVR8nx6k"
+        },
+        {
+          "video_id": "J1s2HfrASDo",
+          "title": "35-36 Channel of Transitoriness – Endless Horizons",
+          "url": "https://www.youtube.com/watch?v=J1s2HfrASDo"
+        },
+        {
+          "video_id": "oZm9CGa6dG4",
+          "title": "50-27 Channel of Preservation – Hands That Hold",
+          "url": "https://www.youtube.com/watch?v=oZm9CGa6dG4"
+        },
+        {
+          "video_id": "tQ4QRyhYHQc",
+          "title": "25-51 Channel of Initiation – Fire of Awakening",
+          "url": "https://www.youtube.com/watch?v=tQ4QRyhYHQc"
+        },
+        {
+          "video_id": "uIqi7vhWSuA",
+          "title": "15-5 Channel of Rhythm – Flow of Time",
+          "url": "https://www.youtube.com/watch?v=uIqi7vhWSuA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Discover the rhythms of the Human Design Channels through music. Each song is created to capture the unique energy of a channel, helping you feel its flow and expression in your own life. These songs reflect the way channels connect and bring direction, purpose, and movement to energy.\n\nListening can help you experience the patterns, harmony, and themes of the Human Design Channels in a new way, whether you are exploring your own chart or learning more about Human Design.\n\nThese songs are also part of the HD Astro membership, which includes an easy-to-understand reference to Human Design, Astrology, and more. Explore the full membership here: https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCGEZjC5QLSUlCGZAT46tZ-.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCSe6FcZp_JflP3ntau2oYZ",
+      "title": "Human Design Authority Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCSe6FcZp_JflP3ntau2oYZ",
+      "displayed_video_count": "7 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "1Mvhyq6kOkw",
+          "title": "Emotional Authority – The Waiting Tide",
+          "url": "https://www.youtube.com/watch?v=1Mvhyq6kOkw"
+        },
+        {
+          "video_id": "GyPeWDJvBlA",
+          "title": "Sacral Authority – The Answer Within",
+          "url": "https://www.youtube.com/watch?v=GyPeWDJvBlA"
+        },
+        {
+          "video_id": "XJjKSOGzfds",
+          "title": "Splenic Authority – Whisper of Now",
+          "url": "https://www.youtube.com/watch?v=XJjKSOGzfds"
+        },
+        {
+          "video_id": "kmjLYmSlHGs",
+          "title": "Ego Authority – Voice of Power",
+          "url": "https://www.youtube.com/watch?v=kmjLYmSlHGs"
+        },
+        {
+          "video_id": "SratnxR7IiM",
+          "title": "Self Projected Authority – Voice of the Soul",
+          "url": "https://www.youtube.com/watch?v=SratnxR7IiM"
+        },
+        {
+          "video_id": "ww-gHRvuOUw",
+          "title": "No Authority – Cycle of the Moon",
+          "url": "https://www.youtube.com/watch?v=ww-gHRvuOUw"
+        },
+        {
+          "video_id": "pdmTlFazRSo",
+          "title": "Mental Authority – Reflections Around Me",
+          "url": "https://www.youtube.com/watch?v=pdmTlFazRSo"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "These songs bring the energy of each Authority in Human Design into music, helping people connect more deeply with how they are designed to make decisions. Each Authority has its own voice, rhythm, and wisdom, and the songs highlight the unique way clarity comes through.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCSe6FcZp_JflP3ntau2oYZ.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaChy_kCnKjRirWhYjewaTew",
+      "title": "Human Design Definition Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaChy_kCnKjRirWhYjewaTew",
+      "displayed_video_count": "6 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "dZwexaL0taA",
+          "title": "Large Split Definition – Bridge to Belonging",
+          "url": "https://www.youtube.com/watch?v=dZwexaL0taA"
+        },
+        {
+          "video_id": "FKAZYz-zjWM",
+          "title": "No Definition – Lunar Reflections",
+          "url": "https://www.youtube.com/watch?v=FKAZYz-zjWM"
+        },
+        {
+          "video_id": "k67LKCHvxb0",
+          "title": "Quadruple Split Definition – Many Voices One Song",
+          "url": "https://www.youtube.com/watch?v=k67LKCHvxb0"
+        },
+        {
+          "video_id": "sClQUvnXRU0",
+          "title": "Single Definition – Whole and Free",
+          "url": "https://www.youtube.com/watch?v=sClQUvnXRU0"
+        },
+        {
+          "video_id": "6nUsw3kX1Nc",
+          "title": "Triple Split Definition – Pieces of Me",
+          "url": "https://www.youtube.com/watch?v=6nUsw3kX1Nc"
+        },
+        {
+          "video_id": "UHMBFPUZ38I",
+          "title": "Single Split Definition – Two Parts One Soul",
+          "url": "https://www.youtube.com/watch?v=UHMBFPUZ38I"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "These songs explore the different Definition types in Human Design and the unique ways energy moves through a chart. Each Definition has its own rhythm and story, and the songs are written to capture both the challenges and strengths that come with it.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaChy_kCnKjRirWhYjewaTew.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB7ksZ_dYGHbjkxx78TnQSh",
+      "title": "Undefined Centers Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB7ksZ_dYGHbjkxx78TnQSh",
+      "displayed_video_count": "9 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Xf3ZVjjuZrU",
+          "title": "Undefined Head Center – Questions of the Sky",
+          "url": "https://www.youtube.com/watch?v=Xf3ZVjjuZrU"
+        },
+        {
+          "video_id": "QXFBJhf4V9A",
+          "title": "Undefined Ajna Center – Open Mind Horizons",
+          "url": "https://www.youtube.com/watch?v=QXFBJhf4V9A"
+        },
+        {
+          "video_id": "9jWTlLkJjzQ",
+          "title": "Undefined Throat Center – Echoes Unspoken",
+          "url": "https://www.youtube.com/watch?v=9jWTlLkJjzQ"
+        },
+        {
+          "video_id": "AedwKlccvyw",
+          "title": "Undefined Identity Center – Mirrors of the Soul",
+          "url": "https://www.youtube.com/watch?v=AedwKlccvyw"
+        },
+        {
+          "video_id": "-0mL-XAByAQ",
+          "title": "Undefined Spleen Center – Shadows and Light",
+          "url": "https://www.youtube.com/watch?v=-0mL-XAByAQ"
+        },
+        {
+          "video_id": "sM6Ndy2Uveo",
+          "title": "Undefined Sacral Center Flames That Fade",
+          "url": "https://www.youtube.com/watch?v=sM6Ndy2Uveo"
+        },
+        {
+          "video_id": "2Ietaor1jW0",
+          "title": "Undefined Will Center – Gentle Strength",
+          "url": "https://www.youtube.com/watch?v=2Ietaor1jW0"
+        },
+        {
+          "video_id": "BHoGEMveGFw",
+          "title": "Undefined Emotional Solar Plexus – Echoes of Emotion",
+          "url": "https://www.youtube.com/watch?v=BHoGEMveGFw"
+        },
+        {
+          "video_id": "Kw89EgNNLpc",
+          "title": "Undefined Root Center – Racing Time",
+          "url": "https://www.youtube.com/watch?v=Kw89EgNNLpc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features songs inspired by the Undefined Centers in Human Design. Each track captures the openness and adaptability of the Undefined Centers, reflecting their shifting energy and unique sensitivity to the world around them. These songs offer a musical way to explore the lessons and wisdom that come from undefined energy.\n\n✨ Explore the songs for each Undefined Center\n✨ Connect with the openness and adaptability of Undefined energy\n✨ Let the music support meditation, reflection, or personal insight\n\nAll of these songs are part of the HD Astro Membership, which includes:\n• Music for astrology aspects and transits\n• Courses on planets, signs, and aspects\n• 13,000+ Human Design Gate aspects\n• Affirmations for Astrology Transits, Astrological Degrees, and Human Design Lines\n• 360 Astrological Degrees Course with songs and affirmations\n• Journaling prompts in the Astrological Aspects course\n• Human Design Lines course and reference\n• HD Astro course integrating Human Design and Astrology\n• Asteroids and more\n\nSign up for the HD Astro membership:\nhttps://healthmanifested.com/hd-astro-course-options\n\nLike, comment, and subscribe for more astrology-inspired songs.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB7ksZ_dYGHbjkxx78TnQSh.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCDssodT8V5sj5nTfM47j-7",
+      "title": "Defined Center Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCDssodT8V5sj5nTfM47j-7",
+      "displayed_video_count": "9 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "VRFNIkqCPxU",
+          "title": "Defined Head   Whispers of Inspiration",
+          "url": "https://www.youtube.com/watch?v=VRFNIkqCPxU"
+        },
+        {
+          "video_id": "EsgDVlxxJFw",
+          "title": "Defined Ajna Center:  Echoes of Knowing",
+          "url": "https://www.youtube.com/watch?v=EsgDVlxxJFw"
+        },
+        {
+          "video_id": "V9RaYmnIzKA",
+          "title": "Defined Throat Center – Voice of the Soul",
+          "url": "https://www.youtube.com/watch?v=V9RaYmnIzKA"
+        },
+        {
+          "video_id": "JQEuOe8yVcQ",
+          "title": "Defined Identity Center – Path of the Heart",
+          "url": "https://www.youtube.com/watch?v=JQEuOe8yVcQ"
+        },
+        {
+          "video_id": "D1TPgxsX3-0",
+          "title": "Defined Spleen Center – Living in the Now",
+          "url": "https://www.youtube.com/watch?v=D1TPgxsX3-0"
+        },
+        {
+          "video_id": "TWL942EW1ZM",
+          "title": "Defined Sacral Center – Fire of Life",
+          "url": "https://www.youtube.com/watch?v=TWL942EW1ZM"
+        },
+        {
+          "video_id": "TVW7tnTcDkw",
+          "title": "Defined Will Center – Strength Within",
+          "url": "https://www.youtube.com/watch?v=TVW7tnTcDkw"
+        },
+        {
+          "video_id": "skiNm6TtY1w",
+          "title": "Defined Emotional Solar Plexus – Waves of the Heart",
+          "url": "https://www.youtube.com/watch?v=skiNm6TtY1w"
+        },
+        {
+          "video_id": "TRD9o4MNeBw",
+          "title": "Defined Root Center – Pulse of Strength",
+          "url": "https://www.youtube.com/watch?v=TRD9o4MNeBw"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features songs inspired by the Defined Centers in Human Design. Each track captures the strength and consistency of the Defined Centers, reflecting their steady energy and unique role in expression, direction, and presence. Use these songs for reflection, meditation, or simply to immerse yourself in the musical essence of the Defined Centers.\n\nAll of these songs are part of the HD Astro Membership, which includes:\n• Music for astrology aspects and transits\n• Courses on planets, signs, and aspects\n• 13,000+ Human Design Gate aspects\n• Affirmations for Astrology Transits, Astrological Degrees, and Human Design Lines\n• 360 Astrological Degrees Course with songs and affirmations\n• Journaling prompts in the Astrological Aspects course\n• Human Design Lines course and reference\n• HD Astro course integrating Human Design and Astrology\n• Asteroids and more\n\nSign up for the HD Astro membership:\nhttps://healthmanifested.com/hd-astro-course-options\n\nLike, comment, and subscribe for more astrology-inspired songs.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCDssodT8V5sj5nTfM47j-7.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA9SgLX50NG7b0K1Bf2DJ6C",
+      "title": "Human Design Center Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA9SgLX50NG7b0K1Bf2DJ6C",
+      "displayed_video_count": "18 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "VRFNIkqCPxU",
+          "title": "Defined Head   Whispers of Inspiration",
+          "url": "https://www.youtube.com/watch?v=VRFNIkqCPxU"
+        },
+        {
+          "video_id": "EsgDVlxxJFw",
+          "title": "Defined Ajna Center:  Echoes of Knowing",
+          "url": "https://www.youtube.com/watch?v=EsgDVlxxJFw"
+        },
+        {
+          "video_id": "V9RaYmnIzKA",
+          "title": "Defined Throat Center – Voice of the Soul",
+          "url": "https://www.youtube.com/watch?v=V9RaYmnIzKA"
+        },
+        {
+          "video_id": "JQEuOe8yVcQ",
+          "title": "Defined Identity Center – Path of the Heart",
+          "url": "https://www.youtube.com/watch?v=JQEuOe8yVcQ"
+        },
+        {
+          "video_id": "D1TPgxsX3-0",
+          "title": "Defined Spleen Center – Living in the Now",
+          "url": "https://www.youtube.com/watch?v=D1TPgxsX3-0"
+        },
+        {
+          "video_id": "TWL942EW1ZM",
+          "title": "Defined Sacral Center – Fire of Life",
+          "url": "https://www.youtube.com/watch?v=TWL942EW1ZM"
+        },
+        {
+          "video_id": "TVW7tnTcDkw",
+          "title": "Defined Will Center – Strength Within",
+          "url": "https://www.youtube.com/watch?v=TVW7tnTcDkw"
+        },
+        {
+          "video_id": "skiNm6TtY1w",
+          "title": "Defined Emotional Solar Plexus – Waves of the Heart",
+          "url": "https://www.youtube.com/watch?v=skiNm6TtY1w"
+        },
+        {
+          "video_id": "TRD9o4MNeBw",
+          "title": "Defined Root Center – Pulse of Strength",
+          "url": "https://www.youtube.com/watch?v=TRD9o4MNeBw"
+        },
+        {
+          "video_id": "Xf3ZVjjuZrU",
+          "title": "Undefined Head Center – Questions of the Sky",
+          "url": "https://www.youtube.com/watch?v=Xf3ZVjjuZrU"
+        },
+        {
+          "video_id": "QXFBJhf4V9A",
+          "title": "Undefined Ajna Center – Open Mind Horizons",
+          "url": "https://www.youtube.com/watch?v=QXFBJhf4V9A"
+        },
+        {
+          "video_id": "9jWTlLkJjzQ",
+          "title": "Undefined Throat Center – Echoes Unspoken",
+          "url": "https://www.youtube.com/watch?v=9jWTlLkJjzQ"
+        },
+        {
+          "video_id": "AedwKlccvyw",
+          "title": "Undefined Identity Center – Mirrors of the Soul",
+          "url": "https://www.youtube.com/watch?v=AedwKlccvyw"
+        },
+        {
+          "video_id": "2Ietaor1jW0",
+          "title": "Undefined Will Center – Gentle Strength",
+          "url": "https://www.youtube.com/watch?v=2Ietaor1jW0"
+        },
+        {
+          "video_id": "-0mL-XAByAQ",
+          "title": "Undefined Spleen Center – Shadows and Light",
+          "url": "https://www.youtube.com/watch?v=-0mL-XAByAQ"
+        },
+        {
+          "video_id": "BHoGEMveGFw",
+          "title": "Undefined Emotional Solar Plexus – Echoes of Emotion",
+          "url": "https://www.youtube.com/watch?v=BHoGEMveGFw"
+        },
+        {
+          "video_id": "sM6Ndy2Uveo",
+          "title": "Undefined Sacral Center Flames That Fade",
+          "url": "https://www.youtube.com/watch?v=sM6Ndy2Uveo"
+        },
+        {
+          "video_id": "Kw89EgNNLpc",
+          "title": "Undefined Root Center – Racing Time",
+          "url": "https://www.youtube.com/watch?v=Kw89EgNNLpc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist brings together songs inspired by the nine Centers in Human Design, both Defined and Undefined. Each track is created to capture the energy of the Centers through music, offering a unique way to connect with Human Design and Astrology.\n\n✨ Explore the songs for each Defined and Undefined Center\n✨ Listen to how music reflects energy, rhythm, and flow\n\nAll of these songs are part of a growing collection available through the HD Astro Membership, which includes:\n• Music for astrology aspects and transits\n• Courses on planets, signs, and aspects\n• 13,000+ Human Design Gate aspects\n• Affirmations for Astrology Transits, Astrological Degrees, and Human Design Lines\n• 360 Astrological Degrees Course with songs and affirmations\n• Journaling prompts in the Astrological Aspects course\n• Human Design Lines course and reference\n• HD Astro course integrating Human Design and Astrology\n• Asteroids and more\n\nSign up for the HD Astro membership:\nhttps://healthmanifested.com/hd-astro-course-options\n\nLike, comment, and subscribe for more astrology-inspired songs.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA9SgLX50NG7b0K1Bf2DJ6C.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCsmSzcgW9wObI3tevjDoYa",
+      "title": "Human Design Type Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCsmSzcgW9wObI3tevjDoYa",
+      "displayed_video_count": "5 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "kBpc7XB03Qw",
+          "title": "Manifestor: Peace and Fire",
+          "url": "https://www.youtube.com/watch?v=kBpc7XB03Qw"
+        },
+        {
+          "video_id": "teVQn6lMC8k",
+          "title": "Generator: Fire of Satisfaction",
+          "url": "https://www.youtube.com/watch?v=teVQn6lMC8k"
+        },
+        {
+          "video_id": "lvYn_krUabY",
+          "title": "Manifesting Generator: Speed of Creation",
+          "url": "https://www.youtube.com/watch?v=lvYn_krUabY"
+        },
+        {
+          "video_id": "czhQydWj8Ls",
+          "title": "Projector: Waiting for the Call",
+          "url": "https://www.youtube.com/watch?v=czhQydWj8Ls"
+        },
+        {
+          "video_id": "zb9iZKFLnMg",
+          "title": "Reflector: Mirror of the World",
+          "url": "https://www.youtube.com/watch?v=zb9iZKFLnMg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist is dedicated to the five Human Design Types: Manifestor, Generator, Manifesting Generator, Projector, and Reflector. Each song captures the essence of a Type, highlighting its unique role, energy, and way of moving through life.\n\nThese songs are designed to bring the wisdom of the Types to life through music, helping you connect more deeply with your design and the designs of those around you. Whether you’re learning about your strategy and authority or simply want to feel the energy of each Type, this playlist offers inspiration and insight through sound and rhythm.\n\n✨ Explore more Human Design and Astrology music, meditations, and teachings at https://healthmanifested.com",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCsmSzcgW9wObI3tevjDoYa.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAL0WmDRLgZhH0g9T41JDM9",
+      "title": "Human Design Profile Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAL0WmDRLgZhH0g9T41JDM9",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "GFMoJcPYUeU",
+          "title": "1/3 – The Investigating Martyr – Study then Explore",
+          "url": "https://www.youtube.com/watch?v=GFMoJcPYUeU"
+        },
+        {
+          "video_id": "rEGM-fhaCjU",
+          "title": "2/4 – The Hermit Opportunist – Called From the Quiet",
+          "url": "https://www.youtube.com/watch?v=rEGM-fhaCjU"
+        },
+        {
+          "video_id": "Ne0X4fNbOMg",
+          "title": "1/4 – The Investigating Opportunist Called to Share",
+          "url": "https://www.youtube.com/watch?v=Ne0X4fNbOMg"
+        },
+        {
+          "video_id": "AY-nvugoz9Q",
+          "title": "2/5 – The Hermit Heretic: Hidden Wisdom",
+          "url": "https://www.youtube.com/watch?v=AY-nvugoz9Q"
+        },
+        {
+          "video_id": "HY2HZilach0",
+          "title": "3/5 – The Martyr Heretic: Through Trials I Rise",
+          "url": "https://www.youtube.com/watch?v=HY2HZilach0"
+        },
+        {
+          "video_id": "A3qhWTGSHZQ",
+          "title": "3/6 – The Martyr Role Model: Lessons in the Climb",
+          "url": "https://www.youtube.com/watch?v=A3qhWTGSHZQ"
+        },
+        {
+          "video_id": "NAjqsaMniBc",
+          "title": "4/6 – The Opportunistic Role Model: Lessons of the Heart",
+          "url": "https://www.youtube.com/watch?v=NAjqsaMniBc"
+        },
+        {
+          "video_id": "HzY1zd1Zyko",
+          "title": "4/1 – Juxtaposition Opportunistic Investigator: Anchor in the Storm",
+          "url": "https://www.youtube.com/watch?v=HzY1zd1Zyko"
+        },
+        {
+          "video_id": "gKHWmCCkwmE",
+          "title": "5/1 – Heretic Investigator: Voice of Change",
+          "url": "https://www.youtube.com/watch?v=gKHWmCCkwmE"
+        },
+        {
+          "video_id": "wLS9eRtkx7E",
+          "title": "5/2 – Heretic Hermit: Hiding in the Light",
+          "url": "https://www.youtube.com/watch?v=wLS9eRtkx7E"
+        },
+        {
+          "video_id": "AsWQAARZ2P4",
+          "title": "6/2 – Role Model Hermit – Called to Rise",
+          "url": "https://www.youtube.com/watch?v=AsWQAARZ2P4"
+        },
+        {
+          "video_id": "imSFeAof_DM",
+          "title": "6/3 – Model Martyr: Rise Again",
+          "url": "https://www.youtube.com/watch?v=imSFeAof_DM"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist brings together songs inspired by the 12 Human Design Profiles. Each profile carries its own story, rhythm, and lesson about how we interact with life and others. From the introspective Hermit to the guiding Role Model, each song reflects the energy, challenges, and wisdom of its profile.\n\nWhether you’re exploring your own design or learning about others, these songs are here to help you connect with the essence of each profile in a way that feels both personal and universal. Listen to discover how the profiles weave together the themes of purpose, relationships, and the journey of self-discovery.\n\n✨ Explore more Human Design and Astrology music, meditations, and teachings at https://healthmanifested.com",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAL0WmDRLgZhH0g9T41JDM9.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAGwkEWJG8UgyzzQPQ70QGY",
+      "title": "Astrology & Human Design Planet Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAGwkEWJG8UgyzzQPQ70QGY",
+      "displayed_video_count": "13 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "atEKesTT0SE",
+          "title": "Moon Song: Voice of the Heart",
+          "url": "https://www.youtube.com/watch?v=atEKesTT0SE"
+        },
+        {
+          "video_id": "VI62pdJAXMs",
+          "title": "Sun Song: Light of the World",
+          "url": "https://www.youtube.com/watch?v=VI62pdJAXMs"
+        },
+        {
+          "video_id": "K98kghm_Ij0",
+          "title": "Earth Song: Ground of the Soul",
+          "url": "https://www.youtube.com/watch?v=K98kghm_Ij0"
+        },
+        {
+          "video_id": "jGhxnktFRJA",
+          "title": "South Node Song",
+          "url": "https://www.youtube.com/watch?v=jGhxnktFRJA"
+        },
+        {
+          "video_id": "XQG7iqV4PCs",
+          "title": "North Node Song: Path of Becoming",
+          "url": "https://www.youtube.com/watch?v=XQG7iqV4PCs"
+        },
+        {
+          "video_id": "RHMkYqFf9YQ",
+          "title": "Mercury Song: Voice of the Mind",
+          "url": "https://www.youtube.com/watch?v=RHMkYqFf9YQ"
+        },
+        {
+          "video_id": "-EkvILcSBus",
+          "title": "Venus Song: Heart of Desire",
+          "url": "https://www.youtube.com/watch?v=-EkvILcSBus"
+        },
+        {
+          "video_id": "iO6Yk7odpfg",
+          "title": "Jupiter Song: Song of Blessings",
+          "url": "https://www.youtube.com/watch?v=iO6Yk7odpfg"
+        },
+        {
+          "video_id": "7RM5kq0EzHE",
+          "title": "Mars  Song: Fire of Growth",
+          "url": "https://www.youtube.com/watch?v=7RM5kq0EzHE"
+        },
+        {
+          "video_id": "hPD4iFW-pl4",
+          "title": "Saturn Song: Teacher of Time",
+          "url": "https://www.youtube.com/watch?v=hPD4iFW-pl4"
+        },
+        {
+          "video_id": "VY8gBVAoZ0M",
+          "title": "Uranus Song:  Spark of Change",
+          "url": "https://www.youtube.com/watch?v=VY8gBVAoZ0M"
+        },
+        {
+          "video_id": "Tnzct4WKyuY",
+          "title": "Neptune Song: Veil of Dreams",
+          "url": "https://www.youtube.com/watch?v=Tnzct4WKyuY"
+        },
+        {
+          "video_id": "TRYZTF2cI2E",
+          "title": "Pluto Song: Flame of Rebirth",
+          "url": "https://www.youtube.com/watch?v=TRYZTF2cI2E"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist is a musical journey through the planets in Astrology and Human Design. Each song is written to embody the unique energy of a planet, capturing its lessons, blessings, challenges, and spiritual significance. Together, they form a cosmic soundtrack that guides you from self-expression to healing.\n\nSun – Light of the World: The essence of self and purpose.\n\nEarth – Ground of the Soul: The grounding force and balance.\n\nMoon – Voice of the Heart: Emotional needs and inner drive.\n\nMercury – Voice of the Mind: Communication, learning, and teaching.\n\nVenus – Heart of Desire: Values, love, and relationships.\n\nMars – Fire of Growth: Action, passion, and maturity.\n\nJupiter – Song of Blessings: Expansion, abundance, and meaning.\n\nSaturn – Teacher of Time: Discipline, mastery, and wisdom.\n\nUranus – Spark of Change: Freedom, uniqueness, and revolution.\n\nNeptune – Veil of Dreams: Spirituality, intuition, and mystery.\n\nPluto – Flame of Rebirth: Transformation, endings, and rebirth.\n\nChiron – Wounded Healer: Growth through wounds and guiding others to heal.\n\nThese songs connect Astrology and Human Design into sound, reminding us of the universal forces shaping our lives. Listen to discover the cosmic rhythm in your own chart and find inspiration in the planetary energies that guide us all.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAGwkEWJG8UgyzzQPQ70QGY.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCcvrLEXQreCU3c8Gsz8UVr",
+      "title": "Human Design",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCcvrLEXQreCU3c8Gsz8UVr",
+      "displayed_video_count": "4 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "rdyiaxr_zFg",
+          "title": "Human Design Calendar Update",
+          "url": "https://www.youtube.com/watch?v=rdyiaxr_zFg"
+        },
+        {
+          "video_id": "o6PKwetef5U",
+          "title": "Human Design Intro Slideshow",
+          "url": "https://www.youtube.com/watch?v=o6PKwetef5U"
+        },
+        {
+          "video_id": "qH9_Y0CI3Jg",
+          "title": "How to Read the Human Design Astrology chart AKA HD Astro Chart",
+          "url": "https://www.youtube.com/watch?v=qH9_Y0CI3Jg"
+        },
+        {
+          "video_id": "f4QzhUuNeZ8",
+          "title": "Human Design Gate 61 - Health Manifested",
+          "url": "https://www.youtube.com/watch?v=f4QzhUuNeZ8"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "error": "RuntimeError: No playlist data returned",
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCcvrLEXQreCU3c8Gsz8UVr.md"
+    }
+  ]
+}

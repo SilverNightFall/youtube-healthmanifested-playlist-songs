@@ -1,0 +1,60 @@
+# Law of Attraction Songs Part 1
+
+Health Manifested songs, videos, meditations, and cartoon learning resources.
+
+[Open this playlist on YouTube](https://www.youtube.com/playlist?list=PL0rem6quVJaCd47ywlLoOIGjKyqbB-Xgn)
+
+Source: the public YouTube playlist page, retrieved October 10, 2026. Listed entries may require membership. This guide reproduces titles and links, rather than reviewing or transcribing the videos.
+
+## Listed videos
+
+1. [The Power of Focus   Law of attraction](https://www.youtube.com/watch?v=8ywBtuMajew)
+2. [Manifesting Reality – Law of Attraction](https://www.youtube.com/watch?v=uEnRYlZY9s8)
+3. [The Power of Thought – Law of Attraction](https://www.youtube.com/watch?v=Q5kvKSpA14E)
+4. [Becoming Before Doing – Law of Attraction](https://www.youtube.com/watch?v=2bXsXgOaOzQ)
+5. [Unlocking Inner Power – Law of Attraction](https://www.youtube.com/watch?v=kfKBIL3Oo7E)
+6. [The Inner World – Law of Attraction](https://www.youtube.com/watch?v=8pVCkziqgUg)
+7. [Mastering the Inner World – Law of Attraction](https://www.youtube.com/watch?v=I2Gs_yNWcLg)
+8. [The Inner Realm – Law of Attraction](https://www.youtube.com/watch?v=YRLRGlHoY5s)
+9. [The Reflective Universe – Law of Attraction](https://www.youtube.com/watch?v=3SFIa7x1dE0)
+10. [Inner Harmony – Law of Attraction](https://www.youtube.com/watch?v=84UsdcdBKl0)
+11. [The Ripple Effect of Inner Abundance – Law of Attraction](https://www.youtube.com/watch?v=a749qrP9TLA)
+12. [Reflecting Within – Law of Attraction](https://www.youtube.com/watch?v=-SLG4QwQeuE)
+13. [Unlocking Inner Wisdom – Law of Attraction](https://www.youtube.com/watch?v=bvxekoBEEsw)
+14. [Claiming Inner Wisdom – Law of Attraction](https://www.youtube.com/watch?v=yUFfalz92E0)
+15. [Harnessing Inner Power – Law of Attraction](https://www.youtube.com/watch?v=BD9__KhKOPw)
+16. [Life Unfolds from Within – Law of Attraction](https://www.youtube.com/watch?v=3UmcA5qTtcY)
+17. [Focused Consciousness – Law of Attraction](https://www.youtube.com/watch?v=OtnT7sEhEkk)
+18. [Aligning with Harmony – Law of Attraction](https://www.youtube.com/watch?v=hud-mTwqf3Y)
+19. [The Objective Mind – Law of Attraction](https://www.youtube.com/watch?v=gWJqs5Yol2Y)
+20. [Harmonious Thinking – Law of Attraction](https://www.youtube.com/watch?v=9gqku_vL_cQ)
+21. [Strength Through Thought – Law of Attraction](https://www.youtube.com/watch?v=ORuFYaLHOT4)
+22. [The Subconscious Connection – Law of Attraction](https://www.youtube.com/watch?v=MSex6WnFGj0)
+23. [Harmonizing the Mind – Law of Attraction](https://www.youtube.com/watch?v=nPayx29D1Hc)
+24. [The Universal Connection – Law of Attraction](https://www.youtube.com/watch?v=dVwm6J8qmGc)
+25. [Manifesting Through Universal Consciousness – Law of Attraction](https://www.youtube.com/watch?v=U3n-qV4MSmo)
+26. [One Mind, Infinite Potential – Law of Attraction](https://www.youtube.com/watch?v=a7V908wjupA)
+27. [The Universal Flow – Law of Attraction](https://www.youtube.com/watch?v=-lAnpQP91bE)
+28. [The Power of Oneness – Law of Attraction](https://www.youtube.com/watch?v=GRZeLXbdYww)
+29. [Thought in Action – Law of Attraction](https://www.youtube.com/watch?v=Vo3fxTvj3w4)
+30. [The Power Within – Law of Attraction](https://www.youtube.com/watch?v=BYtFdExTRsE)
+31. [Thoughts Into Reality – Law of Attraction](https://www.youtube.com/watch?v=tRr4IocCuUE)
+32. [Harnessing Inner Power – Law of Attraction](https://www.youtube.com/watch?v=bzLGDJqY63A)
+33. [Aligning with Universal Laws – Law of Attraction](https://www.youtube.com/watch?v=iVQ4g6TcMcg)
+34. [The Essence of Life – Law of Attraction](https://www.youtube.com/watch?v=kOmPHhZeQZw)
+35. [Creating From Within – Law of Attraction](https://www.youtube.com/watch?v=E-_Q6oWKpZw)
+36. [The Inner Key – Law of Attraction](https://www.youtube.com/watch?v=5U-qXZLm7ZM)
+37. [Rooted Change – Law of Attraction](https://www.youtube.com/watch?v=fPfLwWQk5K0)
+38. [Growth From Within   Law of Attraction](https://www.youtube.com/watch?v=0Z1bn0WgLgs)
+39. [The Fountain of Abundance – Law of Attraction](https://www.youtube.com/watch?v=kOJV6ruan5I)
+40. [Aligning with Universal Intelligence – Law of Attraction](https://www.youtube.com/watch?v=XAc2Q2grp8E)
+41. [The Creative Force – Law of Attraction](https://www.youtube.com/watch?v=dqevm6gIdSo)
+42. [Shaping Reality – Law of Attraction](https://www.youtube.com/watch?v=uV3N5BpwifM)
+43. [The Power of Action   Law of Attraction](https://www.youtube.com/watch?v=CCngwaf5ME4)
+44. [The Power of Stillness – Law of Attraction](https://www.youtube.com/watch?v=fw7dhXRZohM)
+45. [Mastering Stillness – Law of Attraction](https://www.youtube.com/watch?v=a3Oe38WJ_Mk)
+46. [Mastering Inner Harmony – Law of Attraction](https://www.youtube.com/watch?v=Kk6ZRUEdvxY)
+
+[Explore all channel guides](../README.md)
+
+[Explore memberships, products, and services](https://healthmanifested.com/products-memberships-services/)

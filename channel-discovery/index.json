@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "channel_url": "https://www.youtube.com/@healthmanifested",
+  "playlist_page": "https://www.youtube.com/@healthmanifested/playlists",
+  "retrieved_at": "2026-10-10",
+  "playlist_count": 560,
+  "unique_playlist_video_ids": 7716,
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "collections": [
+    {
+      "id": "cartoons",
+      "title": "Cartoons and Visual Lessons",
+      "guide": "channel-discovery/cartoons.md",
+      "metadata": "channel-discovery/cartoons.json",
+      "playlist_count": 12,
+      "unique_listed_video_ids": 329
+    },
+    {
+      "id": "human_design_gates_transits",
+      "title": "Human Design Gate, Line, and Transit Songs",
+      "guide": "channel-discovery/human_design_gates_transits.md",
+      "metadata": "channel-discovery/human_design_gates_transits.json",
+      "playlist_count": 68,
+      "unique_listed_video_ids": 461
+    },
+    {
+      "id": "human_design_meditations",
+      "title": "Human Design Guided Meditations",
+      "guide": "channel-discovery/human_design_meditations.md",
+      "metadata": "channel-discovery/human_design_meditations.json",
+      "playlist_count": 64,
+      "unique_listed_video_ids": 384
+    },
+    {
+      "id": "human_design_learning",
+      "title": "Human Design Types, Centers, Channels, and Learning",
+      "guide": "channel-discovery/human_design_learning.md",
+      "metadata": "channel-discovery/human_design_learning.json",
+      "playlist_count": 16,
+      "unique_listed_video_ids": 157
+    },
+    {
+      "id": "incarnation_cross_songs",
+      "title": "Incarnation Cross Songs",
+      "guide": "channel-discovery/incarnation_cross_songs.md",
+      "metadata": "channel-discovery/incarnation_cross_songs.json",
+      "playlist_count": 4,
+      "unique_listed_video_ids": 192
+    },
+    {
+      "id": "gene_keys",
+      "title": "Gene Keys Songs",
+      "guide": "channel-discovery/gene_keys.md",
+      "metadata": "channel-discovery/gene_keys.json",
+      "playlist_count": 66,
+      "unique_listed_video_ids": 192
+    },
+    {
+      "id": "i_ching",
+      "title": "I Ching and Hexagram Songs",
+      "guide": "channel-discovery/i_ching.md",
+      "metadata": "channel-discovery/i_ching.json",
+      "playlist_count": 66,
+      "unique_listed_video_ids": 448
+    },
+    {
+      "id": "astrology_aspects",
+      "title": "Astrology Aspect and Transit Songs",
+      "guide": "channel-discovery/astrology_aspects.md",
+      "metadata": "channel-discovery/astrology_aspects.json",
+      "playlist_count": 130,
+      "unique_listed_video_ids": 1560
+    },
+    {
+      "id": "astrology_placements",
+      "title": "Astrology Planets, Signs, Houses, and Retrograde Songs",
+      "guide": "channel-discovery/astrology_placements.md",
+      "metadata": "channel-discovery/astrology_placements.json",
+      "playlist_count": 39,
+      "unique_listed_video_ids": 444
+    },
+    {
+      "id": "astrology_moon_cycles",
+      "title": "Moon Phases, Moon Signs, and Eclipse Songs",
+      "guide": "channel-discovery/astrology_moon_cycles.md",
+      "metadata": "channel-discovery/astrology_moon_cycles.json",
+      "playlist_count": 8,
+      "unique_listed_video_ids": 91
+    },
+    {
+      "id": "astrological_degrees",
+      "title": "Astrological Degree Songs",
+      "guide": "channel-discovery/astrological_degrees.md",
+      "metadata": "channel-discovery/astrological_degrees.json",
+      "playlist_count": 13,
+      "unique_listed_video_ids": 360
+    },
+    {
+      "id": "sabian_symbols",
+      "title": "Sabian Symbol Songs",
+      "guide": "channel-discovery/sabian_symbols.md",
+      "metadata": "channel-discovery/sabian_symbols.json",
+      "playlist_count": 13,
+      "unique_listed_video_ids": 360
+    },
+    {
+      "id": "tarot",
+      "title": "Tarot Songs and Card Meaning Lessons",
+      "guide": "channel-discovery/tarot.md",
+      "metadata": "channel-discovery/tarot.json",
+      "playlist_count": 2,
+      "unique_listed_video_ids": 78
+    },
+    {
+      "id": "manifestation_affirmations",
+      "title": "Money Manifestation, Affirmations, and Law of Attraction",
+      "guide": "channel-discovery/manifestation_affirmations.md",
+      "metadata": "channel-discovery/manifestation_affirmations.json",
+      "playlist_count": 27,
+      "unique_listed_video_ids": 1401
+    },
+    {
+      "id": "inspiration_relationships",
+      "title": "Inspirational, Motivational, and Relationship Songs",
+      "guide": "channel-discovery/inspiration_relationships.md",
+      "metadata": "channel-discovery/inspiration_relationships.json",
+      "playlist_count": 14,
+      "unique_listed_video_ids": 955
+    },
+    {
+      "id": "yoga_philosophy",
+      "title": "Yoga Sutras and Bhagavad Gita Songs",
+      "guide": "channel-discovery/yoga_philosophy.md",
+      "metadata": "channel-discovery/yoga_philosophy.json",
+      "playlist_count": 6,
+      "unique_listed_video_ids": 203
+    },
+    {
+      "id": "healing_relaxation",
+      "title": "Meditation, Relaxation, Healing, and Mediumship",
+      "guide": "channel-discovery/healing_relaxation.md",
+      "metadata": "channel-discovery/healing_relaxation.json",
+      "playlist_count": 5,
+      "unique_listed_video_ids": 21
+    },
+    {
+      "id": "astrology_learning",
+      "title": "Astrology Learning and Astrology in Real Life",
+      "guide": "channel-discovery/astrology_learning.md",
+      "metadata": "channel-discovery/astrology_learning.json",
+      "playlist_count": 4,
+      "unique_listed_video_ids": 129
+    },
+    {
+      "id": "courses_other",
+      "title": "Courses, Memberships, and Other Channel Videos",
+      "guide": "channel-discovery/courses_other.md",
+      "metadata": "channel-discovery/courses_other.json",
+      "playlist_count": 3,
+      "unique_listed_video_ids": 33
+    }
+  ],
+  "combined_catalog_video_count": 8004,
+  "combined_catalog_scope": "Combined discovery catalog: the existing 2026-09-27 export of 7645 channel uploads, plus videos listed in the October 10, 2026 public playlist snapshot. Older records outside current playlists are retained for discovery; their current availability has not been checked. This is not a complete new export of all current uploads.",
+  "all_video_guide": "channel-discovery/all_channel_videos.md",
+  "all_video_metadata": "channel-discovery/all_channel_videos.json"
+}

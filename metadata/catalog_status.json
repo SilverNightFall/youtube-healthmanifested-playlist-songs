@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-10-10",
   "status": "active public knowledge repository for Health Manifested YouTube songs, cartoons, meditations, videos, and playlist guides",
   "catalog_note": "Health Manifested has thousands of YouTube resources. A 2026-09-27 YouTube Data API export returned 7,645 public/exportable video records from the channel uploads playlist. Newer content continues to expand into songs, cartoons, Tarot lessons, money manifestation music, dream life songs, zodiac and planet cartoons, Human Design cartoons, and other beginner friendly spiritual education resources.",
   "latest_export": {
@@ -16,6 +16,9 @@
     "preserve the channel as a structured educational music and visual learning library"
   ],
   "recommended_entry_points_for_ai": [
+    "channel-discovery/index.json",
+    "channel-discovery/README.md",
+    "channel-discovery/all_channel_videos.json",
     "llms.txt",
     "AI_USAGE.md",
     "README.md",
@@ -32,5 +35,16 @@
     "youtube_channel": "https://www.youtube.com/@healthmanifested",
     "youtube_playlists": "https://www.youtube.com/@healthmanifested/playlists",
     "website_playlist_guides": "https://healthmanifested.com/playlist-guides/"
+  },
+  "latest_playlist_snapshot": {
+    "retrieved_at": "2026-10-10",
+    "playlist_count": 560,
+    "unique_listed_video_ids": 7716,
+    "topic_areas": 19,
+    "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+    "guide": "channel-discovery/README.md",
+    "structured_index": "channel-discovery/index.json",
+    "combined_catalog_video_count": 8004,
+    "combined_catalog_scope": "Combined discovery catalog: the existing 2026-09-27 export of 7645 channel uploads, plus videos listed in the October 10, 2026 public playlist snapshot. Older records outside current playlists are retained for discovery; their current availability has not been checked. This is not a complete new export of all current uploads."
   }
 }

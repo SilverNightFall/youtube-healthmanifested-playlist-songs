@@ -1,0 +1,63 @@
+# Astrology in Real Life
+
+Health Manifested songs, videos, meditations, and cartoon learning resources.
+
+[Open this playlist on YouTube](https://www.youtube.com/playlist?list=PL0rem6quVJaBQC1iJffOJKdItTuOtDgYt)
+
+Source: the public YouTube playlist page, retrieved October 10, 2026. Listed entries may require membership. This guide reproduces titles and links, rather than reviewing or transcribing the videos.
+
+## Listed videos
+
+1. [Love Was Never For Sale | Emotional Song About Love, Money & Self-Worth](https://www.youtube.com/watch?v=2abDadTOsbk)
+2. [Do You Want Me to Be Okay? | Libra New Moon & Venus Retrograde in Scorpio Astrology Song](https://www.youtube.com/watch?v=7VJMglZTKcI)
+3. [Everything I Wanted, Except You | Venus Retrograde in Scorpio Inspired Song](https://www.youtube.com/watch?v=Sb2GlmiW1ew)
+4. [I Just Wanted You to Stay](https://www.youtube.com/watch?v=a6nERVzyZwg)
+5. [I didn’t forget you](https://www.youtube.com/watch?v=4H0xWCd5CyE)
+6. [What Was It All For?](https://www.youtube.com/watch?v=iIKQl0KmpRk)
+7. [What do they want](https://www.youtube.com/watch?v=JQh6qyk3saQ)
+8. [What Is My Fire For](https://www.youtube.com/watch?v=WRUMmpubTQQ)
+9. [Does Anybody Care?](https://www.youtube.com/watch?v=OI2moOhUdgA)
+10. [Don’t Come Back Just to Disappear](https://www.youtube.com/watch?v=oRGquTtqz-Q)
+11. [Our Life Was the Movie](https://www.youtube.com/watch?v=V9d386zypdE)
+12. [Queenie B](https://www.youtube.com/watch?v=axQASiG_h8g)
+13. [Where I Hope I'm Meant to Be](https://www.youtube.com/watch?v=-Ptn7RyI3zs)
+14. [Eleven Calls in Paradise](https://www.youtube.com/watch?v=cXgiv8d-wZc)
+15. [A Life No One Can Take](https://www.youtube.com/watch?v=9W4P1c40BS4)
+16. [Remember Who the Enemy Is | Astrology in Real Life | Jupiter Opposite Pluto](https://www.youtube.com/watch?v=sc9Pp81AfNc)
+17. [A Different Version of Me](https://www.youtube.com/watch?v=G6Akirb4aec)
+18. [Right on the Edge of the Storm](https://www.youtube.com/watch?v=HuRhZrX7ufs)
+19. [I Dreamed of Calling This Place Home](https://www.youtube.com/watch?v=Q6tw294N-eY)
+20. [The Dream I Carried Home](https://www.youtube.com/watch?v=TA_epnHdfWE)
+21. [Barbara was the Family](https://www.youtube.com/watch?v=bGSLl5BDMG4)
+22. [The Girl Who Read the Stars](https://www.youtube.com/watch?v=KrlKxdbRVoQ)
+23. [Every Penny Counts](https://www.youtube.com/watch?v=yydHGUYNXMw)
+24. [I See My Channel Rising](https://www.youtube.com/watch?v=74Er5Uey4KQ)
+25. [You Gave me Ireland](https://www.youtube.com/watch?v=-PvURjKS-xk)
+26. [I Move Like Wealth | Abundance Affirmation Song Inspired by Mars in Taurus](https://www.youtube.com/watch?v=FnbSeBMVYGQ)
+27. [For better, for worse](https://www.youtube.com/watch?v=hknVBuxZ95c)
+28. [I am everything you didn't want](https://www.youtube.com/watch?v=iR_I6wvzgq4)
+29. [Traveling Through Space and Time | Human Design Astrology Song](https://www.youtube.com/watch?v=WmwXAzxD2z4)
+30. [Since You Went Away](https://www.youtube.com/watch?v=wKOgC1BoExk)
+31. [There Was Something In It](https://www.youtube.com/watch?v=bekcjAvQOGM)
+32. [I want a home](https://www.youtube.com/watch?v=q7PQjOZVj9c)
+33. [I Remember](https://www.youtube.com/watch?v=kZpCfqnrDcs)
+34. [New Attitude](https://www.youtube.com/watch?v=Megl0X3oibI)
+35. [Both Sides of the Coin](https://www.youtube.com/watch?v=b6vhfP_Dh7I)
+36. [The Light Inside the Knowing](https://www.youtube.com/watch?v=wAI_RBeaupg)
+37. [The Ocean Dream](https://www.youtube.com/watch?v=kEqU9qvQzys)
+38. [What Could’ve Been](https://www.youtube.com/watch?v=lGwGWQ1gUew)
+39. [Retrograde Tide Mercury in Pisces](https://www.youtube.com/watch?v=-qCbfA4wHq8)
+40. [I Found My Way Through LeoAquarius Eclipses](https://www.youtube.com/watch?v=4gGkxvKUeI8)
+41. [Conch House Memories](https://www.youtube.com/watch?v=_A6JdB1JipY)
+42. [Don’t Let Life Pass You By](https://www.youtube.com/watch?v=QqdCTcHtYms)
+43. [Love Didn’t Pay the Bills](https://www.youtube.com/watch?v=nbcUAOeyY3o)
+44. [Boxes](https://www.youtube.com/watch?v=av96dmLgkbo)
+45. [The Green Chair  - Saturn in Pisces](https://www.youtube.com/watch?v=tDEK2T0gSxQ)
+46. [Both Love and Pain: Full Moon Eclipse in Pisces conjunct natal Venus](https://www.youtube.com/watch?v=QrBEdwbBC1Q)
+47. [Anna Maria My Happy Place](https://www.youtube.com/watch?v=LFvA09bEgkc)
+48. [Chiron Conjunct Sun in Aries Song: The Weight I Carried](https://www.youtube.com/watch?v=xTIPmN5b0dk)
+49. [You Knew What You Were Doing](https://www.youtube.com/watch?v=ikk1vpa03Qw)
+
+[Explore all channel guides](../README.md)
+
+[Explore memberships, products, and services](https://healthmanifested.com/products-memberships-services/)

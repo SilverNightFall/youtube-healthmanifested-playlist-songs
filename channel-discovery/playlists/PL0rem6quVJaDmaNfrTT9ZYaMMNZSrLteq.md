@@ -1,0 +1,60 @@
+# January Inspirational and Motivational Songs
+
+Health Manifested songs, videos, meditations, and cartoon learning resources.
+
+[Open this playlist on YouTube](https://www.youtube.com/playlist?list=PL0rem6quVJaDmaNfrTT9ZYaMMNZSrLteq)
+
+Source: the public YouTube playlist page, retrieved October 10, 2026. Listed entries may require membership. This guide reproduces titles and links, rather than reviewing or transcribing the videos.
+
+## Listed videos
+
+1. [The Right Direction | Inspirational Motivation Song](https://www.youtube.com/watch?v=EqocgTCSHJw)
+2. [No Worries Tonight](https://www.youtube.com/watch?v=RvGWTuE0lAE)
+3. [Wings Of Freedom | Inspirational Motivation Song](https://www.youtube.com/watch?v=2sXUuMKfJc4)
+4. [Light The Way Forward | Inspirational Motivation Song](https://www.youtube.com/watch?v=eMQlVQCZAm4)
+5. [Building Something Strong | Inspirational Motivation Song](https://www.youtube.com/watch?v=fjZCcHyjAYQ)
+6. [Beacon Of Tomorrow | Inspirational Motivation Song](https://www.youtube.com/watch?v=QfTD6cA32KY)
+7. [Green Light Ahead | Inspirational Motivation Song](https://www.youtube.com/watch?v=knC4zZ07Fps)
+8. [Runway to Possibility | Inspirational Motivation Song](https://www.youtube.com/watch?v=FrhkwpUreTY)
+9. [Golden Horizon Calling | Inspirational Motivation Song](https://www.youtube.com/watch?v=RpaeMUeBIHc)
+10. [Water Your Soul With Light | Inspirational Motivation Song](https://www.youtube.com/watch?v=d9AN-D47J1E)
+11. [Into the Life You Dream | Inspirational Motivation Song](https://www.youtube.com/watch?v=4NtWOVqNeVk)
+12. [Wings of Possibility | Inspirational Motivation Song](https://www.youtube.com/watch?v=VnOxg0JsB98)
+13. [Bloom Into Change | Inspirational Motivation Song](https://www.youtube.com/watch?v=KneUCUHs2Sg)
+14. [Road Into Becoming  Inspirational Motivation Song](https://www.youtube.com/watch?v=_zQvnLzP25Y)
+15. [Sail Toward Success | Inspirational Motivation Song](https://www.youtube.com/watch?v=fmO8EhTd62o)
+16. [Organize The Moment | Inspirational Motivation Song](https://www.youtube.com/watch?v=HBkmyuzeUZg)
+17. [This inspirational song was created from the quote for January 13:](https://www.youtube.com/watch?v=wUy7x0H5lPc)
+18. [The Track Ahead | Inspirational Motivation Song](https://www.youtube.com/watch?v=iLn_9fbEAA8)
+19. [Right on Time | Inspirational Motivation Song](https://www.youtube.com/watch?v=t9qT9YdfJFI)
+20. [Ride Into Stability  Inspirational Motivation Song](https://www.youtube.com/watch?v=zKFSLjPOM3Y)
+21. [Hand in Hand We Made It | Inspirational Motivation Song](https://www.youtube.com/watch?v=Ym9BDNSFH6Q)
+22. [Rise Together and Shine | Inspirational Motivation Song](https://www.youtube.com/watch?v=9rzNpbVa_Nc)
+23. [Walk Toward Your Future | Inspirational Motivation Song](https://www.youtube.com/watch?v=8ew05YQKQ2o)
+24. [Crystal Clear Intentions | Inspirational Motivation Song](https://www.youtube.com/watch?v=37F7NnXs5eQ)
+25. [Plant Your Desires  Inspirational Motivation Song](https://www.youtube.com/watch?v=pn51bvxSQPI)
+26. [Unity Is the Path Forward | Inspirational Motivation Song](https://www.youtube.com/watch?v=wMK42LCdCfo)
+27. [Follow the Magic  Inspirational Motivation Song](https://www.youtube.com/watch?v=SCa5edUTTlc)
+28. [Create a Beautiful Picture  Inspirational Motivation Song](https://www.youtube.com/watch?v=qWQxLZ5_Qys)
+29. [Breathe In Love | Inspirational Motivation Song](https://www.youtube.com/watch?v=Bi7-JuDSduU)
+30. [Walk Toward Your Best Life  Inspirational Motivation Song](https://www.youtube.com/watch?v=PbkBnL8jlL8)
+31. [Wings Wide Open | Inspirational Motivation Song](https://www.youtube.com/watch?v=g1BRY1DQmqQ)
+32. [Find Your Future  Inspirational Motivation Song](https://www.youtube.com/watch?v=x8Bvb-svUbg)
+33. [Chasing Golden Skies | Inspirational Motivation Song](https://www.youtube.com/watch?v=qrxlWmdHDTw)
+34. [Tribal Heart of Gratitude | Inspirational Motivation Song](https://www.youtube.com/watch?v=Z6q4uieAGZ4)
+35. [Rise Into Focus | Inspirational Motivation Song](https://www.youtube.com/watch?v=Yhu3f2QOisw)
+36. [Know Your Worth | Inspirational Motivation Song](https://www.youtube.com/watch?v=bCBzZFo159Y)
+37. [New Wings Rising | Inspirational Motivation Song](https://www.youtube.com/watch?v=3vK0r-Kdlk8)
+38. [New Wings Rising | Inspirational Motivation Song](https://www.youtube.com/watch?v=jZ6-9UvYpmI)
+39. [Flow With Tomorrow | Inspirational Motivation Song](https://www.youtube.com/watch?v=pTKOuDrPzYM)
+40. [Words Made of Love | Inspirational Motivation Song](https://www.youtube.com/watch?v=XTqGhp_-YFY)
+41. [Step Into a Better Future | Inspirational Motivation Song](https://www.youtube.com/watch?v=ZJOkOE5M5lU)
+42. [Love the Life You’re Living | Inspirational Motivation Song](https://www.youtube.com/watch?v=V-blKkCWYjk)
+43. [Piece by Piece | Inspirational Motivation Song](https://www.youtube.com/watch?v=Zydj_xCGOG4)
+44. [The Future Is Closer Than You Think | Inspirational Motivation Song](https://www.youtube.com/watch?v=Qj6bBP6Jr3U)
+45. [Worthy As You Are | Inspirational Motivation Song](https://www.youtube.com/watch?v=Ua7rPm7IljM)
+46. [Look Within Your Light | Inspirational Motivation Song](https://www.youtube.com/watch?v=ohqGvIATlt0)
+
+[Explore all channel guides](../README.md)
+
+[Explore memberships, products, and services](https://healthmanifested.com/products-memberships-services/)

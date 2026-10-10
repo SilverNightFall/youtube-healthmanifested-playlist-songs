@@ -1,0 +1,2872 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Gene Keys Songs",
+  "purpose": "Gene Keys music collections organized by key number and contemplation themes.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 66,
+  "unique_listed_video_ids": 192,
+  "playlists": [
+    {
+      "playlist_id": "PL0rem6quVJaDhj5je43tCb_iOL-3vfE3F",
+      "title": "Gene Key 58 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDhj5je43tCb_iOL-3vfE3F",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "f3JPx31VqNE",
+          "title": "Gene Key 58 Shadow The Unquiet Horizon",
+          "url": "https://www.youtube.com/watch?v=f3JPx31VqNE"
+        },
+        {
+          "video_id": "yp10OB9h7nU",
+          "title": "Gene Key 58 Gift The Pulse of Joy",
+          "url": "https://www.youtube.com/watch?v=yp10OB9h7nU"
+        },
+        {
+          "video_id": "zZAqEjBB1Pk",
+          "title": "Gene Key 58 Siddhi The Still Lake of Bliss",
+          "url": "https://www.youtube.com/watch?v=zZAqEjBB1Pk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses joy and vitality within Gene Key 58. It supports enthusiasm, appreciation, and positive momentum. Listen when reconnecting with motivation.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDhj5je43tCb_iOL-3vfE3F.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA_M_0sO8JYBWMcU47xrRbn",
+      "title": "Gene Key 61 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA_M_0sO8JYBWMcU47xrRbn",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "WeY54fkbulc",
+          "title": "Gene Key 61 Shadow The Question That Never Ends",
+          "url": "https://www.youtube.com/watch?v=WeY54fkbulc"
+        },
+        {
+          "video_id": "SQJke_f1k_E",
+          "title": "Gene Key 61 Gift Sparks That Break the Question",
+          "url": "https://www.youtube.com/watch?v=SQJke_f1k_E"
+        },
+        {
+          "video_id": "m9NRGVvDyD0",
+          "title": "Gene Key 61 Siddhi The Silent Center",
+          "url": "https://www.youtube.com/watch?v=m9NRGVvDyD0"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses inner mystery and truth-seeking in Gene Key 61. It supports contemplation, wonder, and deep inquiry. Ideal for meditation and inner exploration.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA_M_0sO8JYBWMcU47xrRbn.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAeLMNU8rD0h1X1x0P5FkZG",
+      "title": "Gene Key 58 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAeLMNU8rD0h1X1x0P5FkZG",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "f3JPx31VqNE",
+          "title": "Gene Key 58 Shadow The Unquiet Horizon",
+          "url": "https://www.youtube.com/watch?v=f3JPx31VqNE"
+        },
+        {
+          "video_id": "yp10OB9h7nU",
+          "title": "Gene Key 58 Gift The Pulse of Joy",
+          "url": "https://www.youtube.com/watch?v=yp10OB9h7nU"
+        },
+        {
+          "video_id": "zZAqEjBB1Pk",
+          "title": "Gene Key 58 Siddhi The Still Lake of Bliss",
+          "url": "https://www.youtube.com/watch?v=zZAqEjBB1Pk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses joy and vitality within Gene Key 58. It supports enthusiasm, appreciation, and positive momentum. Listen when reconnecting with motivation.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAeLMNU8rD0h1X1x0P5FkZG.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCeCLyUVyD3y_Zus3pbRONW",
+      "title": "Gene Key 64 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCeCLyUVyD3y_Zus3pbRONW",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "1rv069Ch48Q",
+          "title": "Gene Key 64 Shadow Into the Unknowing",
+          "url": "https://www.youtube.com/watch?v=1rv069Ch48Q"
+        },
+        {
+          "video_id": "pD3zi2RA_vw",
+          "title": "Gene Key 64 Gift When Chaos Becomes Color",
+          "url": "https://www.youtube.com/watch?v=pD3zi2RA_vw"
+        },
+        {
+          "video_id": "ps4WNiJ94nI",
+          "title": "Gene Key 64 Siddhi Light Without a Question",
+          "url": "https://www.youtube.com/watch?v=ps4WNiJ94nI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the transition from confusion to insight in Gene Key 64. It supports creative integration, imagination, and mental release. Listen when processing experiences or seeking understanding.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCeCLyUVyD3y_Zus3pbRONW.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCBTjeBlB-mOzzKOA5evFsR",
+      "title": "Gene Key 14 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCBTjeBlB-mOzzKOA5evFsR",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ZbWR9gvFECw",
+          "title": "Gene Key 14 Shadow The Quiet Trade",
+          "url": "https://www.youtube.com/watch?v=ZbWR9gvFECw"
+        },
+        {
+          "video_id": "FurLtkOMeAg",
+          "title": "Gene Key 14 Gift Competence in Motion",
+          "url": "https://www.youtube.com/watch?v=FurLtkOMeAg"
+        },
+        {
+          "video_id": "9EDeTne9QRs",
+          "title": "Gene Key 14 Siddhi Overflow",
+          "url": "https://www.youtube.com/watch?v=9EDeTne9QRs"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist aligns with the path of empowerment and resourcefulness in Gene Key 14. These songs support inner drive, adaptability, and purposeful effort. Listen during work, planning, or moments of ambition.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCBTjeBlB-mOzzKOA5evFsR.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCeAtwv3RB-fB3md8ubn4Zc",
+      "title": "Gene Key 63 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCeAtwv3RB-fB3md8ubn4Zc",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "sWLa1rzdqS8",
+          "title": "Gene Key 63 Shadow Questions That Never Rest",
+          "url": "https://www.youtube.com/watch?v=sWLa1rzdqS8"
+        },
+        {
+          "video_id": "1JEXig1SovI",
+          "title": "Gene Key 63 Gift The Living Question",
+          "url": "https://www.youtube.com/watch?v=1JEXig1SovI"
+        },
+        {
+          "video_id": "VKAElba68Kg",
+          "title": "Gene Key 63 Siddhi Truth Already Here",
+          "url": "https://www.youtube.com/watch?v=VKAElba68Kg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors questioning and truth-seeking within Gene Key 63. It supports discernment, reflection, and releasing doubt. Ideal for mental clarity.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCeAtwv3RB-fB3md8ubn4Zc.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDm9Ex1UcASi4DsiRhgdI9p",
+      "title": "Gene Key 62 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDm9Ex1UcASi4DsiRhgdI9p",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "jTz2SQo5H_A",
+          "title": "Gene Key 62 Shadow The Narrow Lens",
+          "url": "https://www.youtube.com/watch?v=jTz2SQo5H_A"
+        },
+        {
+          "video_id": "GEqjPSfaRXo",
+          "title": "Gene Key 62 Gift Words That See",
+          "url": "https://www.youtube.com/watch?v=GEqjPSfaRXo"
+        },
+        {
+          "video_id": "r9JHF4vbED4",
+          "title": "Gene Key 62 Siddhi The Perfect Flow",
+          "url": "https://www.youtube.com/watch?v=r9JHF4vbED4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects clarity and detail in Gene Key 62. It supports organization, understanding, and structured thought. Listen when studying or planning.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDm9Ex1UcASi4DsiRhgdI9p.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA3Bp7LuerU3EgzjqSZ6enP",
+      "title": "Gene Key 60 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA3Bp7LuerU3EgzjqSZ6enP",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Eh7lpo67QrQ",
+          "title": "Gene Key 60 Shadow Walls Made of Time",
+          "url": "https://www.youtube.com/watch?v=Eh7lpo67QrQ"
+        },
+        {
+          "video_id": "j_KD1aF4so0",
+          "title": "Gene Key 60 Gift The Shape That Holds the Spark",
+          "url": "https://www.youtube.com/watch?v=j_KD1aF4so0"
+        },
+        {
+          "video_id": "GORp1oymcdA",
+          "title": "Gene Key 60 Siddhi When the Law Falls Silent",
+          "url": "https://www.youtube.com/watch?v=GORp1oymcdA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors acceptance and transformation within Gene Key 60. It supports working within limits and embracing gradual change. Listen during periods of adjustment.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA3Bp7LuerU3EgzjqSZ6enP.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBnvrLyjWCzFSbyNhepWDUF",
+      "title": "Gene Key 59 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBnvrLyjWCzFSbyNhepWDUF",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "L0zVei_KzDw",
+          "title": "Gene Key 59 Shadow Behind the Open Door",
+          "url": "https://www.youtube.com/watch?v=L0zVei_KzDw"
+        },
+        {
+          "video_id": "99C9bni0cdI",
+          "title": "Gene Key 59 Gift Where Walls Fall Away",
+          "url": "https://www.youtube.com/watch?v=99C9bni0cdI"
+        },
+        {
+          "video_id": "58tiyaUZxxw",
+          "title": "Gene Key 59 Siddhi When Nothing Remains Hidden",
+          "url": "https://www.youtube.com/watch?v=58tiyaUZxxw"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects intimacy and emotional openness in Gene Key 59. It supports connection, honesty, and emotional bonding. Ideal for heart-centered reflection.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBnvrLyjWCzFSbyNhepWDUF.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCSCdequlU1tropGPOD9L2M",
+      "title": "Gene Key 57 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCSCdequlU1tropGPOD9L2M",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "lMk9LFco9jA",
+          "title": "Gene Key 57 Siddhi Soft Light of Knowing",
+          "url": "https://www.youtube.com/watch?v=lMk9LFco9jA"
+        },
+        {
+          "video_id": "5duaPNcIB0c",
+          "title": "Gene Key 57 Gift The Quiet Compass",
+          "url": "https://www.youtube.com/watch?v=5duaPNcIB0c"
+        },
+        {
+          "video_id": "PlgdlMiA950",
+          "title": "Gene Key 57 Shadow The Weight of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=PlgdlMiA950"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors intuitive clarity and inner guidance in Gene Key 57. It supports trust in subtle awareness and instinctive knowing. Ideal for quiet reflection.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCSCdequlU1tropGPOD9L2M.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCznZ0f4cfwiUMDLwLUs-iW",
+      "title": "Gene Key 56 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCznZ0f4cfwiUMDLwLUs-iW",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "4cW00701SW0",
+          "title": "Gene Key 56 Shadow Lost in the Noise",
+          "url": "https://www.youtube.com/watch?v=4cW00701SW0"
+        },
+        {
+          "video_id": "rgmXcXOuT6Q",
+          "title": "Gene Key 56 Gift What Truly Feeds the Heart",
+          "url": "https://www.youtube.com/watch?v=rgmXcXOuT6Q"
+        },
+        {
+          "video_id": "rTzOUCwv2T4",
+          "title": "Gene Key 56 Siddhi Drunk on the Divine",
+          "url": "https://www.youtube.com/watch?v=rTzOUCwv2T4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects storytelling and expression in Gene Key 56. It supports communication, creativity, and shared meaning. Listen when writing, speaking, or reflecting.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCznZ0f4cfwiUMDLwLUs-iW.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAzke53ghMqIy5L7W_kHK-V",
+      "title": "Gene Key 55 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAzke53ghMqIy5L7W_kHK-V",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Vto7XeiEcTA",
+          "title": "Gene Key 55 Shadow Breaking the Illusion",
+          "url": "https://www.youtube.com/watch?v=Vto7XeiEcTA"
+        },
+        {
+          "video_id": "YkaBpP9omSs",
+          "title": "Gene Key 55 Gift Freedom Becomes the Way",
+          "url": "https://www.youtube.com/watch?v=YkaBpP9omSs"
+        },
+        {
+          "video_id": "J27EG7J5AV4",
+          "title": "Gene Key 55 Siddhi When Freedom Has No Edges",
+          "url": "https://www.youtube.com/watch?v=J27EG7J5AV4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses emotional freedom within Gene Key 55. It supports releasing heaviness and reconnecting with joy. Ideal for emotional healing and renewal.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAzke53ghMqIy5L7W_kHK-V.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBcfDrY563B4EKhOoYrZEca",
+      "title": "Gene Key 54 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBcfDrY563B4EKhOoYrZEca",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "j7U6h4Hyhbs",
+          "title": "Gene Key 54 Shadow The Hunger for More",
+          "url": "https://www.youtube.com/watch?v=j7U6h4Hyhbs"
+        },
+        {
+          "video_id": "dW2pwLt9ox8",
+          "title": "Gene Key 54 Gift Rising Aspiration",
+          "url": "https://www.youtube.com/watch?v=dW2pwLt9ox8"
+        },
+        {
+          "video_id": "ypgt2c2DIhA",
+          "title": "Gene Key 54 Siddhi Rising Without Effort",
+          "url": "https://www.youtube.com/watch?v=ypgt2c2DIhA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors ambition and transformation in Gene Key 54. It supports upward movement, aspiration, and conscious effort. Listen when aligning goals with purpose.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBcfDrY563B4EKhOoYrZEca.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBd_CA0EF7nnEKSRbbC5LRh",
+      "title": "Gene Key 53 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBd_CA0EF7nnEKSRbbC5LRh",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "8tONa9uSlY0",
+          "title": "Gene Key 53 Shadow Starting Without Ground",
+          "url": "https://www.youtube.com/watch?v=8tONa9uSlY0"
+        },
+        {
+          "video_id": "V19oD_iRI3s",
+          "title": "Gene Key 53 Gift Growing in All Directions",
+          "url": "https://www.youtube.com/watch?v=V19oD_iRI3s"
+        },
+        {
+          "video_id": "gX5FQE-VbPQ",
+          "title": "Gene Key 53 Siddhi Where Seeking Ends",
+          "url": "https://www.youtube.com/watch?v=gX5FQE-VbPQ"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects beginnings and growth cycles within Gene Key 53. It supports initiation, momentum, and clarity around new paths. Ideal for starting fresh.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBd_CA0EF7nnEKSRbbC5LRh.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaC_fuWdOjTTS-rEBNvYwUsV",
+      "title": "Gene Key 52 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaC_fuWdOjTTS-rEBNvYwUsV",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "KjCYOwSI1ws",
+          "title": "Gene Key 52 Shadow Under the Weight",
+          "url": "https://www.youtube.com/watch?v=KjCYOwSI1ws"
+        },
+        {
+          "video_id": "J4ZnSae3X1U",
+          "title": "Gene Key 52 Gift Holding the Moment",
+          "url": "https://www.youtube.com/watch?v=J4ZnSae3X1U"
+        },
+        {
+          "video_id": "_IlY99QJ2EA",
+          "title": "Gene Key 52 Siddhi The Center That Does Not Move",
+          "url": "https://www.youtube.com/watch?v=_IlY99QJ2EA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses stillness and focus in Gene Key 52. It supports concentration, patience, and grounded awareness. Listen during meditation or deep work.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaC_fuWdOjTTS-rEBNvYwUsV.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCyrdNdofZrv8FrMVOzk5TJ",
+      "title": "Gene Key 51 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCyrdNdofZrv8FrMVOzk5TJ",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "HP0hvlhf8j0",
+          "title": "Gene Key 51 Siddhi Thunder Without Warning",
+          "url": "https://www.youtube.com/watch?v=HP0hvlhf8j0"
+        },
+        {
+          "video_id": "3G8BHSjZipU",
+          "title": "Gene Key 51 Gift Taking the Leap",
+          "url": "https://www.youtube.com/watch?v=3G8BHSjZipU"
+        },
+        {
+          "video_id": "c-GbdefVGHc",
+          "title": "Gene Key 51 Shadow Living on Edge",
+          "url": "https://www.youtube.com/watch?v=c-GbdefVGHc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors awakening and courage within Gene Key 51. It supports growth through challenge and renewed confidence. Ideal for moments of change or breakthrough.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCyrdNdofZrv8FrMVOzk5TJ.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDRJb2ZN4kelXMYJH94XtTb",
+      "title": "Gene Key 50 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDRJb2ZN4kelXMYJH94XtTb",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "BYJZEA71p_I",
+          "title": "Gene Key 50 Shadow When Power Loses Its Way",
+          "url": "https://www.youtube.com/watch?v=BYJZEA71p_I"
+        },
+        {
+          "video_id": "gXrxnp169bI",
+          "title": "Gene Key 50 Gift Finding the Middle Ground",
+          "url": "https://www.youtube.com/watch?v=gXrxnp169bI"
+        },
+        {
+          "video_id": "_eghaiD6hfE",
+          "title": "Gene Key 50 Siddhi Living as Harmony",
+          "url": "https://www.youtube.com/watch?v=_eghaiD6hfE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects responsibility and ethical awareness in Gene Key 50. It supports integrity, care, and conscious choice. Use it during reflection on values and accountability.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDRJb2ZN4kelXMYJH94XtTb.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaD3isht_kFxBRnB00nYLGQ5",
+      "title": "Gene Key 49 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaD3isht_kFxBRnB00nYLGQ5",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "WoTbp11jsTI",
+          "title": "Gene Key 49 Shadow Triggered by the Tribe",
+          "url": "https://www.youtube.com/watch?v=WoTbp11jsTI"
+        },
+        {
+          "video_id": "KUtdHpQmTrU",
+          "title": "Gene Key 49 Gift Choosing a New Way",
+          "url": "https://www.youtube.com/watch?v=KUtdHpQmTrU"
+        },
+        {
+          "video_id": "6FjD-Jz3HIY",
+          "title": "Gene Key 49 Siddhi Rebirth Beyond the Old World",
+          "url": "https://www.youtube.com/watch?v=6FjD-Jz3HIY"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the emotional clarity of Gene Key 49. It supports values, emotional truth, and conscious change. Listen when navigating transitions or emotional decisions.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaD3isht_kFxBRnB00nYLGQ5.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDYpIIANlREsL30IMi_RgLt",
+      "title": "Gene Key 48 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDYpIIANlREsL30IMi_RgLt",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "4vKF4EkFato",
+          "title": "Gene Key 48 Shadow Afraid of Not Being Enough",
+          "url": "https://www.youtube.com/watch?v=4vKF4EkFato"
+        },
+        {
+          "video_id": "AQSyyQBGjtQ",
+          "title": "Gene Key 48 Gift Finding What You Need",
+          "url": "https://www.youtube.com/watch?v=AQSyyQBGjtQ"
+        },
+        {
+          "video_id": "pYDnYbLGUgc",
+          "title": "Gene Key 48 Siddhi Returning to Not Knowing",
+          "url": "https://www.youtube.com/watch?v=pYDnYbLGUgc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors depth and wisdom within Gene Key 48. It supports trust in inner resources and releasing feelings of inadequacy. Ideal for study and self-confidence.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDYpIIANlREsL30IMi_RgLt.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaABwff3KZAti07gIjyU6VpT",
+      "title": "Gene Key 47 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaABwff3KZAti07gIjyU6VpT",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "mbyAId91Yvc",
+          "title": "Gene Key 47 Shadow Carrying the Weight of Memory",
+          "url": "https://www.youtube.com/watch?v=mbyAId91Yvc"
+        },
+        {
+          "video_id": "dep5M7bF2cw",
+          "title": "Gene Key 47 Gift Becoming Something Else",
+          "url": "https://www.youtube.com/watch?v=dep5M7bF2cw"
+        },
+        {
+          "video_id": "QpePY3v3g5Y",
+          "title": "Gene Key 47 Siddhi Becoming Light",
+          "url": "https://www.youtube.com/watch?v=QpePY3v3g5Y"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the shift from confusion to insight within Gene Key 47. It supports mental clarity and emotional release. Listen during moments of frustration or deep thinking.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaABwff3KZAti07gIjyU6VpT.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCawOV-Kro_lKu8dBMzydsd",
+      "title": "Gene Key 46 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCawOV-Kro_lKu8dBMzydsd",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "_4g8Wy9KMfI",
+          "title": "Gene Key 46 Shadow Carrying Life Too Seriously",
+          "url": "https://www.youtube.com/watch?v=_4g8Wy9KMfI"
+        },
+        {
+          "video_id": "Ru0oxjVUI7E",
+          "title": "Gene Key 46 Gift Enjoying the Ride",
+          "url": "https://www.youtube.com/watch?v=Ru0oxjVUI7E"
+        },
+        {
+          "video_id": "w5TXIqvYMxA",
+          "title": "Gene Key 46 Siddhi Living in Ecstasy",
+          "url": "https://www.youtube.com/watch?v=w5TXIqvYMxA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses embodiment and physical awareness in Gene Key 46. It supports gratitude, presence, and appreciation of the physical experience. Ideal for grounding practices.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCawOV-Kro_lKu8dBMzydsd.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAtMhjSlgQLczWvXwqvSGv-",
+      "title": "Gene Key 45 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAtMhjSlgQLczWvXwqvSGv-",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "0Fodywi-j6Q",
+          "title": "Gene Key 45 Shadow Who Holds the Harvest",
+          "url": "https://www.youtube.com/watch?v=0Fodywi-j6Q"
+        },
+        {
+          "video_id": "ZkSJvPwwPt0",
+          "title": "Gene Key 45 Gift Power Shared Grows",
+          "url": "https://www.youtube.com/watch?v=ZkSJvPwwPt0"
+        },
+        {
+          "video_id": "a132rJ-PF0k",
+          "title": "Gene Key 45 Siddhi Breaking Bread as One",
+          "url": "https://www.youtube.com/watch?v=a132rJ-PF0k"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors shared resources and stewardship in Gene Key 45. It supports balance between leadership and collaboration. Listen when reflecting on contribution and community.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAtMhjSlgQLczWvXwqvSGv-.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaC3hUW6PqmGH9tUqzkUP2OM",
+      "title": "Gene Key 44 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaC3hUW6PqmGH9tUqzkUP2OM",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "CGXeaBzac80",
+          "title": "Gene Key 44 Shadow Interference in the Pattern",
+          "url": "https://www.youtube.com/watch?v=CGXeaBzac80"
+        },
+        {
+          "video_id": "6Vh9UiGAtj8",
+          "title": "Gene Key 44 Gift Built to Work Together",
+          "url": "https://www.youtube.com/watch?v=6Vh9UiGAtj8"
+        },
+        {
+          "video_id": "SVdr3jb9ryU",
+          "title": "Gene Key 44 Siddhi Synarchy in Motion",
+          "url": "https://www.youtube.com/watch?v=SVdr3jb9ryU"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist mirrors pattern recognition and awareness in Gene Key 44. It supports intuition, memory, and learning from the past. Ideal for reflection and clarity.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaC3hUW6PqmGH9tUqzkUP2OM.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBsnzo02aFwq61AzKM5z5zi",
+      "title": "Gene Key 43 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBsnzo02aFwq61AzKM5z5zi",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "dTfxOAD7Dj4",
+          "title": "Gene Key 43 Shadow Noise Over Inner Truth",
+          "url": "https://www.youtube.com/watch?v=dTfxOAD7Dj4"
+        },
+        {
+          "video_id": "CjinuwQYNs4",
+          "title": "Gene Key 43 Gift Hearing the Breakthrough",
+          "url": "https://www.youtube.com/watch?v=CjinuwQYNs4"
+        },
+        {
+          "video_id": "mQASaOfwjY4",
+          "title": "Gene Key 43 Siddhi Laughing Awake",
+          "url": "https://www.youtube.com/watch?v=mQASaOfwjY4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses insight and originality in Gene Key 43. It supports breakthroughs, intuition, and inner knowing. Use it during creative exploration or contemplation.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBsnzo02aFwq61AzKM5z5zi.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCYQUw_mQKQw1ayqMgrSfe0",
+      "title": "Gene Key 42 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCYQUw_mQKQw1ayqMgrSfe0",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ovdN-R7ryh8",
+          "title": "Gene Key 42 Shadow Waiting for Tomorrow",
+          "url": "https://www.youtube.com/watch?v=ovdN-R7ryh8"
+        },
+        {
+          "video_id": "IhtFlw7WUZU",
+          "title": "Gene Key 42 Gift Freedom Without Grasping",
+          "url": "https://www.youtube.com/watch?v=IhtFlw7WUZU"
+        },
+        {
+          "video_id": "v9upXDd4L7A",
+          "title": "Gene Key 42 Siddhi Laughing at the End of Time",
+          "url": "https://www.youtube.com/watch?v=v9upXDd4L7A"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the completion cycles of Gene Key 42. The music supports closure, growth, and integration. Listen when finishing chapters or honoring progress.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCYQUw_mQKQw1ayqMgrSfe0.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCiBK4yo3VvQn1qNSzPkwYH",
+      "title": "Gene Key 41 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCiBK4yo3VvQn1qNSzPkwYH",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Z-vURffnu40",
+          "title": "Gene Key 41 Shadow Dreaming Without Arrival",
+          "url": "https://www.youtube.com/watch?v=Z-vURffnu40"
+        },
+        {
+          "video_id": "pbQDXNM3-Ys",
+          "title": "Gene Key 41 Gift Seeing What Comes Next",
+          "url": "https://www.youtube.com/watch?v=pbQDXNM3-Ys"
+        },
+        {
+          "video_id": "yBczYqOayvA",
+          "title": "Gene Key 41 Siddhi Where Everything Begins",
+          "url": "https://www.youtube.com/watch?v=yBczYqOayvA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors imagination and possibility within Gene Key 41. It supports creative vision and emotional anticipation. Ideal for planting seeds of intention.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCiBK4yo3VvQn1qNSzPkwYH.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDk8xe-Z06TYx31R4T5nOcO",
+      "title": "Gene Key 40 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDk8xe-Z06TYx31R4T5nOcO",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "hXA9A1svmxI",
+          "title": "Gene Key 40 Shadow Carrying the Weight Alone",
+          "url": "https://www.youtube.com/watch?v=hXA9A1svmxI"
+        },
+        {
+          "video_id": "-sIUb0NebjM",
+          "title": "Gene Key 40 Gift Standing Firm in Ease",
+          "url": "https://www.youtube.com/watch?v=-sIUb0NebjM"
+        },
+        {
+          "video_id": "myeWgyUz-tk",
+          "title": "Gene Key 40 Siddhi When Will Falls Silent",
+          "url": "https://www.youtube.com/watch?v=myeWgyUz-tk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the balance of work and rest within Gene Key 40. It supports self-reliance, boundaries, and renewal. Listen during downtime or recovery.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDk8xe-Z06TYx31R4T5nOcO.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAu82rYg2ed_DWj0kjahTjK",
+      "title": "Gene Key 39 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAu82rYg2ed_DWj0kjahTjK",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "EDsI8u9bJ9c",
+          "title": "Gene Key 39 Shadow Poking the Wound",
+          "url": "https://www.youtube.com/watch?v=EDsI8u9bJ9c"
+        },
+        {
+          "video_id": "oFtDFJhA_-8",
+          "title": "Gene Key 39 Gift Spark That Won’t Sit Still",
+          "url": "https://www.youtube.com/watch?v=oFtDFJhA_-8"
+        },
+        {
+          "video_id": "Rb3ybPzq9Sg",
+          "title": "Gene Key 39 Siddhi Beyond the Last Wall",
+          "url": "https://www.youtube.com/watch?v=Rb3ybPzq9Sg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the provocative energy of Gene Key 39. The music supports emotional release and awakening deeper awareness. Use it when working through emotional tension or creative blocks.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAu82rYg2ed_DWj0kjahTjK.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAGFcAh6iTA4HSSYEbSylmA",
+      "title": "Gene Key 38 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAGFcAh6iTA4HSSYEbSylmA",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "g0QD6NyPQaY",
+          "title": "Gene Key 38 Shadow Fighting Without a Cause",
+          "url": "https://www.youtube.com/watch?v=g0QD6NyPQaY"
+        },
+        {
+          "video_id": "Eu6OpTHbrws",
+          "title": "Gene Key 38 Gift Standing for What Matters",
+          "url": "https://www.youtube.com/watch?v=Eu6OpTHbrws"
+        },
+        {
+          "video_id": "56Z2GgtQdsE",
+          "title": "Gene Key 38 Siddhi Honor Beyond the Blade",
+          "url": "https://www.youtube.com/watch?v=56Z2GgtQdsE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors resilience and inner purpose in Gene Key 38. It supports standing firm, honoring values, and finding meaning through challenge. Ideal for moments of determination.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAGFcAh6iTA4HSSYEbSylmA.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDjYMFt1488pVEJCTsV5Mzm",
+      "title": "Gene Key 37 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDjYMFt1488pVEJCTsV5Mzm",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "9SZzofoyE-o",
+          "title": "Gene Key 37 Shadow Learning to Trust What Feels Soft",
+          "url": "https://www.youtube.com/watch?v=9SZzofoyE-o"
+        },
+        {
+          "video_id": "SzJ578Lgvqw",
+          "title": "Gene Key 37 Gift Equality",
+          "url": "https://www.youtube.com/watch?v=SzJ578Lgvqw"
+        },
+        {
+          "video_id": "35juvDQv_MA",
+          "title": "Gene Key 37 Siddhi Tenderness",
+          "url": "https://www.youtube.com/watch?v=35juvDQv_MA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses the harmony and connection of Gene Key 37. It supports belonging, cooperation, and emotional warmth. Listen when nurturing relationships or shared spaces.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDjYMFt1488pVEJCTsV5Mzm.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBG0vS582GCIZWxx3aVPD4r",
+      "title": "Gene Key 36 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBG0vS582GCIZWxx3aVPD4r",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "PK8ZT6jY2vQ",
+          "title": "Gene Key 36 Shadow Riding the Storm",
+          "url": "https://www.youtube.com/watch?v=PK8ZT6jY2vQ"
+        },
+        {
+          "video_id": "mXYsEoOzLv8",
+          "title": "Gene Key 36 Gift Holding the Human Heart",
+          "url": "https://www.youtube.com/watch?v=mXYsEoOzLv8"
+        },
+        {
+          "video_id": "0v7zRJTj4bc",
+          "title": "Gene Key 36 Siddhi Where Suffering Becomes Love",
+          "url": "https://www.youtube.com/watch?v=0v7zRJTj4bc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist mirrors the emotional depth of Gene Key 36. It supports navigating emotional intensity and developing emotional intelligence. These songs are helpful during periods of emotional growth.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBG0vS582GCIZWxx3aVPD4r.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDsh58TN2LLuK8h81IZJ-iY",
+      "title": "Gene Key 35 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDsh58TN2LLuK8h81IZJ-iY",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Zlmtbq5LX90",
+          "title": "Gene Key 35 Shadow Always Wanting More",
+          "url": "https://www.youtube.com/watch?v=Zlmtbq5LX90"
+        },
+        {
+          "video_id": "fmdTWhmEK9E",
+          "title": "Gene Key 35 Gift Entering the Inner Wild",
+          "url": "https://www.youtube.com/watch?v=fmdTWhmEK9E"
+        },
+        {
+          "video_id": "MIRdzzHqL8Q",
+          "title": "Gene Key 35 Siddhi Where Nothing Ends",
+          "url": "https://www.youtube.com/watch?v=MIRdzzHqL8Q"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the hunger for experience in Gene Key 35. The music supports exploration, growth, and emotional integration. Listen during times of change or expansion.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDsh58TN2LLuK8h81IZJ-iY.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA3Xe8lyELjmdFMyTbT_rS_",
+      "title": "Gene Key 34 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA3Xe8lyELjmdFMyTbT_rS_",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "fSjBEQ5uNS4",
+          "title": "Gene Key 34 Shadow Pushing Against the Current",
+          "url": "https://www.youtube.com/watch?v=fSjBEQ5uNS4"
+        },
+        {
+          "video_id": "RiXcNNAuq4k",
+          "title": "Gene Key 34 Gift Strength Without Force",
+          "url": "https://www.youtube.com/watch?v=RiXcNNAuq4k"
+        },
+        {
+          "video_id": "KlbACvq42ro",
+          "title": "Gene Key 34 Siddhi Majesty in Motion",
+          "url": "https://www.youtube.com/watch?v=KlbACvq42ro"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the life force and vitality of Gene Key 34. It supports self-empower",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA3Xe8lyELjmdFMyTbT_rS_.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBtIjPXnkyu9zq_zWrJJz4g",
+      "title": "Gene Key 33 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBtIjPXnkyu9zq_zWrJJz4g",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "xVJL3p7zUzo",
+          "title": "Gene Key 33 Shadow What We Forgot To Remember",
+          "url": "https://www.youtube.com/watch?v=xVJL3p7zUzo"
+        },
+        {
+          "video_id": "AEatsc6uyUo",
+          "title": "Gene Key 33 Gift Mindfulness Awakening",
+          "url": "https://www.youtube.com/watch?v=AEatsc6uyUo"
+        },
+        {
+          "video_id": "CC0cXTP8bNQ",
+          "title": "Gene Key 33 Siddhi The Moment That Remains",
+          "url": "https://www.youtube.com/watch?v=CC0cXTP8bNQ"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors reflection and retreat within Gene Key 33. It supports rest, memory, and inner processing. Ideal for journaling, reflection, or stepping back to gain perspective.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBtIjPXnkyu9zq_zWrJJz4g.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB5CvJ1i9-BRI0ToV2OYpaq",
+      "title": "Gene Key 32 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB5CvJ1i9-BRI0ToV2OYpaq",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "wuh9mX5ttvQ",
+          "title": "Gene Key 32 Siddhi Bowing To What Endures",
+          "url": "https://www.youtube.com/watch?v=wuh9mX5ttvQ"
+        },
+        {
+          "video_id": "u-9pXGaqUlI",
+          "title": "Gene Key 32 Gift Knowing What Endures",
+          "url": "https://www.youtube.com/watch?v=u-9pXGaqUlI"
+        },
+        {
+          "video_id": "H5LiHdSDpV0",
+          "title": "Gene Key 32 Shadow Afraid To Fall",
+          "url": "https://www.youtube.com/watch?v=H5LiHdSDpV0"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist mirrors the instinctive awareness of Gene Key 32. It supports discernment, timing, and trust in cycles of success and change. Listen when navigating uncertainty or growth.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB5CvJ1i9-BRI0ToV2OYpaq.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDXM3TaezlUfl3f3rP9koC6",
+      "title": "Gene Key 31 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDXM3TaezlUfl3f3rP9koC6",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "YRwwFINNPgs",
+          "title": "Gene Key 31 Shadow Speaking from the Throne",
+          "url": "https://www.youtube.com/watch?v=YRwwFINNPgs"
+        },
+        {
+          "video_id": "0HK9b6EgkOw",
+          "title": "Gene Key 31 Gift Speaking for the Whole",
+          "url": "https://www.youtube.com/watch?v=0HK9b6EgkOw"
+        },
+        {
+          "video_id": "mQXuvEcsJCY",
+          "title": "Gene Key 31 Siddhi When No One Is Speaking",
+          "url": "https://www.youtube.com/watch?v=mQXuvEcsJCY"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses the calm leadership of Gene Key 31. It supports humility, influence, and leading through presence rather than force. Use this playlist when reflecting on voice and direction.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDXM3TaezlUfl3f3rP9koC6.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDu19FW6Xo9bfVJSXQtELOO",
+      "title": "Gene Key 30 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDu19FW6Xo9bfVJSXQtELOO",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "55OYfhJU2OM",
+          "title": "Gene Key 30 Shadow hunger for experience",
+          "url": "https://www.youtube.com/watch?v=55OYfhJU2OM"
+        },
+        {
+          "video_id": "ka4f3L7OMrs",
+          "title": "Gene Key 30 Gift Learning to Float",
+          "url": "https://www.youtube.com/watch?v=ka4f3L7OMrs"
+        },
+        {
+          "video_id": "li4DRdm9BtM",
+          "title": "Gene Key 30 Siddhi Carried by the Fire",
+          "url": "https://www.youtube.com/watch?v=li4DRdm9BtM"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the emotional intensity of Gene Key 30. It helps process desire, longing, and emotional waves. These songs are supportive during emotional transitions or creative expression.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDu19FW6Xo9bfVJSXQtELOO.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDfUju4-_GrC0qzBjS6S_Ib",
+      "title": "Gene Key 29 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDfUju4-_GrC0qzBjS6S_Ib",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "IWsSi5P3Esc",
+          "title": "Gene Key 29 Shadow standing on the threshold",
+          "url": "https://www.youtube.com/watch?v=IWsSi5P3Esc"
+        },
+        {
+          "video_id": "nnjocuF7e8M",
+          "title": "Gene Key 29 Gift saying yes with your whole heart",
+          "url": "https://www.youtube.com/watch?v=nnjocuF7e8M"
+        },
+        {
+          "video_id": "D7vJmXJ8nYA",
+          "title": "Gene Key 29 Siddhi becoming the yes",
+          "url": "https://www.youtube.com/watch?v=D7vJmXJ8nYA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the devotion and perseverance of Gene Key 29. It supports commitment, endurance, and honoring your yes. Listen when strengthening resolve or working through long-term goals.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDfUju4-_GrC0qzBjS6S_Ib.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA_DFAfK9MaVkCeAuBTcXJW",
+      "title": "Gene Key 28 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA_DFAfK9MaVkCeAuBTcXJW",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "FnV_Z0vuJpA",
+          "title": "Gene Key 28 Shadow searching for meaning in the dark",
+          "url": "https://www.youtube.com/watch?v=FnV_Z0vuJpA"
+        },
+        {
+          "video_id": "HdB0V0qnO4w",
+          "title": "Gene Key 28 Gift giving yourself to life",
+          "url": "https://www.youtube.com/watch?v=HdB0V0qnO4w"
+        },
+        {
+          "video_id": "R9aS14owRto",
+          "title": "Gene Key 28 Siddhi beyond the last breath",
+          "url": "https://www.youtube.com/watch?v=R9aS14owRto"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors the search for meaning within Gene Key 28. The music supports courage, commitment, and moving through fear with clarity. Ideal for times of challenge or deep self-examination.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA_DFAfK9MaVkCeAuBTcXJW.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCdd-1qmKtsDgHh1Caf-MuF",
+      "title": "Gene Key 27 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCdd-1qmKtsDgHh1Caf-MuF",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "2wqTvENigWs",
+          "title": "Gene Key 27 Shadow when giving breaks the circle",
+          "url": "https://www.youtube.com/watch?v=2wqTvENigWs"
+        },
+        {
+          "video_id": "Mnb69JULJ_s",
+          "title": "Gene Key 27 Gift where care becomes strength",
+          "url": "https://www.youtube.com/watch?v=Mnb69JULJ_s"
+        },
+        {
+          "video_id": "Gn_zXKVZYT4",
+          "title": "Gene Key 27 Siddhi love that feeds everything",
+          "url": "https://www.youtube.com/watch?v=Gn_zXKVZYT4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the nurturing awareness of Gene Key 27. It supports balance between caring for others and caring for yourself. Listen during moments of emotional fatigue or renewal.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCdd-1qmKtsDgHh1Caf-MuF.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCx2szt3R4NZYECH6_JZpqn",
+      "title": "Gene Key 26 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCx2szt3R4NZYECH6_JZpqn",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "TdM75CHtyFw",
+          "title": "Gene Key 26 Shadow carrying the weight alone",
+          "url": "https://www.youtube.com/watch?v=TdM75CHtyFw"
+        },
+        {
+          "video_id": "rONW0z1I9wg",
+          "title": "Gene Key 26 Gift Speaking from the heart",
+          "url": "https://www.youtube.com/watch?v=rONW0z1I9wg"
+        },
+        {
+          "video_id": "TGrydEmQFT4",
+          "title": "Gene Key 26 Siddhi Moving without a trace",
+          "url": "https://www.youtube.com/watch?v=TGrydEmQFT4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the inner truth of Gene Key 26. It supports integrity, influence, and aligned communication. These songs are helpful when working with confidence, persuasion, or self-expression.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCx2szt3R4NZYECH6_JZpqn.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBMUwq09FfbgxRFT6GYr6p7",
+      "title": "Gene Key 25 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBMUwq09FfbgxRFT6GYr6p7",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7ZG51RVAIsc",
+          "title": "Gene Key 25 Shadow Holding the breath",
+          "url": "https://www.youtube.com/watch?v=7ZG51RVAIsc"
+        },
+        {
+          "video_id": "CXHLrdM5c64",
+          "title": "Gene Key 25 Gift Softening into love",
+          "url": "https://www.youtube.com/watch?v=CXHLrdM5c64"
+        },
+        {
+          "video_id": "3UqmxW5cP70",
+          "title": "Gene Key 25 Siddhi Love without edges",
+          "url": "https://www.youtube.com/watch?v=3UqmxW5cP70"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses the openness and acceptance found in Gene Key 25. It supports compassion, emotional healing, and softening the heart. Use this playlist when reconnecting with trust and gentleness.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBMUwq09FfbgxRFT6GYr6p7.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDq79knKF5U3-IZ9pPA2xvR",
+      "title": "Gene Key 24 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDq79knKF5U3-IZ9pPA2xvR",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "MkfC3cJoRrE",
+          "title": "Gene Key 24 Shadow When the mind circles back",
+          "url": "https://www.youtube.com/watch?v=MkfC3cJoRrE"
+        },
+        {
+          "video_id": "hjRQpVy90_Y",
+          "title": "Gene Key 24 Gift When the pause opens",
+          "url": "https://www.youtube.com/watch?v=hjRQpVy90_Y"
+        },
+        {
+          "video_id": "C2C0B-pWDcI",
+          "title": "Gene Key 24 Siddhi Where everything becomes still",
+          "url": "https://www.youtube.com/watch?v=C2C0B-pWDcI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist mirrors the inward reflection of Gene Key 24. The music supports stillness, contemplation, and release from repetitive thought loops. Ideal for meditation or quiet inner inquiry.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDq79knKF5U3-IZ9pPA2xvR.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDCskvOHgtIL_Iuy1eD7K67",
+      "title": "Gene Key 23 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDCskvOHgtIL_Iuy1eD7K67",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "CeSibXZ76Jc",
+          "title": "Gene Key 23 Shadow Tangled Words",
+          "url": "https://www.youtube.com/watch?v=CeSibXZ76Jc"
+        },
+        {
+          "video_id": "vEfHQjPZunI",
+          "title": "Gene Key 23 Gift Clear as One Breath",
+          "url": "https://www.youtube.com/watch?v=vEfHQjPZunI"
+        },
+        {
+          "video_id": "RN7vRNGxvzE",
+          "title": "Gene Key 23 Siddhi The Quiet Core",
+          "url": "https://www.youtube.com/watch?v=RN7vRNGxvzE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors the simplicity and clarity of Gene Key 23. It encourages expressing insights in clear and grounded ways. Listen when seeking understanding, communication flow, or mental ease.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDCskvOHgtIL_Iuy1eD7K67.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBCWTSTXTdo9ZINpiXmnWHk",
+      "title": "Gene Key 22 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBCWTSTXTdo9ZINpiXmnWHk",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "uQHkcD0F9jo",
+          "title": "Gene Key 22 Shadow When feelings turn away",
+          "url": "https://www.youtube.com/watch?v=uQHkcD0F9jo"
+        },
+        {
+          "video_id": "EQSlzvxe1qE",
+          "title": "Gene Key 22 Gift Grace in Motion",
+          "url": "https://www.youtube.com/watch?v=EQSlzvxe1qE"
+        },
+        {
+          "video_id": "MMgoDXj0XzI",
+          "title": "Gene Key 22 Siddhi Grace Descends",
+          "url": "https://www.youtube.com/watch?v=MMgoDXj0XzI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the emotional grace of Gene Key 22. It supports emotional awareness, timing, and sensitivity to moods and cycles. These songs are helpful for processing feelings and reconnecting with emotional presence.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBCWTSTXTdo9ZINpiXmnWHk.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCibnexrLU96TRtKVT3WVRP",
+      "title": "Gene Key 21 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCibnexrLU96TRtKVT3WVRP",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "EE23uJtXd3Y",
+          "title": "Gene Key 21 Shadow The Grip of Control",
+          "url": "https://www.youtube.com/watch?v=EE23uJtXd3Y"
+        },
+        {
+          "video_id": "rXOR_TSsOj8",
+          "title": "Gene Key 21 Gift Authority as Service",
+          "url": "https://www.youtube.com/watch?v=rXOR_TSsOj8"
+        },
+        {
+          "video_id": "UUDvs0lcVMs",
+          "title": "Gene Key 21 Siddhi Power That Kneels",
+          "url": "https://www.youtube.com/watch?v=UUDvs0lcVMs"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the inner authority of Gene Key 21, guiding you through themes of control, trust, and self-responsibility. The songs support releasing tension around power and reconnecting with calm inner leadership. Listen during reflection or moments when surrender and balance are needed.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCibnexrLU96TRtKVT3WVRP.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaACxjx72_Y25ulROyyhKUPD",
+      "title": "Gene Key 20 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaACxjx72_Y25ulROyyhKUPD",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "V0EQuvqKK0M",
+          "title": "Gene Key 20 Shadow Living on the Surface",
+          "url": "https://www.youtube.com/watch?v=V0EQuvqKK0M"
+        },
+        {
+          "video_id": "l5VVzTeFnWQ",
+          "title": "Gene Key 20 Gift Self Assurance",
+          "url": "https://www.youtube.com/watch?v=l5VVzTeFnWQ"
+        },
+        {
+          "video_id": "tj1ku3nbljk",
+          "title": "Gene Key 20 Siddhi Presence",
+          "url": "https://www.youtube.com/watch?v=tj1ku3nbljk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures presence and conscious action within Gene Key 20. The music encourages mindfulness, clarity, and alignment in the present moment. Use it when you need grounding or focus.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaACxjx72_Y25ulROyyhKUPD.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCpD2Zc-1o8VQjnbnn0Izb7",
+      "title": "Gene Key 19 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCpD2Zc-1o8VQjnbnn0Izb7",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "p7tk-VDrSZ4",
+          "title": "Gene Key 19 Shadow Echoes of Dependence",
+          "url": "https://www.youtube.com/watch?v=p7tk-VDrSZ4"
+        },
+        {
+          "video_id": "_BN_Y2Lm0Co",
+          "title": "Gene Key 19 Gift Sensitivity as a Bridge",
+          "url": "https://www.youtube.com/watch?v=_BN_Y2Lm0Co"
+        },
+        {
+          "video_id": "mM9CdBQI4T4",
+          "title": "Gene Key 19 Siddhi Sacrifice and Oneness",
+          "url": "https://www.youtube.com/watch?v=mM9CdBQI4T4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors the emotional sensitivity of Gene Key 19. It supports empathy, compassion, and intuitive connection with others. Listen when working with emotional boundaries or shared feelings.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCpD2Zc-1o8VQjnbnn0Izb7.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDlnCp441GrXmy2KLhz3W2r",
+      "title": "Gene Key 18 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDlnCp441GrXmy2KLhz3W2r",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "kTT_hig0gDM",
+          "title": "Gene Key 18 Shadow The Weight of Judgment",
+          "url": "https://www.youtube.com/watch?v=kTT_hig0gDM"
+        },
+        {
+          "video_id": "T-Og6EdgYT0",
+          "title": "Gene Key 18 Gift Integrity in Action",
+          "url": "https://www.youtube.com/watch?v=T-Og6EdgYT0"
+        },
+        {
+          "video_id": "sZ86u-Z26CE",
+          "title": "Gene Key 18 Siddhi The Shape of Wholeness",
+          "url": "https://www.youtube.com/watch?v=sZ86u-Z26CE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the transformation of Gene Key 18 from judgment to correction and clarity. It supports self-awareness, healing patterns, and constructive insight. Ideal for deep reflection.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDlnCp441GrXmy2KLhz3W2r.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB94vK-OO9fh4ePeqLmglcx",
+      "title": "Gene Key 17 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB94vK-OO9fh4ePeqLmglcx",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "rnMTrQlHpaU",
+          "title": "Gene Key 17 Shadow Lines in the Mind",
+          "url": "https://www.youtube.com/watch?v=rnMTrQlHpaU"
+        },
+        {
+          "video_id": "rqbDSHYdNgM",
+          "title": "Gene Key 17 Gift Seeing the Larger Pattern",
+          "url": "https://www.youtube.com/watch?v=rqbDSHYdNgM"
+        },
+        {
+          "video_id": "7h6BnzcznPs",
+          "title": "Gene Key 17 Siddhi Seeing Without Edges",
+          "url": "https://www.youtube.com/watch?v=7h6BnzcznPs"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist embraces the shift from opinion to insight within Gene Key 17. It encourages perspective, discernment, and clarity of thought. Listen when you want to broaden understanding or approach problems with wisdom.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB94vK-OO9fh4ePeqLmglcx.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDSQjePHM8n9yBQ2UgzytkW",
+      "title": "Gene Key 16 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDSQjePHM8n9yBQ2UgzytkW",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "WXEGkfCN05Y",
+          "title": "Gene Key 16 Shadow Drifting in Delay",
+          "url": "https://www.youtube.com/watch?v=WXEGkfCN05Y"
+        },
+        {
+          "video_id": "1iXU_EpeEHU",
+          "title": "Gene Key 16 Gift Many Paths, One Fire",
+          "url": "https://www.youtube.com/watch?v=1iXU_EpeEHU"
+        },
+        {
+          "video_id": "7RnK-5A1uRo",
+          "title": "Gene Key 16 Siddhi Mastery Unbound",
+          "url": "https://www.youtube.com/watch?v=7RnK-5A1uRo"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the technical skill and creative mastery of Gene Key 16. It blends discipline with inspiration, supporting practice and refinement. Use it during study or creative development.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDSQjePHM8n9yBQ2UgzytkW.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB5ZBrxNRL_e-B-RCLzyLMa",
+      "title": "Gene Key 15 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB5ZBrxNRL_e-B-RCLzyLMa",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "1AISpxkWWTk",
+          "title": "Gene Key 15 Shadow Beneath the Quiet Hours",
+          "url": "https://www.youtube.com/watch?v=1AISpxkWWTk"
+        },
+        {
+          "video_id": "54hsgZHK-h8",
+          "title": "Gene Key 15 Gift Magnetic Rhythm",
+          "url": "https://www.youtube.com/watch?v=54hsgZHK-h8"
+        },
+        {
+          "video_id": "XJ2pBImxJ3o",
+          "title": "Gene Key 15 Siddhi Florescence Rising",
+          "url": "https://www.youtube.com/watch?v=XJ2pBImxJ3o"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses the gentle balance and compassion of Gene Key 15. The music encourages flexibility, openness, and acceptance. It is supportive during emotional recalibration or when seeking harmony.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB5ZBrxNRL_e-B-RCLzyLMa.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCiWIPfVtQvdjMbL7m_2sjp",
+      "title": "Gene Key 13 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCiWIPfVtQvdjMbL7m_2sjp",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7EiWqHjypOM",
+          "title": "Gene Key 13 Shadow Echoes of Discord",
+          "url": "https://www.youtube.com/watch?v=7EiWqHjypOM"
+        },
+        {
+          "video_id": "XmPPCMf-ziw",
+          "title": "Gene Key 13 Gift The Voice of Discernment",
+          "url": "https://www.youtube.com/watch?v=XmPPCMf-ziw"
+        },
+        {
+          "video_id": "G8eufK0Bsvc",
+          "title": "Gene Key 13 Siddhi The Listening Heart",
+          "url": "https://www.youtube.com/watch?v=G8eufK0Bsvc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist mirrors the reflective depth of Gene Key 13. It supports active listening, emotional compassion, and understanding the stories within you. Use it during journaling or heart-centered contemplation.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCiWIPfVtQvdjMbL7m_2sjp.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCK1TeZF6qTylq9KRDH0-aI",
+      "title": "Gene Key 12 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCK1TeZF6qTylq9KRDH0-aI",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "BOOzECXN6Mo",
+          "title": "Gene Key 12 Shadow Echoes of Vanity",
+          "url": "https://www.youtube.com/watch?v=BOOzECXN6Mo"
+        },
+        {
+          "video_id": "932MsFWALYg",
+          "title": "Gene Key 12 Gift The Art of Discrimination",
+          "url": "https://www.youtube.com/watch?v=932MsFWALYg"
+        },
+        {
+          "video_id": "EYOCRHFCHMk",
+          "title": "Gene Key 12 Siddhi The Stillness of Purity",
+          "url": "https://www.youtube.com/watch?v=EYOCRHFCHMk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist honors the emotional clarity and artistic grace of Gene Key 12. It helps release emotional blockages and encourages mindful expression. Listen when working through communication challenges or creative blocks.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCK1TeZF6qTylq9KRDH0-aI.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaACjerR7qchpufCjadun4F2",
+      "title": "Gene Key 11 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaACjerR7qchpufCjadun4F2",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "t6OL3b4gjJg",
+          "title": "Gene Key 11 Shadow The Fog of Obscurity",
+          "url": "https://www.youtube.com/watch?v=t6OL3b4gjJg"
+        },
+        {
+          "video_id": "TRGwZFcOwHc",
+          "title": "Gene Key 11 Gift The Lantern of Idealism",
+          "url": "https://www.youtube.com/watch?v=TRGwZFcOwHc"
+        },
+        {
+          "video_id": "ucC3OXNP9SM",
+          "title": "Gene Key 11 Siddhi The Radiance of Light",
+          "url": "https://www.youtube.com/watch?v=ucC3OXNP9SM"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist embodies the imaginative vision of Gene Key 11. It inspires creative thinking, symbolism, and intuitive insight. Use it when seeking new perspectives or deepening spiritual reflection.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaACjerR7qchpufCjadun4F2.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCiv2L3dGCu2lLvylmi0-q5",
+      "title": "Gene Key 10 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCiv2L3dGCu2lLvylmi0-q5",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "5a0zY6YeVYY",
+          "title": "Gene Key 10 Shadow The Mirror of Self Obsession",
+          "url": "https://www.youtube.com/watch?v=5a0zY6YeVYY"
+        },
+        {
+          "video_id": "7odG08vc184",
+          "title": "Gene Key 10 Gift The Ease of Naturalness",
+          "url": "https://www.youtube.com/watch?v=7odG08vc184"
+        },
+        {
+          "video_id": "lrZysBuPBI0",
+          "title": "Gene Key 10 Siddhi The Presence of Being",
+          "url": "https://www.youtube.com/watch?v=lrZysBuPBI0"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the journey of Gene Key 10 into self-love and empowered presence. It supports you in discovering authentic identity and embodying natural confidence. Listen when reconnecting with inner worth or personal truth.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCiv2L3dGCu2lLvylmi0-q5.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCArEy02mSN7BFExWhBBzqT",
+      "title": "Gene Key 9 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCArEy02mSN7BFExWhBBzqT",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Czaz1w2G8fA",
+          "title": "Gene Key 9 Shadow The Weight of Inertia",
+          "url": "https://www.youtube.com/watch?v=Czaz1w2G8fA"
+        },
+        {
+          "video_id": "Mym-64fyjlo",
+          "title": "Gene Key 9 Gift The Momentum of Determination",
+          "url": "https://www.youtube.com/watch?v=Mym-64fyjlo"
+        },
+        {
+          "video_id": "HA-irhLqC-Y",
+          "title": "Gene Key 9 Siddhi The Boundless Atom of Invincibility",
+          "url": "https://www.youtube.com/watch?v=HA-irhLqC-Y"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the focused determination of Gene Key 9. It supports consistency, perseverance, and attention to detail. These songs are helpful while studying, planning, or working on long-term goals.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCArEy02mSN7BFExWhBBzqT.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA5IehyeQHI2cZJTJkiARFb",
+      "title": "Gene Key 8 Songa",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA5IehyeQHI2cZJTJkiARFb",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "vgfFQULartE",
+          "title": "Gene Key 8 Shadow The Walls of Mediocrity",
+          "url": "https://www.youtube.com/watch?v=vgfFQULartE"
+        },
+        {
+          "video_id": "Cf1OauQAxMY",
+          "title": "Gene Key 8 Gift The Fire of Style",
+          "url": "https://www.youtube.com/watch?v=Cf1OauQAxMY"
+        },
+        {
+          "video_id": "-IM3JS77N-4",
+          "title": "Gene Key 8 Siddhi The Jewel of Exquisiteness",
+          "url": "https://www.youtube.com/watch?v=-IM3JS77N-4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist celebrates the individual creative voice expressed in Gene Key 8. It highlights authenticity, confidence, and originality. Listen when you want to express yourself more freely or reconnect with your unique perspective.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA5IehyeQHI2cZJTJkiARFb.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDaqqWFBSsaR26uvd0_X_o5",
+      "title": "Gene Key 7 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDaqqWFBSsaR26uvd0_X_o5",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "fM9Qcj8ZJ90",
+          "title": "Gene Key 7 Shadow The Chains of Division",
+          "url": "https://www.youtube.com/watch?v=fM9Qcj8ZJ90"
+        },
+        {
+          "video_id": "FBX074GUHKg",
+          "title": "Gene Key 7 Gift The Quiet Path of Guidance",
+          "url": "https://www.youtube.com/watch?v=FBX074GUHKg"
+        },
+        {
+          "video_id": "35uemZEahbM",
+          "title": "Gene Key 7 Siddhi The Light of Virtue",
+          "url": "https://www.youtube.com/watch?v=35uemZEahbM"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist aligns with the essence of Gene Key 7, focusing on guidance, inner leadership, and service to the collective. The music encourages self-trust and conscious direction. Use this playlist when reflecting on purpose or shared vision.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDaqqWFBSsaR26uvd0_X_o5.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCSxs_wkXONkxpjYOCT4ZmE",
+      "title": "Gene Key 6 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCSxs_wkXONkxpjYOCT4ZmE",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7FQO9oXt0Yc",
+          "title": "Gene Key 6 Shadow The Fire of Conflict",
+          "url": "https://www.youtube.com/watch?v=7FQO9oXt0Yc"
+        },
+        {
+          "video_id": "sQXh-pA5QOw",
+          "title": "Gene Key 6 Gift The Language of Diplomacy",
+          "url": "https://www.youtube.com/watch?v=sQXh-pA5QOw"
+        },
+        {
+          "video_id": "6XEt5XGinso",
+          "title": "Gene Key 6 Siddhi The Empty Boat of Peace",
+          "url": "https://www.youtube.com/watch?v=6XEt5XGinso"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist mirrors the emotional breakthroughs of Gene Key 6. It explores the movement from conflict into emotional clarity and compassionate communication. These songs can support you when navigating heightened feelings or searching for inner balance.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCSxs_wkXONkxpjYOCT4ZmE.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDfkJ8c8JjXxXq9jmjFCCXh",
+      "title": "Gene Key 5 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDfkJ8c8JjXxXq9jmjFCCXh",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "YyFgI477xFQ",
+          "title": "Gene Key 5 Shadow The Rush Against Time",
+          "url": "https://www.youtube.com/watch?v=YyFgI477xFQ"
+        },
+        {
+          "video_id": "l8Csma1BEW0",
+          "title": "Gene Key 5 Gift The Rhythm of Patience",
+          "url": "https://www.youtube.com/watch?v=l8Csma1BEW0"
+        },
+        {
+          "video_id": "FjneiA8hoaY",
+          "title": "Gene Key 5 Siddhi The Eternal Now",
+          "url": "https://www.youtube.com/watch?v=FjneiA8hoaY"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist expresses the patience and natural rhythm of Gene Key 5. It supports you in slowing down, easing anxiety, and reconnecting with presence. Listen during meditation or daily rituals to help cultivate peace and consistency.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDfkJ8c8JjXxXq9jmjFCCXh.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBppri7Sev6yA1pmvwyUaKN",
+      "title": "Gene Key 4 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBppri7Sev6yA1pmvwyUaKN",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "b7IboIYvPg8",
+          "title": "Gene Key 4 Shadow The Walls of Intolerance",
+          "url": "https://www.youtube.com/watch?v=b7IboIYvPg8"
+        },
+        {
+          "video_id": "NCPX-7c4534",
+          "title": "Gene Key 4 Gift The Light of Understanding",
+          "url": "https://www.youtube.com/watch?v=NCPX-7c4534"
+        },
+        {
+          "video_id": "XWCrJt7E0A0",
+          "title": "Gene Key 4 Siddhi The Grace of Forgiveness",
+          "url": "https://www.youtube.com/watch?v=XWCrJt7E0A0"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist reflects the journey of Gene Key 4, moving from mental tension to deeper understanding. These tracks help soften rigid thinking and bring emotional intelligence into problem-solving. It is ideal for quiet study, contemplation, and heart-centered insight.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBppri7Sev6yA1pmvwyUaKN.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAf-r3ArdsSIhNnwe2NjQOJ",
+      "title": "Gene Key 3 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAf-r3ArdsSIhNnwe2NjQOJ",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "XxKir4kB9JA",
+          "title": "Gene Key 3 Shadow The Edge of Chaos",
+          "url": "https://www.youtube.com/watch?v=XxKir4kB9JA"
+        },
+        {
+          "video_id": "C4knhFOHAok",
+          "title": "Gene Key 3 Gift Seeds of Innovation",
+          "url": "https://www.youtube.com/watch?v=C4knhFOHAok"
+        },
+        {
+          "video_id": "sEnyd30YchI",
+          "title": "Gene Key 3 Siddhi The Dance of Innocence",
+          "url": "https://www.youtube.com/watch?v=sEnyd30YchI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist embodies the playful transformation within Gene Key 3. It follows the movement from resistance to innovation, capturing the moment where challenges open the door to creativity. Use it as a companion when working with change, uncertainty, or new beginnings.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAf-r3ArdsSIhNnwe2NjQOJ.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAGok4KsN0d5zd4MQkxZv0b",
+      "title": "Gene Key 2 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAGok4KsN0d5zd4MQkxZv0b",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ntK2G3A_DFo",
+          "title": "Gene Key 2 Shadow Drifting Without Anchor",
+          "url": "https://www.youtube.com/watch?v=ntK2G3A_DFo"
+        },
+        {
+          "video_id": "q3stO3C0UM0",
+          "title": "Gene Key 2 Gift The Inner Compass",
+          "url": "https://www.youtube.com/watch?v=q3stO3C0UM0"
+        },
+        {
+          "video_id": "ZrlyipzpCrw",
+          "title": "Gene Key 2 Siddhi The Heart of Oneness",
+          "url": "https://www.youtube.com/watch?v=ZrlyipzpCrw"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Gene Key 2 \nThis playlist honors the path of Gene Key 2, bringing you into harmony with intuition and inner navigation. The music supports releasing confusion and reclaiming trust in your natural direction. Use these songs for contemplation and grounding, especially when seeking clarity or alignment.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAGok4KsN0d5zd4MQkxZv0b.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDzbLuQ4gTgP0cUSp1LCE8D",
+      "title": "Gene Key 1 Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDzbLuQ4gTgP0cUSp1LCE8D",
+      "displayed_video_count": "3 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "wy7Yf8A80x4",
+          "title": "Gene Key 1 Shadow The Silent Spark",
+          "url": "https://www.youtube.com/watch?v=wy7Yf8A80x4"
+        },
+        {
+          "video_id": "ly7nAc-z5do",
+          "title": "Gene Key 1 Gift The Living Spark",
+          "url": "https://www.youtube.com/watch?v=ly7nAc-z5do"
+        },
+        {
+          "video_id": "Uf56jiZ96co",
+          "title": "Gene Key 1 Siddhi Eternal Beauty",
+          "url": "https://www.youtube.com/watch?v=Uf56jiZ96co"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the creative spark at the heart of Gene Key 1, guiding you through moments of inner stillness and the return of inspiration. The songs reflect the movement from shadow to siddhi, encouraging self-reflection, creative confidence, and renewal. Listen during journaling or meditation to support awareness and insight.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDzbLuQ4gTgP0cUSp1LCE8D.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAJbGVYhz8u-dPU7BcB-8Xf",
+      "title": "Gene Key songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAJbGVYhz8u-dPU7BcB-8Xf",
+      "displayed_video_count": "192 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "wy7Yf8A80x4",
+          "title": "Gene Key 1 Shadow The Silent Spark",
+          "url": "https://www.youtube.com/watch?v=wy7Yf8A80x4"
+        },
+        {
+          "video_id": "ly7nAc-z5do",
+          "title": "Gene Key 1 Gift The Living Spark",
+          "url": "https://www.youtube.com/watch?v=ly7nAc-z5do"
+        },
+        {
+          "video_id": "Uf56jiZ96co",
+          "title": "Gene Key 1 Siddhi Eternal Beauty",
+          "url": "https://www.youtube.com/watch?v=Uf56jiZ96co"
+        },
+        {
+          "video_id": "ntK2G3A_DFo",
+          "title": "Gene Key 2 Shadow Drifting Without Anchor",
+          "url": "https://www.youtube.com/watch?v=ntK2G3A_DFo"
+        },
+        {
+          "video_id": "q3stO3C0UM0",
+          "title": "Gene Key 2 Gift The Inner Compass",
+          "url": "https://www.youtube.com/watch?v=q3stO3C0UM0"
+        },
+        {
+          "video_id": "ZrlyipzpCrw",
+          "title": "Gene Key 2 Siddhi The Heart of Oneness",
+          "url": "https://www.youtube.com/watch?v=ZrlyipzpCrw"
+        },
+        {
+          "video_id": "XxKir4kB9JA",
+          "title": "Gene Key 3 Shadow The Edge of Chaos",
+          "url": "https://www.youtube.com/watch?v=XxKir4kB9JA"
+        },
+        {
+          "video_id": "C4knhFOHAok",
+          "title": "Gene Key 3 Gift Seeds of Innovation",
+          "url": "https://www.youtube.com/watch?v=C4knhFOHAok"
+        },
+        {
+          "video_id": "sEnyd30YchI",
+          "title": "Gene Key 3 Siddhi The Dance of Innocence",
+          "url": "https://www.youtube.com/watch?v=sEnyd30YchI"
+        },
+        {
+          "video_id": "b7IboIYvPg8",
+          "title": "Gene Key 4 Shadow The Walls of Intolerance",
+          "url": "https://www.youtube.com/watch?v=b7IboIYvPg8"
+        },
+        {
+          "video_id": "NCPX-7c4534",
+          "title": "Gene Key 4 Gift The Light of Understanding",
+          "url": "https://www.youtube.com/watch?v=NCPX-7c4534"
+        },
+        {
+          "video_id": "XWCrJt7E0A0",
+          "title": "Gene Key 4 Siddhi The Grace of Forgiveness",
+          "url": "https://www.youtube.com/watch?v=XWCrJt7E0A0"
+        },
+        {
+          "video_id": "YyFgI477xFQ",
+          "title": "Gene Key 5 Shadow The Rush Against Time",
+          "url": "https://www.youtube.com/watch?v=YyFgI477xFQ"
+        },
+        {
+          "video_id": "l8Csma1BEW0",
+          "title": "Gene Key 5 Gift The Rhythm of Patience",
+          "url": "https://www.youtube.com/watch?v=l8Csma1BEW0"
+        },
+        {
+          "video_id": "FjneiA8hoaY",
+          "title": "Gene Key 5 Siddhi The Eternal Now",
+          "url": "https://www.youtube.com/watch?v=FjneiA8hoaY"
+        },
+        {
+          "video_id": "7FQO9oXt0Yc",
+          "title": "Gene Key 6 Shadow The Fire of Conflict",
+          "url": "https://www.youtube.com/watch?v=7FQO9oXt0Yc"
+        },
+        {
+          "video_id": "sQXh-pA5QOw",
+          "title": "Gene Key 6 Gift The Language of Diplomacy",
+          "url": "https://www.youtube.com/watch?v=sQXh-pA5QOw"
+        },
+        {
+          "video_id": "6XEt5XGinso",
+          "title": "Gene Key 6 Siddhi The Empty Boat of Peace",
+          "url": "https://www.youtube.com/watch?v=6XEt5XGinso"
+        },
+        {
+          "video_id": "fM9Qcj8ZJ90",
+          "title": "Gene Key 7 Shadow The Chains of Division",
+          "url": "https://www.youtube.com/watch?v=fM9Qcj8ZJ90"
+        },
+        {
+          "video_id": "FBX074GUHKg",
+          "title": "Gene Key 7 Gift The Quiet Path of Guidance",
+          "url": "https://www.youtube.com/watch?v=FBX074GUHKg"
+        },
+        {
+          "video_id": "35uemZEahbM",
+          "title": "Gene Key 7 Siddhi The Light of Virtue",
+          "url": "https://www.youtube.com/watch?v=35uemZEahbM"
+        },
+        {
+          "video_id": "vgfFQULartE",
+          "title": "Gene Key 8 Shadow The Walls of Mediocrity",
+          "url": "https://www.youtube.com/watch?v=vgfFQULartE"
+        },
+        {
+          "video_id": "Cf1OauQAxMY",
+          "title": "Gene Key 8 Gift The Fire of Style",
+          "url": "https://www.youtube.com/watch?v=Cf1OauQAxMY"
+        },
+        {
+          "video_id": "-IM3JS77N-4",
+          "title": "Gene Key 8 Siddhi The Jewel of Exquisiteness",
+          "url": "https://www.youtube.com/watch?v=-IM3JS77N-4"
+        },
+        {
+          "video_id": "Czaz1w2G8fA",
+          "title": "Gene Key 9 Shadow The Weight of Inertia",
+          "url": "https://www.youtube.com/watch?v=Czaz1w2G8fA"
+        },
+        {
+          "video_id": "Mym-64fyjlo",
+          "title": "Gene Key 9 Gift The Momentum of Determination",
+          "url": "https://www.youtube.com/watch?v=Mym-64fyjlo"
+        },
+        {
+          "video_id": "HA-irhLqC-Y",
+          "title": "Gene Key 9 Siddhi The Boundless Atom of Invincibility",
+          "url": "https://www.youtube.com/watch?v=HA-irhLqC-Y"
+        },
+        {
+          "video_id": "5a0zY6YeVYY",
+          "title": "Gene Key 10 Shadow The Mirror of Self Obsession",
+          "url": "https://www.youtube.com/watch?v=5a0zY6YeVYY"
+        },
+        {
+          "video_id": "7odG08vc184",
+          "title": "Gene Key 10 Gift The Ease of Naturalness",
+          "url": "https://www.youtube.com/watch?v=7odG08vc184"
+        },
+        {
+          "video_id": "lrZysBuPBI0",
+          "title": "Gene Key 10 Siddhi The Presence of Being",
+          "url": "https://www.youtube.com/watch?v=lrZysBuPBI0"
+        },
+        {
+          "video_id": "t6OL3b4gjJg",
+          "title": "Gene Key 11 Shadow The Fog of Obscurity",
+          "url": "https://www.youtube.com/watch?v=t6OL3b4gjJg"
+        },
+        {
+          "video_id": "TRGwZFcOwHc",
+          "title": "Gene Key 11 Gift The Lantern of Idealism",
+          "url": "https://www.youtube.com/watch?v=TRGwZFcOwHc"
+        },
+        {
+          "video_id": "ucC3OXNP9SM",
+          "title": "Gene Key 11 Siddhi The Radiance of Light",
+          "url": "https://www.youtube.com/watch?v=ucC3OXNP9SM"
+        },
+        {
+          "video_id": "BOOzECXN6Mo",
+          "title": "Gene Key 12 Shadow Echoes of Vanity",
+          "url": "https://www.youtube.com/watch?v=BOOzECXN6Mo"
+        },
+        {
+          "video_id": "932MsFWALYg",
+          "title": "Gene Key 12 Gift The Art of Discrimination",
+          "url": "https://www.youtube.com/watch?v=932MsFWALYg"
+        },
+        {
+          "video_id": "EYOCRHFCHMk",
+          "title": "Gene Key 12 Siddhi The Stillness of Purity",
+          "url": "https://www.youtube.com/watch?v=EYOCRHFCHMk"
+        },
+        {
+          "video_id": "7EiWqHjypOM",
+          "title": "Gene Key 13 Shadow Echoes of Discord",
+          "url": "https://www.youtube.com/watch?v=7EiWqHjypOM"
+        },
+        {
+          "video_id": "XmPPCMf-ziw",
+          "title": "Gene Key 13 Gift The Voice of Discernment",
+          "url": "https://www.youtube.com/watch?v=XmPPCMf-ziw"
+        },
+        {
+          "video_id": "G8eufK0Bsvc",
+          "title": "Gene Key 13 Siddhi The Listening Heart",
+          "url": "https://www.youtube.com/watch?v=G8eufK0Bsvc"
+        },
+        {
+          "video_id": "ZbWR9gvFECw",
+          "title": "Gene Key 14 Shadow The Quiet Trade",
+          "url": "https://www.youtube.com/watch?v=ZbWR9gvFECw"
+        },
+        {
+          "video_id": "FurLtkOMeAg",
+          "title": "Gene Key 14 Gift Competence in Motion",
+          "url": "https://www.youtube.com/watch?v=FurLtkOMeAg"
+        },
+        {
+          "video_id": "9EDeTne9QRs",
+          "title": "Gene Key 14 Siddhi Overflow",
+          "url": "https://www.youtube.com/watch?v=9EDeTne9QRs"
+        },
+        {
+          "video_id": "1AISpxkWWTk",
+          "title": "Gene Key 15 Shadow Beneath the Quiet Hours",
+          "url": "https://www.youtube.com/watch?v=1AISpxkWWTk"
+        },
+        {
+          "video_id": "54hsgZHK-h8",
+          "title": "Gene Key 15 Gift Magnetic Rhythm",
+          "url": "https://www.youtube.com/watch?v=54hsgZHK-h8"
+        },
+        {
+          "video_id": "XJ2pBImxJ3o",
+          "title": "Gene Key 15 Siddhi Florescence Rising",
+          "url": "https://www.youtube.com/watch?v=XJ2pBImxJ3o"
+        },
+        {
+          "video_id": "WXEGkfCN05Y",
+          "title": "Gene Key 16 Shadow Drifting in Delay",
+          "url": "https://www.youtube.com/watch?v=WXEGkfCN05Y"
+        },
+        {
+          "video_id": "1iXU_EpeEHU",
+          "title": "Gene Key 16 Gift Many Paths, One Fire",
+          "url": "https://www.youtube.com/watch?v=1iXU_EpeEHU"
+        },
+        {
+          "video_id": "7RnK-5A1uRo",
+          "title": "Gene Key 16 Siddhi Mastery Unbound",
+          "url": "https://www.youtube.com/watch?v=7RnK-5A1uRo"
+        },
+        {
+          "video_id": "rnMTrQlHpaU",
+          "title": "Gene Key 17 Shadow Lines in the Mind",
+          "url": "https://www.youtube.com/watch?v=rnMTrQlHpaU"
+        },
+        {
+          "video_id": "rqbDSHYdNgM",
+          "title": "Gene Key 17 Gift Seeing the Larger Pattern",
+          "url": "https://www.youtube.com/watch?v=rqbDSHYdNgM"
+        },
+        {
+          "video_id": "7h6BnzcznPs",
+          "title": "Gene Key 17 Siddhi Seeing Without Edges",
+          "url": "https://www.youtube.com/watch?v=7h6BnzcznPs"
+        },
+        {
+          "video_id": "kTT_hig0gDM",
+          "title": "Gene Key 18 Shadow The Weight of Judgment",
+          "url": "https://www.youtube.com/watch?v=kTT_hig0gDM"
+        },
+        {
+          "video_id": "T-Og6EdgYT0",
+          "title": "Gene Key 18 Gift Integrity in Action",
+          "url": "https://www.youtube.com/watch?v=T-Og6EdgYT0"
+        },
+        {
+          "video_id": "sZ86u-Z26CE",
+          "title": "Gene Key 18 Siddhi The Shape of Wholeness",
+          "url": "https://www.youtube.com/watch?v=sZ86u-Z26CE"
+        },
+        {
+          "video_id": "p7tk-VDrSZ4",
+          "title": "Gene Key 19 Shadow Echoes of Dependence",
+          "url": "https://www.youtube.com/watch?v=p7tk-VDrSZ4"
+        },
+        {
+          "video_id": "_BN_Y2Lm0Co",
+          "title": "Gene Key 19 Gift Sensitivity as a Bridge",
+          "url": "https://www.youtube.com/watch?v=_BN_Y2Lm0Co"
+        },
+        {
+          "video_id": "mM9CdBQI4T4",
+          "title": "Gene Key 19 Siddhi Sacrifice and Oneness",
+          "url": "https://www.youtube.com/watch?v=mM9CdBQI4T4"
+        },
+        {
+          "video_id": "V0EQuvqKK0M",
+          "title": "Gene Key 20 Shadow Living on the Surface",
+          "url": "https://www.youtube.com/watch?v=V0EQuvqKK0M"
+        },
+        {
+          "video_id": "l5VVzTeFnWQ",
+          "title": "Gene Key 20 Gift Self Assurance",
+          "url": "https://www.youtube.com/watch?v=l5VVzTeFnWQ"
+        },
+        {
+          "video_id": "tj1ku3nbljk",
+          "title": "Gene Key 20 Siddhi Presence",
+          "url": "https://www.youtube.com/watch?v=tj1ku3nbljk"
+        },
+        {
+          "video_id": "EE23uJtXd3Y",
+          "title": "Gene Key 21 Shadow The Grip of Control",
+          "url": "https://www.youtube.com/watch?v=EE23uJtXd3Y"
+        },
+        {
+          "video_id": "rXOR_TSsOj8",
+          "title": "Gene Key 21 Gift Authority as Service",
+          "url": "https://www.youtube.com/watch?v=rXOR_TSsOj8"
+        },
+        {
+          "video_id": "UUDvs0lcVMs",
+          "title": "Gene Key 21 Siddhi Power That Kneels",
+          "url": "https://www.youtube.com/watch?v=UUDvs0lcVMs"
+        },
+        {
+          "video_id": "uQHkcD0F9jo",
+          "title": "Gene Key 22 Shadow When feelings turn away",
+          "url": "https://www.youtube.com/watch?v=uQHkcD0F9jo"
+        },
+        {
+          "video_id": "EQSlzvxe1qE",
+          "title": "Gene Key 22 Gift Grace in Motion",
+          "url": "https://www.youtube.com/watch?v=EQSlzvxe1qE"
+        },
+        {
+          "video_id": "MMgoDXj0XzI",
+          "title": "Gene Key 22 Siddhi Grace Descends",
+          "url": "https://www.youtube.com/watch?v=MMgoDXj0XzI"
+        },
+        {
+          "video_id": "CeSibXZ76Jc",
+          "title": "Gene Key 23 Shadow Tangled Words",
+          "url": "https://www.youtube.com/watch?v=CeSibXZ76Jc"
+        },
+        {
+          "video_id": "vEfHQjPZunI",
+          "title": "Gene Key 23 Gift Clear as One Breath",
+          "url": "https://www.youtube.com/watch?v=vEfHQjPZunI"
+        },
+        {
+          "video_id": "RN7vRNGxvzE",
+          "title": "Gene Key 23 Siddhi The Quiet Core",
+          "url": "https://www.youtube.com/watch?v=RN7vRNGxvzE"
+        },
+        {
+          "video_id": "MkfC3cJoRrE",
+          "title": "Gene Key 24 Shadow When the mind circles back",
+          "url": "https://www.youtube.com/watch?v=MkfC3cJoRrE"
+        },
+        {
+          "video_id": "hjRQpVy90_Y",
+          "title": "Gene Key 24 Gift When the pause opens",
+          "url": "https://www.youtube.com/watch?v=hjRQpVy90_Y"
+        },
+        {
+          "video_id": "C2C0B-pWDcI",
+          "title": "Gene Key 24 Siddhi Where everything becomes still",
+          "url": "https://www.youtube.com/watch?v=C2C0B-pWDcI"
+        },
+        {
+          "video_id": "7ZG51RVAIsc",
+          "title": "Gene Key 25 Shadow Holding the breath",
+          "url": "https://www.youtube.com/watch?v=7ZG51RVAIsc"
+        },
+        {
+          "video_id": "CXHLrdM5c64",
+          "title": "Gene Key 25 Gift Softening into love",
+          "url": "https://www.youtube.com/watch?v=CXHLrdM5c64"
+        },
+        {
+          "video_id": "3UqmxW5cP70",
+          "title": "Gene Key 25 Siddhi Love without edges",
+          "url": "https://www.youtube.com/watch?v=3UqmxW5cP70"
+        },
+        {
+          "video_id": "TdM75CHtyFw",
+          "title": "Gene Key 26 Shadow carrying the weight alone",
+          "url": "https://www.youtube.com/watch?v=TdM75CHtyFw"
+        },
+        {
+          "video_id": "rONW0z1I9wg",
+          "title": "Gene Key 26 Gift Speaking from the heart",
+          "url": "https://www.youtube.com/watch?v=rONW0z1I9wg"
+        },
+        {
+          "video_id": "TGrydEmQFT4",
+          "title": "Gene Key 26 Siddhi Moving without a trace",
+          "url": "https://www.youtube.com/watch?v=TGrydEmQFT4"
+        },
+        {
+          "video_id": "2wqTvENigWs",
+          "title": "Gene Key 27 Shadow when giving breaks the circle",
+          "url": "https://www.youtube.com/watch?v=2wqTvENigWs"
+        },
+        {
+          "video_id": "Mnb69JULJ_s",
+          "title": "Gene Key 27 Gift where care becomes strength",
+          "url": "https://www.youtube.com/watch?v=Mnb69JULJ_s"
+        },
+        {
+          "video_id": "Gn_zXKVZYT4",
+          "title": "Gene Key 27 Siddhi love that feeds everything",
+          "url": "https://www.youtube.com/watch?v=Gn_zXKVZYT4"
+        },
+        {
+          "video_id": "FnV_Z0vuJpA",
+          "title": "Gene Key 28 Shadow searching for meaning in the dark",
+          "url": "https://www.youtube.com/watch?v=FnV_Z0vuJpA"
+        },
+        {
+          "video_id": "HdB0V0qnO4w",
+          "title": "Gene Key 28 Gift giving yourself to life",
+          "url": "https://www.youtube.com/watch?v=HdB0V0qnO4w"
+        },
+        {
+          "video_id": "R9aS14owRto",
+          "title": "Gene Key 28 Siddhi beyond the last breath",
+          "url": "https://www.youtube.com/watch?v=R9aS14owRto"
+        },
+        {
+          "video_id": "IWsSi5P3Esc",
+          "title": "Gene Key 29 Shadow standing on the threshold",
+          "url": "https://www.youtube.com/watch?v=IWsSi5P3Esc"
+        },
+        {
+          "video_id": "nnjocuF7e8M",
+          "title": "Gene Key 29 Gift saying yes with your whole heart",
+          "url": "https://www.youtube.com/watch?v=nnjocuF7e8M"
+        },
+        {
+          "video_id": "D7vJmXJ8nYA",
+          "title": "Gene Key 29 Siddhi becoming the yes",
+          "url": "https://www.youtube.com/watch?v=D7vJmXJ8nYA"
+        },
+        {
+          "video_id": "55OYfhJU2OM",
+          "title": "Gene Key 30 Shadow hunger for experience",
+          "url": "https://www.youtube.com/watch?v=55OYfhJU2OM"
+        },
+        {
+          "video_id": "ka4f3L7OMrs",
+          "title": "Gene Key 30 Gift Learning to Float",
+          "url": "https://www.youtube.com/watch?v=ka4f3L7OMrs"
+        },
+        {
+          "video_id": "li4DRdm9BtM",
+          "title": "Gene Key 30 Siddhi Carried by the Fire",
+          "url": "https://www.youtube.com/watch?v=li4DRdm9BtM"
+        },
+        {
+          "video_id": "YRwwFINNPgs",
+          "title": "Gene Key 31 Shadow Speaking from the Throne",
+          "url": "https://www.youtube.com/watch?v=YRwwFINNPgs"
+        },
+        {
+          "video_id": "0HK9b6EgkOw",
+          "title": "Gene Key 31 Gift Speaking for the Whole",
+          "url": "https://www.youtube.com/watch?v=0HK9b6EgkOw"
+        },
+        {
+          "video_id": "mQXuvEcsJCY",
+          "title": "Gene Key 31 Siddhi When No One Is Speaking",
+          "url": "https://www.youtube.com/watch?v=mQXuvEcsJCY"
+        },
+        {
+          "video_id": "wuh9mX5ttvQ",
+          "title": "Gene Key 32 Siddhi Bowing To What Endures",
+          "url": "https://www.youtube.com/watch?v=wuh9mX5ttvQ"
+        },
+        {
+          "video_id": "u-9pXGaqUlI",
+          "title": "Gene Key 32 Gift Knowing What Endures",
+          "url": "https://www.youtube.com/watch?v=u-9pXGaqUlI"
+        },
+        {
+          "video_id": "H5LiHdSDpV0",
+          "title": "Gene Key 32 Shadow Afraid To Fall",
+          "url": "https://www.youtube.com/watch?v=H5LiHdSDpV0"
+        },
+        {
+          "video_id": "xVJL3p7zUzo",
+          "title": "Gene Key 33 Shadow What We Forgot To Remember",
+          "url": "https://www.youtube.com/watch?v=xVJL3p7zUzo"
+        },
+        {
+          "video_id": "AEatsc6uyUo",
+          "title": "Gene Key 33 Gift Mindfulness Awakening",
+          "url": "https://www.youtube.com/watch?v=AEatsc6uyUo"
+        },
+        {
+          "video_id": "CC0cXTP8bNQ",
+          "title": "Gene Key 33 Siddhi The Moment That Remains",
+          "url": "https://www.youtube.com/watch?v=CC0cXTP8bNQ"
+        },
+        {
+          "video_id": "fSjBEQ5uNS4",
+          "title": "Gene Key 34 Shadow Pushing Against the Current",
+          "url": "https://www.youtube.com/watch?v=fSjBEQ5uNS4"
+        },
+        {
+          "video_id": "RiXcNNAuq4k",
+          "title": "Gene Key 34 Gift Strength Without Force",
+          "url": "https://www.youtube.com/watch?v=RiXcNNAuq4k"
+        },
+        {
+          "video_id": "KlbACvq42ro",
+          "title": "Gene Key 34 Siddhi Majesty in Motion",
+          "url": "https://www.youtube.com/watch?v=KlbACvq42ro"
+        },
+        {
+          "video_id": "Zlmtbq5LX90",
+          "title": "Gene Key 35 Shadow Always Wanting More",
+          "url": "https://www.youtube.com/watch?v=Zlmtbq5LX90"
+        },
+        {
+          "video_id": "fmdTWhmEK9E",
+          "title": "Gene Key 35 Gift Entering the Inner Wild",
+          "url": "https://www.youtube.com/watch?v=fmdTWhmEK9E"
+        },
+        {
+          "video_id": "MIRdzzHqL8Q",
+          "title": "Gene Key 35 Siddhi Where Nothing Ends",
+          "url": "https://www.youtube.com/watch?v=MIRdzzHqL8Q"
+        },
+        {
+          "video_id": "PK8ZT6jY2vQ",
+          "title": "Gene Key 36 Shadow Riding the Storm",
+          "url": "https://www.youtube.com/watch?v=PK8ZT6jY2vQ"
+        },
+        {
+          "video_id": "mXYsEoOzLv8",
+          "title": "Gene Key 36 Gift Holding the Human Heart",
+          "url": "https://www.youtube.com/watch?v=mXYsEoOzLv8"
+        },
+        {
+          "video_id": "0v7zRJTj4bc",
+          "title": "Gene Key 36 Siddhi Where Suffering Becomes Love",
+          "url": "https://www.youtube.com/watch?v=0v7zRJTj4bc"
+        },
+        {
+          "video_id": "9SZzofoyE-o",
+          "title": "Gene Key 37 Shadow Learning to Trust What Feels Soft",
+          "url": "https://www.youtube.com/watch?v=9SZzofoyE-o"
+        },
+        {
+          "video_id": "SzJ578Lgvqw",
+          "title": "Gene Key 37 Gift Equality",
+          "url": "https://www.youtube.com/watch?v=SzJ578Lgvqw"
+        },
+        {
+          "video_id": "35juvDQv_MA",
+          "title": "Gene Key 37 Siddhi Tenderness",
+          "url": "https://www.youtube.com/watch?v=35juvDQv_MA"
+        },
+        {
+          "video_id": "g0QD6NyPQaY",
+          "title": "Gene Key 38 Shadow Fighting Without a Cause",
+          "url": "https://www.youtube.com/watch?v=g0QD6NyPQaY"
+        },
+        {
+          "video_id": "Eu6OpTHbrws",
+          "title": "Gene Key 38 Gift Standing for What Matters",
+          "url": "https://www.youtube.com/watch?v=Eu6OpTHbrws"
+        },
+        {
+          "video_id": "56Z2GgtQdsE",
+          "title": "Gene Key 38 Siddhi Honor Beyond the Blade",
+          "url": "https://www.youtube.com/watch?v=56Z2GgtQdsE"
+        },
+        {
+          "video_id": "EDsI8u9bJ9c",
+          "title": "Gene Key 39 Shadow Poking the Wound",
+          "url": "https://www.youtube.com/watch?v=EDsI8u9bJ9c"
+        },
+        {
+          "video_id": "oFtDFJhA_-8",
+          "title": "Gene Key 39 Gift Spark That Won’t Sit Still",
+          "url": "https://www.youtube.com/watch?v=oFtDFJhA_-8"
+        },
+        {
+          "video_id": "Rb3ybPzq9Sg",
+          "title": "Gene Key 39 Siddhi Beyond the Last Wall",
+          "url": "https://www.youtube.com/watch?v=Rb3ybPzq9Sg"
+        },
+        {
+          "video_id": "hXA9A1svmxI",
+          "title": "Gene Key 40 Shadow Carrying the Weight Alone",
+          "url": "https://www.youtube.com/watch?v=hXA9A1svmxI"
+        },
+        {
+          "video_id": "-sIUb0NebjM",
+          "title": "Gene Key 40 Gift Standing Firm in Ease",
+          "url": "https://www.youtube.com/watch?v=-sIUb0NebjM"
+        },
+        {
+          "video_id": "myeWgyUz-tk",
+          "title": "Gene Key 40 Siddhi When Will Falls Silent",
+          "url": "https://www.youtube.com/watch?v=myeWgyUz-tk"
+        },
+        {
+          "video_id": "Z-vURffnu40",
+          "title": "Gene Key 41 Shadow Dreaming Without Arrival",
+          "url": "https://www.youtube.com/watch?v=Z-vURffnu40"
+        },
+        {
+          "video_id": "pbQDXNM3-Ys",
+          "title": "Gene Key 41 Gift Seeing What Comes Next",
+          "url": "https://www.youtube.com/watch?v=pbQDXNM3-Ys"
+        },
+        {
+          "video_id": "yBczYqOayvA",
+          "title": "Gene Key 41 Siddhi Where Everything Begins",
+          "url": "https://www.youtube.com/watch?v=yBczYqOayvA"
+        },
+        {
+          "video_id": "ovdN-R7ryh8",
+          "title": "Gene Key 42 Shadow Waiting for Tomorrow",
+          "url": "https://www.youtube.com/watch?v=ovdN-R7ryh8"
+        },
+        {
+          "video_id": "IhtFlw7WUZU",
+          "title": "Gene Key 42 Gift Freedom Without Grasping",
+          "url": "https://www.youtube.com/watch?v=IhtFlw7WUZU"
+        },
+        {
+          "video_id": "v9upXDd4L7A",
+          "title": "Gene Key 42 Siddhi Laughing at the End of Time",
+          "url": "https://www.youtube.com/watch?v=v9upXDd4L7A"
+        },
+        {
+          "video_id": "dTfxOAD7Dj4",
+          "title": "Gene Key 43 Shadow Noise Over Inner Truth",
+          "url": "https://www.youtube.com/watch?v=dTfxOAD7Dj4"
+        },
+        {
+          "video_id": "CjinuwQYNs4",
+          "title": "Gene Key 43 Gift Hearing the Breakthrough",
+          "url": "https://www.youtube.com/watch?v=CjinuwQYNs4"
+        },
+        {
+          "video_id": "mQASaOfwjY4",
+          "title": "Gene Key 43 Siddhi Laughing Awake",
+          "url": "https://www.youtube.com/watch?v=mQASaOfwjY4"
+        },
+        {
+          "video_id": "CGXeaBzac80",
+          "title": "Gene Key 44 Shadow Interference in the Pattern",
+          "url": "https://www.youtube.com/watch?v=CGXeaBzac80"
+        },
+        {
+          "video_id": "6Vh9UiGAtj8",
+          "title": "Gene Key 44 Gift Built to Work Together",
+          "url": "https://www.youtube.com/watch?v=6Vh9UiGAtj8"
+        },
+        {
+          "video_id": "SVdr3jb9ryU",
+          "title": "Gene Key 44 Siddhi Synarchy in Motion",
+          "url": "https://www.youtube.com/watch?v=SVdr3jb9ryU"
+        },
+        {
+          "video_id": "0Fodywi-j6Q",
+          "title": "Gene Key 45 Shadow Who Holds the Harvest",
+          "url": "https://www.youtube.com/watch?v=0Fodywi-j6Q"
+        },
+        {
+          "video_id": "ZkSJvPwwPt0",
+          "title": "Gene Key 45 Gift Power Shared Grows",
+          "url": "https://www.youtube.com/watch?v=ZkSJvPwwPt0"
+        },
+        {
+          "video_id": "a132rJ-PF0k",
+          "title": "Gene Key 45 Siddhi Breaking Bread as One",
+          "url": "https://www.youtube.com/watch?v=a132rJ-PF0k"
+        },
+        {
+          "video_id": "_4g8Wy9KMfI",
+          "title": "Gene Key 46 Shadow Carrying Life Too Seriously",
+          "url": "https://www.youtube.com/watch?v=_4g8Wy9KMfI"
+        },
+        {
+          "video_id": "Ru0oxjVUI7E",
+          "title": "Gene Key 46 Gift Enjoying the Ride",
+          "url": "https://www.youtube.com/watch?v=Ru0oxjVUI7E"
+        },
+        {
+          "video_id": "w5TXIqvYMxA",
+          "title": "Gene Key 46 Siddhi Living in Ecstasy",
+          "url": "https://www.youtube.com/watch?v=w5TXIqvYMxA"
+        },
+        {
+          "video_id": "mbyAId91Yvc",
+          "title": "Gene Key 47 Shadow Carrying the Weight of Memory",
+          "url": "https://www.youtube.com/watch?v=mbyAId91Yvc"
+        },
+        {
+          "video_id": "dep5M7bF2cw",
+          "title": "Gene Key 47 Gift Becoming Something Else",
+          "url": "https://www.youtube.com/watch?v=dep5M7bF2cw"
+        },
+        {
+          "video_id": "QpePY3v3g5Y",
+          "title": "Gene Key 47 Siddhi Becoming Light",
+          "url": "https://www.youtube.com/watch?v=QpePY3v3g5Y"
+        },
+        {
+          "video_id": "4vKF4EkFato",
+          "title": "Gene Key 48 Shadow Afraid of Not Being Enough",
+          "url": "https://www.youtube.com/watch?v=4vKF4EkFato"
+        },
+        {
+          "video_id": "AQSyyQBGjtQ",
+          "title": "Gene Key 48 Gift Finding What You Need",
+          "url": "https://www.youtube.com/watch?v=AQSyyQBGjtQ"
+        },
+        {
+          "video_id": "pYDnYbLGUgc",
+          "title": "Gene Key 48 Siddhi Returning to Not Knowing",
+          "url": "https://www.youtube.com/watch?v=pYDnYbLGUgc"
+        },
+        {
+          "video_id": "WoTbp11jsTI",
+          "title": "Gene Key 49 Shadow Triggered by the Tribe",
+          "url": "https://www.youtube.com/watch?v=WoTbp11jsTI"
+        },
+        {
+          "video_id": "KUtdHpQmTrU",
+          "title": "Gene Key 49 Gift Choosing a New Way",
+          "url": "https://www.youtube.com/watch?v=KUtdHpQmTrU"
+        },
+        {
+          "video_id": "6FjD-Jz3HIY",
+          "title": "Gene Key 49 Siddhi Rebirth Beyond the Old World",
+          "url": "https://www.youtube.com/watch?v=6FjD-Jz3HIY"
+        },
+        {
+          "video_id": "BYJZEA71p_I",
+          "title": "Gene Key 50 Shadow When Power Loses Its Way",
+          "url": "https://www.youtube.com/watch?v=BYJZEA71p_I"
+        },
+        {
+          "video_id": "gXrxnp169bI",
+          "title": "Gene Key 50 Gift Finding the Middle Ground",
+          "url": "https://www.youtube.com/watch?v=gXrxnp169bI"
+        },
+        {
+          "video_id": "_eghaiD6hfE",
+          "title": "Gene Key 50 Siddhi Living as Harmony",
+          "url": "https://www.youtube.com/watch?v=_eghaiD6hfE"
+        },
+        {
+          "video_id": "c-GbdefVGHc",
+          "title": "Gene Key 51 Shadow Living on Edge",
+          "url": "https://www.youtube.com/watch?v=c-GbdefVGHc"
+        },
+        {
+          "video_id": "3G8BHSjZipU",
+          "title": "Gene Key 51 Gift Taking the Leap",
+          "url": "https://www.youtube.com/watch?v=3G8BHSjZipU"
+        },
+        {
+          "video_id": "HP0hvlhf8j0",
+          "title": "Gene Key 51 Siddhi Thunder Without Warning",
+          "url": "https://www.youtube.com/watch?v=HP0hvlhf8j0"
+        },
+        {
+          "video_id": "KjCYOwSI1ws",
+          "title": "Gene Key 52 Shadow Under the Weight",
+          "url": "https://www.youtube.com/watch?v=KjCYOwSI1ws"
+        },
+        {
+          "video_id": "J4ZnSae3X1U",
+          "title": "Gene Key 52 Gift Holding the Moment",
+          "url": "https://www.youtube.com/watch?v=J4ZnSae3X1U"
+        },
+        {
+          "video_id": "_IlY99QJ2EA",
+          "title": "Gene Key 52 Siddhi The Center That Does Not Move",
+          "url": "https://www.youtube.com/watch?v=_IlY99QJ2EA"
+        },
+        {
+          "video_id": "8tONa9uSlY0",
+          "title": "Gene Key 53 Shadow Starting Without Ground",
+          "url": "https://www.youtube.com/watch?v=8tONa9uSlY0"
+        },
+        {
+          "video_id": "V19oD_iRI3s",
+          "title": "Gene Key 53 Gift Growing in All Directions",
+          "url": "https://www.youtube.com/watch?v=V19oD_iRI3s"
+        },
+        {
+          "video_id": "gX5FQE-VbPQ",
+          "title": "Gene Key 53 Siddhi Where Seeking Ends",
+          "url": "https://www.youtube.com/watch?v=gX5FQE-VbPQ"
+        },
+        {
+          "video_id": "j7U6h4Hyhbs",
+          "title": "Gene Key 54 Shadow The Hunger for More",
+          "url": "https://www.youtube.com/watch?v=j7U6h4Hyhbs"
+        },
+        {
+          "video_id": "dW2pwLt9ox8",
+          "title": "Gene Key 54 Gift Rising Aspiration",
+          "url": "https://www.youtube.com/watch?v=dW2pwLt9ox8"
+        },
+        {
+          "video_id": "ypgt2c2DIhA",
+          "title": "Gene Key 54 Siddhi Rising Without Effort",
+          "url": "https://www.youtube.com/watch?v=ypgt2c2DIhA"
+        },
+        {
+          "video_id": "Vto7XeiEcTA",
+          "title": "Gene Key 55 Shadow Breaking the Illusion",
+          "url": "https://www.youtube.com/watch?v=Vto7XeiEcTA"
+        },
+        {
+          "video_id": "YkaBpP9omSs",
+          "title": "Gene Key 55 Gift Freedom Becomes the Way",
+          "url": "https://www.youtube.com/watch?v=YkaBpP9omSs"
+        },
+        {
+          "video_id": "J27EG7J5AV4",
+          "title": "Gene Key 55 Siddhi When Freedom Has No Edges",
+          "url": "https://www.youtube.com/watch?v=J27EG7J5AV4"
+        },
+        {
+          "video_id": "4cW00701SW0",
+          "title": "Gene Key 56 Shadow Lost in the Noise",
+          "url": "https://www.youtube.com/watch?v=4cW00701SW0"
+        },
+        {
+          "video_id": "rgmXcXOuT6Q",
+          "title": "Gene Key 56 Gift What Truly Feeds the Heart",
+          "url": "https://www.youtube.com/watch?v=rgmXcXOuT6Q"
+        },
+        {
+          "video_id": "rTzOUCwv2T4",
+          "title": "Gene Key 56 Siddhi Drunk on the Divine",
+          "url": "https://www.youtube.com/watch?v=rTzOUCwv2T4"
+        },
+        {
+          "video_id": "PlgdlMiA950",
+          "title": "Gene Key 57 Shadow The Weight of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=PlgdlMiA950"
+        },
+        {
+          "video_id": "5duaPNcIB0c",
+          "title": "Gene Key 57 Gift The Quiet Compass",
+          "url": "https://www.youtube.com/watch?v=5duaPNcIB0c"
+        },
+        {
+          "video_id": "lMk9LFco9jA",
+          "title": "Gene Key 57 Siddhi Soft Light of Knowing",
+          "url": "https://www.youtube.com/watch?v=lMk9LFco9jA"
+        },
+        {
+          "video_id": "f3JPx31VqNE",
+          "title": "Gene Key 58 Shadow The Unquiet Horizon",
+          "url": "https://www.youtube.com/watch?v=f3JPx31VqNE"
+        },
+        {
+          "video_id": "yp10OB9h7nU",
+          "title": "Gene Key 58 Gift The Pulse of Joy",
+          "url": "https://www.youtube.com/watch?v=yp10OB9h7nU"
+        },
+        {
+          "video_id": "zZAqEjBB1Pk",
+          "title": "Gene Key 58 Siddhi The Still Lake of Bliss",
+          "url": "https://www.youtube.com/watch?v=zZAqEjBB1Pk"
+        },
+        {
+          "video_id": "L0zVei_KzDw",
+          "title": "Gene Key 59 Shadow Behind the Open Door",
+          "url": "https://www.youtube.com/watch?v=L0zVei_KzDw"
+        },
+        {
+          "video_id": "99C9bni0cdI",
+          "title": "Gene Key 59 Gift Where Walls Fall Away",
+          "url": "https://www.youtube.com/watch?v=99C9bni0cdI"
+        },
+        {
+          "video_id": "58tiyaUZxxw",
+          "title": "Gene Key 59 Siddhi When Nothing Remains Hidden",
+          "url": "https://www.youtube.com/watch?v=58tiyaUZxxw"
+        },
+        {
+          "video_id": "Eh7lpo67QrQ",
+          "title": "Gene Key 60 Shadow Walls Made of Time",
+          "url": "https://www.youtube.com/watch?v=Eh7lpo67QrQ"
+        },
+        {
+          "video_id": "j_KD1aF4so0",
+          "title": "Gene Key 60 Gift The Shape That Holds the Spark",
+          "url": "https://www.youtube.com/watch?v=j_KD1aF4so0"
+        },
+        {
+          "video_id": "GORp1oymcdA",
+          "title": "Gene Key 60 Siddhi When the Law Falls Silent",
+          "url": "https://www.youtube.com/watch?v=GORp1oymcdA"
+        },
+        {
+          "video_id": "WeY54fkbulc",
+          "title": "Gene Key 61 Shadow The Question That Never Ends",
+          "url": "https://www.youtube.com/watch?v=WeY54fkbulc"
+        },
+        {
+          "video_id": "SQJke_f1k_E",
+          "title": "Gene Key 61 Gift Sparks That Break the Question",
+          "url": "https://www.youtube.com/watch?v=SQJke_f1k_E"
+        },
+        {
+          "video_id": "m9NRGVvDyD0",
+          "title": "Gene Key 61 Siddhi The Silent Center",
+          "url": "https://www.youtube.com/watch?v=m9NRGVvDyD0"
+        },
+        {
+          "video_id": "jTz2SQo5H_A",
+          "title": "Gene Key 62 Shadow The Narrow Lens",
+          "url": "https://www.youtube.com/watch?v=jTz2SQo5H_A"
+        },
+        {
+          "video_id": "GEqjPSfaRXo",
+          "title": "Gene Key 62 Gift Words That See",
+          "url": "https://www.youtube.com/watch?v=GEqjPSfaRXo"
+        },
+        {
+          "video_id": "r9JHF4vbED4",
+          "title": "Gene Key 62 Siddhi The Perfect Flow",
+          "url": "https://www.youtube.com/watch?v=r9JHF4vbED4"
+        },
+        {
+          "video_id": "sWLa1rzdqS8",
+          "title": "Gene Key 63 Shadow Questions That Never Rest",
+          "url": "https://www.youtube.com/watch?v=sWLa1rzdqS8"
+        },
+        {
+          "video_id": "1JEXig1SovI",
+          "title": "Gene Key 63 Gift The Living Question",
+          "url": "https://www.youtube.com/watch?v=1JEXig1SovI"
+        },
+        {
+          "video_id": "VKAElba68Kg",
+          "title": "Gene Key 63 Siddhi Truth Already Here",
+          "url": "https://www.youtube.com/watch?v=VKAElba68Kg"
+        },
+        {
+          "video_id": "1rv069Ch48Q",
+          "title": "Gene Key 64 Shadow Into the Unknowing",
+          "url": "https://www.youtube.com/watch?v=1rv069Ch48Q"
+        },
+        {
+          "video_id": "pD3zi2RA_vw",
+          "title": "Gene Key 64 Gift When Chaos Becomes Color",
+          "url": "https://www.youtube.com/watch?v=pD3zi2RA_vw"
+        },
+        {
+          "video_id": "ps4WNiJ94nI",
+          "title": "Gene Key 64 Siddhi Light Without a Question",
+          "url": "https://www.youtube.com/watch?v=ps4WNiJ94nI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist is a collection of songs inspired by the Gene Keys, capturing the emotional and spiritual themes expressed in each frequency. Every track reflects the journey from shadow to Siddhi, honoring the quiet moments of growth, the challenges we move through, and the creative potential within each key.These songs are designed to support contemplation and self-reflection, giving you a space to explore your inner world while listening. You can use them during meditation, journaling, or as gentle background music while you study your chart.If you would like to learn more about Gene Keys you can study under the original teacher of Gene Keys Richard Rudd. You can also join the Astro Gene Keys membership for guidance with understanding your Astro Gene Keys chart: https://healthmanifested.com/astro-gene-keys-course-optionsFor people who want to go deeper into integrating Human Design, Gene Keys, tarot, astrology, iChing, Sabian Symbols, and more, the HD Astro membership provides a broader path of study and application: https://healthmanifested.com/hd-astro-course-optionsLet this playlist be a companion for discovering your patterns, unlocking your creativity, and stepping into greater awareness at your own pace.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAJbGVYhz8u-dPU7BcB-8Xf.md"
+    }
+  ]
+}

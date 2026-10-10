@@ -1,0 +1,3795 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Astrological Degree Songs",
+  "purpose": "Music collections organized around the 360 zodiac degrees.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 13,
+  "unique_listed_video_ids": 360,
+  "playlists": [
+    {
+      "playlist_id": "PL0rem6quVJaBwWaqIOQ_lmNli8WjOT1CB",
+      "title": "Pisces Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBwWaqIOQ_lmNli8WjOT1CB",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "DJeUqpP4QVE",
+          "title": "Pisces 0° Song: The Quiet Bridge",
+          "url": "https://www.youtube.com/watch?v=DJeUqpP4QVE"
+        },
+        {
+          "video_id": "YDX2sJjOmbg",
+          "title": "Pisces 1° Song: Flowing Into Light",
+          "url": "https://www.youtube.com/watch?v=YDX2sJjOmbg"
+        },
+        {
+          "video_id": "hUiLox64I8s",
+          "title": "Pisces 2° Song: Spark and Shadow",
+          "url": "https://www.youtube.com/watch?v=hUiLox64I8s"
+        },
+        {
+          "video_id": "aSGzEV5Ji_k",
+          "title": "Pisces 3° Song: Beneath the Golden Tide",
+          "url": "https://www.youtube.com/watch?v=aSGzEV5Ji_k"
+        },
+        {
+          "video_id": "e8DG79Uj5oc",
+          "title": "Pisces 4° Song: Fire in the Veil",
+          "url": "https://www.youtube.com/watch?v=e8DG79Uj5oc"
+        },
+        {
+          "video_id": "DRJXx6fPzUw",
+          "title": "Pisces 5° Song: Through the Storm Together",
+          "url": "https://www.youtube.com/watch?v=DRJXx6fPzUw"
+        },
+        {
+          "video_id": "aJ9o8HlXciE",
+          "title": "Pisces 6° Song",
+          "url": "https://www.youtube.com/watch?v=aJ9o8HlXciE"
+        },
+        {
+          "video_id": "PcBJbJNB0zY",
+          "title": "Pisces 7° Song: Through the Veil",
+          "url": "https://www.youtube.com/watch?v=PcBJbJNB0zY"
+        },
+        {
+          "video_id": "jygs_9ZlcKI",
+          "title": "Pisces 8° Song: Boundaries and Bridges",
+          "url": "https://www.youtube.com/watch?v=jygs_9ZlcKI"
+        },
+        {
+          "video_id": "wQnUfe826as",
+          "title": "Pisces 9° Song: Stronger in the Storm",
+          "url": "https://www.youtube.com/watch?v=wQnUfe826as"
+        },
+        {
+          "video_id": "W3YxXAE7KK4",
+          "title": "Pisces 10° Song: Magnetic Soul",
+          "url": "https://www.youtube.com/watch?v=W3YxXAE7KK4"
+        },
+        {
+          "video_id": "dkgccMcnUw0",
+          "title": "Pisces 11° Song: Wild and Free",
+          "url": "https://www.youtube.com/watch?v=dkgccMcnUw0"
+        },
+        {
+          "video_id": "nnZt1PTGI98",
+          "title": "Pisces 12° Song: Wake to the Light",
+          "url": "https://www.youtube.com/watch?v=nnZt1PTGI98"
+        },
+        {
+          "video_id": "IUl2VwIx_zY",
+          "title": "Pisces 13° Song: Mirror to Myself",
+          "url": "https://www.youtube.com/watch?v=IUl2VwIx_zY"
+        },
+        {
+          "video_id": "wn2mQ0hhr6A",
+          "title": "Pisces 14° Song: What Remains",
+          "url": "https://www.youtube.com/watch?v=wn2mQ0hhr6A"
+        },
+        {
+          "video_id": "pGgyb8i6aXc",
+          "title": "Pisces 15 – Path of the Calling",
+          "url": "https://www.youtube.com/watch?v=pGgyb8i6aXc"
+        },
+        {
+          "video_id": "VvgBrGOU7iY",
+          "title": "Pisces 16° Song: Walls and Open Skies",
+          "url": "https://www.youtube.com/watch?v=VvgBrGOU7iY"
+        },
+        {
+          "video_id": "QkApKojfeg4",
+          "title": "Pisces 17° Song: Stand in the Tide",
+          "url": "https://www.youtube.com/watch?v=QkApKojfeg4"
+        },
+        {
+          "video_id": "wpWrZ8a7Ks4",
+          "title": "Pisces 18° Song: All In",
+          "url": "https://www.youtube.com/watch?v=wpWrZ8a7Ks4"
+        },
+        {
+          "video_id": "b2DaZmEl9cA",
+          "title": "Pisces 19° Song: Battle and Balance",
+          "url": "https://www.youtube.com/watch?v=b2DaZmEl9cA"
+        },
+        {
+          "video_id": "zu9nAdALaxk",
+          "title": "Pisces 20° Song: Dream to Reality",
+          "url": "https://www.youtube.com/watch?v=zu9nAdALaxk"
+        },
+        {
+          "video_id": "eMw26Yxvhbs",
+          "title": "Pisces 21° Song: Roots and Rivers",
+          "url": "https://www.youtube.com/watch?v=eMw26Yxvhbs"
+        },
+        {
+          "video_id": "11pCVUs__5k",
+          "title": "Pisces 22° Song: Velvet Horizon",
+          "url": "https://www.youtube.com/watch?v=11pCVUs__5k"
+        },
+        {
+          "video_id": "Q15KCgWR6tg",
+          "title": "Pisces 23° Song",
+          "url": "https://www.youtube.com/watch?v=Q15KCgWR6tg"
+        },
+        {
+          "video_id": "RdphEAdI2Ek",
+          "title": "Pisces 24° Song: Breaking the Spell",
+          "url": "https://www.youtube.com/watch?v=RdphEAdI2Ek"
+        },
+        {
+          "video_id": "nvU7387VDQQ",
+          "title": "Pisces 25° Song: The Honorable Path",
+          "url": "https://www.youtube.com/watch?v=nvU7387VDQQ"
+        },
+        {
+          "video_id": "l8lcA6fvuY4",
+          "title": "Pisces 26° Song: Light of the Revolution",
+          "url": "https://www.youtube.com/watch?v=l8lcA6fvuY4"
+        },
+        {
+          "video_id": "XXz3d4k7MFQ",
+          "title": "Pisces 27° Song: Wild and Unbound",
+          "url": "https://www.youtube.com/watch?v=XXz3d4k7MFQ"
+        },
+        {
+          "video_id": "xcIHRQebXJo",
+          "title": "Pisces 28° Song: Eyes of the Healer",
+          "url": "https://www.youtube.com/watch?v=xcIHRQebXJo"
+        },
+        {
+          "video_id": "fI9BSkGew_E",
+          "title": "Pisces 29° Song: Steady Hands",
+          "url": "https://www.youtube.com/watch?v=fI9BSkGew_E"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Pisces from Pisces 0° to Pisces 29°. Each track captures the compassionate, imaginative, and spiritually attuned energy of Pisces, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Pisces and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBwWaqIOQ_lmNli8WjOT1CB.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCj_TGRwgfBjPMpYWrSE198",
+      "title": "Aquarius Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCj_TGRwgfBjPMpYWrSE198",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "EYTCLjQefWY",
+          "title": "Aquarius 0° Song: Soul’s Turning Point",
+          "url": "https://www.youtube.com/watch?v=EYTCLjQefWY"
+        },
+        {
+          "video_id": "e6sD4fuPHEk",
+          "title": "Aquarius 1°  Song: The Edge of What Can Be",
+          "url": "https://www.youtube.com/watch?v=e6sD4fuPHEk"
+        },
+        {
+          "video_id": "Ddd9s3E94hs",
+          "title": "Aquarius 2°  Song: Clarity and Mystery",
+          "url": "https://www.youtube.com/watch?v=Ddd9s3E94hs"
+        },
+        {
+          "video_id": "yruTK_SA080",
+          "title": "Aquarius 3°  Song:  Into the Unknown",
+          "url": "https://www.youtube.com/watch?v=yruTK_SA080"
+        },
+        {
+          "video_id": "2rESAImcfyg",
+          "title": "Aquarius 4°  Song: Rise and Remember",
+          "url": "https://www.youtube.com/watch?v=2rESAImcfyg"
+        },
+        {
+          "video_id": "5wW-4F8XEHs",
+          "title": "Aquarius 5°  Song: Voice of the Earth",
+          "url": "https://www.youtube.com/watch?v=5wW-4F8XEHs"
+        },
+        {
+          "video_id": "eBE5HjbARpQ",
+          "title": "Aquarius 6°  Song: The Beauty in the Flaw",
+          "url": "https://www.youtube.com/watch?v=eBE5HjbARpQ"
+        },
+        {
+          "video_id": "rFzJr8Rbaag",
+          "title": "Aquarius 7°  Song: Right Here",
+          "url": "https://www.youtube.com/watch?v=rFzJr8Rbaag"
+        },
+        {
+          "video_id": "gUUWQ3Rz3oI",
+          "title": "Aquarius 8°  Song:  Unlocked",
+          "url": "https://www.youtube.com/watch?v=gUUWQ3Rz3oI"
+        },
+        {
+          "video_id": "AtvnFI1rjSM",
+          "title": "Aquarius 9°  Song: Light Ahead",
+          "url": "https://www.youtube.com/watch?v=AtvnFI1rjSM"
+        },
+        {
+          "video_id": "uqRwajHLWcI",
+          "title": "Aquarius 10°  Song: Quiet Flame",
+          "url": "https://www.youtube.com/watch?v=uqRwajHLWcI"
+        },
+        {
+          "video_id": "g60SdGVXrjE",
+          "title": "Aquarius 11°  Song: Stillness Wins",
+          "url": "https://www.youtube.com/watch?v=g60SdGVXrjE"
+        },
+        {
+          "video_id": "q40u9CI0R2M",
+          "title": "Aquarius 12°  Song: True Freedom Finds Me",
+          "url": "https://www.youtube.com/watch?v=q40u9CI0R2M"
+        },
+        {
+          "video_id": "JT6pwXlelME",
+          "title": "Aquarius 13°  Song: Stand and Soar",
+          "url": "https://www.youtube.com/watch?v=JT6pwXlelME"
+        },
+        {
+          "video_id": "6N3mGD3uV5c",
+          "title": "Aquarius 14° Song: Unshaken Change",
+          "url": "https://www.youtube.com/watch?v=6N3mGD3uV5c"
+        },
+        {
+          "video_id": "a2joxv2z9EI",
+          "title": "Aquarius 15°  Song: Belonging Everywhere",
+          "url": "https://www.youtube.com/watch?v=a2joxv2z9EI"
+        },
+        {
+          "video_id": "S_-SW0O3sA0",
+          "title": "Aquarius 16°  Song: Fire Beneath the Work",
+          "url": "https://www.youtube.com/watch?v=S_-SW0O3sA0"
+        },
+        {
+          "video_id": "giCaDFLL4bc",
+          "title": "Aquarius 17°  Song: Light the Spark",
+          "url": "https://www.youtube.com/watch?v=giCaDFLL4bc"
+        },
+        {
+          "video_id": "mKngbKJyogQ",
+          "title": "Aquarius 18°  Song: Quiet Depth",
+          "url": "https://www.youtube.com/watch?v=mKngbKJyogQ"
+        },
+        {
+          "video_id": "9wsqbCcO4ug",
+          "title": "Aquarius 19°  Song: Rise Again",
+          "url": "https://www.youtube.com/watch?v=9wsqbCcO4ug"
+        },
+        {
+          "video_id": "C1z_FSMF7oI",
+          "title": "Aquarius 20°  Song: The Quiet Light",
+          "url": "https://www.youtube.com/watch?v=C1z_FSMF7oI"
+        },
+        {
+          "video_id": "AMjNCWXJ6Rg",
+          "title": "Aquarius 21°  Song: Awaken the Flame",
+          "url": "https://www.youtube.com/watch?v=AMjNCWXJ6Rg"
+        },
+        {
+          "video_id": "w42O2LHMEaQ",
+          "title": "Aquarius 22°  Song: Quiet Force",
+          "url": "https://www.youtube.com/watch?v=w42O2LHMEaQ"
+        },
+        {
+          "video_id": "54-QEnydFTI",
+          "title": "Aquarius 23°  Song: Hands in the Light",
+          "url": "https://www.youtube.com/watch?v=54-QEnydFTI"
+        },
+        {
+          "video_id": "dXhawBnOPkA",
+          "title": "Aquarius 24°  Song: Between the Pulls",
+          "url": "https://www.youtube.com/watch?v=dXhawBnOPkA"
+        },
+        {
+          "video_id": "FwAvU0JKUl8",
+          "title": "Aquarius 25°  Song: Carry the Light",
+          "url": "https://www.youtube.com/watch?v=FwAvU0JKUl8"
+        },
+        {
+          "video_id": "p2Rx9vJ5JS0",
+          "title": "Aquarius 26°  Song: Into the Vision",
+          "url": "https://www.youtube.com/watch?v=p2Rx9vJ5JS0"
+        },
+        {
+          "video_id": "XMUmb6jk7BA",
+          "title": "Aquarius 27°  Song: Bridge of Time",
+          "url": "https://www.youtube.com/watch?v=XMUmb6jk7BA"
+        },
+        {
+          "video_id": "HMjeNs6cWDw",
+          "title": "Aquarius 28°  Song: Edge of the Horizon",
+          "url": "https://www.youtube.com/watch?v=HMjeNs6cWDw"
+        },
+        {
+          "video_id": "DHmuJpi04FQ",
+          "title": "Aquarius 29°  Song: Clear as the Sky",
+          "url": "https://www.youtube.com/watch?v=DHmuJpi04FQ"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Aquarius from Aquarius 0° to Aquarius 29°. Each track captures the innovative, visionary, and forward-thinking energy of Aquarius, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Aquarius and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCj_TGRwgfBjPMpYWrSE198.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBPbkAmAJlZP696fu5NW0Ds",
+      "title": "Capricorn Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBPbkAmAJlZP696fu5NW0Ds",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "yaeL3XEVHPM",
+          "title": "Capricorn 0° Song: Essence of the Pattern",
+          "url": "https://www.youtube.com/watch?v=yaeL3XEVHPM"
+        },
+        {
+          "video_id": "lYyxo-2hQls",
+          "title": "Capricorn 1° Song: Inner Canopy",
+          "url": "https://www.youtube.com/watch?v=lYyxo-2hQls"
+        },
+        {
+          "video_id": "pHfGWSBGqJc",
+          "title": "Capricorn 2° Song: Stand in the Shift",
+          "url": "https://www.youtube.com/watch?v=pHfGWSBGqJc"
+        },
+        {
+          "video_id": "ftzNgpWa8M8",
+          "title": "Capricorn 3° Song: Break the Cycle",
+          "url": "https://www.youtube.com/watch?v=ftzNgpWa8M8"
+        },
+        {
+          "video_id": "wYpO1ZCiw_M",
+          "title": "Capricorn 4° Song: Path Already Laid",
+          "url": "https://www.youtube.com/watch?v=wYpO1ZCiw_M"
+        },
+        {
+          "video_id": "5CsLymxQV_c",
+          "title": "Capricorn 5° Song: Quiet Gold",
+          "url": "https://www.youtube.com/watch?v=5CsLymxQV_c"
+        },
+        {
+          "video_id": "9DqM_gRbyK8",
+          "title": "Capricorn 6° Song: Gold Beneath the Silence",
+          "url": "https://www.youtube.com/watch?v=9DqM_gRbyK8"
+        },
+        {
+          "video_id": "bz93J1d-vf4",
+          "title": "Capricorn 7° Song: Mirror of the Satyr",
+          "url": "https://www.youtube.com/watch?v=bz93J1d-vf4"
+        },
+        {
+          "video_id": "Wl06b9bd6vg",
+          "title": "Capricorn 8° Song: Eyes of the Charmer",
+          "url": "https://www.youtube.com/watch?v=Wl06b9bd6vg"
+        },
+        {
+          "video_id": "LMGKeChE5dU",
+          "title": "Capricorn 9° Song: Steps of the Devoted",
+          "url": "https://www.youtube.com/watch?v=LMGKeChE5dU"
+        },
+        {
+          "video_id": "xVQcg-v_elc",
+          "title": "Capricorn 10° Song: Whispers in the Stone",
+          "url": "https://www.youtube.com/watch?v=xVQcg-v_elc"
+        },
+        {
+          "video_id": "NDeHyCSiZxI",
+          "title": "Capricorn 11° Song: Quiet Architect",
+          "url": "https://www.youtube.com/watch?v=NDeHyCSiZxI"
+        },
+        {
+          "video_id": "PDERZiSLCEY",
+          "title": "Capricorn 12° Song: Edge of the Mirror",
+          "url": "https://www.youtube.com/watch?v=PDERZiSLCEY"
+        },
+        {
+          "video_id": "xU6_rN5IpoM",
+          "title": "Capricorn 13° Song: Climb with Honor: Climb with Honor",
+          "url": "https://www.youtube.com/watch?v=xU6_rN5IpoM"
+        },
+        {
+          "video_id": "Yt0vUyXZ8Z8",
+          "title": "Capricorn 14° Song: Voice of the Stone",
+          "url": "https://www.youtube.com/watch?v=Yt0vUyXZ8Z8"
+        },
+        {
+          "video_id": "SvUkjRyctIs",
+          "title": "Capricorn 15° Song: Shadow and Crown",
+          "url": "https://www.youtube.com/watch?v=SvUkjRyctIs"
+        },
+        {
+          "video_id": "i-VPxpn9n08",
+          "title": "Capricorn 16° Song: Flame in Motion",
+          "url": "https://www.youtube.com/watch?v=i-VPxpn9n08"
+        },
+        {
+          "video_id": "Yc72bkOqjKo",
+          "title": "Capricorn 17° Song: The Song Between the Lines",
+          "url": "https://www.youtube.com/watch?v=Yc72bkOqjKo"
+        },
+        {
+          "video_id": "SbUHhJX_M-A",
+          "title": "Capricorn 18° Song: Stand for the Fire",
+          "url": "https://www.youtube.com/watch?v=SbUHhJX_M-A"
+        },
+        {
+          "video_id": "jUiWKun38Mc",
+          "title": "Capricorn 19° Song: The One Who Stands",
+          "url": "https://www.youtube.com/watch?v=jUiWKun38Mc"
+        },
+        {
+          "video_id": "KnJzTjeXjIU",
+          "title": "Capricorn 20° Song: Echoes into Purpose",
+          "url": "https://www.youtube.com/watch?v=KnJzTjeXjIU"
+        },
+        {
+          "video_id": "pneO8tO32B8",
+          "title": "Capricorn 21° Song: The Turning Page",
+          "url": "https://www.youtube.com/watch?v=pneO8tO32B8"
+        },
+        {
+          "video_id": "aLKFLhgYPTk",
+          "title": "Capricorn 22° Song: Beneath the Stone",
+          "url": "https://www.youtube.com/watch?v=aLKFLhgYPTk"
+        },
+        {
+          "video_id": "WLFj1Jdu-y8",
+          "title": "Capricorn 23° Song: Fire with Form",
+          "url": "https://www.youtube.com/watch?v=WLFj1Jdu-y8"
+        },
+        {
+          "video_id": "-0i_i6IXDvE",
+          "title": "Capricorn 24° Song: The Quiet Truth",
+          "url": "https://www.youtube.com/watch?v=-0i_i6IXDvE"
+        },
+        {
+          "video_id": "mZskrgKrk30",
+          "title": "Capricorn 25° Song: The Role I Choose",
+          "url": "https://www.youtube.com/watch?v=mZskrgKrk30"
+        },
+        {
+          "video_id": "bP45fEUwNWs",
+          "title": "Capricorn 26° Song: Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=bP45fEUwNWs"
+        },
+        {
+          "video_id": "91UhUZtGM28",
+          "title": "Capricorn 27° Song: Rooted and Rising",
+          "url": "https://www.youtube.com/watch?v=91UhUZtGM28"
+        },
+        {
+          "video_id": "h2T89YjENT4",
+          "title": "Capricorn 28° Song: The Weight I Choose",
+          "url": "https://www.youtube.com/watch?v=h2T89YjENT4"
+        },
+        {
+          "video_id": "car03B1C-F0",
+          "title": "Capricorn 29° Song: In the Quiet, I Remember",
+          "url": "https://www.youtube.com/watch?v=car03B1C-F0"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Capricorn from Capricorn 0° to Capricorn 29°. Each track captures the disciplined, ambitious, and persevering energy of Capricorn, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Capricorn and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBPbkAmAJlZP696fu5NW0Ds.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaApQG1l8xjahqs-YFBnlomM",
+      "title": "Sagittarius Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaApQG1l8xjahqs-YFBnlomM",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "XmIrOxKJJm0",
+          "title": "Sagittarius 0° Song: Edge of Becoming",
+          "url": "https://www.youtube.com/watch?v=XmIrOxKJJm0"
+        },
+        {
+          "video_id": "I0hpbEaBAy8",
+          "title": "Sagittarius 1° Song: Break the Pattern",
+          "url": "https://www.youtube.com/watch?v=I0hpbEaBAy8"
+        },
+        {
+          "video_id": "llyKiowTY5s",
+          "title": "Sagittarius 2° Song: Wild and Becoming",
+          "url": "https://www.youtube.com/watch?v=llyKiowTY5s"
+        },
+        {
+          "video_id": "EfFf9h8YW4A",
+          "title": "Sagittarius 3° Song: The Way Back Home",
+          "url": "https://www.youtube.com/watch?v=EfFf9h8YW4A"
+        },
+        {
+          "video_id": "pQ4gApw5yLM",
+          "title": "Sagittarius 4° Song: When the Line Is Crossed",
+          "url": "https://www.youtube.com/watch?v=pQ4gApw5yLM"
+        },
+        {
+          "video_id": "F-NbpG6_LjQ",
+          "title": "Sagittarius 5° Song: Through the Quiet",
+          "url": "https://www.youtube.com/watch?v=F-NbpG6_LjQ"
+        },
+        {
+          "video_id": "gJ22ZYug-88",
+          "title": "Sagittarius 6° Song: More Than Myself",
+          "url": "https://www.youtube.com/watch?v=gJ22ZYug-88"
+        },
+        {
+          "video_id": "qsIRog-VB58",
+          "title": "Sagittarius 7° Song: Quiet Knows",
+          "url": "https://www.youtube.com/watch?v=qsIRog-VB58"
+        },
+        {
+          "video_id": "lJr9rXAnQvk",
+          "title": "Sagittarius 8° Song: Headfirst into Light",
+          "url": "https://www.youtube.com/watch?v=lJr9rXAnQvk"
+        },
+        {
+          "video_id": "DFLdYala9BE",
+          "title": "Sagittarius 9° Song: Wild Flame",
+          "url": "https://www.youtube.com/watch?v=DFLdYala9BE"
+        },
+        {
+          "video_id": "S2gafjNXxZY",
+          "title": "Sagittarius 10° Song: Reshape the Sky",
+          "url": "https://www.youtube.com/watch?v=S2gafjNXxZY"
+        },
+        {
+          "video_id": "NRkb2evxYR4",
+          "title": "Sagittarius 11° Song: Full Circle Rhythm",
+          "url": "https://www.youtube.com/watch?v=NRkb2evxYR4"
+        },
+        {
+          "video_id": "e5Xjq8K7q7I",
+          "title": "Sagittarius 12° Song: Melt into Becoming",
+          "url": "https://www.youtube.com/watch?v=e5Xjq8K7q7I"
+        },
+        {
+          "video_id": "2tN3WKetBag",
+          "title": "Sagittarius 13° Song: Ashes and Insight",
+          "url": "https://www.youtube.com/watch?v=2tN3WKetBag"
+        },
+        {
+          "video_id": "YDDuNhwjXTI",
+          "title": "Sagittarius 14° Song: Light Through the Mind",
+          "url": "https://www.youtube.com/watch?v=YDDuNhwjXTI"
+        },
+        {
+          "video_id": "rZ8qC01URk0",
+          "title": "Sagittarius 15° Song: Hold the Spark",
+          "url": "https://www.youtube.com/watch?v=rZ8qC01URk0"
+        },
+        {
+          "video_id": "awYfQz10sBY",
+          "title": "Sagittarius 16° Song: Steady Flame",
+          "url": "https://www.youtube.com/watch?v=awYfQz10sBY"
+        },
+        {
+          "video_id": "WrOfufFKOUM",
+          "title": "Sagittarius 17° Song: Leap of Light",
+          "url": "https://www.youtube.com/watch?v=WrOfufFKOUM"
+        },
+        {
+          "video_id": "TQYu38hpHKM",
+          "title": "Sagittarius 18° Song: Quiet Grace",
+          "url": "https://www.youtube.com/watch?v=TQYu38hpHKM"
+        },
+        {
+          "video_id": "jaKthtIWUzk",
+          "title": "Sagittarius 19° Song: Washed Ashore",
+          "url": "https://www.youtube.com/watch?v=jaKthtIWUzk"
+        },
+        {
+          "video_id": "4i2m2qwq8E0",
+          "title": "Sagittarius 20° Song: Everyday Alchemy",
+          "url": "https://www.youtube.com/watch?v=4i2m2qwq8E0"
+        },
+        {
+          "video_id": "YQZawxCbE6Q",
+          "title": "Sagittarius 21° Song: Currents of the Quiet",
+          "url": "https://www.youtube.com/watch?v=YQZawxCbE6Q"
+        },
+        {
+          "video_id": "4BcA3wQSAYQ",
+          "title": "Sagittarius 22° Song: Break the Shell",
+          "url": "https://www.youtube.com/watch?v=4BcA3wQSAYQ"
+        },
+        {
+          "video_id": "FuTrly52Mh4",
+          "title": "Sagittarius 23° Song: Bells of the Heart",
+          "url": "https://www.youtube.com/watch?v=FuTrly52Mh4"
+        },
+        {
+          "video_id": "-qvjHScu__s",
+          "title": "Sagittarius 24° Song: Light of the Old Ways",
+          "url": "https://www.youtube.com/watch?v=-qvjHScu__s"
+        },
+        {
+          "video_id": "82DK0FfUEVo",
+          "title": "Sagittarius 25° Song: Drift and Rise",
+          "url": "https://www.youtube.com/watch?v=82DK0FfUEVo"
+        },
+        {
+          "video_id": "omIrryMbKW0",
+          "title": "Sagittarius 26° Song: Many Faces, One Flame",
+          "url": "https://www.youtube.com/watch?v=omIrryMbKW0"
+        },
+        {
+          "video_id": "X058SrPhqxY",
+          "title": "Sagittarius 27° Song: Into the New Light",
+          "url": "https://www.youtube.com/watch?v=X058SrPhqxY"
+        },
+        {
+          "video_id": "WcSjHGOEsDM",
+          "title": "Sagittarius 28° Song: Carve My Way",
+          "url": "https://www.youtube.com/watch?v=WcSjHGOEsDM"
+        },
+        {
+          "video_id": "pXawGQMF9VM",
+          "title": "Sagittarius 29° Song: Beyond the Edge",
+          "url": "https://www.youtube.com/watch?v=pXawGQMF9VM"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Sagittarius from Sagittarius 0° to Sagittarius 29°. Each track captures the adventurous, optimistic, and truth-seeking energy of Sagittarius, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Sagittarius and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaApQG1l8xjahqs-YFBnlomM.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAH5nuzVC0GpLcoEkts22IV",
+      "title": "Scorpio Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAH5nuzVC0GpLcoEkts22IV",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "BNphLZig7rk",
+          "title": "Scorpio  0° Song: Veil of Duality",
+          "url": "https://www.youtube.com/watch?v=BNphLZig7rk"
+        },
+        {
+          "video_id": "cPJ5cTus42o",
+          "title": "Scorpio  1° Song: Depths of Harmony",
+          "url": "https://www.youtube.com/watch?v=cPJ5cTus42o"
+        },
+        {
+          "video_id": "xvHR7epQXTg",
+          "title": "Scorpio  2° Song: Forged in Shadows",
+          "url": "https://www.youtube.com/watch?v=xvHR7epQXTg"
+        },
+        {
+          "video_id": "NNPxRdFIcoc",
+          "title": "Scorpio  3° Song: Veil of the Vortex",
+          "url": "https://www.youtube.com/watch?v=NNPxRdFIcoc"
+        },
+        {
+          "video_id": "BpRp3q-wsaY",
+          "title": "Scorpio 4° Song: Symphony of the Deep",
+          "url": "https://www.youtube.com/watch?v=BpRp3q-wsaY"
+        },
+        {
+          "video_id": "IVu0OBHZ6fw",
+          "title": "Scorpio  5° Song: Path of the Phoenix",
+          "url": "https://www.youtube.com/watch?v=IVu0OBHZ6fw"
+        },
+        {
+          "video_id": "SmTenPfoLW8",
+          "title": "Scorpio 6° Song: Alchemy of Precision",
+          "url": "https://www.youtube.com/watch?v=SmTenPfoLW8"
+        },
+        {
+          "video_id": "T21TTfQnvUM",
+          "title": "Scorpio 7° Song: Veil of the Unseen",
+          "url": "https://www.youtube.com/watch?v=T21TTfQnvUM"
+        },
+        {
+          "video_id": "lQPWLHFRG74",
+          "title": "Scorpio 8° Song: Bridge of the Mind",
+          "url": "https://www.youtube.com/watch?v=lQPWLHFRG74"
+        },
+        {
+          "video_id": "TggNVAwDlKg",
+          "title": "Scorpio 9° Song: Roots of the Storm",
+          "url": "https://www.youtube.com/watch?v=TggNVAwDlKg"
+        },
+        {
+          "video_id": "tazZtLSfRiY",
+          "title": "Scorpio 10° Song: Beneath the Wink",
+          "url": "https://www.youtube.com/watch?v=tazZtLSfRiY"
+        },
+        {
+          "video_id": "Vn3db8OFeao",
+          "title": "Scorpio 11° Song: Guard of the Heart",
+          "url": "https://www.youtube.com/watch?v=Vn3db8OFeao"
+        },
+        {
+          "video_id": "3-jskKBtSjo",
+          "title": "Scorpio 12° Song: Lines in the Dust",
+          "url": "https://www.youtube.com/watch?v=3-jskKBtSjo"
+        },
+        {
+          "video_id": "tJ4xKVx3zvE",
+          "title": "Scorpio 13° Song: Quiet Fortress",
+          "url": "https://www.youtube.com/watch?v=tJ4xKVx3zvE"
+        },
+        {
+          "video_id": "XHAD8s6Q1JI",
+          "title": "Scorpio 14° Song: Heart Before the Flame",
+          "url": "https://www.youtube.com/watch?v=XHAD8s6Q1JI"
+        },
+        {
+          "video_id": "M5hxTXBmShI",
+          "title": "Scorpio 15° Song: Through the Weight",
+          "url": "https://www.youtube.com/watch?v=M5hxTXBmShI"
+        },
+        {
+          "video_id": "hERl4FUknCA",
+          "title": "Scorpio 16° Song: Armor and Ash",
+          "url": "https://www.youtube.com/watch?v=hERl4FUknCA"
+        },
+        {
+          "video_id": "-A2QZp83YGg",
+          "title": "Scorpio 17° Song: Quiet Bloom",
+          "url": "https://www.youtube.com/watch?v=-A2QZp83YGg"
+        },
+        {
+          "video_id": "G7QGWVKatig",
+          "title": "Scorpio 18° Song: Still Waters Rise",
+          "url": "https://www.youtube.com/watch?v=G7QGWVKatig"
+        },
+        {
+          "video_id": "qaF7pl2Dvik",
+          "title": "Scorpio 19° Song: Fire at the Gate",
+          "url": "https://www.youtube.com/watch?v=qaF7pl2Dvik"
+        },
+        {
+          "video_id": "k1bs9YASvPs",
+          "title": "Scorpio 20° Song: Horizon Flame",
+          "url": "https://www.youtube.com/watch?v=k1bs9YASvPs"
+        },
+        {
+          "video_id": "8GLgHa23ylc",
+          "title": "Scorpio 21° Song: Fire and Stillness",
+          "url": "https://www.youtube.com/watch?v=8GLgHa23ylc"
+        },
+        {
+          "video_id": "OLGRtbWQ4BE",
+          "title": "Scorpio 22° Song: Leap and Land",
+          "url": "https://www.youtube.com/watch?v=OLGRtbWQ4BE"
+        },
+        {
+          "video_id": "2gALgPJVmKs",
+          "title": "Scorpio 23° Song: Unwritten Flame",
+          "url": "https://www.youtube.com/watch?v=2gALgPJVmKs"
+        },
+        {
+          "video_id": "0ilAl6FWRdc",
+          "title": "Scorpio 24° Song: Blueprint of the Soul",
+          "url": "https://www.youtube.com/watch?v=0ilAl6FWRdc"
+        },
+        {
+          "video_id": "m0SNIJgw1C4",
+          "title": "Scorpio 25° Song: Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=m0SNIJgw1C4"
+        },
+        {
+          "video_id": "6yc5te58Z8w",
+          "title": "Scorpio 26° Song: Born of the Real",
+          "url": "https://www.youtube.com/watch?v=6yc5te58Z8w"
+        },
+        {
+          "video_id": "T4dBzJE2qJY",
+          "title": "Scorpio 27° Song: Voice of the Horizon",
+          "url": "https://www.youtube.com/watch?v=T4dBzJE2qJY"
+        },
+        {
+          "video_id": "6dc3plrdqhE",
+          "title": "Scorpio 28° Song: Carved in Fire",
+          "url": "https://www.youtube.com/watch?v=6dc3plrdqhE"
+        },
+        {
+          "video_id": "-uWbvukoRQ8",
+          "title": "Scorpio 29° Song: Pages of Becoming",
+          "url": "https://www.youtube.com/watch?v=-uWbvukoRQ8"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Scorpio from Scorpio 0° to Scorpio 29°. Each track captures the intense, transformative, and deeply passionate energy of Scorpio, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Scorpio and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAH5nuzVC0GpLcoEkts22IV.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCT3FxN4jeK03qKIJIoSynC",
+      "title": "Libra Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCT3FxN4jeK03qKIJIoSynC",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "R0OMzSsKq4c",
+          "title": "Libra 0° Song: Threads of Truth",
+          "url": "https://www.youtube.com/watch?v=R0OMzSsKq4c"
+        },
+        {
+          "video_id": "oLJrnlzvobg",
+          "title": "Libra 1° Song: Steadfast Harmony",
+          "url": "https://www.youtube.com/watch?v=oLJrnlzvobg"
+        },
+        {
+          "video_id": "kP6rIQt9Rc0",
+          "title": "Libra 2° Song: entle Currents",
+          "url": "https://www.youtube.com/watch?v=kP6rIQt9Rc0"
+        },
+        {
+          "video_id": "NCLetjiq2S0",
+          "title": "Libra 3° Song: Inner Compass",
+          "url": "https://www.youtube.com/watch?v=NCLetjiq2S0"
+        },
+        {
+          "video_id": "8Y9fvEqER0U",
+          "title": "Libra 4° Song: Steady Reflection",
+          "url": "https://www.youtube.com/watch?v=8Y9fvEqER0U"
+        },
+        {
+          "video_id": "u8CaNBpiQys",
+          "title": "Libra 5° Song: Dance of Light",
+          "url": "https://www.youtube.com/watch?v=u8CaNBpiQys"
+        },
+        {
+          "video_id": "XNecEGCCn2U",
+          "title": "Libra 6° Song: Echoes of the Ancients",
+          "url": "https://www.youtube.com/watch?v=XNecEGCCn2U"
+        },
+        {
+          "video_id": "kg6NRxs4z1o",
+          "title": "Libra 7° Song: Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=kg6NRxs4z1o"
+        },
+        {
+          "video_id": "Xhw8QZwhhdg",
+          "title": "Libra 8° Song: Whispered Wings",
+          "url": "https://www.youtube.com/watch?v=Xhw8QZwhhdg"
+        },
+        {
+          "video_id": "BBRZXNw_hj4",
+          "title": "Libra 9° Song: Prism of Truth",
+          "url": "https://www.youtube.com/watch?v=BBRZXNw_hj4"
+        },
+        {
+          "video_id": "PPX9ury1TPM",
+          "title": "Libra 10° Song: Edge of the Mirror",
+          "url": "https://www.youtube.com/watch?v=PPX9ury1TPM"
+        },
+        {
+          "video_id": "emkyAxK1Gv4",
+          "title": "Libra 11° Song: Dual Stars",
+          "url": "https://www.youtube.com/watch?v=emkyAxK1Gv4"
+        },
+        {
+          "video_id": "2AdoyKN13Sg",
+          "title": "Libra 12° Song: Gentle Renewal",
+          "url": "https://www.youtube.com/watch?v=2AdoyKN13Sg"
+        },
+        {
+          "video_id": "S_ve84OfgX8",
+          "title": "Libra 13° Song: Bridges of the Heart",
+          "url": "https://www.youtube.com/watch?v=S_ve84OfgX8"
+        },
+        {
+          "video_id": "YbTwa51Offg",
+          "title": "Libra 14° Song: Masks and Mirrors",
+          "url": "https://www.youtube.com/watch?v=YbTwa51Offg"
+        },
+        {
+          "video_id": "fegP8RsCyaQ",
+          "title": "Libra 15° Song: Currents of Choice",
+          "url": "https://www.youtube.com/watch?v=fegP8RsCyaQ"
+        },
+        {
+          "video_id": "5ab2Ay1K-sY",
+          "title": "Libra 16° Song: Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=5ab2Ay1K-sY"
+        },
+        {
+          "video_id": "5fjr25lw6rA",
+          "title": "Libra 17° Song: Words Between the Lines",
+          "url": "https://www.youtube.com/watch?v=5fjr25lw6rA"
+        },
+        {
+          "video_id": "HVuyXLqvRQc",
+          "title": "Libra 18° Song: Warm Threshold",
+          "url": "https://www.youtube.com/watch?v=HVuyXLqvRQc"
+        },
+        {
+          "video_id": "hKh2DmPKlVk",
+          "title": "Libra 19° Song: Scales of the Soul",
+          "url": "https://www.youtube.com/watch?v=hKh2DmPKlVk"
+        },
+        {
+          "video_id": "lynAoxp0NxQ",
+          "title": "Libra 20° Song: Harmony’s Path",
+          "url": "https://www.youtube.com/watch?v=lynAoxp0NxQ"
+        },
+        {
+          "video_id": "q3_0eFO25zA",
+          "title": "Libra 21° Song: Voices of the Self",
+          "url": "https://www.youtube.com/watch?v=q3_0eFO25zA"
+        },
+        {
+          "video_id": "UCA4D6krup0",
+          "title": "Libra 22° Song: Echoes of the Timeless",
+          "url": "https://www.youtube.com/watch?v=UCA4D6krup0"
+        },
+        {
+          "video_id": "d_yh_t0DYPs",
+          "title": "Libra 23° Song: Threshold of Change",
+          "url": "https://www.youtube.com/watch?v=d_yh_t0DYPs"
+        },
+        {
+          "video_id": "5PwjiJud1VQ",
+          "title": "Libra 24° Song: Mirror of Myself",
+          "url": "https://www.youtube.com/watch?v=5PwjiJud1VQ"
+        },
+        {
+          "video_id": "DUm2ExmJd6Q",
+          "title": "Libra 25° Song: Threads of the Unseen",
+          "url": "https://www.youtube.com/watch?v=DUm2ExmJd6Q"
+        },
+        {
+          "video_id": "U-3IC3liGts",
+          "title": "Libra 26° Song: Quiet Currents",
+          "url": "https://www.youtube.com/watch?v=U-3IC3liGts"
+        },
+        {
+          "video_id": "o1SoV6YnAmk",
+          "title": "Libra 27° Song: Still Waters",
+          "url": "https://www.youtube.com/watch?v=o1SoV6YnAmk"
+        },
+        {
+          "video_id": "iRKgkOO7frM",
+          "title": "Libra 28° Song: Quiet Currents",
+          "url": "https://www.youtube.com/watch?v=iRKgkOO7frM"
+        },
+        {
+          "video_id": "8SfIJwVv-WE",
+          "title": "Libra 29° Song: Mirror of the Heart",
+          "url": "https://www.youtube.com/watch?v=8SfIJwVv-WE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Libra from Libra 0° to Libra 29°. Each track captures the harmonious, balanced, and relationship-focused energy of Libra, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Libra and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCT3FxN4jeK03qKIJIoSynC.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCCh9-DiPOpqwhobjJpPKq0",
+      "title": "Virgo Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCCh9-DiPOpqwhobjJpPKq0",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "OIDqxCf6rh4",
+          "title": "0° Virgo Song: Heart of the Shepherd",
+          "url": "https://www.youtube.com/watch?v=OIDqxCf6rh4"
+        },
+        {
+          "video_id": "becMUzKhzuY",
+          "title": "1° Virgo Song: Bridges of the Heart",
+          "url": "https://www.youtube.com/watch?v=becMUzKhzuY"
+        },
+        {
+          "video_id": "N8HBkgUJFc8",
+          "title": "2° Virgo Song: Silence of the Mind",
+          "url": "https://www.youtube.com/watch?v=N8HBkgUJFc8"
+        },
+        {
+          "video_id": "6exkYZ-GIn8",
+          "title": "3° Virgo Song: Steady Bloom",
+          "url": "https://www.youtube.com/watch?v=6exkYZ-GIn8"
+        },
+        {
+          "video_id": "ZxbIoJ_rfUk",
+          "title": "4° Virgo Song: Blueprint of the Soul",
+          "url": "https://www.youtube.com/watch?v=ZxbIoJ_rfUk"
+        },
+        {
+          "video_id": "COZlGBXBuYc",
+          "title": "5° Virgo Song: Steady Hands, Open Heart",
+          "url": "https://www.youtube.com/watch?v=COZlGBXBuYc"
+        },
+        {
+          "video_id": "UJwLK1mPKsg",
+          "title": "6° Virgo Song: Song: Roots of Grace",
+          "url": "https://www.youtube.com/watch?v=UJwLK1mPKsg"
+        },
+        {
+          "video_id": "N2E4xzWcFhA",
+          "title": "7° Virgo Song: Shadows to Sunrise",
+          "url": "https://www.youtube.com/watch?v=N2E4xzWcFhA"
+        },
+        {
+          "video_id": "oG3Kq0G0kJY",
+          "title": "8° Virgo Song: Roots and Wings",
+          "url": "https://www.youtube.com/watch?v=oG3Kq0G0kJY"
+        },
+        {
+          "video_id": "tFG7GFHpEKM",
+          "title": "9° Virgo Song: Winds of Becoming",
+          "url": "https://www.youtube.com/watch?v=tFG7GFHpEKM"
+        },
+        {
+          "video_id": "T1AEcxhlIGU",
+          "title": "10° Virgo Song: Roots and Wings",
+          "url": "https://www.youtube.com/watch?v=T1AEcxhlIGU"
+        },
+        {
+          "video_id": "x_ULYhHra0c",
+          "title": "11° Virgo Song: Open Hands, Open Heart",
+          "url": "https://www.youtube.com/watch?v=x_ULYhHra0c"
+        },
+        {
+          "video_id": "EeFvc3G2tv8",
+          "title": "12° Virgo Song: Mirror of the Mind",
+          "url": "https://www.youtube.com/watch?v=EeFvc3G2tv8"
+        },
+        {
+          "video_id": "e1ayrBt8tv4",
+          "title": "13° Virgo Song: Canvas of the Soul",
+          "url": "https://www.youtube.com/watch?v=e1ayrBt8tv4"
+        },
+        {
+          "video_id": "r__0HWgGWqQ",
+          "title": "14° Virgo Song: Hands in the Craft",
+          "url": "https://www.youtube.com/watch?v=r__0HWgGWqQ"
+        },
+        {
+          "video_id": "LHnoN0QWIwo",
+          "title": "15° Virgo Song: Quiet Flame of Service",
+          "url": "https://www.youtube.com/watch?v=LHnoN0QWIwo"
+        },
+        {
+          "video_id": "J4AMK5f7ckM",
+          "title": "16° Virgo Song: Salt of the Earth",
+          "url": "https://www.youtube.com/watch?v=J4AMK5f7ckM"
+        },
+        {
+          "video_id": "04ckg0lRdIU",
+          "title": "17° Virgo Song: Truth in the Shadows",
+          "url": "https://www.youtube.com/watch?v=04ckg0lRdIU"
+        },
+        {
+          "video_id": "gRc3Lfy0Gmw",
+          "title": "18° Virgo Song: Hands of Light",
+          "url": "https://www.youtube.com/watch?v=gRc3Lfy0Gmw"
+        },
+        {
+          "video_id": "ZeGJslvUGEQ",
+          "title": "19° Virgo Song: Roots of Resonance",
+          "url": "https://www.youtube.com/watch?v=ZeGJslvUGEQ"
+        },
+        {
+          "video_id": "fM8jdCIy7nQ",
+          "title": "20° Virgo Song: Iron & Quiet",
+          "url": "https://www.youtube.com/watch?v=fM8jdCIy7nQ"
+        },
+        {
+          "video_id": "7SSi03Vt9k0",
+          "title": "21° Virgo Song: Balance of the Ledger",
+          "url": "https://www.youtube.com/watch?v=7SSi03Vt9k0"
+        },
+        {
+          "video_id": "_KGUL8AZM0I",
+          "title": "22° Virgo Song: Spotlight and Shadows",
+          "url": "https://www.youtube.com/watch?v=_KGUL8AZM0I"
+        },
+        {
+          "video_id": "e59ApSrz_vY",
+          "title": "23° Virgo Song: Seeds of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=e59ApSrz_vY"
+        },
+        {
+          "video_id": "8xXZboX4EJ0",
+          "title": "24° Virgo Song: Veil of Harmony",
+          "url": "https://www.youtube.com/watch?v=8xXZboX4EJ0"
+        },
+        {
+          "video_id": "jQE6jArHDAM",
+          "title": "25° Virgo Song: Magnetic Whisper",
+          "url": "https://www.youtube.com/watch?v=jQE6jArHDAM"
+        },
+        {
+          "video_id": "WgrjEH0jaK4",
+          "title": "26° Virgo Song: Clear Sight",
+          "url": "https://www.youtube.com/watch?v=WgrjEH0jaK4"
+        },
+        {
+          "video_id": "DGTiIJb0-M4",
+          "title": "27° Virgo Song: Bridge of Minds",
+          "url": "https://www.youtube.com/watch?v=DGTiIJb0-M4"
+        },
+        {
+          "video_id": "JDOxCOuSLg0",
+          "title": "28° Virgo Song: Beyond the Wheel",
+          "url": "https://www.youtube.com/watch?v=JDOxCOuSLg0"
+        },
+        {
+          "video_id": "SwJEfoOt54M",
+          "title": "29° Virgo Song: Seeds of Stillness",
+          "url": "https://www.youtube.com/watch?v=SwJEfoOt54M"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Virgo from Virgo 0° to Virgo 29°. Each track captures the practical, analytical, and detail-oriented energy of Virgo, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Virgo and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCCh9-DiPOpqwhobjJpPKq0.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBaE_py2yZVtlswO3COeQEY",
+      "title": "Leo Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBaE_py2yZVtlswO3COeQEY",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "-UjqjdsVGAo",
+          "title": "0° Leo Song: Shine with Quiet Heart",
+          "url": "https://www.youtube.com/watch?v=-UjqjdsVGAo"
+        },
+        {
+          "video_id": "i6ABcFYVi60",
+          "title": "1° Leo Song: Crown of True Courage",
+          "url": "https://www.youtube.com/watch?v=i6ABcFYVi60"
+        },
+        {
+          "video_id": "XuWA-b5aMuc",
+          "title": "2° Leo Song: Rise from Within",
+          "url": "https://www.youtube.com/watch?v=XuWA-b5aMuc"
+        },
+        {
+          "video_id": "pxlxSIjZag4",
+          "title": "3° Leo Song: Wonder in the Light",
+          "url": "https://www.youtube.com/watch?v=pxlxSIjZag4"
+        },
+        {
+          "video_id": "iDREGkRacDQ",
+          "title": "4° Leo Song: Stand the Course",
+          "url": "https://www.youtube.com/watch?v=iDREGkRacDQ"
+        },
+        {
+          "video_id": "frUiXEY2nRw",
+          "title": "5° Leo Song: Claim the Stage",
+          "url": "https://www.youtube.com/watch?v=frUiXEY2nRw"
+        },
+        {
+          "video_id": "89fkn1fcwnw",
+          "title": "6° Leo Song: Flow with the Flame",
+          "url": "https://www.youtube.com/watch?v=89fkn1fcwnw"
+        },
+        {
+          "video_id": "Dfu-CPYRk0E",
+          "title": "7° Leo Song: Radiant Guide",
+          "url": "https://www.youtube.com/watch?v=Dfu-CPYRk0E"
+        },
+        {
+          "video_id": "G210_UZOLJo",
+          "title": "8° Leo Song: Embers of the Heart",
+          "url": "https://www.youtube.com/watch?v=G210_UZOLJo"
+        },
+        {
+          "video_id": "ExTEmfHmpKs",
+          "title": "9° Leo Song: Spotlight of the Soul",
+          "url": "https://www.youtube.com/watch?v=ExTEmfHmpKs"
+        },
+        {
+          "video_id": "SRYM4Z1hkaY",
+          "title": "10° Leo Song: Rise Above the Fire",
+          "url": "https://www.youtube.com/watch?v=SRYM4Z1hkaY"
+        },
+        {
+          "video_id": "36a3R3vixak",
+          "title": "11° Leo Song: Echoes of the True",
+          "url": "https://www.youtube.com/watch?v=36a3R3vixak"
+        },
+        {
+          "video_id": "6RMCVJofzrE",
+          "title": "12° Leo Song: Dance the Golden Flow",
+          "url": "https://www.youtube.com/watch?v=6RMCVJofzrE"
+        },
+        {
+          "video_id": "vfNWy0NIy8w",
+          "title": "13° Leo Song: Blaze the Horizon",
+          "url": "https://www.youtube.com/watch?v=vfNWy0NIy8w"
+        },
+        {
+          "video_id": "nS07e-Be3tE",
+          "title": "14° Leo Song: Bridge Between the Stars",
+          "url": "https://www.youtube.com/watch?v=nS07e-Be3tE"
+        },
+        {
+          "video_id": "jDb9-M4JFCs",
+          "title": "15° Leo Song: Lead with Light",
+          "url": "https://www.youtube.com/watch?v=jDb9-M4JFCs"
+        },
+        {
+          "video_id": "VJ4Bes0g020",
+          "title": "16° Leo Song: Shine Behind the Veil",
+          "url": "https://www.youtube.com/watch?v=VJ4Bes0g020"
+        },
+        {
+          "video_id": "F-YGn_rDg3s",
+          "title": "18° Leo Song: Steady Flame",
+          "url": "https://www.youtube.com/watch?v=F-YGn_rDg3s"
+        },
+        {
+          "video_id": "8huljjfJuw4",
+          "title": "19° Leo Song: Rise Like First Steps",
+          "url": "https://www.youtube.com/watch?v=8huljjfJuw4"
+        },
+        {
+          "video_id": "_NwryyfA4SM",
+          "title": "20° Leo Song: Journey of the Heart",
+          "url": "https://www.youtube.com/watch?v=_NwryyfA4SM"
+        },
+        {
+          "video_id": "5JYT-mEHjwk",
+          "title": "21° Leo Song: Guided by the Heart",
+          "url": "https://www.youtube.com/watch?v=5JYT-mEHjwk"
+        },
+        {
+          "video_id": "Zq16IIYjnwI",
+          "title": "22° Leo Song: Shield of the Heart",
+          "url": "https://www.youtube.com/watch?v=Zq16IIYjnwI"
+        },
+        {
+          "video_id": "Bb01vUfSKlI",
+          "title": "17° Leo Song: Blaze Your Path",
+          "url": "https://www.youtube.com/watch?v=Bb01vUfSKlI"
+        },
+        {
+          "video_id": "fhZ4BuYo4bw",
+          "title": "23° Leo Song: Echoes of Wisdom",
+          "url": "https://www.youtube.com/watch?v=fhZ4BuYo4bw"
+        },
+        {
+          "video_id": "8zMmtrnfxgs",
+          "title": "24° Leo Song: Fields of Quiet Grace",
+          "url": "https://www.youtube.com/watch?v=8zMmtrnfxgs"
+        },
+        {
+          "video_id": "YuRg6PMc8qI",
+          "title": "25 ° Leo Song: Balance the Delight",
+          "url": "https://www.youtube.com/watch?v=YuRg6PMc8qI"
+        },
+        {
+          "video_id": "oF5Lu9vMUFE",
+          "title": "26° Leo Song: Roots of Harmony",
+          "url": "https://www.youtube.com/watch?v=oF5Lu9vMUFE"
+        },
+        {
+          "video_id": "ddJFRI_lEjM",
+          "title": "27° Leo Song: Swift Currents, Silent Depths",
+          "url": "https://www.youtube.com/watch?v=ddJFRI_lEjM"
+        },
+        {
+          "video_id": "WomG0Hz1Gqc",
+          "title": "28° Leo Song: Hands Across the Flame",
+          "url": "https://www.youtube.com/watch?v=WomG0Hz1Gqc"
+        },
+        {
+          "video_id": "rP9d6Hv4p9E",
+          "title": "29° Leo Song: Foundations of the Heart",
+          "url": "https://www.youtube.com/watch?v=rP9d6Hv4p9E"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Leo from Leo 0° to Leo 29°. Each track captures the vibrant, confident, and creative energy of Leo, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Leo and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBaE_py2yZVtlswO3COeQEY.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAa7a--0iDWtlD3mgpOIItd",
+      "title": "Cancer Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAa7a--0iDWtlD3mgpOIItd",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "cx2Ng8KsfeU",
+          "title": "Cancer 0° Song: Guard the Light",
+          "url": "https://www.youtube.com/watch?v=cx2Ng8KsfeU"
+        },
+        {
+          "video_id": "8SbhQVBtilc",
+          "title": "Cancer 1° Song: Cultivate the Hearth",
+          "url": "https://www.youtube.com/watch?v=8SbhQVBtilc"
+        },
+        {
+          "video_id": "YPX_4Ucfmh0",
+          "title": "Cancer 2° Song: Hold the Vision",
+          "url": "https://www.youtube.com/watch?v=YPX_4Ucfmh0"
+        },
+        {
+          "video_id": "wBUggOOa4Gk",
+          "title": "Cancer 3° Song: Clear the Space",
+          "url": "https://www.youtube.com/watch?v=wBUggOOa4Gk"
+        },
+        {
+          "video_id": "ieAHZOlxTY0",
+          "title": "Cancer 4° Song: Echoes of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=ieAHZOlxTY0"
+        },
+        {
+          "video_id": "MXt0X5CSMvY",
+          "title": "Cancer 5° Song: Navigate the Tide",
+          "url": "https://www.youtube.com/watch?v=MXt0X5CSMvY"
+        },
+        {
+          "video_id": "6J3LXmEEtv0",
+          "title": "Cancer 6° Song: Mindful Abundance",
+          "url": "https://www.youtube.com/watch?v=6J3LXmEEtv0"
+        },
+        {
+          "video_id": "EAqkpZqJJsE",
+          "title": "Cancer 7° Song: Forge the Future",
+          "url": "https://www.youtube.com/watch?v=EAqkpZqJJsE"
+        },
+        {
+          "video_id": "V3GGoXIni_U",
+          "title": "Cancer 8° Song: Weave the Story",
+          "url": "https://www.youtube.com/watch?v=V3GGoXIni_U"
+        },
+        {
+          "video_id": "qpql4DXb5uA",
+          "title": "Cancer 9° Song: Speak the Circle",
+          "url": "https://www.youtube.com/watch?v=qpql4DXb5uA"
+        },
+        {
+          "video_id": "6Bw0fXsMMFE",
+          "title": "Cancer 10° Song: Rise in Renewal",
+          "url": "https://www.youtube.com/watch?v=6Bw0fXsMMFE"
+        },
+        {
+          "video_id": "dkLGnu7BzLk",
+          "title": "Cancer 11° Song: Shine Through Shadows",
+          "url": "https://www.youtube.com/watch?v=dkLGnu7BzLk"
+        },
+        {
+          "video_id": "fhAaiChHvCM",
+          "title": "Cancer 12° Song: Find the Balance",
+          "url": "https://www.youtube.com/watch?v=fhAaiChHvCM"
+        },
+        {
+          "video_id": "0XZiSh-mHds",
+          "title": "Cancer 13° Song: Weave the Truth",
+          "url": "https://www.youtube.com/watch?v=0XZiSh-mHds"
+        },
+        {
+          "video_id": "uL5MwOYrhZI",
+          "title": "Cancer 14° Song: Focus the Gift",
+          "url": "https://www.youtube.com/watch?v=uL5MwOYrhZI"
+        },
+        {
+          "video_id": "CWI8olt2Tb4",
+          "title": "Cancer 15° Song: Crossroads of the Heart",
+          "url": "https://www.youtube.com/watch?v=CWI8olt2Tb4"
+        },
+        {
+          "video_id": "ZB2DbH8XxBE",
+          "title": "Cancer 16° Song: Steadfast Flame",
+          "url": "https://www.youtube.com/watch?v=ZB2DbH8XxBE"
+        },
+        {
+          "video_id": "HtSNJurds3g",
+          "title": "Cancer 17° Song: Flow the Depths",
+          "url": "https://www.youtube.com/watch?v=HtSNJurds3g"
+        },
+        {
+          "video_id": "PNo2Kt7-HYM",
+          "title": "Cancer 18° Song: Claim the Balance",
+          "url": "https://www.youtube.com/watch?v=PNo2Kt7-HYM"
+        },
+        {
+          "video_id": "iIimQOm4bpo",
+          "title": "Cancer 19° Song: Flow the Depths",
+          "url": "https://www.youtube.com/watch?v=iIimQOm4bpo"
+        },
+        {
+          "video_id": "D2RMKyZj7GQ",
+          "title": "Cancer 20° Song: Anchor the Heart",
+          "url": "https://www.youtube.com/watch?v=D2RMKyZj7GQ"
+        },
+        {
+          "video_id": "nwMJm6mc09o",
+          "title": "Cancer 21° Song: Wander with Purpose",
+          "url": "https://www.youtube.com/watch?v=nwMJm6mc09o"
+        },
+        {
+          "video_id": "1ZWtd34ypis",
+          "title": "Cancer 22° Song: Step into the Tide",
+          "url": "https://www.youtube.com/watch?v=1ZWtd34ypis"
+        },
+        {
+          "video_id": "1rd-lWq3ON8",
+          "title": "Cancer 23° Song: Climb the Rise",
+          "url": "https://www.youtube.com/watch?v=1rd-lWq3ON8"
+        },
+        {
+          "video_id": "po4Ifw9OzQk",
+          "title": "Cancer 24° Song: Master the Soul",
+          "url": "https://www.youtube.com/watch?v=po4Ifw9OzQk"
+        },
+        {
+          "video_id": "399KAjyxE20",
+          "title": "Cancer 25° Song: Quiet Wings",
+          "url": "https://www.youtube.com/watch?v=399KAjyxE20"
+        },
+        {
+          "video_id": "wg4A85YDX1c",
+          "title": "Cancer 26° Song: Paint the Air",
+          "url": "https://www.youtube.com/watch?v=wg4A85YDX1c"
+        },
+        {
+          "video_id": "aMimsPjjpzE",
+          "title": "Cancer 27° Song: Unearth the Gold",
+          "url": "https://www.youtube.com/watch?v=aMimsPjjpzE"
+        },
+        {
+          "video_id": "lbN3HVIt89I",
+          "title": "Cancer 28° Song: Build the Ground",
+          "url": "https://www.youtube.com/watch?v=lbN3HVIt89I"
+        },
+        {
+          "video_id": "GQxTG1T1lTI",
+          "title": "Cancer 29° Song: Bloom in the Now",
+          "url": "https://www.youtube.com/watch?v=GQxTG1T1lTI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Cancer from Cancer 0° to Cancer 29°. Each track captures the nurturing, intuitive, and emotionally rich energy of Cancer, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Cancer and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAa7a--0iDWtlD3mgpOIItd.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBf5BJWS-fl7lnbD2FR6BP_",
+      "title": "Gemini Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBf5BJWS-fl7lnbD2FR6BP_",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "5THj830UH-E",
+          "title": "Gemini 0° Song: Build dual paths",
+          "url": "https://www.youtube.com/watch?v=5THj830UH-E"
+        },
+        {
+          "video_id": "5oPMDpbk9Y8",
+          "title": "Gemini 1° Song: Spark the mind",
+          "url": "https://www.youtube.com/watch?v=5oPMDpbk9Y8"
+        },
+        {
+          "video_id": "UTcn7DWcwV8",
+          "title": "Gemini 2° Song: Merge the vision",
+          "url": "https://www.youtube.com/watch?v=UTcn7DWcwV8"
+        },
+        {
+          "video_id": "uL4gZMvk8HQ",
+          "title": "Gemini 3° Song: Balance the mind",
+          "url": "https://www.youtube.com/watch?v=uL4gZMvk8HQ"
+        },
+        {
+          "video_id": "p-rDmRaWIfU",
+          "title": "Gemini 4° Song: See the vision",
+          "url": "https://www.youtube.com/watch?v=p-rDmRaWIfU"
+        },
+        {
+          "video_id": "Ek6ZROKJM-8",
+          "title": "Gemini 5° Song: Speak the spark",
+          "url": "https://www.youtube.com/watch?v=Ek6ZROKJM-8"
+        },
+        {
+          "video_id": "X3LElp3X4-8",
+          "title": "Gemini 6° Song: Align Thought and Feeling",
+          "url": "https://www.youtube.com/watch?v=X3LElp3X4-8"
+        },
+        {
+          "video_id": "w_5GN_vo0Y4",
+          "title": "Gemini 7° Song: Anchor the Dream",
+          "url": "https://www.youtube.com/watch?v=w_5GN_vo0Y4"
+        },
+        {
+          "video_id": "Dar3ZYyL328",
+          "title": "Gemini 8° Song: Move the pulse",
+          "url": "https://www.youtube.com/watch?v=Dar3ZYyL328"
+        },
+        {
+          "video_id": "Ef_c84ESXvs",
+          "title": "Gemini 10° Song: Build the vision",
+          "url": "https://www.youtube.com/watch?v=Ef_c84ESXvs"
+        },
+        {
+          "video_id": "T5a2wJcJjus",
+          "title": "Gemini 11° Song: Catch the Spark",
+          "url": "https://www.youtube.com/watch?v=T5a2wJcJjus"
+        },
+        {
+          "video_id": "EPXUKUA5A2g",
+          "title": "Gemini 12° Song: Harvest the vision",
+          "url": "https://www.youtube.com/watch?v=EPXUKUA5A2g"
+        },
+        {
+          "video_id": "eN3NKpJ8HhE",
+          "title": "Gemini 13° Song: Guard the Gift",
+          "url": "https://www.youtube.com/watch?v=eN3NKpJ8HhE"
+        },
+        {
+          "video_id": "iRVSXegh9ow",
+          "title": "Gemini 14° Song: Break the Frame",
+          "url": "https://www.youtube.com/watch?v=iRVSXegh9ow"
+        },
+        {
+          "video_id": "qEs-5N6_UEs",
+          "title": "Gemini 15° Song: Flow the current",
+          "url": "https://www.youtube.com/watch?v=qEs-5N6_UEs"
+        },
+        {
+          "video_id": "FLQS0g8S7TI",
+          "title": "Gemini 16° Song: Rise with Quiet Light",
+          "url": "https://www.youtube.com/watch?v=FLQS0g8S7TI"
+        },
+        {
+          "video_id": "vHOB_AlpsWI",
+          "title": "Gemini 17° Song: Spark the Plan",
+          "url": "https://www.youtube.com/watch?v=vHOB_AlpsWI"
+        },
+        {
+          "video_id": "V0et44RZGWM",
+          "title": "Gemini 18° Song: Bridge the Mind and Heart",
+          "url": "https://www.youtube.com/watch?v=V0et44RZGWM"
+        },
+        {
+          "video_id": "FK5f_Sq3UX8",
+          "title": "Gemini 19° Song: Dance the Unknown",
+          "url": "https://www.youtube.com/watch?v=FK5f_Sq3UX8"
+        },
+        {
+          "video_id": "x1_3ZPAq-To",
+          "title": "Gemini 20° Song: Awaken the Depths",
+          "url": "https://www.youtube.com/watch?v=x1_3ZPAq-To"
+        },
+        {
+          "video_id": "2kDEjpcYR1c",
+          "title": "Gemini 21° Song: Awaken the Depths",
+          "url": "https://www.youtube.com/watch?v=2kDEjpcYR1c"
+        },
+        {
+          "video_id": "6HbpISlkfSQ",
+          "title": "Gemini 22° Song: Speak Your Truth",
+          "url": "https://www.youtube.com/watch?v=6HbpISlkfSQ"
+        },
+        {
+          "video_id": "BY5Eyxy-DKw",
+          "title": "Gemini 23° Song: Trust the Vision",
+          "url": "https://www.youtube.com/watch?v=BY5Eyxy-DKw"
+        },
+        {
+          "video_id": "wjwElr7Qqvc",
+          "title": "Gemini 24° Song: Bridge the Worlds",
+          "url": "https://www.youtube.com/watch?v=wjwElr7Qqvc"
+        },
+        {
+          "video_id": "8K-JYAsDKFY",
+          "title": "Gemini 25° Song 1: Unearth the Rhythm",
+          "url": "https://www.youtube.com/watch?v=8K-JYAsDKFY"
+        },
+        {
+          "video_id": "C1IBDiZJfFQ",
+          "title": "Gemini 26° Song: Honor the Roots",
+          "url": "https://www.youtube.com/watch?v=C1IBDiZJfFQ"
+        },
+        {
+          "video_id": "1vy49QXHsbk",
+          "title": "Gemini 27° Song: Carry the Roots",
+          "url": "https://www.youtube.com/watch?v=1vy49QXHsbk"
+        },
+        {
+          "video_id": "sJAGhtFS5tA",
+          "title": "Gemini 28° Song: Flow with the Seasons",
+          "url": "https://www.youtube.com/watch?v=sJAGhtFS5tA"
+        },
+        {
+          "video_id": "k2dh4k1TQgA",
+          "title": "Gemini 29° Song: Run the Wild Field",
+          "url": "https://www.youtube.com/watch?v=k2dh4k1TQgA"
+        },
+        {
+          "video_id": "CI0uUg_o0yI",
+          "title": "Gemini 9° Song: Open the Door",
+          "url": "https://www.youtube.com/watch?v=CI0uUg_o0yI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Gemini from Gemini 0° to Gemini 29°. Each track captures the curious, adaptable, and expressive energy of Gemini, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Gemini and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBf5BJWS-fl7lnbD2FR6BP_.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDSuMOsW3R2KUc9jN6Agdlz",
+      "title": "Taurus Astrological Degrees Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDSuMOsW3R2KUc9jN6Agdlz",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Uf6lwB6qZGw",
+          "title": "Taurus 0° Song: Stand your truth",
+          "url": "https://www.youtube.com/watch?v=Uf6lwB6qZGw"
+        },
+        {
+          "video_id": "AgLekIAnpDo",
+          "title": "Taurus 1° Song: Stand in renewal",
+          "url": "https://www.youtube.com/watch?v=AgLekIAnpDo"
+        },
+        {
+          "video_id": "7ZD8rPvdwmk",
+          "title": "Taurus 2° Song: Honor the stillness",
+          "url": "https://www.youtube.com/watch?v=7ZD8rPvdwmk"
+        },
+        {
+          "video_id": "zrN9mnXWWt0",
+          "title": "Taurus 3° Song: Chart the course",
+          "url": "https://www.youtube.com/watch?v=zrN9mnXWWt0"
+        },
+        {
+          "video_id": "VBeMqwtHLeE",
+          "title": "Taurus 4° Song: Find the flow",
+          "url": "https://www.youtube.com/watch?v=VBeMqwtHLeE"
+        },
+        {
+          "video_id": "k2_dopMq8Y0",
+          "title": "Taurus 5° Song: Ground your calm",
+          "url": "https://www.youtube.com/watch?v=k2_dopMq8Y0"
+        },
+        {
+          "video_id": "pe3pEuz2gpU",
+          "title": "Taurus 6° Song: Guide with insight",
+          "url": "https://www.youtube.com/watch?v=pe3pEuz2gpU"
+        },
+        {
+          "video_id": "gTS4dpojCRw",
+          "title": "Taurus 7° Song: Embrace the renewal",
+          "url": "https://www.youtube.com/watch?v=gTS4dpojCRw"
+        },
+        {
+          "video_id": "r8y5_o7dAvI",
+          "title": "Taurus 8° Song: Step back to see",
+          "url": "https://www.youtube.com/watch?v=r8y5_o7dAvI"
+        },
+        {
+          "video_id": "eyW0ZrWAme0",
+          "title": "Taurus 9° Song: Shine within",
+          "url": "https://www.youtube.com/watch?v=eyW0ZrWAme0"
+        },
+        {
+          "video_id": "eFJEpzM7MPI",
+          "title": "Taurus 10° Song: Share the beauty",
+          "url": "https://www.youtube.com/watch?v=eFJEpzM7MPI"
+        },
+        {
+          "video_id": "kO53xQOWZeg",
+          "title": "Taurus 11° Song: Ignite the will",
+          "url": "https://www.youtube.com/watch?v=kO53xQOWZeg"
+        },
+        {
+          "video_id": "PEfuzriFx28",
+          "title": "Taurus 12° Song: Root in tradition",
+          "url": "https://www.youtube.com/watch?v=PEfuzriFx28"
+        },
+        {
+          "video_id": "0SjLe3P2iK4",
+          "title": "Taurus 13° Song: Paint the clarity",
+          "url": "https://www.youtube.com/watch?v=0SjLe3P2iK4"
+        },
+        {
+          "video_id": "7x01BsfgaV8",
+          "title": "Taurus 14° Song: Embrace the path",
+          "url": "https://www.youtube.com/watch?v=7x01BsfgaV8"
+        },
+        {
+          "video_id": "OwiJiBtnSZ0",
+          "title": "Taurus 15° Song: Whisper the calm",
+          "url": "https://www.youtube.com/watch?v=OwiJiBtnSZ0"
+        },
+        {
+          "video_id": "-j1hayTyKck",
+          "title": "Taurus 16° Song: Harmonize the spark",
+          "url": "https://www.youtube.com/watch?v=-j1hayTyKck"
+        },
+        {
+          "video_id": "zXPR_7Gwrs0",
+          "title": "Taurus 17° Song: Persist like the seed",
+          "url": "https://www.youtube.com/watch?v=zXPR_7Gwrs0"
+        },
+        {
+          "video_id": "oTlz_o_Qcak",
+          "title": "Taurus 18° Song: Bloom with purpose",
+          "url": "https://www.youtube.com/watch?v=oTlz_o_Qcak"
+        },
+        {
+          "video_id": "hgEH9o3QQT8",
+          "title": "Taurus 19° Song: Evolve with grace",
+          "url": "https://www.youtube.com/watch?v=hgEH9o3QQT8"
+        },
+        {
+          "video_id": "B3ZhZsiEVOU",
+          "title": "Taurus 20° Song: Surrender to strength",
+          "url": "https://www.youtube.com/watch?v=B3ZhZsiEVOU"
+        },
+        {
+          "video_id": "ce0zNaH9cn4",
+          "title": "Taurus 21° Song: Chart the course",
+          "url": "https://www.youtube.com/watch?v=ce0zNaH9cn4"
+        },
+        {
+          "video_id": "D60VWEgcxmM",
+          "title": "Taurus 22° Song: Ground your purpose",
+          "url": "https://www.youtube.com/watch?v=D60VWEgcxmM"
+        },
+        {
+          "video_id": "_B-1CFps4jo",
+          "title": "Taurus 23° Song: Follow the flame",
+          "url": "https://www.youtube.com/watch?v=_B-1CFps4jo"
+        },
+        {
+          "video_id": "tjvMuaVqkwo",
+          "title": "Taurus 24° Song: Rise in stillness",
+          "url": "https://www.youtube.com/watch?v=tjvMuaVqkwo"
+        },
+        {
+          "video_id": "8p1DIN4xYic",
+          "title": "Taurus 25° Song: Solve in silence",
+          "url": "https://www.youtube.com/watch?v=8p1DIN4xYic"
+        },
+        {
+          "video_id": "6QcxQtX92Jk",
+          "title": "Taurus 26° Song: Shine your grace",
+          "url": "https://www.youtube.com/watch?v=6QcxQtX92Jk"
+        },
+        {
+          "video_id": "OmJZBGfyHZ8",
+          "title": "Taurus 27° Song: Weave the unseen",
+          "url": "https://www.youtube.com/watch?v=OmJZBGfyHZ8"
+        },
+        {
+          "video_id": "c5L0OW3EzqM",
+          "title": "Taurus 28° Song: Return to roots",
+          "url": "https://www.youtube.com/watch?v=c5L0OW3EzqM"
+        },
+        {
+          "video_id": "e6kxyfoDxys",
+          "title": "Taurus 29° Song: Play Your Vision",
+          "url": "https://www.youtube.com/watch?v=e6kxyfoDxys"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist features 30 songs, one for each degree of Taurus from Taurus 0° to Taurus 29°. Each track captures the grounded, sensual, and enduring energy of Taurus, offering a creative and inspiring way to experience this zodiac sign through sound. These songs are designed to help you connect with the deeper meaning of Taurus and bring its energy to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDSuMOsW3R2KUc9jN6Agdlz.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBa6srpk45GZRDglRsvWvSR",
+      "title": "Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBa6srpk45GZRDglRsvWvSR",
+      "displayed_video_count": "360 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "U5kwxRr0GAw",
+          "title": "Aries 0° Song: Stand in the light",
+          "url": "https://www.youtube.com/watch?v=U5kwxRr0GAw"
+        },
+        {
+          "video_id": "CnOC1HfuFfM",
+          "title": "Aries 1° Song: Trailblaze the dawn",
+          "url": "https://www.youtube.com/watch?v=CnOC1HfuFfM"
+        },
+        {
+          "video_id": "KLvRftZ4GDc",
+          "title": "Aries 2° Song: Rise unbound",
+          "url": "https://www.youtube.com/watch?v=KLvRftZ4GDc"
+        },
+        {
+          "video_id": "x9sJsFV6y7M",
+          "title": "Aries 3° Song: Speak the truth",
+          "url": "https://www.youtube.com/watch?v=x9sJsFV6y7M"
+        },
+        {
+          "video_id": "aHj64jKBw6M",
+          "title": "Aries 4° Song: Embrace the flow",
+          "url": "https://www.youtube.com/watch?v=aHj64jKBw6M"
+        },
+        {
+          "video_id": "NAXa1DqLQMw",
+          "title": "Aries 6° Song: Lead with passion",
+          "url": "https://www.youtube.com/watch?v=NAXa1DqLQMw"
+        },
+        {
+          "video_id": "IC0k-xxeiMg",
+          "title": "Aries 7° Song: Navigate the path",
+          "url": "https://www.youtube.com/watch?v=IC0k-xxeiMg"
+        },
+        {
+          "video_id": "NIEsM1vntwA",
+          "title": "Aries 8° Song: Shine your spark",
+          "url": "https://www.youtube.com/watch?v=NIEsM1vntwA"
+        },
+        {
+          "video_id": "S9UQIU3TiFQ",
+          "title": "Aries 9° Song: Shine forward",
+          "url": "https://www.youtube.com/watch?v=S9UQIU3TiFQ"
+        },
+        {
+          "video_id": "Ve_wRC7NP4I",
+          "title": "Aries 10° Song: Ignite the vision",
+          "url": "https://www.youtube.com/watch?v=Ve_wRC7NP4I"
+        },
+        {
+          "video_id": "K-1tMiaa-bo",
+          "title": "Aries 11° Song: Break the cycle",
+          "url": "https://www.youtube.com/watch?v=K-1tMiaa-bo"
+        },
+        {
+          "video_id": "REDUIxs2YkQ",
+          "title": "Aries 12° Song: Guard the flame",
+          "url": "https://www.youtube.com/watch?v=REDUIxs2YkQ"
+        },
+        {
+          "video_id": "dj1G0f08jjg",
+          "title": "Aries 13° Song: Stand resilient",
+          "url": "https://www.youtube.com/watch?v=dj1G0f08jjg"
+        },
+        {
+          "video_id": "PX4ZU1QvgVA",
+          "title": "Aries 5° Song:  Embrace the climb",
+          "url": "https://www.youtube.com/watch?v=PX4ZU1QvgVA"
+        },
+        {
+          "video_id": "qT5oqru9-tQ",
+          "title": "Aries 14° Song: Stand your ground",
+          "url": "https://www.youtube.com/watch?v=qT5oqru9-tQ"
+        },
+        {
+          "video_id": "UUz3erT7hlU",
+          "title": "Aries 15° Song: Trust the pattern",
+          "url": "https://www.youtube.com/watch?v=UUz3erT7hlU"
+        },
+        {
+          "video_id": "gWaSqeZ2PQs",
+          "title": "Aries 16° Song: Align with the wild",
+          "url": "https://www.youtube.com/watch?v=gWaSqeZ2PQs"
+        },
+        {
+          "video_id": "k9JW9stgJYA",
+          "title": "Aries 17° Song: Cherish the art",
+          "url": "https://www.youtube.com/watch?v=k9JW9stgJYA"
+        },
+        {
+          "video_id": "I2sk_bjJR7E",
+          "title": "Aries 18° Song:  Find the calm",
+          "url": "https://www.youtube.com/watch?v=I2sk_bjJR7E"
+        },
+        {
+          "video_id": "TlHyGAmptYs",
+          "title": "Aries 19° Song: Uncover the spark",
+          "url": "https://www.youtube.com/watch?v=TlHyGAmptYs"
+        },
+        {
+          "video_id": "grwagjHNQZo",
+          "title": "Aries 20° Song: Embrace the unknown",
+          "url": "https://www.youtube.com/watch?v=grwagjHNQZo"
+        },
+        {
+          "video_id": "d5n2OHzYqcQ",
+          "title": "Aries 21° Song: Show your light",
+          "url": "https://www.youtube.com/watch?v=d5n2OHzYqcQ"
+        },
+        {
+          "video_id": "EGLU7SAICUE",
+          "title": "Aries 22° Song: Create the vision",
+          "url": "https://www.youtube.com/watch?v=EGLU7SAICUE"
+        },
+        {
+          "video_id": "kct7IDtgTds",
+          "title": "Aries 23° Song: Unfold the truth",
+          "url": "https://www.youtube.com/watch?v=kct7IDtgTds"
+        },
+        {
+          "video_id": "jMB4iNpxN3c",
+          "title": "Aries 24° Song: Harness the muse",
+          "url": "https://www.youtube.com/watch?v=jMB4iNpxN3c"
+        },
+        {
+          "video_id": "_iP6FmUziNg",
+          "title": "Aries 25° Song: Channel the pride",
+          "url": "https://www.youtube.com/watch?v=_iP6FmUziNg"
+        },
+        {
+          "video_id": "j_XVsys0D7A",
+          "title": "Aries 26° Song: Stand in your power",
+          "url": "https://www.youtube.com/watch?v=j_XVsys0D7A"
+        },
+        {
+          "video_id": "26r-DkK-IAI",
+          "title": "Aries 27° Song: Forge the bond",
+          "url": "https://www.youtube.com/watch?v=26r-DkK-IAI"
+        },
+        {
+          "video_id": "bRc61EydrEI",
+          "title": "Aries 28° Song: Share the light",
+          "url": "https://www.youtube.com/watch?v=bRc61EydrEI"
+        },
+        {
+          "video_id": "DCp7713U9ac",
+          "title": "Aries 29° Song: Build the dream",
+          "url": "https://www.youtube.com/watch?v=DCp7713U9ac"
+        },
+        {
+          "video_id": "Uf6lwB6qZGw",
+          "title": "Taurus 0° Song: Stand your truth",
+          "url": "https://www.youtube.com/watch?v=Uf6lwB6qZGw"
+        },
+        {
+          "video_id": "AgLekIAnpDo",
+          "title": "Taurus 1° Song: Stand in renewal",
+          "url": "https://www.youtube.com/watch?v=AgLekIAnpDo"
+        },
+        {
+          "video_id": "7ZD8rPvdwmk",
+          "title": "Taurus 2° Song: Honor the stillness",
+          "url": "https://www.youtube.com/watch?v=7ZD8rPvdwmk"
+        },
+        {
+          "video_id": "zrN9mnXWWt0",
+          "title": "Taurus 3° Song: Chart the course",
+          "url": "https://www.youtube.com/watch?v=zrN9mnXWWt0"
+        },
+        {
+          "video_id": "VBeMqwtHLeE",
+          "title": "Taurus 4° Song: Find the flow",
+          "url": "https://www.youtube.com/watch?v=VBeMqwtHLeE"
+        },
+        {
+          "video_id": "k2_dopMq8Y0",
+          "title": "Taurus 5° Song: Ground your calm",
+          "url": "https://www.youtube.com/watch?v=k2_dopMq8Y0"
+        },
+        {
+          "video_id": "pe3pEuz2gpU",
+          "title": "Taurus 6° Song: Guide with insight",
+          "url": "https://www.youtube.com/watch?v=pe3pEuz2gpU"
+        },
+        {
+          "video_id": "gTS4dpojCRw",
+          "title": "Taurus 7° Song: Embrace the renewal",
+          "url": "https://www.youtube.com/watch?v=gTS4dpojCRw"
+        },
+        {
+          "video_id": "r8y5_o7dAvI",
+          "title": "Taurus 8° Song: Step back to see",
+          "url": "https://www.youtube.com/watch?v=r8y5_o7dAvI"
+        },
+        {
+          "video_id": "eyW0ZrWAme0",
+          "title": "Taurus 9° Song: Shine within",
+          "url": "https://www.youtube.com/watch?v=eyW0ZrWAme0"
+        },
+        {
+          "video_id": "eFJEpzM7MPI",
+          "title": "Taurus 10° Song: Share the beauty",
+          "url": "https://www.youtube.com/watch?v=eFJEpzM7MPI"
+        },
+        {
+          "video_id": "kO53xQOWZeg",
+          "title": "Taurus 11° Song: Ignite the will",
+          "url": "https://www.youtube.com/watch?v=kO53xQOWZeg"
+        },
+        {
+          "video_id": "PEfuzriFx28",
+          "title": "Taurus 12° Song: Root in tradition",
+          "url": "https://www.youtube.com/watch?v=PEfuzriFx28"
+        },
+        {
+          "video_id": "0SjLe3P2iK4",
+          "title": "Taurus 13° Song: Paint the clarity",
+          "url": "https://www.youtube.com/watch?v=0SjLe3P2iK4"
+        },
+        {
+          "video_id": "7x01BsfgaV8",
+          "title": "Taurus 14° Song: Embrace the path",
+          "url": "https://www.youtube.com/watch?v=7x01BsfgaV8"
+        },
+        {
+          "video_id": "OwiJiBtnSZ0",
+          "title": "Taurus 15° Song: Whisper the calm",
+          "url": "https://www.youtube.com/watch?v=OwiJiBtnSZ0"
+        },
+        {
+          "video_id": "-j1hayTyKck",
+          "title": "Taurus 16° Song: Harmonize the spark",
+          "url": "https://www.youtube.com/watch?v=-j1hayTyKck"
+        },
+        {
+          "video_id": "zXPR_7Gwrs0",
+          "title": "Taurus 17° Song: Persist like the seed",
+          "url": "https://www.youtube.com/watch?v=zXPR_7Gwrs0"
+        },
+        {
+          "video_id": "oTlz_o_Qcak",
+          "title": "Taurus 18° Song: Bloom with purpose",
+          "url": "https://www.youtube.com/watch?v=oTlz_o_Qcak"
+        },
+        {
+          "video_id": "hgEH9o3QQT8",
+          "title": "Taurus 19° Song: Evolve with grace",
+          "url": "https://www.youtube.com/watch?v=hgEH9o3QQT8"
+        },
+        {
+          "video_id": "B3ZhZsiEVOU",
+          "title": "Taurus 20° Song: Surrender to strength",
+          "url": "https://www.youtube.com/watch?v=B3ZhZsiEVOU"
+        },
+        {
+          "video_id": "ce0zNaH9cn4",
+          "title": "Taurus 21° Song: Chart the course",
+          "url": "https://www.youtube.com/watch?v=ce0zNaH9cn4"
+        },
+        {
+          "video_id": "D60VWEgcxmM",
+          "title": "Taurus 22° Song: Ground your purpose",
+          "url": "https://www.youtube.com/watch?v=D60VWEgcxmM"
+        },
+        {
+          "video_id": "_B-1CFps4jo",
+          "title": "Taurus 23° Song: Follow the flame",
+          "url": "https://www.youtube.com/watch?v=_B-1CFps4jo"
+        },
+        {
+          "video_id": "tjvMuaVqkwo",
+          "title": "Taurus 24° Song: Rise in stillness",
+          "url": "https://www.youtube.com/watch?v=tjvMuaVqkwo"
+        },
+        {
+          "video_id": "8p1DIN4xYic",
+          "title": "Taurus 25° Song: Solve in silence",
+          "url": "https://www.youtube.com/watch?v=8p1DIN4xYic"
+        },
+        {
+          "video_id": "6QcxQtX92Jk",
+          "title": "Taurus 26° Song: Shine your grace",
+          "url": "https://www.youtube.com/watch?v=6QcxQtX92Jk"
+        },
+        {
+          "video_id": "OmJZBGfyHZ8",
+          "title": "Taurus 27° Song: Weave the unseen",
+          "url": "https://www.youtube.com/watch?v=OmJZBGfyHZ8"
+        },
+        {
+          "video_id": "c5L0OW3EzqM",
+          "title": "Taurus 28° Song: Return to roots",
+          "url": "https://www.youtube.com/watch?v=c5L0OW3EzqM"
+        },
+        {
+          "video_id": "e6kxyfoDxys",
+          "title": "Taurus 29° Song: Play Your Vision",
+          "url": "https://www.youtube.com/watch?v=e6kxyfoDxys"
+        },
+        {
+          "video_id": "5THj830UH-E",
+          "title": "Gemini 0° Song: Build dual paths",
+          "url": "https://www.youtube.com/watch?v=5THj830UH-E"
+        },
+        {
+          "video_id": "5oPMDpbk9Y8",
+          "title": "Gemini 1° Song: Spark the mind",
+          "url": "https://www.youtube.com/watch?v=5oPMDpbk9Y8"
+        },
+        {
+          "video_id": "UTcn7DWcwV8",
+          "title": "Gemini 2° Song: Merge the vision",
+          "url": "https://www.youtube.com/watch?v=UTcn7DWcwV8"
+        },
+        {
+          "video_id": "uL4gZMvk8HQ",
+          "title": "Gemini 3° Song: Balance the mind",
+          "url": "https://www.youtube.com/watch?v=uL4gZMvk8HQ"
+        },
+        {
+          "video_id": "p-rDmRaWIfU",
+          "title": "Gemini 4° Song: See the vision",
+          "url": "https://www.youtube.com/watch?v=p-rDmRaWIfU"
+        },
+        {
+          "video_id": "Ek6ZROKJM-8",
+          "title": "Gemini 5° Song: Speak the spark",
+          "url": "https://www.youtube.com/watch?v=Ek6ZROKJM-8"
+        },
+        {
+          "video_id": "X3LElp3X4-8",
+          "title": "Gemini 6° Song: Align Thought and Feeling",
+          "url": "https://www.youtube.com/watch?v=X3LElp3X4-8"
+        },
+        {
+          "video_id": "w_5GN_vo0Y4",
+          "title": "Gemini 7° Song: Anchor the Dream",
+          "url": "https://www.youtube.com/watch?v=w_5GN_vo0Y4"
+        },
+        {
+          "video_id": "Dar3ZYyL328",
+          "title": "Gemini 8° Song: Move the pulse",
+          "url": "https://www.youtube.com/watch?v=Dar3ZYyL328"
+        },
+        {
+          "video_id": "CI0uUg_o0yI",
+          "title": "Gemini 9° Song: Open the Door",
+          "url": "https://www.youtube.com/watch?v=CI0uUg_o0yI"
+        },
+        {
+          "video_id": "Ef_c84ESXvs",
+          "title": "Gemini 10° Song: Build the vision",
+          "url": "https://www.youtube.com/watch?v=Ef_c84ESXvs"
+        },
+        {
+          "video_id": "T5a2wJcJjus",
+          "title": "Gemini 11° Song: Catch the Spark",
+          "url": "https://www.youtube.com/watch?v=T5a2wJcJjus"
+        },
+        {
+          "video_id": "EPXUKUA5A2g",
+          "title": "Gemini 12° Song: Harvest the vision",
+          "url": "https://www.youtube.com/watch?v=EPXUKUA5A2g"
+        },
+        {
+          "video_id": "eN3NKpJ8HhE",
+          "title": "Gemini 13° Song: Guard the Gift",
+          "url": "https://www.youtube.com/watch?v=eN3NKpJ8HhE"
+        },
+        {
+          "video_id": "iRVSXegh9ow",
+          "title": "Gemini 14° Song: Break the Frame",
+          "url": "https://www.youtube.com/watch?v=iRVSXegh9ow"
+        },
+        {
+          "video_id": "qEs-5N6_UEs",
+          "title": "Gemini 15° Song: Flow the current",
+          "url": "https://www.youtube.com/watch?v=qEs-5N6_UEs"
+        },
+        {
+          "video_id": "FLQS0g8S7TI",
+          "title": "Gemini 16° Song: Rise with Quiet Light",
+          "url": "https://www.youtube.com/watch?v=FLQS0g8S7TI"
+        },
+        {
+          "video_id": "vHOB_AlpsWI",
+          "title": "Gemini 17° Song: Spark the Plan",
+          "url": "https://www.youtube.com/watch?v=vHOB_AlpsWI"
+        },
+        {
+          "video_id": "V0et44RZGWM",
+          "title": "Gemini 18° Song: Bridge the Mind and Heart",
+          "url": "https://www.youtube.com/watch?v=V0et44RZGWM"
+        },
+        {
+          "video_id": "FK5f_Sq3UX8",
+          "title": "Gemini 19° Song: Dance the Unknown",
+          "url": "https://www.youtube.com/watch?v=FK5f_Sq3UX8"
+        },
+        {
+          "video_id": "x1_3ZPAq-To",
+          "title": "Gemini 20° Song: Awaken the Depths",
+          "url": "https://www.youtube.com/watch?v=x1_3ZPAq-To"
+        },
+        {
+          "video_id": "2kDEjpcYR1c",
+          "title": "Gemini 21° Song: Awaken the Depths",
+          "url": "https://www.youtube.com/watch?v=2kDEjpcYR1c"
+        },
+        {
+          "video_id": "6HbpISlkfSQ",
+          "title": "Gemini 22° Song: Speak Your Truth",
+          "url": "https://www.youtube.com/watch?v=6HbpISlkfSQ"
+        },
+        {
+          "video_id": "BY5Eyxy-DKw",
+          "title": "Gemini 23° Song: Trust the Vision",
+          "url": "https://www.youtube.com/watch?v=BY5Eyxy-DKw"
+        },
+        {
+          "video_id": "wjwElr7Qqvc",
+          "title": "Gemini 24° Song: Bridge the Worlds",
+          "url": "https://www.youtube.com/watch?v=wjwElr7Qqvc"
+        },
+        {
+          "video_id": "8K-JYAsDKFY",
+          "title": "Gemini 25° Song 1: Unearth the Rhythm",
+          "url": "https://www.youtube.com/watch?v=8K-JYAsDKFY"
+        },
+        {
+          "video_id": "C1IBDiZJfFQ",
+          "title": "Gemini 26° Song: Honor the Roots",
+          "url": "https://www.youtube.com/watch?v=C1IBDiZJfFQ"
+        },
+        {
+          "video_id": "1vy49QXHsbk",
+          "title": "Gemini 27° Song: Carry the Roots",
+          "url": "https://www.youtube.com/watch?v=1vy49QXHsbk"
+        },
+        {
+          "video_id": "sJAGhtFS5tA",
+          "title": "Gemini 28° Song: Flow with the Seasons",
+          "url": "https://www.youtube.com/watch?v=sJAGhtFS5tA"
+        },
+        {
+          "video_id": "k2dh4k1TQgA",
+          "title": "Gemini 29° Song: Run the Wild Field",
+          "url": "https://www.youtube.com/watch?v=k2dh4k1TQgA"
+        },
+        {
+          "video_id": "cx2Ng8KsfeU",
+          "title": "Cancer 0° Song: Guard the Light",
+          "url": "https://www.youtube.com/watch?v=cx2Ng8KsfeU"
+        },
+        {
+          "video_id": "8SbhQVBtilc",
+          "title": "Cancer 1° Song: Cultivate the Hearth",
+          "url": "https://www.youtube.com/watch?v=8SbhQVBtilc"
+        },
+        {
+          "video_id": "YPX_4Ucfmh0",
+          "title": "Cancer 2° Song: Hold the Vision",
+          "url": "https://www.youtube.com/watch?v=YPX_4Ucfmh0"
+        },
+        {
+          "video_id": "wBUggOOa4Gk",
+          "title": "Cancer 3° Song: Clear the Space",
+          "url": "https://www.youtube.com/watch?v=wBUggOOa4Gk"
+        },
+        {
+          "video_id": "ieAHZOlxTY0",
+          "title": "Cancer 4° Song: Echoes of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=ieAHZOlxTY0"
+        },
+        {
+          "video_id": "MXt0X5CSMvY",
+          "title": "Cancer 5° Song: Navigate the Tide",
+          "url": "https://www.youtube.com/watch?v=MXt0X5CSMvY"
+        },
+        {
+          "video_id": "6J3LXmEEtv0",
+          "title": "Cancer 6° Song: Mindful Abundance",
+          "url": "https://www.youtube.com/watch?v=6J3LXmEEtv0"
+        },
+        {
+          "video_id": "EAqkpZqJJsE",
+          "title": "Cancer 7° Song: Forge the Future",
+          "url": "https://www.youtube.com/watch?v=EAqkpZqJJsE"
+        },
+        {
+          "video_id": "V3GGoXIni_U",
+          "title": "Cancer 8° Song: Weave the Story",
+          "url": "https://www.youtube.com/watch?v=V3GGoXIni_U"
+        },
+        {
+          "video_id": "qpql4DXb5uA",
+          "title": "Cancer 9° Song: Speak the Circle",
+          "url": "https://www.youtube.com/watch?v=qpql4DXb5uA"
+        },
+        {
+          "video_id": "6Bw0fXsMMFE",
+          "title": "Cancer 10° Song: Rise in Renewal",
+          "url": "https://www.youtube.com/watch?v=6Bw0fXsMMFE"
+        },
+        {
+          "video_id": "dkLGnu7BzLk",
+          "title": "Cancer 11° Song: Shine Through Shadows",
+          "url": "https://www.youtube.com/watch?v=dkLGnu7BzLk"
+        },
+        {
+          "video_id": "fhAaiChHvCM",
+          "title": "Cancer 12° Song: Find the Balance",
+          "url": "https://www.youtube.com/watch?v=fhAaiChHvCM"
+        },
+        {
+          "video_id": "0XZiSh-mHds",
+          "title": "Cancer 13° Song: Weave the Truth",
+          "url": "https://www.youtube.com/watch?v=0XZiSh-mHds"
+        },
+        {
+          "video_id": "uL5MwOYrhZI",
+          "title": "Cancer 14° Song: Focus the Gift",
+          "url": "https://www.youtube.com/watch?v=uL5MwOYrhZI"
+        },
+        {
+          "video_id": "CWI8olt2Tb4",
+          "title": "Cancer 15° Song: Crossroads of the Heart",
+          "url": "https://www.youtube.com/watch?v=CWI8olt2Tb4"
+        },
+        {
+          "video_id": "ZB2DbH8XxBE",
+          "title": "Cancer 16° Song: Steadfast Flame",
+          "url": "https://www.youtube.com/watch?v=ZB2DbH8XxBE"
+        },
+        {
+          "video_id": "HtSNJurds3g",
+          "title": "Cancer 17° Song: Flow the Depths",
+          "url": "https://www.youtube.com/watch?v=HtSNJurds3g"
+        },
+        {
+          "video_id": "PNo2Kt7-HYM",
+          "title": "Cancer 18° Song: Claim the Balance",
+          "url": "https://www.youtube.com/watch?v=PNo2Kt7-HYM"
+        },
+        {
+          "video_id": "iIimQOm4bpo",
+          "title": "Cancer 19° Song: Flow the Depths",
+          "url": "https://www.youtube.com/watch?v=iIimQOm4bpo"
+        },
+        {
+          "video_id": "D2RMKyZj7GQ",
+          "title": "Cancer 20° Song: Anchor the Heart",
+          "url": "https://www.youtube.com/watch?v=D2RMKyZj7GQ"
+        },
+        {
+          "video_id": "nwMJm6mc09o",
+          "title": "Cancer 21° Song: Wander with Purpose",
+          "url": "https://www.youtube.com/watch?v=nwMJm6mc09o"
+        },
+        {
+          "video_id": "1ZWtd34ypis",
+          "title": "Cancer 22° Song: Step into the Tide",
+          "url": "https://www.youtube.com/watch?v=1ZWtd34ypis"
+        },
+        {
+          "video_id": "1rd-lWq3ON8",
+          "title": "Cancer 23° Song: Climb the Rise",
+          "url": "https://www.youtube.com/watch?v=1rd-lWq3ON8"
+        },
+        {
+          "video_id": "po4Ifw9OzQk",
+          "title": "Cancer 24° Song: Master the Soul",
+          "url": "https://www.youtube.com/watch?v=po4Ifw9OzQk"
+        },
+        {
+          "video_id": "399KAjyxE20",
+          "title": "Cancer 25° Song: Quiet Wings",
+          "url": "https://www.youtube.com/watch?v=399KAjyxE20"
+        },
+        {
+          "video_id": "wg4A85YDX1c",
+          "title": "Cancer 26° Song: Paint the Air",
+          "url": "https://www.youtube.com/watch?v=wg4A85YDX1c"
+        },
+        {
+          "video_id": "aMimsPjjpzE",
+          "title": "Cancer 27° Song: Unearth the Gold",
+          "url": "https://www.youtube.com/watch?v=aMimsPjjpzE"
+        },
+        {
+          "video_id": "lbN3HVIt89I",
+          "title": "Cancer 28° Song: Build the Ground",
+          "url": "https://www.youtube.com/watch?v=lbN3HVIt89I"
+        },
+        {
+          "video_id": "GQxTG1T1lTI",
+          "title": "Cancer 29° Song: Bloom in the Now",
+          "url": "https://www.youtube.com/watch?v=GQxTG1T1lTI"
+        },
+        {
+          "video_id": "-UjqjdsVGAo",
+          "title": "0° Leo Song: Shine with Quiet Heart",
+          "url": "https://www.youtube.com/watch?v=-UjqjdsVGAo"
+        },
+        {
+          "video_id": "i6ABcFYVi60",
+          "title": "1° Leo Song: Crown of True Courage",
+          "url": "https://www.youtube.com/watch?v=i6ABcFYVi60"
+        },
+        {
+          "video_id": "XuWA-b5aMuc",
+          "title": "2° Leo Song: Rise from Within",
+          "url": "https://www.youtube.com/watch?v=XuWA-b5aMuc"
+        },
+        {
+          "video_id": "pxlxSIjZag4",
+          "title": "3° Leo Song: Wonder in the Light",
+          "url": "https://www.youtube.com/watch?v=pxlxSIjZag4"
+        },
+        {
+          "video_id": "iDREGkRacDQ",
+          "title": "4° Leo Song: Stand the Course",
+          "url": "https://www.youtube.com/watch?v=iDREGkRacDQ"
+        },
+        {
+          "video_id": "frUiXEY2nRw",
+          "title": "5° Leo Song: Claim the Stage",
+          "url": "https://www.youtube.com/watch?v=frUiXEY2nRw"
+        },
+        {
+          "video_id": "89fkn1fcwnw",
+          "title": "6° Leo Song: Flow with the Flame",
+          "url": "https://www.youtube.com/watch?v=89fkn1fcwnw"
+        },
+        {
+          "video_id": "Dfu-CPYRk0E",
+          "title": "7° Leo Song: Radiant Guide",
+          "url": "https://www.youtube.com/watch?v=Dfu-CPYRk0E"
+        },
+        {
+          "video_id": "G210_UZOLJo",
+          "title": "8° Leo Song: Embers of the Heart",
+          "url": "https://www.youtube.com/watch?v=G210_UZOLJo"
+        },
+        {
+          "video_id": "ExTEmfHmpKs",
+          "title": "9° Leo Song: Spotlight of the Soul",
+          "url": "https://www.youtube.com/watch?v=ExTEmfHmpKs"
+        },
+        {
+          "video_id": "SRYM4Z1hkaY",
+          "title": "10° Leo Song: Rise Above the Fire",
+          "url": "https://www.youtube.com/watch?v=SRYM4Z1hkaY"
+        },
+        {
+          "video_id": "36a3R3vixak",
+          "title": "11° Leo Song: Echoes of the True",
+          "url": "https://www.youtube.com/watch?v=36a3R3vixak"
+        },
+        {
+          "video_id": "6RMCVJofzrE",
+          "title": "12° Leo Song: Dance the Golden Flow",
+          "url": "https://www.youtube.com/watch?v=6RMCVJofzrE"
+        },
+        {
+          "video_id": "vfNWy0NIy8w",
+          "title": "13° Leo Song: Blaze the Horizon",
+          "url": "https://www.youtube.com/watch?v=vfNWy0NIy8w"
+        },
+        {
+          "video_id": "nS07e-Be3tE",
+          "title": "14° Leo Song: Bridge Between the Stars",
+          "url": "https://www.youtube.com/watch?v=nS07e-Be3tE"
+        },
+        {
+          "video_id": "jDb9-M4JFCs",
+          "title": "15° Leo Song: Lead with Light",
+          "url": "https://www.youtube.com/watch?v=jDb9-M4JFCs"
+        },
+        {
+          "video_id": "VJ4Bes0g020",
+          "title": "16° Leo Song: Shine Behind the Veil",
+          "url": "https://www.youtube.com/watch?v=VJ4Bes0g020"
+        },
+        {
+          "video_id": "Bb01vUfSKlI",
+          "title": "17° Leo Song: Blaze Your Path",
+          "url": "https://www.youtube.com/watch?v=Bb01vUfSKlI"
+        },
+        {
+          "video_id": "F-YGn_rDg3s",
+          "title": "18° Leo Song: Steady Flame",
+          "url": "https://www.youtube.com/watch?v=F-YGn_rDg3s"
+        },
+        {
+          "video_id": "8huljjfJuw4",
+          "title": "19° Leo Song: Rise Like First Steps",
+          "url": "https://www.youtube.com/watch?v=8huljjfJuw4"
+        },
+        {
+          "video_id": "_NwryyfA4SM",
+          "title": "20° Leo Song: Journey of the Heart",
+          "url": "https://www.youtube.com/watch?v=_NwryyfA4SM"
+        },
+        {
+          "video_id": "5JYT-mEHjwk",
+          "title": "21° Leo Song: Guided by the Heart",
+          "url": "https://www.youtube.com/watch?v=5JYT-mEHjwk"
+        },
+        {
+          "video_id": "Zq16IIYjnwI",
+          "title": "22° Leo Song: Shield of the Heart",
+          "url": "https://www.youtube.com/watch?v=Zq16IIYjnwI"
+        },
+        {
+          "video_id": "fhZ4BuYo4bw",
+          "title": "23° Leo Song: Echoes of Wisdom",
+          "url": "https://www.youtube.com/watch?v=fhZ4BuYo4bw"
+        },
+        {
+          "video_id": "8zMmtrnfxgs",
+          "title": "24° Leo Song: Fields of Quiet Grace",
+          "url": "https://www.youtube.com/watch?v=8zMmtrnfxgs"
+        },
+        {
+          "video_id": "YuRg6PMc8qI",
+          "title": "25 ° Leo Song: Balance the Delight",
+          "url": "https://www.youtube.com/watch?v=YuRg6PMc8qI"
+        },
+        {
+          "video_id": "oF5Lu9vMUFE",
+          "title": "26° Leo Song: Roots of Harmony",
+          "url": "https://www.youtube.com/watch?v=oF5Lu9vMUFE"
+        },
+        {
+          "video_id": "ddJFRI_lEjM",
+          "title": "27° Leo Song: Swift Currents, Silent Depths",
+          "url": "https://www.youtube.com/watch?v=ddJFRI_lEjM"
+        },
+        {
+          "video_id": "WomG0Hz1Gqc",
+          "title": "28° Leo Song: Hands Across the Flame",
+          "url": "https://www.youtube.com/watch?v=WomG0Hz1Gqc"
+        },
+        {
+          "video_id": "rP9d6Hv4p9E",
+          "title": "29° Leo Song: Foundations of the Heart",
+          "url": "https://www.youtube.com/watch?v=rP9d6Hv4p9E"
+        },
+        {
+          "video_id": "OIDqxCf6rh4",
+          "title": "0° Virgo Song: Heart of the Shepherd",
+          "url": "https://www.youtube.com/watch?v=OIDqxCf6rh4"
+        },
+        {
+          "video_id": "becMUzKhzuY",
+          "title": "1° Virgo Song: Bridges of the Heart",
+          "url": "https://www.youtube.com/watch?v=becMUzKhzuY"
+        },
+        {
+          "video_id": "N8HBkgUJFc8",
+          "title": "2° Virgo Song: Silence of the Mind",
+          "url": "https://www.youtube.com/watch?v=N8HBkgUJFc8"
+        },
+        {
+          "video_id": "6exkYZ-GIn8",
+          "title": "3° Virgo Song: Steady Bloom",
+          "url": "https://www.youtube.com/watch?v=6exkYZ-GIn8"
+        },
+        {
+          "video_id": "ZxbIoJ_rfUk",
+          "title": "4° Virgo Song: Blueprint of the Soul",
+          "url": "https://www.youtube.com/watch?v=ZxbIoJ_rfUk"
+        },
+        {
+          "video_id": "COZlGBXBuYc",
+          "title": "5° Virgo Song: Steady Hands, Open Heart",
+          "url": "https://www.youtube.com/watch?v=COZlGBXBuYc"
+        },
+        {
+          "video_id": "UJwLK1mPKsg",
+          "title": "6° Virgo Song: Song: Roots of Grace",
+          "url": "https://www.youtube.com/watch?v=UJwLK1mPKsg"
+        },
+        {
+          "video_id": "N2E4xzWcFhA",
+          "title": "7° Virgo Song: Shadows to Sunrise",
+          "url": "https://www.youtube.com/watch?v=N2E4xzWcFhA"
+        },
+        {
+          "video_id": "oG3Kq0G0kJY",
+          "title": "8° Virgo Song: Roots and Wings",
+          "url": "https://www.youtube.com/watch?v=oG3Kq0G0kJY"
+        },
+        {
+          "video_id": "tFG7GFHpEKM",
+          "title": "9° Virgo Song: Winds of Becoming",
+          "url": "https://www.youtube.com/watch?v=tFG7GFHpEKM"
+        },
+        {
+          "video_id": "T1AEcxhlIGU",
+          "title": "10° Virgo Song: Roots and Wings",
+          "url": "https://www.youtube.com/watch?v=T1AEcxhlIGU"
+        },
+        {
+          "video_id": "x_ULYhHra0c",
+          "title": "11° Virgo Song: Open Hands, Open Heart",
+          "url": "https://www.youtube.com/watch?v=x_ULYhHra0c"
+        },
+        {
+          "video_id": "EeFvc3G2tv8",
+          "title": "12° Virgo Song: Mirror of the Mind",
+          "url": "https://www.youtube.com/watch?v=EeFvc3G2tv8"
+        },
+        {
+          "video_id": "e1ayrBt8tv4",
+          "title": "13° Virgo Song: Canvas of the Soul",
+          "url": "https://www.youtube.com/watch?v=e1ayrBt8tv4"
+        },
+        {
+          "video_id": "r__0HWgGWqQ",
+          "title": "14° Virgo Song: Hands in the Craft",
+          "url": "https://www.youtube.com/watch?v=r__0HWgGWqQ"
+        },
+        {
+          "video_id": "LHnoN0QWIwo",
+          "title": "15° Virgo Song: Quiet Flame of Service",
+          "url": "https://www.youtube.com/watch?v=LHnoN0QWIwo"
+        },
+        {
+          "video_id": "J4AMK5f7ckM",
+          "title": "16° Virgo Song: Salt of the Earth",
+          "url": "https://www.youtube.com/watch?v=J4AMK5f7ckM"
+        },
+        {
+          "video_id": "04ckg0lRdIU",
+          "title": "17° Virgo Song: Truth in the Shadows",
+          "url": "https://www.youtube.com/watch?v=04ckg0lRdIU"
+        },
+        {
+          "video_id": "gRc3Lfy0Gmw",
+          "title": "18° Virgo Song: Hands of Light",
+          "url": "https://www.youtube.com/watch?v=gRc3Lfy0Gmw"
+        },
+        {
+          "video_id": "ZeGJslvUGEQ",
+          "title": "19° Virgo Song: Roots of Resonance",
+          "url": "https://www.youtube.com/watch?v=ZeGJslvUGEQ"
+        },
+        {
+          "video_id": "fM8jdCIy7nQ",
+          "title": "20° Virgo Song: Iron & Quiet",
+          "url": "https://www.youtube.com/watch?v=fM8jdCIy7nQ"
+        },
+        {
+          "video_id": "7SSi03Vt9k0",
+          "title": "21° Virgo Song: Balance of the Ledger",
+          "url": "https://www.youtube.com/watch?v=7SSi03Vt9k0"
+        },
+        {
+          "video_id": "_KGUL8AZM0I",
+          "title": "22° Virgo Song: Spotlight and Shadows",
+          "url": "https://www.youtube.com/watch?v=_KGUL8AZM0I"
+        },
+        {
+          "video_id": "e59ApSrz_vY",
+          "title": "23° Virgo Song: Seeds of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=e59ApSrz_vY"
+        },
+        {
+          "video_id": "8xXZboX4EJ0",
+          "title": "24° Virgo Song: Veil of Harmony",
+          "url": "https://www.youtube.com/watch?v=8xXZboX4EJ0"
+        },
+        {
+          "video_id": "jQE6jArHDAM",
+          "title": "25° Virgo Song: Magnetic Whisper",
+          "url": "https://www.youtube.com/watch?v=jQE6jArHDAM"
+        },
+        {
+          "video_id": "WgrjEH0jaK4",
+          "title": "26° Virgo Song: Clear Sight",
+          "url": "https://www.youtube.com/watch?v=WgrjEH0jaK4"
+        },
+        {
+          "video_id": "DGTiIJb0-M4",
+          "title": "27° Virgo Song: Bridge of Minds",
+          "url": "https://www.youtube.com/watch?v=DGTiIJb0-M4"
+        },
+        {
+          "video_id": "JDOxCOuSLg0",
+          "title": "28° Virgo Song: Beyond the Wheel",
+          "url": "https://www.youtube.com/watch?v=JDOxCOuSLg0"
+        },
+        {
+          "video_id": "SwJEfoOt54M",
+          "title": "29° Virgo Song: Seeds of Stillness",
+          "url": "https://www.youtube.com/watch?v=SwJEfoOt54M"
+        },
+        {
+          "video_id": "R0OMzSsKq4c",
+          "title": "Libra 0° Song: Threads of Truth",
+          "url": "https://www.youtube.com/watch?v=R0OMzSsKq4c"
+        },
+        {
+          "video_id": "oLJrnlzvobg",
+          "title": "Libra 1° Song: Steadfast Harmony",
+          "url": "https://www.youtube.com/watch?v=oLJrnlzvobg"
+        },
+        {
+          "video_id": "kP6rIQt9Rc0",
+          "title": "Libra 2° Song: entle Currents",
+          "url": "https://www.youtube.com/watch?v=kP6rIQt9Rc0"
+        },
+        {
+          "video_id": "NCLetjiq2S0",
+          "title": "Libra 3° Song: Inner Compass",
+          "url": "https://www.youtube.com/watch?v=NCLetjiq2S0"
+        },
+        {
+          "video_id": "8Y9fvEqER0U",
+          "title": "Libra 4° Song: Steady Reflection",
+          "url": "https://www.youtube.com/watch?v=8Y9fvEqER0U"
+        },
+        {
+          "video_id": "u8CaNBpiQys",
+          "title": "Libra 5° Song: Dance of Light",
+          "url": "https://www.youtube.com/watch?v=u8CaNBpiQys"
+        },
+        {
+          "video_id": "XNecEGCCn2U",
+          "title": "Libra 6° Song: Echoes of the Ancients",
+          "url": "https://www.youtube.com/watch?v=XNecEGCCn2U"
+        },
+        {
+          "video_id": "kg6NRxs4z1o",
+          "title": "Libra 7° Song: Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=kg6NRxs4z1o"
+        },
+        {
+          "video_id": "Xhw8QZwhhdg",
+          "title": "Libra 8° Song: Whispered Wings",
+          "url": "https://www.youtube.com/watch?v=Xhw8QZwhhdg"
+        },
+        {
+          "video_id": "BBRZXNw_hj4",
+          "title": "Libra 9° Song: Prism of Truth",
+          "url": "https://www.youtube.com/watch?v=BBRZXNw_hj4"
+        },
+        {
+          "video_id": "PPX9ury1TPM",
+          "title": "Libra 10° Song: Edge of the Mirror",
+          "url": "https://www.youtube.com/watch?v=PPX9ury1TPM"
+        },
+        {
+          "video_id": "emkyAxK1Gv4",
+          "title": "Libra 11° Song: Dual Stars",
+          "url": "https://www.youtube.com/watch?v=emkyAxK1Gv4"
+        },
+        {
+          "video_id": "2AdoyKN13Sg",
+          "title": "Libra 12° Song: Gentle Renewal",
+          "url": "https://www.youtube.com/watch?v=2AdoyKN13Sg"
+        },
+        {
+          "video_id": "S_ve84OfgX8",
+          "title": "Libra 13° Song: Bridges of the Heart",
+          "url": "https://www.youtube.com/watch?v=S_ve84OfgX8"
+        },
+        {
+          "video_id": "YbTwa51Offg",
+          "title": "Libra 14° Song: Masks and Mirrors",
+          "url": "https://www.youtube.com/watch?v=YbTwa51Offg"
+        },
+        {
+          "video_id": "fegP8RsCyaQ",
+          "title": "Libra 15° Song: Currents of Choice",
+          "url": "https://www.youtube.com/watch?v=fegP8RsCyaQ"
+        },
+        {
+          "video_id": "5ab2Ay1K-sY",
+          "title": "Libra 16° Song: Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=5ab2Ay1K-sY"
+        },
+        {
+          "video_id": "5fjr25lw6rA",
+          "title": "Libra 17° Song: Words Between the Lines",
+          "url": "https://www.youtube.com/watch?v=5fjr25lw6rA"
+        },
+        {
+          "video_id": "HVuyXLqvRQc",
+          "title": "Libra 18° Song: Warm Threshold",
+          "url": "https://www.youtube.com/watch?v=HVuyXLqvRQc"
+        },
+        {
+          "video_id": "hKh2DmPKlVk",
+          "title": "Libra 19° Song: Scales of the Soul",
+          "url": "https://www.youtube.com/watch?v=hKh2DmPKlVk"
+        },
+        {
+          "video_id": "lynAoxp0NxQ",
+          "title": "Libra 20° Song: Harmony’s Path",
+          "url": "https://www.youtube.com/watch?v=lynAoxp0NxQ"
+        },
+        {
+          "video_id": "q3_0eFO25zA",
+          "title": "Libra 21° Song: Voices of the Self",
+          "url": "https://www.youtube.com/watch?v=q3_0eFO25zA"
+        },
+        {
+          "video_id": "UCA4D6krup0",
+          "title": "Libra 22° Song: Echoes of the Timeless",
+          "url": "https://www.youtube.com/watch?v=UCA4D6krup0"
+        },
+        {
+          "video_id": "d_yh_t0DYPs",
+          "title": "Libra 23° Song: Threshold of Change",
+          "url": "https://www.youtube.com/watch?v=d_yh_t0DYPs"
+        },
+        {
+          "video_id": "5PwjiJud1VQ",
+          "title": "Libra 24° Song: Mirror of Myself",
+          "url": "https://www.youtube.com/watch?v=5PwjiJud1VQ"
+        },
+        {
+          "video_id": "DUm2ExmJd6Q",
+          "title": "Libra 25° Song: Threads of the Unseen",
+          "url": "https://www.youtube.com/watch?v=DUm2ExmJd6Q"
+        },
+        {
+          "video_id": "U-3IC3liGts",
+          "title": "Libra 26° Song: Quiet Currents",
+          "url": "https://www.youtube.com/watch?v=U-3IC3liGts"
+        },
+        {
+          "video_id": "o1SoV6YnAmk",
+          "title": "Libra 27° Song: Still Waters",
+          "url": "https://www.youtube.com/watch?v=o1SoV6YnAmk"
+        },
+        {
+          "video_id": "iRKgkOO7frM",
+          "title": "Libra 28° Song: Quiet Currents",
+          "url": "https://www.youtube.com/watch?v=iRKgkOO7frM"
+        },
+        {
+          "video_id": "8SfIJwVv-WE",
+          "title": "Libra 29° Song: Mirror of the Heart",
+          "url": "https://www.youtube.com/watch?v=8SfIJwVv-WE"
+        },
+        {
+          "video_id": "BNphLZig7rk",
+          "title": "Scorpio  0° Song: Veil of Duality",
+          "url": "https://www.youtube.com/watch?v=BNphLZig7rk"
+        },
+        {
+          "video_id": "cPJ5cTus42o",
+          "title": "Scorpio  1° Song: Depths of Harmony",
+          "url": "https://www.youtube.com/watch?v=cPJ5cTus42o"
+        },
+        {
+          "video_id": "xvHR7epQXTg",
+          "title": "Scorpio  2° Song: Forged in Shadows",
+          "url": "https://www.youtube.com/watch?v=xvHR7epQXTg"
+        },
+        {
+          "video_id": "NNPxRdFIcoc",
+          "title": "Scorpio  3° Song: Veil of the Vortex",
+          "url": "https://www.youtube.com/watch?v=NNPxRdFIcoc"
+        },
+        {
+          "video_id": "BpRp3q-wsaY",
+          "title": "Scorpio 4° Song: Symphony of the Deep",
+          "url": "https://www.youtube.com/watch?v=BpRp3q-wsaY"
+        },
+        {
+          "video_id": "IVu0OBHZ6fw",
+          "title": "Scorpio  5° Song: Path of the Phoenix",
+          "url": "https://www.youtube.com/watch?v=IVu0OBHZ6fw"
+        },
+        {
+          "video_id": "SmTenPfoLW8",
+          "title": "Scorpio 6° Song: Alchemy of Precision",
+          "url": "https://www.youtube.com/watch?v=SmTenPfoLW8"
+        },
+        {
+          "video_id": "T21TTfQnvUM",
+          "title": "Scorpio 7° Song: Veil of the Unseen",
+          "url": "https://www.youtube.com/watch?v=T21TTfQnvUM"
+        },
+        {
+          "video_id": "lQPWLHFRG74",
+          "title": "Scorpio 8° Song: Bridge of the Mind",
+          "url": "https://www.youtube.com/watch?v=lQPWLHFRG74"
+        },
+        {
+          "video_id": "TggNVAwDlKg",
+          "title": "Scorpio 9° Song: Roots of the Storm",
+          "url": "https://www.youtube.com/watch?v=TggNVAwDlKg"
+        },
+        {
+          "video_id": "tazZtLSfRiY",
+          "title": "Scorpio 10° Song: Beneath the Wink",
+          "url": "https://www.youtube.com/watch?v=tazZtLSfRiY"
+        },
+        {
+          "video_id": "Vn3db8OFeao",
+          "title": "Scorpio 11° Song: Guard of the Heart",
+          "url": "https://www.youtube.com/watch?v=Vn3db8OFeao"
+        },
+        {
+          "video_id": "3-jskKBtSjo",
+          "title": "Scorpio 12° Song: Lines in the Dust",
+          "url": "https://www.youtube.com/watch?v=3-jskKBtSjo"
+        },
+        {
+          "video_id": "tJ4xKVx3zvE",
+          "title": "Scorpio 13° Song: Quiet Fortress",
+          "url": "https://www.youtube.com/watch?v=tJ4xKVx3zvE"
+        },
+        {
+          "video_id": "XHAD8s6Q1JI",
+          "title": "Scorpio 14° Song: Heart Before the Flame",
+          "url": "https://www.youtube.com/watch?v=XHAD8s6Q1JI"
+        },
+        {
+          "video_id": "M5hxTXBmShI",
+          "title": "Scorpio 15° Song: Through the Weight",
+          "url": "https://www.youtube.com/watch?v=M5hxTXBmShI"
+        },
+        {
+          "video_id": "hERl4FUknCA",
+          "title": "Scorpio 16° Song: Armor and Ash",
+          "url": "https://www.youtube.com/watch?v=hERl4FUknCA"
+        },
+        {
+          "video_id": "-A2QZp83YGg",
+          "title": "Scorpio 17° Song: Quiet Bloom",
+          "url": "https://www.youtube.com/watch?v=-A2QZp83YGg"
+        },
+        {
+          "video_id": "G7QGWVKatig",
+          "title": "Scorpio 18° Song: Still Waters Rise",
+          "url": "https://www.youtube.com/watch?v=G7QGWVKatig"
+        },
+        {
+          "video_id": "qaF7pl2Dvik",
+          "title": "Scorpio 19° Song: Fire at the Gate",
+          "url": "https://www.youtube.com/watch?v=qaF7pl2Dvik"
+        },
+        {
+          "video_id": "k1bs9YASvPs",
+          "title": "Scorpio 20° Song: Horizon Flame",
+          "url": "https://www.youtube.com/watch?v=k1bs9YASvPs"
+        },
+        {
+          "video_id": "8GLgHa23ylc",
+          "title": "Scorpio 21° Song: Fire and Stillness",
+          "url": "https://www.youtube.com/watch?v=8GLgHa23ylc"
+        },
+        {
+          "video_id": "OLGRtbWQ4BE",
+          "title": "Scorpio 22° Song: Leap and Land",
+          "url": "https://www.youtube.com/watch?v=OLGRtbWQ4BE"
+        },
+        {
+          "video_id": "2gALgPJVmKs",
+          "title": "Scorpio 23° Song: Unwritten Flame",
+          "url": "https://www.youtube.com/watch?v=2gALgPJVmKs"
+        },
+        {
+          "video_id": "0ilAl6FWRdc",
+          "title": "Scorpio 24° Song: Blueprint of the Soul",
+          "url": "https://www.youtube.com/watch?v=0ilAl6FWRdc"
+        },
+        {
+          "video_id": "m0SNIJgw1C4",
+          "title": "Scorpio 25° Song: Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=m0SNIJgw1C4"
+        },
+        {
+          "video_id": "6yc5te58Z8w",
+          "title": "Scorpio 26° Song: Born of the Real",
+          "url": "https://www.youtube.com/watch?v=6yc5te58Z8w"
+        },
+        {
+          "video_id": "T4dBzJE2qJY",
+          "title": "Scorpio 27° Song: Voice of the Horizon",
+          "url": "https://www.youtube.com/watch?v=T4dBzJE2qJY"
+        },
+        {
+          "video_id": "6dc3plrdqhE",
+          "title": "Scorpio 28° Song: Carved in Fire",
+          "url": "https://www.youtube.com/watch?v=6dc3plrdqhE"
+        },
+        {
+          "video_id": "-uWbvukoRQ8",
+          "title": "Scorpio 29° Song: Pages of Becoming",
+          "url": "https://www.youtube.com/watch?v=-uWbvukoRQ8"
+        },
+        {
+          "video_id": "XmIrOxKJJm0",
+          "title": "Sagittarius 0° Song: Edge of Becoming",
+          "url": "https://www.youtube.com/watch?v=XmIrOxKJJm0"
+        },
+        {
+          "video_id": "I0hpbEaBAy8",
+          "title": "Sagittarius 1° Song: Break the Pattern",
+          "url": "https://www.youtube.com/watch?v=I0hpbEaBAy8"
+        },
+        {
+          "video_id": "llyKiowTY5s",
+          "title": "Sagittarius 2° Song: Wild and Becoming",
+          "url": "https://www.youtube.com/watch?v=llyKiowTY5s"
+        },
+        {
+          "video_id": "EfFf9h8YW4A",
+          "title": "Sagittarius 3° Song: The Way Back Home",
+          "url": "https://www.youtube.com/watch?v=EfFf9h8YW4A"
+        },
+        {
+          "video_id": "pQ4gApw5yLM",
+          "title": "Sagittarius 4° Song: When the Line Is Crossed",
+          "url": "https://www.youtube.com/watch?v=pQ4gApw5yLM"
+        },
+        {
+          "video_id": "F-NbpG6_LjQ",
+          "title": "Sagittarius 5° Song: Through the Quiet",
+          "url": "https://www.youtube.com/watch?v=F-NbpG6_LjQ"
+        },
+        {
+          "video_id": "gJ22ZYug-88",
+          "title": "Sagittarius 6° Song: More Than Myself",
+          "url": "https://www.youtube.com/watch?v=gJ22ZYug-88"
+        },
+        {
+          "video_id": "qsIRog-VB58",
+          "title": "Sagittarius 7° Song: Quiet Knows",
+          "url": "https://www.youtube.com/watch?v=qsIRog-VB58"
+        },
+        {
+          "video_id": "lJr9rXAnQvk",
+          "title": "Sagittarius 8° Song: Headfirst into Light",
+          "url": "https://www.youtube.com/watch?v=lJr9rXAnQvk"
+        },
+        {
+          "video_id": "DFLdYala9BE",
+          "title": "Sagittarius 9° Song: Wild Flame",
+          "url": "https://www.youtube.com/watch?v=DFLdYala9BE"
+        },
+        {
+          "video_id": "S2gafjNXxZY",
+          "title": "Sagittarius 10° Song: Reshape the Sky",
+          "url": "https://www.youtube.com/watch?v=S2gafjNXxZY"
+        },
+        {
+          "video_id": "NRkb2evxYR4",
+          "title": "Sagittarius 11° Song: Full Circle Rhythm",
+          "url": "https://www.youtube.com/watch?v=NRkb2evxYR4"
+        },
+        {
+          "video_id": "e5Xjq8K7q7I",
+          "title": "Sagittarius 12° Song: Melt into Becoming",
+          "url": "https://www.youtube.com/watch?v=e5Xjq8K7q7I"
+        },
+        {
+          "video_id": "2tN3WKetBag",
+          "title": "Sagittarius 13° Song: Ashes and Insight",
+          "url": "https://www.youtube.com/watch?v=2tN3WKetBag"
+        },
+        {
+          "video_id": "YDDuNhwjXTI",
+          "title": "Sagittarius 14° Song: Light Through the Mind",
+          "url": "https://www.youtube.com/watch?v=YDDuNhwjXTI"
+        },
+        {
+          "video_id": "rZ8qC01URk0",
+          "title": "Sagittarius 15° Song: Hold the Spark",
+          "url": "https://www.youtube.com/watch?v=rZ8qC01URk0"
+        },
+        {
+          "video_id": "awYfQz10sBY",
+          "title": "Sagittarius 16° Song: Steady Flame",
+          "url": "https://www.youtube.com/watch?v=awYfQz10sBY"
+        },
+        {
+          "video_id": "WrOfufFKOUM",
+          "title": "Sagittarius 17° Song: Leap of Light",
+          "url": "https://www.youtube.com/watch?v=WrOfufFKOUM"
+        },
+        {
+          "video_id": "TQYu38hpHKM",
+          "title": "Sagittarius 18° Song: Quiet Grace",
+          "url": "https://www.youtube.com/watch?v=TQYu38hpHKM"
+        },
+        {
+          "video_id": "jaKthtIWUzk",
+          "title": "Sagittarius 19° Song: Washed Ashore",
+          "url": "https://www.youtube.com/watch?v=jaKthtIWUzk"
+        },
+        {
+          "video_id": "4i2m2qwq8E0",
+          "title": "Sagittarius 20° Song: Everyday Alchemy",
+          "url": "https://www.youtube.com/watch?v=4i2m2qwq8E0"
+        },
+        {
+          "video_id": "YQZawxCbE6Q",
+          "title": "Sagittarius 21° Song: Currents of the Quiet",
+          "url": "https://www.youtube.com/watch?v=YQZawxCbE6Q"
+        },
+        {
+          "video_id": "4BcA3wQSAYQ",
+          "title": "Sagittarius 22° Song: Break the Shell",
+          "url": "https://www.youtube.com/watch?v=4BcA3wQSAYQ"
+        },
+        {
+          "video_id": "FuTrly52Mh4",
+          "title": "Sagittarius 23° Song: Bells of the Heart",
+          "url": "https://www.youtube.com/watch?v=FuTrly52Mh4"
+        },
+        {
+          "video_id": "-qvjHScu__s",
+          "title": "Sagittarius 24° Song: Light of the Old Ways",
+          "url": "https://www.youtube.com/watch?v=-qvjHScu__s"
+        },
+        {
+          "video_id": "82DK0FfUEVo",
+          "title": "Sagittarius 25° Song: Drift and Rise",
+          "url": "https://www.youtube.com/watch?v=82DK0FfUEVo"
+        },
+        {
+          "video_id": "omIrryMbKW0",
+          "title": "Sagittarius 26° Song: Many Faces, One Flame",
+          "url": "https://www.youtube.com/watch?v=omIrryMbKW0"
+        },
+        {
+          "video_id": "X058SrPhqxY",
+          "title": "Sagittarius 27° Song: Into the New Light",
+          "url": "https://www.youtube.com/watch?v=X058SrPhqxY"
+        },
+        {
+          "video_id": "WcSjHGOEsDM",
+          "title": "Sagittarius 28° Song: Carve My Way",
+          "url": "https://www.youtube.com/watch?v=WcSjHGOEsDM"
+        },
+        {
+          "video_id": "pXawGQMF9VM",
+          "title": "Sagittarius 29° Song: Beyond the Edge",
+          "url": "https://www.youtube.com/watch?v=pXawGQMF9VM"
+        },
+        {
+          "video_id": "yaeL3XEVHPM",
+          "title": "Capricorn 0° Song: Essence of the Pattern",
+          "url": "https://www.youtube.com/watch?v=yaeL3XEVHPM"
+        },
+        {
+          "video_id": "lYyxo-2hQls",
+          "title": "Capricorn 1° Song: Inner Canopy",
+          "url": "https://www.youtube.com/watch?v=lYyxo-2hQls"
+        },
+        {
+          "video_id": "pHfGWSBGqJc",
+          "title": "Capricorn 2° Song: Stand in the Shift",
+          "url": "https://www.youtube.com/watch?v=pHfGWSBGqJc"
+        },
+        {
+          "video_id": "ftzNgpWa8M8",
+          "title": "Capricorn 3° Song: Break the Cycle",
+          "url": "https://www.youtube.com/watch?v=ftzNgpWa8M8"
+        },
+        {
+          "video_id": "wYpO1ZCiw_M",
+          "title": "Capricorn 4° Song: Path Already Laid",
+          "url": "https://www.youtube.com/watch?v=wYpO1ZCiw_M"
+        },
+        {
+          "video_id": "5CsLymxQV_c",
+          "title": "Capricorn 5° Song: Quiet Gold",
+          "url": "https://www.youtube.com/watch?v=5CsLymxQV_c"
+        },
+        {
+          "video_id": "9DqM_gRbyK8",
+          "title": "Capricorn 6° Song: Gold Beneath the Silence",
+          "url": "https://www.youtube.com/watch?v=9DqM_gRbyK8"
+        },
+        {
+          "video_id": "bz93J1d-vf4",
+          "title": "Capricorn 7° Song: Mirror of the Satyr",
+          "url": "https://www.youtube.com/watch?v=bz93J1d-vf4"
+        },
+        {
+          "video_id": "Wl06b9bd6vg",
+          "title": "Capricorn 8° Song: Eyes of the Charmer",
+          "url": "https://www.youtube.com/watch?v=Wl06b9bd6vg"
+        },
+        {
+          "video_id": "LMGKeChE5dU",
+          "title": "Capricorn 9° Song: Steps of the Devoted",
+          "url": "https://www.youtube.com/watch?v=LMGKeChE5dU"
+        },
+        {
+          "video_id": "xVQcg-v_elc",
+          "title": "Capricorn 10° Song: Whispers in the Stone",
+          "url": "https://www.youtube.com/watch?v=xVQcg-v_elc"
+        },
+        {
+          "video_id": "NDeHyCSiZxI",
+          "title": "Capricorn 11° Song: Quiet Architect",
+          "url": "https://www.youtube.com/watch?v=NDeHyCSiZxI"
+        },
+        {
+          "video_id": "PDERZiSLCEY",
+          "title": "Capricorn 12° Song: Edge of the Mirror",
+          "url": "https://www.youtube.com/watch?v=PDERZiSLCEY"
+        },
+        {
+          "video_id": "xU6_rN5IpoM",
+          "title": "Capricorn 13° Song: Climb with Honor: Climb with Honor",
+          "url": "https://www.youtube.com/watch?v=xU6_rN5IpoM"
+        },
+        {
+          "video_id": "Yt0vUyXZ8Z8",
+          "title": "Capricorn 14° Song: Voice of the Stone",
+          "url": "https://www.youtube.com/watch?v=Yt0vUyXZ8Z8"
+        },
+        {
+          "video_id": "SvUkjRyctIs",
+          "title": "Capricorn 15° Song: Shadow and Crown",
+          "url": "https://www.youtube.com/watch?v=SvUkjRyctIs"
+        },
+        {
+          "video_id": "i-VPxpn9n08",
+          "title": "Capricorn 16° Song: Flame in Motion",
+          "url": "https://www.youtube.com/watch?v=i-VPxpn9n08"
+        },
+        {
+          "video_id": "Yc72bkOqjKo",
+          "title": "Capricorn 17° Song: The Song Between the Lines",
+          "url": "https://www.youtube.com/watch?v=Yc72bkOqjKo"
+        },
+        {
+          "video_id": "SbUHhJX_M-A",
+          "title": "Capricorn 18° Song: Stand for the Fire",
+          "url": "https://www.youtube.com/watch?v=SbUHhJX_M-A"
+        },
+        {
+          "video_id": "jUiWKun38Mc",
+          "title": "Capricorn 19° Song: The One Who Stands",
+          "url": "https://www.youtube.com/watch?v=jUiWKun38Mc"
+        },
+        {
+          "video_id": "KnJzTjeXjIU",
+          "title": "Capricorn 20° Song: Echoes into Purpose",
+          "url": "https://www.youtube.com/watch?v=KnJzTjeXjIU"
+        },
+        {
+          "video_id": "pneO8tO32B8",
+          "title": "Capricorn 21° Song: The Turning Page",
+          "url": "https://www.youtube.com/watch?v=pneO8tO32B8"
+        },
+        {
+          "video_id": "aLKFLhgYPTk",
+          "title": "Capricorn 22° Song: Beneath the Stone",
+          "url": "https://www.youtube.com/watch?v=aLKFLhgYPTk"
+        },
+        {
+          "video_id": "WLFj1Jdu-y8",
+          "title": "Capricorn 23° Song: Fire with Form",
+          "url": "https://www.youtube.com/watch?v=WLFj1Jdu-y8"
+        },
+        {
+          "video_id": "-0i_i6IXDvE",
+          "title": "Capricorn 24° Song: The Quiet Truth",
+          "url": "https://www.youtube.com/watch?v=-0i_i6IXDvE"
+        },
+        {
+          "video_id": "mZskrgKrk30",
+          "title": "Capricorn 25° Song: The Role I Choose",
+          "url": "https://www.youtube.com/watch?v=mZskrgKrk30"
+        },
+        {
+          "video_id": "bP45fEUwNWs",
+          "title": "Capricorn 26° Song: Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=bP45fEUwNWs"
+        },
+        {
+          "video_id": "91UhUZtGM28",
+          "title": "Capricorn 27° Song: Rooted and Rising",
+          "url": "https://www.youtube.com/watch?v=91UhUZtGM28"
+        },
+        {
+          "video_id": "h2T89YjENT4",
+          "title": "Capricorn 28° Song: The Weight I Choose",
+          "url": "https://www.youtube.com/watch?v=h2T89YjENT4"
+        },
+        {
+          "video_id": "car03B1C-F0",
+          "title": "Capricorn 29° Song: In the Quiet, I Remember",
+          "url": "https://www.youtube.com/watch?v=car03B1C-F0"
+        },
+        {
+          "video_id": "EYTCLjQefWY",
+          "title": "Aquarius 0° Song: Soul’s Turning Point",
+          "url": "https://www.youtube.com/watch?v=EYTCLjQefWY"
+        },
+        {
+          "video_id": "e6sD4fuPHEk",
+          "title": "Aquarius 1°  Song: The Edge of What Can Be",
+          "url": "https://www.youtube.com/watch?v=e6sD4fuPHEk"
+        },
+        {
+          "video_id": "Ddd9s3E94hs",
+          "title": "Aquarius 2°  Song: Clarity and Mystery",
+          "url": "https://www.youtube.com/watch?v=Ddd9s3E94hs"
+        },
+        {
+          "video_id": "yruTK_SA080",
+          "title": "Aquarius 3°  Song:  Into the Unknown",
+          "url": "https://www.youtube.com/watch?v=yruTK_SA080"
+        },
+        {
+          "video_id": "2rESAImcfyg",
+          "title": "Aquarius 4°  Song: Rise and Remember",
+          "url": "https://www.youtube.com/watch?v=2rESAImcfyg"
+        },
+        {
+          "video_id": "5wW-4F8XEHs",
+          "title": "Aquarius 5°  Song: Voice of the Earth",
+          "url": "https://www.youtube.com/watch?v=5wW-4F8XEHs"
+        },
+        {
+          "video_id": "eBE5HjbARpQ",
+          "title": "Aquarius 6°  Song: The Beauty in the Flaw",
+          "url": "https://www.youtube.com/watch?v=eBE5HjbARpQ"
+        },
+        {
+          "video_id": "rFzJr8Rbaag",
+          "title": "Aquarius 7°  Song: Right Here",
+          "url": "https://www.youtube.com/watch?v=rFzJr8Rbaag"
+        },
+        {
+          "video_id": "gUUWQ3Rz3oI",
+          "title": "Aquarius 8°  Song:  Unlocked",
+          "url": "https://www.youtube.com/watch?v=gUUWQ3Rz3oI"
+        },
+        {
+          "video_id": "AtvnFI1rjSM",
+          "title": "Aquarius 9°  Song: Light Ahead",
+          "url": "https://www.youtube.com/watch?v=AtvnFI1rjSM"
+        },
+        {
+          "video_id": "uqRwajHLWcI",
+          "title": "Aquarius 10°  Song: Quiet Flame",
+          "url": "https://www.youtube.com/watch?v=uqRwajHLWcI"
+        },
+        {
+          "video_id": "g60SdGVXrjE",
+          "title": "Aquarius 11°  Song: Stillness Wins",
+          "url": "https://www.youtube.com/watch?v=g60SdGVXrjE"
+        },
+        {
+          "video_id": "q40u9CI0R2M",
+          "title": "Aquarius 12°  Song: True Freedom Finds Me",
+          "url": "https://www.youtube.com/watch?v=q40u9CI0R2M"
+        },
+        {
+          "video_id": "JT6pwXlelME",
+          "title": "Aquarius 13°  Song: Stand and Soar",
+          "url": "https://www.youtube.com/watch?v=JT6pwXlelME"
+        },
+        {
+          "video_id": "6N3mGD3uV5c",
+          "title": "Aquarius 14° Song: Unshaken Change",
+          "url": "https://www.youtube.com/watch?v=6N3mGD3uV5c"
+        },
+        {
+          "video_id": "a2joxv2z9EI",
+          "title": "Aquarius 15°  Song: Belonging Everywhere",
+          "url": "https://www.youtube.com/watch?v=a2joxv2z9EI"
+        },
+        {
+          "video_id": "S_-SW0O3sA0",
+          "title": "Aquarius 16°  Song: Fire Beneath the Work",
+          "url": "https://www.youtube.com/watch?v=S_-SW0O3sA0"
+        },
+        {
+          "video_id": "giCaDFLL4bc",
+          "title": "Aquarius 17°  Song: Light the Spark",
+          "url": "https://www.youtube.com/watch?v=giCaDFLL4bc"
+        },
+        {
+          "video_id": "mKngbKJyogQ",
+          "title": "Aquarius 18°  Song: Quiet Depth",
+          "url": "https://www.youtube.com/watch?v=mKngbKJyogQ"
+        },
+        {
+          "video_id": "9wsqbCcO4ug",
+          "title": "Aquarius 19°  Song: Rise Again",
+          "url": "https://www.youtube.com/watch?v=9wsqbCcO4ug"
+        },
+        {
+          "video_id": "C1z_FSMF7oI",
+          "title": "Aquarius 20°  Song: The Quiet Light",
+          "url": "https://www.youtube.com/watch?v=C1z_FSMF7oI"
+        },
+        {
+          "video_id": "AMjNCWXJ6Rg",
+          "title": "Aquarius 21°  Song: Awaken the Flame",
+          "url": "https://www.youtube.com/watch?v=AMjNCWXJ6Rg"
+        },
+        {
+          "video_id": "w42O2LHMEaQ",
+          "title": "Aquarius 22°  Song: Quiet Force",
+          "url": "https://www.youtube.com/watch?v=w42O2LHMEaQ"
+        },
+        {
+          "video_id": "54-QEnydFTI",
+          "title": "Aquarius 23°  Song: Hands in the Light",
+          "url": "https://www.youtube.com/watch?v=54-QEnydFTI"
+        },
+        {
+          "video_id": "dXhawBnOPkA",
+          "title": "Aquarius 24°  Song: Between the Pulls",
+          "url": "https://www.youtube.com/watch?v=dXhawBnOPkA"
+        },
+        {
+          "video_id": "FwAvU0JKUl8",
+          "title": "Aquarius 25°  Song: Carry the Light",
+          "url": "https://www.youtube.com/watch?v=FwAvU0JKUl8"
+        },
+        {
+          "video_id": "p2Rx9vJ5JS0",
+          "title": "Aquarius 26°  Song: Into the Vision",
+          "url": "https://www.youtube.com/watch?v=p2Rx9vJ5JS0"
+        },
+        {
+          "video_id": "XMUmb6jk7BA",
+          "title": "Aquarius 27°  Song: Bridge of Time",
+          "url": "https://www.youtube.com/watch?v=XMUmb6jk7BA"
+        },
+        {
+          "video_id": "HMjeNs6cWDw",
+          "title": "Aquarius 28°  Song: Edge of the Horizon",
+          "url": "https://www.youtube.com/watch?v=HMjeNs6cWDw"
+        },
+        {
+          "video_id": "DHmuJpi04FQ",
+          "title": "Aquarius 29°  Song: Clear as the Sky",
+          "url": "https://www.youtube.com/watch?v=DHmuJpi04FQ"
+        },
+        {
+          "video_id": "DJeUqpP4QVE",
+          "title": "Pisces 0° Song: The Quiet Bridge",
+          "url": "https://www.youtube.com/watch?v=DJeUqpP4QVE"
+        },
+        {
+          "video_id": "YDX2sJjOmbg",
+          "title": "Pisces 1° Song: Flowing Into Light",
+          "url": "https://www.youtube.com/watch?v=YDX2sJjOmbg"
+        },
+        {
+          "video_id": "hUiLox64I8s",
+          "title": "Pisces 2° Song: Spark and Shadow",
+          "url": "https://www.youtube.com/watch?v=hUiLox64I8s"
+        },
+        {
+          "video_id": "aSGzEV5Ji_k",
+          "title": "Pisces 3° Song: Beneath the Golden Tide",
+          "url": "https://www.youtube.com/watch?v=aSGzEV5Ji_k"
+        },
+        {
+          "video_id": "e8DG79Uj5oc",
+          "title": "Pisces 4° Song: Fire in the Veil",
+          "url": "https://www.youtube.com/watch?v=e8DG79Uj5oc"
+        },
+        {
+          "video_id": "DRJXx6fPzUw",
+          "title": "Pisces 5° Song: Through the Storm Together",
+          "url": "https://www.youtube.com/watch?v=DRJXx6fPzUw"
+        },
+        {
+          "video_id": "aJ9o8HlXciE",
+          "title": "Pisces 6° Song",
+          "url": "https://www.youtube.com/watch?v=aJ9o8HlXciE"
+        },
+        {
+          "video_id": "PcBJbJNB0zY",
+          "title": "Pisces 7° Song: Through the Veil",
+          "url": "https://www.youtube.com/watch?v=PcBJbJNB0zY"
+        },
+        {
+          "video_id": "jygs_9ZlcKI",
+          "title": "Pisces 8° Song: Boundaries and Bridges",
+          "url": "https://www.youtube.com/watch?v=jygs_9ZlcKI"
+        },
+        {
+          "video_id": "wQnUfe826as",
+          "title": "Pisces 9° Song: Stronger in the Storm",
+          "url": "https://www.youtube.com/watch?v=wQnUfe826as"
+        },
+        {
+          "video_id": "W3YxXAE7KK4",
+          "title": "Pisces 10° Song: Magnetic Soul",
+          "url": "https://www.youtube.com/watch?v=W3YxXAE7KK4"
+        },
+        {
+          "video_id": "dkgccMcnUw0",
+          "title": "Pisces 11° Song: Wild and Free",
+          "url": "https://www.youtube.com/watch?v=dkgccMcnUw0"
+        },
+        {
+          "video_id": "nnZt1PTGI98",
+          "title": "Pisces 12° Song: Wake to the Light",
+          "url": "https://www.youtube.com/watch?v=nnZt1PTGI98"
+        },
+        {
+          "video_id": "IUl2VwIx_zY",
+          "title": "Pisces 13° Song: Mirror to Myself",
+          "url": "https://www.youtube.com/watch?v=IUl2VwIx_zY"
+        },
+        {
+          "video_id": "wn2mQ0hhr6A",
+          "title": "Pisces 14° Song: What Remains",
+          "url": "https://www.youtube.com/watch?v=wn2mQ0hhr6A"
+        },
+        {
+          "video_id": "pGgyb8i6aXc",
+          "title": "Pisces 15 – Path of the Calling",
+          "url": "https://www.youtube.com/watch?v=pGgyb8i6aXc"
+        },
+        {
+          "video_id": "VvgBrGOU7iY",
+          "title": "Pisces 16° Song: Walls and Open Skies",
+          "url": "https://www.youtube.com/watch?v=VvgBrGOU7iY"
+        },
+        {
+          "video_id": "QkApKojfeg4",
+          "title": "Pisces 17° Song: Stand in the Tide",
+          "url": "https://www.youtube.com/watch?v=QkApKojfeg4"
+        },
+        {
+          "video_id": "wpWrZ8a7Ks4",
+          "title": "Pisces 18° Song: All In",
+          "url": "https://www.youtube.com/watch?v=wpWrZ8a7Ks4"
+        },
+        {
+          "video_id": "b2DaZmEl9cA",
+          "title": "Pisces 19° Song: Battle and Balance",
+          "url": "https://www.youtube.com/watch?v=b2DaZmEl9cA"
+        },
+        {
+          "video_id": "zu9nAdALaxk",
+          "title": "Pisces 20° Song: Dream to Reality",
+          "url": "https://www.youtube.com/watch?v=zu9nAdALaxk"
+        },
+        {
+          "video_id": "eMw26Yxvhbs",
+          "title": "Pisces 21° Song: Roots and Rivers",
+          "url": "https://www.youtube.com/watch?v=eMw26Yxvhbs"
+        },
+        {
+          "video_id": "11pCVUs__5k",
+          "title": "Pisces 22° Song: Velvet Horizon",
+          "url": "https://www.youtube.com/watch?v=11pCVUs__5k"
+        },
+        {
+          "video_id": "Q15KCgWR6tg",
+          "title": "Pisces 23° Song",
+          "url": "https://www.youtube.com/watch?v=Q15KCgWR6tg"
+        },
+        {
+          "video_id": "RdphEAdI2Ek",
+          "title": "Pisces 24° Song: Breaking the Spell",
+          "url": "https://www.youtube.com/watch?v=RdphEAdI2Ek"
+        },
+        {
+          "video_id": "nvU7387VDQQ",
+          "title": "Pisces 25° Song: The Honorable Path",
+          "url": "https://www.youtube.com/watch?v=nvU7387VDQQ"
+        },
+        {
+          "video_id": "l8lcA6fvuY4",
+          "title": "Pisces 26° Song: Light of the Revolution",
+          "url": "https://www.youtube.com/watch?v=l8lcA6fvuY4"
+        },
+        {
+          "video_id": "XXz3d4k7MFQ",
+          "title": "Pisces 27° Song: Wild and Unbound",
+          "url": "https://www.youtube.com/watch?v=XXz3d4k7MFQ"
+        },
+        {
+          "video_id": "xcIHRQebXJo",
+          "title": "Pisces 28° Song: Eyes of the Healer",
+          "url": "https://www.youtube.com/watch?v=xcIHRQebXJo"
+        },
+        {
+          "video_id": "fI9BSkGew_E",
+          "title": "Pisces 29° Song: Steady Hands",
+          "url": "https://www.youtube.com/watch?v=fI9BSkGew_E"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Feel the energy of each astrological degree through music\n\nThis playlist features 360 songs, one for every degree of the zodiac, from Aries 0° to Pisces 29°. Each track captures the unique energy of its degree, offering a creative and inspiring way to experience astrology through sound. These songs are designed to help you connect with the deeper meaning of each degree and bring the zodiac to life in a way that is both personal and immersive.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBa6srpk45GZRDglRsvWvSR.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCyHbgi8ciuFI2MUdTBE74Q",
+      "title": "Aries Astrological Degree Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCyHbgi8ciuFI2MUdTBE74Q",
+      "displayed_video_count": "30 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "U5kwxRr0GAw",
+          "title": "Aries 0° Song: Stand in the light",
+          "url": "https://www.youtube.com/watch?v=U5kwxRr0GAw"
+        },
+        {
+          "video_id": "CnOC1HfuFfM",
+          "title": "Aries 1° Song: Trailblaze the dawn",
+          "url": "https://www.youtube.com/watch?v=CnOC1HfuFfM"
+        },
+        {
+          "video_id": "KLvRftZ4GDc",
+          "title": "Aries 2° Song: Rise unbound",
+          "url": "https://www.youtube.com/watch?v=KLvRftZ4GDc"
+        },
+        {
+          "video_id": "x9sJsFV6y7M",
+          "title": "Aries 3° Song: Speak the truth",
+          "url": "https://www.youtube.com/watch?v=x9sJsFV6y7M"
+        },
+        {
+          "video_id": "aHj64jKBw6M",
+          "title": "Aries 4° Song: Embrace the flow",
+          "url": "https://www.youtube.com/watch?v=aHj64jKBw6M"
+        },
+        {
+          "video_id": "NAXa1DqLQMw",
+          "title": "Aries 6° Song: Lead with passion",
+          "url": "https://www.youtube.com/watch?v=NAXa1DqLQMw"
+        },
+        {
+          "video_id": "IC0k-xxeiMg",
+          "title": "Aries 7° Song: Navigate the path",
+          "url": "https://www.youtube.com/watch?v=IC0k-xxeiMg"
+        },
+        {
+          "video_id": "NIEsM1vntwA",
+          "title": "Aries 8° Song: Shine your spark",
+          "url": "https://www.youtube.com/watch?v=NIEsM1vntwA"
+        },
+        {
+          "video_id": "S9UQIU3TiFQ",
+          "title": "Aries 9° Song: Shine forward",
+          "url": "https://www.youtube.com/watch?v=S9UQIU3TiFQ"
+        },
+        {
+          "video_id": "Ve_wRC7NP4I",
+          "title": "Aries 10° Song: Ignite the vision",
+          "url": "https://www.youtube.com/watch?v=Ve_wRC7NP4I"
+        },
+        {
+          "video_id": "K-1tMiaa-bo",
+          "title": "Aries 11° Song: Break the cycle",
+          "url": "https://www.youtube.com/watch?v=K-1tMiaa-bo"
+        },
+        {
+          "video_id": "REDUIxs2YkQ",
+          "title": "Aries 12° Song: Guard the flame",
+          "url": "https://www.youtube.com/watch?v=REDUIxs2YkQ"
+        },
+        {
+          "video_id": "dj1G0f08jjg",
+          "title": "Aries 13° Song: Stand resilient",
+          "url": "https://www.youtube.com/watch?v=dj1G0f08jjg"
+        },
+        {
+          "video_id": "PX4ZU1QvgVA",
+          "title": "Aries 5° Song:  Embrace the climb",
+          "url": "https://www.youtube.com/watch?v=PX4ZU1QvgVA"
+        },
+        {
+          "video_id": "qT5oqru9-tQ",
+          "title": "Aries 14° Song: Stand your ground",
+          "url": "https://www.youtube.com/watch?v=qT5oqru9-tQ"
+        },
+        {
+          "video_id": "UUz3erT7hlU",
+          "title": "Aries 15° Song: Trust the pattern",
+          "url": "https://www.youtube.com/watch?v=UUz3erT7hlU"
+        },
+        {
+          "video_id": "gWaSqeZ2PQs",
+          "title": "Aries 16° Song: Align with the wild",
+          "url": "https://www.youtube.com/watch?v=gWaSqeZ2PQs"
+        },
+        {
+          "video_id": "k9JW9stgJYA",
+          "title": "Aries 17° Song: Cherish the art",
+          "url": "https://www.youtube.com/watch?v=k9JW9stgJYA"
+        },
+        {
+          "video_id": "I2sk_bjJR7E",
+          "title": "Aries 18° Song:  Find the calm",
+          "url": "https://www.youtube.com/watch?v=I2sk_bjJR7E"
+        },
+        {
+          "video_id": "TlHyGAmptYs",
+          "title": "Aries 19° Song: Uncover the spark",
+          "url": "https://www.youtube.com/watch?v=TlHyGAmptYs"
+        },
+        {
+          "video_id": "grwagjHNQZo",
+          "title": "Aries 20° Song: Embrace the unknown",
+          "url": "https://www.youtube.com/watch?v=grwagjHNQZo"
+        },
+        {
+          "video_id": "d5n2OHzYqcQ",
+          "title": "Aries 21° Song: Show your light",
+          "url": "https://www.youtube.com/watch?v=d5n2OHzYqcQ"
+        },
+        {
+          "video_id": "EGLU7SAICUE",
+          "title": "Aries 22° Song: Create the vision",
+          "url": "https://www.youtube.com/watch?v=EGLU7SAICUE"
+        },
+        {
+          "video_id": "kct7IDtgTds",
+          "title": "Aries 23° Song: Unfold the truth",
+          "url": "https://www.youtube.com/watch?v=kct7IDtgTds"
+        },
+        {
+          "video_id": "jMB4iNpxN3c",
+          "title": "Aries 24° Song: Harness the muse",
+          "url": "https://www.youtube.com/watch?v=jMB4iNpxN3c"
+        },
+        {
+          "video_id": "_iP6FmUziNg",
+          "title": "Aries 25° Song: Channel the pride",
+          "url": "https://www.youtube.com/watch?v=_iP6FmUziNg"
+        },
+        {
+          "video_id": "j_XVsys0D7A",
+          "title": "Aries 26° Song: Stand in your power",
+          "url": "https://www.youtube.com/watch?v=j_XVsys0D7A"
+        },
+        {
+          "video_id": "26r-DkK-IAI",
+          "title": "Aries 27° Song: Forge the bond",
+          "url": "https://www.youtube.com/watch?v=26r-DkK-IAI"
+        },
+        {
+          "video_id": "bRc61EydrEI",
+          "title": "Aries 28° Song: Share the light",
+          "url": "https://www.youtube.com/watch?v=bRc61EydrEI"
+        },
+        {
+          "video_id": "DCp7713U9ac",
+          "title": "Aries 29° Song: Build the dream",
+          "url": "https://www.youtube.com/watch?v=DCp7713U9ac"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This Aries degree songs playlist brings the first sign of the zodiac to life, with a song for each degree from Aries 0° to Aries 29°. Each track captures the essence of its degree, offering a unique and inspiring way to connect with the energy of Aries through sound.\n\nInside the HD Astro membership, the complete Astrological Degrees course includes:\n• 360 songs that bring each astrological degree to life through sound\n• Keywords and meanings for each degree\n• Insights that connect degrees to Human Design lines\n• Guided meditations aligned with astrological energy\n• And much more\n\nJoin now: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCyHbgi8ciuFI2MUdTBE74Q.md"
+    }
+  ]
+}

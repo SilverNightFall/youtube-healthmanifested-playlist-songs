@@ -1,0 +1,4649 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Astrology Planets, Signs, Houses, and Retrograde Songs",
+  "purpose": "Music collections for planets in zodiac signs and houses, nodes, and retrogrades.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 39,
+  "unique_listed_video_ids": 444,
+  "playlists": [
+    {
+      "playlist_id": "PL0rem6quVJaAxLSelKPkkKNlnNQ4aQ3fx",
+      "title": "Planets in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAxLSelKPkkKNlnNQ4aQ3fx",
+      "displayed_video_count": "158 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Ql2JoirFKF8",
+          "title": "Light of Precision – Sun in Virgo",
+          "url": "https://www.youtube.com/watch?v=Ql2JoirFKF8"
+        },
+        {
+          "video_id": "DvGLVKKrYoc",
+          "title": "Harmony of the Heart – Sun in Libra",
+          "url": "https://www.youtube.com/watch?v=DvGLVKKrYoc"
+        },
+        {
+          "video_id": "6sZgHre-QqQ",
+          "title": "Shadows of Power – Sun in Scorpio",
+          "url": "https://www.youtube.com/watch?v=6sZgHre-QqQ"
+        },
+        {
+          "video_id": "HadxZG6Ot30",
+          "title": "Sun in Aries – Flames of Confidence",
+          "url": "https://www.youtube.com/watch?v=HadxZG6Ot30"
+        },
+        {
+          "video_id": "dU61u7fkvJI",
+          "title": "Sun in Taurus – Treasures of the Heart",
+          "url": "https://www.youtube.com/watch?v=dU61u7fkvJI"
+        },
+        {
+          "video_id": "huX8exCJILs",
+          "title": "Sun in Gemini – Voices of the Wind",
+          "url": "https://www.youtube.com/watch?v=huX8exCJILs"
+        },
+        {
+          "video_id": "_soZ2Lfwlyw",
+          "title": "Sun in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=_soZ2Lfwlyw"
+        },
+        {
+          "video_id": "xsaLqmQYfPw",
+          "title": "Sun in Leo – Crown of Fire",
+          "url": "https://www.youtube.com/watch?v=xsaLqmQYfPw"
+        },
+        {
+          "video_id": "KL5ElRRAKeE",
+          "title": "Sun in Sagittarius – Arrows of Truth",
+          "url": "https://www.youtube.com/watch?v=KL5ElRRAKeE"
+        },
+        {
+          "video_id": "7wmqasYxO6E",
+          "title": "Sun in Capricorn – Mountain of Resolve",
+          "url": "https://www.youtube.com/watch?v=7wmqasYxO6E"
+        },
+        {
+          "video_id": "qVy1ifAdMy8",
+          "title": "Sun in Aquarius – Vision of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=qVy1ifAdMy8"
+        },
+        {
+          "video_id": "ahhW4ysD5MA",
+          "title": "Sun in Pisces – Oceans of Dreams",
+          "url": "https://www.youtube.com/watch?v=ahhW4ysD5MA"
+        },
+        {
+          "video_id": "YA2Pd9SAmS8",
+          "title": "Moon in Aries – Fire of the Heart",
+          "url": "https://www.youtube.com/watch?v=YA2Pd9SAmS8"
+        },
+        {
+          "video_id": "siTIZDm9N7E",
+          "title": "Moon in Taurus – Steady Heart",
+          "url": "https://www.youtube.com/watch?v=siTIZDm9N7E"
+        },
+        {
+          "video_id": "sMFpGsyQ-oQ",
+          "title": "Moon in Gemini – Whispers in the Air",
+          "url": "https://www.youtube.com/watch?v=sMFpGsyQ-oQ"
+        },
+        {
+          "video_id": "nZn_RhRPbnc",
+          "title": "Moon in Cancer – Heart of the Tide",
+          "url": "https://www.youtube.com/watch?v=nZn_RhRPbnc"
+        },
+        {
+          "video_id": "Jkzjey4pI3E",
+          "title": "Moon in Leo – Flame of the Heart",
+          "url": "https://www.youtube.com/watch?v=Jkzjey4pI3E"
+        },
+        {
+          "video_id": "fDf_IIoB1m8",
+          "title": "Moon in Virgo – Silent Perfection",
+          "url": "https://www.youtube.com/watch?v=fDf_IIoB1m8"
+        },
+        {
+          "video_id": "jSCqMYZiNq4",
+          "title": "Balancing Light – Moon in Libra",
+          "url": "https://www.youtube.com/watch?v=jSCqMYZiNq4"
+        },
+        {
+          "video_id": "iyL1r3myKb0",
+          "title": "Moon in Scorpio – Depth of the Soul",
+          "url": "https://www.youtube.com/watch?v=iyL1r3myKb0"
+        },
+        {
+          "video_id": "iKl1I5HQKVc",
+          "title": "Moon in Sagittarius – Arrows of Freedom",
+          "url": "https://www.youtube.com/watch?v=iKl1I5HQKVc"
+        },
+        {
+          "video_id": "Y80cP6GDwgw",
+          "title": "Moon in Capricorn – Mountain of Strength",
+          "url": "https://www.youtube.com/watch?v=Y80cP6GDwgw"
+        },
+        {
+          "video_id": "1hWyeNIbBPc",
+          "title": "Moon in Aquarius – Winds of Freedom",
+          "url": "https://www.youtube.com/watch?v=1hWyeNIbBPc"
+        },
+        {
+          "video_id": "Qb9YAz5PrmE",
+          "title": "Ocean of Dreams – Moon in Pisces",
+          "url": "https://www.youtube.com/watch?v=Qb9YAz5PrmE"
+        },
+        {
+          "video_id": "lTCU_d1Ikqs",
+          "title": "Mercury in Aries – Speak Your Fire",
+          "url": "https://www.youtube.com/watch?v=lTCU_d1Ikqs"
+        },
+        {
+          "video_id": "LeLFImastoQ",
+          "title": "Mercury in Taurus – Words of Earth",
+          "url": "https://www.youtube.com/watch?v=LeLFImastoQ"
+        },
+        {
+          "video_id": "1_VtYBcUuH8",
+          "title": "Mercury in Gemini – Voices in Motion",
+          "url": "https://www.youtube.com/watch?v=1_VtYBcUuH8"
+        },
+        {
+          "video_id": "t_e3GSxC2qk",
+          "title": "Mercury in Cancer – Voice of the Heart",
+          "url": "https://www.youtube.com/watch?v=t_e3GSxC2qk"
+        },
+        {
+          "video_id": "ctfUvWvMXvE",
+          "title": "Mercury in Leo – Speak the Light",
+          "url": "https://www.youtube.com/watch?v=ctfUvWvMXvE"
+        },
+        {
+          "video_id": "bKguvyMCulo",
+          "title": "Mercury in Virgo: Words of Precision",
+          "url": "https://www.youtube.com/watch?v=bKguvyMCulo"
+        },
+        {
+          "video_id": "FuNIdbf9zJQ",
+          "title": "Harmony in Words – Mercury in Libra",
+          "url": "https://www.youtube.com/watch?v=FuNIdbf9zJQ"
+        },
+        {
+          "video_id": "NgpeP1ItKV8",
+          "title": "Mercury in Scorpio – Secrets in the Silence",
+          "url": "https://www.youtube.com/watch?v=NgpeP1ItKV8"
+        },
+        {
+          "video_id": "9EI3xkZpMq8",
+          "title": "Voice of the Horizon – Mercury in Sagittarius",
+          "url": "https://www.youtube.com/watch?v=9EI3xkZpMq8"
+        },
+        {
+          "video_id": "FkF550aOGc4",
+          "title": "Mercury in Capricorn – Words of Stone",
+          "url": "https://www.youtube.com/watch?v=FkF550aOGc4"
+        },
+        {
+          "video_id": "rYtO1C2y8sk",
+          "title": "Mercury in Aquarius – Voices of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=rYtO1C2y8sk"
+        },
+        {
+          "video_id": "A-4o2m-flYI",
+          "title": "Mercury in Pisces – Ocean of Words",
+          "url": "https://www.youtube.com/watch?v=A-4o2m-flYI"
+        },
+        {
+          "video_id": "7kQUr8JZZaM",
+          "title": "Venus in Aries Wild Heart",
+          "url": "https://www.youtube.com/watch?v=7kQUr8JZZaM"
+        },
+        {
+          "video_id": "rmO8s-Y509Y",
+          "title": "Venus in Taurus – Garden of Desire",
+          "url": "https://www.youtube.com/watch?v=rmO8s-Y509Y"
+        },
+        {
+          "video_id": "DdOaKzpHBKI",
+          "title": "Venus in Gemini – Words of Love",
+          "url": "https://www.youtube.com/watch?v=DdOaKzpHBKI"
+        },
+        {
+          "video_id": "2eaODJcJpSQ",
+          "title": "Venus in Cancer – Home of the Heart",
+          "url": "https://www.youtube.com/watch?v=2eaODJcJpSQ"
+        },
+        {
+          "video_id": "XScYvVZCcNg",
+          "title": "Shine for Love – Venus in Leo",
+          "url": "https://www.youtube.com/watch?v=XScYvVZCcNg"
+        },
+        {
+          "video_id": "nkW0rawf2n4",
+          "title": "Quiet Devotion – Venus in Virgo",
+          "url": "https://www.youtube.com/watch?v=nkW0rawf2n4"
+        },
+        {
+          "video_id": "SGYveYXlxZc",
+          "title": "Venus in Libra – Harmony of Love",
+          "url": "https://www.youtube.com/watch?v=SGYveYXlxZc"
+        },
+        {
+          "video_id": "8xLR7vQ7LQA",
+          "title": "Venus in Scorpio – Into the Deep",
+          "url": "https://www.youtube.com/watch?v=8xLR7vQ7LQA"
+        },
+        {
+          "video_id": "ZCDR9BinbWw",
+          "title": "Venus in Sagittarius – Wild Hearts, Free Skies",
+          "url": "https://www.youtube.com/watch?v=ZCDR9BinbWw"
+        },
+        {
+          "video_id": "clx3q3-vmoc",
+          "title": "Venus in Capricorn – Steadfast Love",
+          "url": "https://www.youtube.com/watch?v=clx3q3-vmoc"
+        },
+        {
+          "video_id": "fPjpZIwtQj8",
+          "title": "Venus in Aquarius – Electric Hearts",
+          "url": "https://www.youtube.com/watch?v=fPjpZIwtQj8"
+        },
+        {
+          "video_id": "1EQ6rWoUjdk",
+          "title": "Venus in Pisces – Ocean of Devotion",
+          "url": "https://www.youtube.com/watch?v=1EQ6rWoUjdk"
+        },
+        {
+          "video_id": "msLpDFTAQxo",
+          "title": "Mars in Aries – Fire to Win",
+          "url": "https://www.youtube.com/watch?v=msLpDFTAQxo"
+        },
+        {
+          "video_id": "qjHqOsCJ-uw",
+          "title": "Mars in Taurus – Steady Fire",
+          "url": "https://www.youtube.com/watch?v=qjHqOsCJ-uw"
+        },
+        {
+          "video_id": "BFNpaSG1Fg4",
+          "title": "Mars in Gemini – Words on Fire",
+          "url": "https://www.youtube.com/watch?v=BFNpaSG1Fg4"
+        },
+        {
+          "video_id": "q1bvFnXsPgo",
+          "title": "Mars in Cancer – Fire Beneath the Waves",
+          "url": "https://www.youtube.com/watch?v=q1bvFnXsPgo"
+        },
+        {
+          "video_id": "j6AU03-Spis",
+          "title": "Mars in Leo – Born for the Spotlight",
+          "url": "https://www.youtube.com/watch?v=j6AU03-Spis"
+        },
+        {
+          "video_id": "KzC_CpwLwzQ",
+          "title": "Mars in Virgo – Precision and Fire",
+          "url": "https://www.youtube.com/watch?v=KzC_CpwLwzQ"
+        },
+        {
+          "video_id": "g3BWtVgZ_SE",
+          "title": "Peaceful Warrior – Mars in Libra",
+          "url": "https://www.youtube.com/watch?v=g3BWtVgZ_SE"
+        },
+        {
+          "video_id": "AiatuV6Dx9Y",
+          "title": "Into the Fire – Mars in Scorpio",
+          "url": "https://www.youtube.com/watch?v=AiatuV6Dx9Y"
+        },
+        {
+          "video_id": "StzVbXvAPKs",
+          "title": "Mars in Sagittarius – Flames of Freedom",
+          "url": "https://www.youtube.com/watch?v=StzVbXvAPKs"
+        },
+        {
+          "video_id": "B7FDfRo2OeA",
+          "title": "Mars in Capricorn – Climbing the Summit",
+          "url": "https://www.youtube.com/watch?v=B7FDfRo2OeA"
+        },
+        {
+          "video_id": "SY--SFJLZrg",
+          "title": "Mars in Aquarius – Sparks of Rebellion",
+          "url": "https://www.youtube.com/watch?v=SY--SFJLZrg"
+        },
+        {
+          "video_id": "mmiu_L2Qgqk",
+          "title": "Mars in Pisces – Silent Fire",
+          "url": "https://www.youtube.com/watch?v=mmiu_L2Qgqk"
+        },
+        {
+          "video_id": "9mg_93-Bg2E",
+          "title": "Jupiter in Aries – Rise of the Fireheart",
+          "url": "https://www.youtube.com/watch?v=9mg_93-Bg2E"
+        },
+        {
+          "video_id": "FzJrpg7QbIs",
+          "title": "Jupiter in Taurus – Garden of Gold",
+          "url": "https://www.youtube.com/watch?v=FzJrpg7QbIs"
+        },
+        {
+          "video_id": "ywhMQzHIN5Q",
+          "title": "Jupiter in Gemini – Whispers of Wonder",
+          "url": "https://www.youtube.com/watch?v=ywhMQzHIN5Q"
+        },
+        {
+          "video_id": "wz7P0K3J4OA",
+          "title": "Heart of Home – Jupiter in Cancer",
+          "url": "https://www.youtube.com/watch?v=wz7P0K3J4OA"
+        },
+        {
+          "video_id": "4ayw9bvTVow",
+          "title": "Jupiter in Leo – Shine Through Me",
+          "url": "https://www.youtube.com/watch?v=4ayw9bvTVow"
+        },
+        {
+          "video_id": "YbTta6tR-fc",
+          "title": "Jupiter in Virgo – Threads of Precision",
+          "url": "https://www.youtube.com/watch?v=YbTta6tR-fc"
+        },
+        {
+          "video_id": "xNCKFnJJeEI",
+          "title": "Jupiter in Libra – Harmony’s Edge",
+          "url": "https://www.youtube.com/watch?v=xNCKFnJJeEI"
+        },
+        {
+          "video_id": "9jch9dEtpE8",
+          "title": "Jupiter in Scorpio – Depth of Fire",
+          "url": "https://www.youtube.com/watch?v=9jch9dEtpE8"
+        },
+        {
+          "video_id": "eh7xN8iFHvU",
+          "title": "Jupiter in Sagittarius – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=eh7xN8iFHvU"
+        },
+        {
+          "video_id": "os2Rz7Q4_bY",
+          "title": "Jupiter in Capricorn – Mountain of Time",
+          "url": "https://www.youtube.com/watch?v=os2Rz7Q4_bY"
+        },
+        {
+          "video_id": "20EfmY4s86Y",
+          "title": "Jupiter in Aquarius – Future Made of Light",
+          "url": "https://www.youtube.com/watch?v=20EfmY4s86Y"
+        },
+        {
+          "video_id": "5FOyh0bZhkc",
+          "title": "Jupiter in Pisces – Ocean of Dreams",
+          "url": "https://www.youtube.com/watch?v=5FOyh0bZhkc"
+        },
+        {
+          "video_id": "ou3g_tDp9Iw",
+          "title": "Saturn in Aries – Burden and Fire",
+          "url": "https://www.youtube.com/watch?v=ou3g_tDp9Iw"
+        },
+        {
+          "video_id": "bNfD75el8SQ",
+          "title": "Saturn in Taurus – Built to Last",
+          "url": "https://www.youtube.com/watch?v=bNfD75el8SQ"
+        },
+        {
+          "video_id": "dkVj3VItROk",
+          "title": "Saturn in Gemini – Voices of Structure",
+          "url": "https://www.youtube.com/watch?v=dkVj3VItROk"
+        },
+        {
+          "video_id": "eaoj1Yh5_QM",
+          "title": "Saturn in Cancer – Walls of the Heart",
+          "url": "https://www.youtube.com/watch?v=eaoj1Yh5_QM"
+        },
+        {
+          "video_id": "nfMDfwTSo58",
+          "title": "Saturn in Leo – Light Behind the Curtain",
+          "url": "https://www.youtube.com/watch?v=nfMDfwTSo58"
+        },
+        {
+          "video_id": "_p6j4fShuRg",
+          "title": "Saturn in Virgo – Perfect by Design",
+          "url": "https://www.youtube.com/watch?v=_p6j4fShuRg"
+        },
+        {
+          "video_id": "d2qUvHi7BJ4",
+          "title": "Saturn in Libra – Balance of Hearts",
+          "url": "https://www.youtube.com/watch?v=d2qUvHi7BJ4"
+        },
+        {
+          "video_id": "z8X0yMDVL9A",
+          "title": "Saturn in Scorpio – Depths of Power",
+          "url": "https://www.youtube.com/watch?v=z8X0yMDVL9A"
+        },
+        {
+          "video_id": "Xh8XlDDw9vg",
+          "title": "Saturn in Sagittarius – Roads of Wisdom",
+          "url": "https://www.youtube.com/watch?v=Xh8XlDDw9vg"
+        },
+        {
+          "video_id": "QkHwfOv5PlQ",
+          "title": "Saturn in Capricorn – Built to Rise",
+          "url": "https://www.youtube.com/watch?v=QkHwfOv5PlQ"
+        },
+        {
+          "video_id": "WfOfza5Nt54",
+          "title": "Saturn in Aquarius – Blueprint of Change",
+          "url": "https://www.youtube.com/watch?v=WfOfza5Nt54"
+        },
+        {
+          "video_id": "N3XsL98NmA4",
+          "title": "Saturn in Pisces Song Grounding the Dream",
+          "url": "https://www.youtube.com/watch?v=N3XsL98NmA4"
+        },
+        {
+          "video_id": "_ptHeuUG3aw",
+          "title": "Uranus in Aries – Fire of the New",
+          "url": "https://www.youtube.com/watch?v=_ptHeuUG3aw"
+        },
+        {
+          "video_id": "diN4vf4k-Fc",
+          "title": "Uranus in Taurus – Breaking the Ground",
+          "url": "https://www.youtube.com/watch?v=diN4vf4k-Fc"
+        },
+        {
+          "video_id": "hCIzfI7yxS8",
+          "title": "Winds of Change – Uranus in Gemini",
+          "url": "https://www.youtube.com/watch?v=hCIzfI7yxS8"
+        },
+        {
+          "video_id": "xT8gli_ROzY",
+          "title": "Uranus in Cancer – Waves of Change",
+          "url": "https://www.youtube.com/watch?v=xT8gli_ROzY"
+        },
+        {
+          "video_id": "Q7YzAJOFBc0",
+          "title": "Uranus in Leo – Spark of the Unseen",
+          "url": "https://www.youtube.com/watch?v=Q7YzAJOFBc0"
+        },
+        {
+          "video_id": "vebFzNTiTdk",
+          "title": "Uranus in Virgo – The Pulse of Change",
+          "url": "https://www.youtube.com/watch?v=vebFzNTiTdk"
+        },
+        {
+          "video_id": "cGgsBkqrGd0",
+          "title": "Uranus in Libra – Electric Harmony",
+          "url": "https://www.youtube.com/watch?v=cGgsBkqrGd0"
+        },
+        {
+          "video_id": "3GYuRhXdxno",
+          "title": "Uranus in Scorpio – Depths Rewritten",
+          "url": "https://www.youtube.com/watch?v=3GYuRhXdxno"
+        },
+        {
+          "video_id": "Vt68k5Gelm4",
+          "title": "Uranus in Sagittarius – Fire of Freedom",
+          "url": "https://www.youtube.com/watch?v=Vt68k5Gelm4"
+        },
+        {
+          "video_id": "pDKxUmrR8OA",
+          "title": "Uranus in Aquarius – Electric Freedom",
+          "url": "https://www.youtube.com/watch?v=pDKxUmrR8OA"
+        },
+        {
+          "video_id": "51Vp1nkGaCQ",
+          "title": "Uranus in Pisces – Waves of Awakening",
+          "url": "https://www.youtube.com/watch?v=51Vp1nkGaCQ"
+        },
+        {
+          "video_id": "XfHi-nuLzMg",
+          "title": "Uranus in Capricorn – Breaking the Mold",
+          "url": "https://www.youtube.com/watch?v=XfHi-nuLzMg"
+        },
+        {
+          "video_id": "n3kj80CQdYM",
+          "title": "Vision on Fire – Neptune in Aries",
+          "url": "https://www.youtube.com/watch?v=n3kj80CQdYM"
+        },
+        {
+          "video_id": "AZZFy4GuFnA",
+          "title": "Neptune in Pisces – Dreams of the Infinite",
+          "url": "https://www.youtube.com/watch?v=AZZFy4GuFnA"
+        },
+        {
+          "video_id": "oOb8s8RCaaQ",
+          "title": "Neptune in Taurus – Garden of Dreams",
+          "url": "https://www.youtube.com/watch?v=oOb8s8RCaaQ"
+        },
+        {
+          "video_id": "NM9gPClUve0",
+          "title": "Neptune in Gemini – Whispers of the Mind",
+          "url": "https://www.youtube.com/watch?v=NM9gPClUve0"
+        },
+        {
+          "video_id": "lkIvTXHd1pw",
+          "title": "Neptune in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=lkIvTXHd1pw"
+        },
+        {
+          "video_id": "qI_lX8TT-A8",
+          "title": "Neptune in Leo – Radiant Illusion",
+          "url": "https://www.youtube.com/watch?v=qI_lX8TT-A8"
+        },
+        {
+          "video_id": "3BwFITu1B4w",
+          "title": "Neptune in Virgo – Quiet Devotion",
+          "url": "https://www.youtube.com/watch?v=3BwFITu1B4w"
+        },
+        {
+          "video_id": "hPGaQ7ADfB4",
+          "title": "Neptune in Libra – Echoes of Harmony",
+          "url": "https://www.youtube.com/watch?v=hPGaQ7ADfB4"
+        },
+        {
+          "video_id": "rDZYDHZ-HQ8",
+          "title": "Neptune in Scorpio – Depths of Illusion",
+          "url": "https://www.youtube.com/watch?v=rDZYDHZ-HQ8"
+        },
+        {
+          "video_id": "PHerpDwPnEc",
+          "title": "Neptune in Sagittarius – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=PHerpDwPnEc"
+        },
+        {
+          "video_id": "jSQyAoapgMQ",
+          "title": "Neptune in Capricorn – Mountains of Vision",
+          "url": "https://www.youtube.com/watch?v=jSQyAoapgMQ"
+        },
+        {
+          "video_id": "5gR9NATfl98",
+          "title": "Neptune in Aquarius – Dreamers of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=5gR9NATfl98"
+        },
+        {
+          "video_id": "7rD1vxSZGyQ",
+          "title": "Pluto in Aries – Rise from the Fire",
+          "url": "https://www.youtube.com/watch?v=7rD1vxSZGyQ"
+        },
+        {
+          "video_id": "JbMnaBLLItE",
+          "title": "Pluto in Taurus – Roots of Gold",
+          "url": "https://www.youtube.com/watch?v=JbMnaBLLItE"
+        },
+        {
+          "video_id": "Y3WR63woeok",
+          "title": "Pluto in Gemini – Voices of Change",
+          "url": "https://www.youtube.com/watch?v=Y3WR63woeok"
+        },
+        {
+          "video_id": "xk19Nyhl1HY",
+          "title": "Pluto in Cancer – Waves of Home",
+          "url": "https://www.youtube.com/watch?v=xk19Nyhl1HY"
+        },
+        {
+          "video_id": "2BxVtnAZTIw",
+          "title": "Pluto in Leo – Fire of Becoming",
+          "url": "https://www.youtube.com/watch?v=2BxVtnAZTIw"
+        },
+        {
+          "video_id": "BYSuwIcV6lk",
+          "title": "Pluto in Virgo – Seeds of Renewal",
+          "url": "https://www.youtube.com/watch?v=BYSuwIcV6lk"
+        },
+        {
+          "video_id": "A7_41cLd5Bk",
+          "title": "Pluto in Libra – Mirrors of the Heart",
+          "url": "https://www.youtube.com/watch?v=A7_41cLd5Bk"
+        },
+        {
+          "video_id": "Gta-vDJOa1M",
+          "title": "Pluto in Scorpio – Rise from the Depths",
+          "url": "https://www.youtube.com/watch?v=Gta-vDJOa1M"
+        },
+        {
+          "video_id": "PFwBlpczB4M",
+          "title": "Pluto in Sagittarius – Fire of the Infinite",
+          "url": "https://www.youtube.com/watch?v=PFwBlpczB4M"
+        },
+        {
+          "video_id": "mhWbfxQRdew",
+          "title": "Pluto in Capricorn – Towers of Time",
+          "url": "https://www.youtube.com/watch?v=mhWbfxQRdew"
+        },
+        {
+          "video_id": "pt3l4pwYqrI",
+          "title": "Revolution of Light – Pluto in Aquarius",
+          "url": "https://www.youtube.com/watch?v=pt3l4pwYqrI"
+        },
+        {
+          "video_id": "LMEnpmSRk6k",
+          "title": "Pluto in Pisces – Tides of Rebirth",
+          "url": "https://www.youtube.com/watch?v=LMEnpmSRk6k"
+        },
+        {
+          "video_id": "ae-u0qtAiws",
+          "title": "Chiron in Aries: Rise Again",
+          "url": "https://www.youtube.com/watch?v=ae-u0qtAiws"
+        },
+        {
+          "video_id": "otJcTEn-TsA",
+          "title": "Chiron in Taurus – Worth of the Soul",
+          "url": "https://www.youtube.com/watch?v=otJcTEn-TsA"
+        },
+        {
+          "video_id": "lbVm0EILfpk",
+          "title": "Chiron in Gemini – Voice Unbound",
+          "url": "https://www.youtube.com/watch?v=lbVm0EILfpk"
+        },
+        {
+          "video_id": "I_-AYsPm3WU",
+          "title": "Chiron in Cancer – Home Within",
+          "url": "https://www.youtube.com/watch?v=I_-AYsPm3WU"
+        },
+        {
+          "video_id": "8PB60PSwKQc",
+          "title": "Chiron in Leo – Shine Anyway",
+          "url": "https://www.youtube.com/watch?v=8PB60PSwKQc"
+        },
+        {
+          "video_id": "9Sg7Qi7bs7c",
+          "title": "Chiron in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=9Sg7Qi7bs7c"
+        },
+        {
+          "video_id": "ciHH8CnNFas",
+          "title": "Chiron in Libra – The Space Between Us",
+          "url": "https://www.youtube.com/watch?v=ciHH8CnNFas"
+        },
+        {
+          "video_id": "kHhbPUtmEqg",
+          "title": "Chiron in Scorpio – Beneath the Flame",
+          "url": "https://www.youtube.com/watch?v=kHhbPUtmEqg"
+        },
+        {
+          "video_id": "549MAsYkx2E",
+          "title": "Chiron in Sagittarius – Fire of Faith",
+          "url": "https://www.youtube.com/watch?v=549MAsYkx2E"
+        },
+        {
+          "video_id": "4eYUw8jNcjY",
+          "title": "Chiron in Capricorn – Climb the Sky",
+          "url": "https://www.youtube.com/watch?v=4eYUw8jNcjY"
+        },
+        {
+          "video_id": "rNHOINqPe4Y",
+          "title": "Chiron in Aquarius – Starlight Belonging",
+          "url": "https://www.youtube.com/watch?v=rNHOINqPe4Y"
+        },
+        {
+          "video_id": "Famat9_HP2I",
+          "title": "Chiron in Pisces – The Heart That Heals",
+          "url": "https://www.youtube.com/watch?v=Famat9_HP2I"
+        },
+        {
+          "video_id": "CiuWALq1X0A",
+          "title": "North Node in Aquarius – The Future Calls",
+          "url": "https://www.youtube.com/watch?v=CiuWALq1X0A"
+        },
+        {
+          "video_id": "8n8Hh8ul4fs",
+          "title": "North Node in Aries – Path of Fire",
+          "url": "https://www.youtube.com/watch?v=8n8Hh8ul4fs"
+        },
+        {
+          "video_id": "-09tREURug4",
+          "title": "North Node in Taurus – Grounded Gold",
+          "url": "https://www.youtube.com/watch?v=-09tREURug4"
+        },
+        {
+          "video_id": "Vwb2lqXHxwM",
+          "title": "North Node in Gemini – Voice of the Wind",
+          "url": "https://www.youtube.com/watch?v=Vwb2lqXHxwM"
+        },
+        {
+          "video_id": "fM8L095SAmM",
+          "title": "North Node in Cancer – Heart of Home",
+          "url": "https://www.youtube.com/watch?v=fM8L095SAmM"
+        },
+        {
+          "video_id": "RNrzrKhQod8",
+          "title": "North Node in Leo – Crown of Light",
+          "url": "https://www.youtube.com/watch?v=RNrzrKhQod8"
+        },
+        {
+          "video_id": "eLJasFt3d5k",
+          "title": "North Node in Virgo – Precision of Purpose",
+          "url": "https://www.youtube.com/watch?v=eLJasFt3d5k"
+        },
+        {
+          "video_id": "fWRlj3udP-g",
+          "title": "North Node in Libra – Harmony Within",
+          "url": "https://www.youtube.com/watch?v=fWRlj3udP-g"
+        },
+        {
+          "video_id": "v5-d0dJD4i8",
+          "title": "North Node in Scorpio – Depth of Truth",
+          "url": "https://www.youtube.com/watch?v=v5-d0dJD4i8"
+        },
+        {
+          "video_id": "bdBilqaiDPk",
+          "title": "North Node in Sagittarius – Flame of Wisdom",
+          "url": "https://www.youtube.com/watch?v=bdBilqaiDPk"
+        },
+        {
+          "video_id": "xwpTwozSu24",
+          "title": "North Node in Capricorn – Mountain of Purpose",
+          "url": "https://www.youtube.com/watch?v=xwpTwozSu24"
+        },
+        {
+          "video_id": "RN71GDmxsTw",
+          "title": "Into the Unknown – North Node in Pisces",
+          "url": "https://www.youtube.com/watch?v=RN71GDmxsTw"
+        },
+        {
+          "video_id": "W6rpaKmDiQA",
+          "title": "South Node in Taurus – Letting Go of Gold",
+          "url": "https://www.youtube.com/watch?v=W6rpaKmDiQA"
+        },
+        {
+          "video_id": "ZuJ3iitCC38",
+          "title": "South Node in Gemini – Whisper of Meaning",
+          "url": "https://www.youtube.com/watch?v=ZuJ3iitCC38"
+        },
+        {
+          "video_id": "FeDSEhzJVQI",
+          "title": "South Node in Aries – Echo of Independence",
+          "url": "https://www.youtube.com/watch?v=FeDSEhzJVQI"
+        },
+        {
+          "video_id": "ajrA39ocmDc",
+          "title": "South Node in Cancer – Tides of Release",
+          "url": "https://www.youtube.com/watch?v=ajrA39ocmDc"
+        },
+        {
+          "video_id": "YV4xRHmXUoc",
+          "title": "South Node in Leo – Let the Crown Fall",
+          "url": "https://www.youtube.com/watch?v=YV4xRHmXUoc"
+        },
+        {
+          "video_id": "qiy0o1IreFc",
+          "title": "South Node in Virgo – Dust of Perfection",
+          "url": "https://www.youtube.com/watch?v=qiy0o1IreFc"
+        },
+        {
+          "video_id": "h8BiEOeE3tg",
+          "title": "South Node in Libra – Mirror Unbound",
+          "url": "https://www.youtube.com/watch?v=h8BiEOeE3tg"
+        },
+        {
+          "video_id": "GjCxexp2Vg0",
+          "title": "South Node in Scorpio – Ashes to Clarity",
+          "url": "https://www.youtube.com/watch?v=GjCxexp2Vg0"
+        },
+        {
+          "video_id": "sYeNESMXOcE",
+          "title": "South Node in Sagittarius – Ground the Sky",
+          "url": "https://www.youtube.com/watch?v=sYeNESMXOcE"
+        },
+        {
+          "video_id": "UzkS8RU5nAs",
+          "title": "South Node in Capricorn – Walls of Gold",
+          "url": "https://www.youtube.com/watch?v=UzkS8RU5nAs"
+        },
+        {
+          "video_id": "9io5WjpUhtk",
+          "title": "South Node in Aquarius – Alone Among Stars",
+          "url": "https://www.youtube.com/watch?v=9io5WjpUhtk"
+        },
+        {
+          "video_id": "NjgJD3ZMsRA",
+          "title": "South Node in Pisces – Wake from the Dream",
+          "url": "https://www.youtube.com/watch?v=NjgJD3ZMsRA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores what happens when each planet moves through the 12 zodiac signs in a natal chart.\n\nThe planet shows the type of energy.\nThe sign shows how that energy expresses itself.\n\nWhen you understand your planets in signs, you begin to see your natural patterns in communication, relationships, motivation, emotions, and belief systems. You start recognizing why you respond the way you do, why certain strengths feel effortless, and why certain challenges repeat.\n\nEach video in this series focuses on one planet in one sign in a clear and grounded way. This is astrology in real life, not just personality traits. It is about understanding how your energy actually moves.\n\nIf you want to go deeper than short interpretations, the HD Astro Membership teaches you how signs, houses, degrees, aspects, and the 64 Human Design Gates all work together inside your own chart. Instead of collecting scattered meanings, you learn how to read the full structure.\n\nYou can explore the HD Astro Membership here:\nhttps://healthmanifested.com/hd-astro-course-options\n\nThis is where astrology becomes something you can understand, apply, and grow with over time.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAxLSelKPkkKNlnNQ4aQ3fx.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAmcWizr_3IzhSVHvnR8qJZ",
+      "title": "Planets in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAmcWizr_3IzhSVHvnR8qJZ",
+      "displayed_video_count": "119 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "5hb_yjxqwwg",
+          "title": "Sun in the 1st House – Radiance of Self",
+          "url": "https://www.youtube.com/watch?v=5hb_yjxqwwg"
+        },
+        {
+          "video_id": "KY6A6BQ3c4s",
+          "title": "Sun in the 2nd House – Treasures of Worth",
+          "url": "https://www.youtube.com/watch?v=KY6A6BQ3c4s"
+        },
+        {
+          "video_id": "gCQdXRPKNrA",
+          "title": "Sun in the 3rd House – Voices of Light",
+          "url": "https://www.youtube.com/watch?v=gCQdXRPKNrA"
+        },
+        {
+          "video_id": "Ixgv3jy68-o",
+          "title": "Sun in the 4th House – Roots of Light",
+          "url": "https://www.youtube.com/watch?v=Ixgv3jy68-o"
+        },
+        {
+          "video_id": "Fpu9Rye09vs",
+          "title": "Sun in the 5th House – Flame of Joy",
+          "url": "https://www.youtube.com/watch?v=Fpu9Rye09vs"
+        },
+        {
+          "video_id": "45jC3y40ABs",
+          "title": "Sun in the 6th House – Rhythm of Service",
+          "url": "https://www.youtube.com/watch?v=45jC3y40ABs"
+        },
+        {
+          "video_id": "CifTwRNLWLg",
+          "title": "Sun in the 7th House – Light of Partnership",
+          "url": "https://www.youtube.com/watch?v=CifTwRNLWLg"
+        },
+        {
+          "video_id": "k4FvI_txN4Y",
+          "title": "Sun in the 8th House – Depths of Mystery",
+          "url": "https://www.youtube.com/watch?v=k4FvI_txN4Y"
+        },
+        {
+          "video_id": "JOy3n6PTqEU",
+          "title": "Sun in the 9th House – Horizons of Trut",
+          "url": "https://www.youtube.com/watch?v=JOy3n6PTqEU"
+        },
+        {
+          "video_id": "Fvwdu-sBRjs",
+          "title": "Sun in the 10th House – Crown of Ambition",
+          "url": "https://www.youtube.com/watch?v=Fvwdu-sBRjs"
+        },
+        {
+          "video_id": "7rCv-UkBft8",
+          "title": "Sun in the 11th House – Circles of Light",
+          "url": "https://www.youtube.com/watch?v=7rCv-UkBft8"
+        },
+        {
+          "video_id": "aAA-IAgUq1Y",
+          "title": "Sun in the 12th House – Hidden Flame",
+          "url": "https://www.youtube.com/watch?v=aAA-IAgUq1Y"
+        },
+        {
+          "video_id": "1HEiNYo44zE",
+          "title": "Mercury in the 1st House – Voice of Fire",
+          "url": "https://www.youtube.com/watch?v=1HEiNYo44zE"
+        },
+        {
+          "video_id": "QXQHPZsokW4",
+          "title": "Mercury in the 2nd House – Steady Echoes",
+          "url": "https://www.youtube.com/watch?v=QXQHPZsokW4"
+        },
+        {
+          "video_id": "p3n1fQgukiA",
+          "title": "Mercury in the 3rd House – Sparks of Conversation",
+          "url": "https://www.youtube.com/watch?v=p3n1fQgukiA"
+        },
+        {
+          "video_id": "XRQtZ4UnoYw",
+          "title": "Mercury in the 4th House – Echoes of Home",
+          "url": "https://www.youtube.com/watch?v=XRQtZ4UnoYw"
+        },
+        {
+          "video_id": "hA8UJ0y5li0",
+          "title": "Mercury in the 5th House – Playful Words",
+          "url": "https://www.youtube.com/watch?v=hA8UJ0y5li0"
+        },
+        {
+          "video_id": "IDNy2DjMK94",
+          "title": "Mercury in the 6th House – Whispers of Order",
+          "url": "https://www.youtube.com/watch?v=IDNy2DjMK94"
+        },
+        {
+          "video_id": "1812NrqaKjg",
+          "title": "Mercury in the 7th House – Echoes of Balance",
+          "url": "https://www.youtube.com/watch?v=1812NrqaKjg"
+        },
+        {
+          "video_id": "4Fb3me7P8Rk",
+          "title": "Mercury in the 8th House – Hidden Currents",
+          "url": "https://www.youtube.com/watch?v=4Fb3me7P8Rk"
+        },
+        {
+          "video_id": "MjHfw-qJnDs",
+          "title": "Mercury in the 9th House – Horizons of Thought",
+          "url": "https://www.youtube.com/watch?v=MjHfw-qJnDs"
+        },
+        {
+          "video_id": "w-VEdwcqdYc",
+          "title": "Mercury in the 10th House – Voice of Ambition",
+          "url": "https://www.youtube.com/watch?v=w-VEdwcqdYc"
+        },
+        {
+          "video_id": "Bjd1XoThmvs",
+          "title": "Mercury in the 11th House – Echoes of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=Bjd1XoThmvs"
+        },
+        {
+          "video_id": "lUF4iENwW9g",
+          "title": "Mercury in the 12th House – Hidden Whispers",
+          "url": "https://www.youtube.com/watch?v=lUF4iENwW9g"
+        },
+        {
+          "video_id": "Oo8qZxl0KEk",
+          "title": "Venus in the 1st House – Magnetic Heart",
+          "url": "https://www.youtube.com/watch?v=Oo8qZxl0KEk"
+        },
+        {
+          "video_id": "vlWshXKO3no",
+          "title": "Venus in the 2nd House – Steady Love",
+          "url": "https://www.youtube.com/watch?v=vlWshXKO3no"
+        },
+        {
+          "video_id": "Iz_ji-IQtwg",
+          "title": "Venus in the 3rd House – Words of Love",
+          "url": "https://www.youtube.com/watch?v=Iz_ji-IQtwg"
+        },
+        {
+          "video_id": "cjTAKGS-2Fk",
+          "title": "Venus in the 4th House – Home of the Heart",
+          "url": "https://www.youtube.com/watch?v=cjTAKGS-2Fk"
+        },
+        {
+          "video_id": "1cRBEcb6Ip0",
+          "title": "Venus in the 5th House – Love Like Art",
+          "url": "https://www.youtube.com/watch?v=1cRBEcb6Ip0"
+        },
+        {
+          "video_id": "VXC-_Zwwh08",
+          "title": "Venus in the 6th House – Love in the Little Things",
+          "url": "https://www.youtube.com/watch?v=VXC-_Zwwh08"
+        },
+        {
+          "video_id": "SePR0cxz8ww",
+          "title": "Venus in the 7th House – Harmony of Two",
+          "url": "https://www.youtube.com/watch?v=SePR0cxz8ww"
+        },
+        {
+          "video_id": "gGeAP2B45Hk",
+          "title": "Venus in the 8th House – Depths of Desire",
+          "url": "https://www.youtube.com/watch?v=gGeAP2B45Hk"
+        },
+        {
+          "video_id": "E2W4wiTD_d8",
+          "title": "Venus in the 9th House – Love on the Horizon",
+          "url": "https://www.youtube.com/watch?v=E2W4wiTD_d8"
+        },
+        {
+          "video_id": "frskqli93dI",
+          "title": "Venus in the 10th House – Golden Reputation",
+          "url": "https://www.youtube.com/watch?v=frskqli93dI"
+        },
+        {
+          "video_id": "oYtOUZbqng0",
+          "title": "Venus in the 11th House – Electric Connection",
+          "url": "https://www.youtube.com/watch?v=oYtOUZbqng0"
+        },
+        {
+          "video_id": "0RNJWgkrXFI",
+          "title": "Venus in the 12th House – Hidden Love",
+          "url": "https://www.youtube.com/watch?v=0RNJWgkrXFI"
+        },
+        {
+          "video_id": "wzbW78ovkBM",
+          "title": "Mars in the 1st House – Born to Begin",
+          "url": "https://www.youtube.com/watch?v=wzbW78ovkBM"
+        },
+        {
+          "video_id": "Q79B1zaoivM",
+          "title": "Mars in the 2nd House – Worth the Fight",
+          "url": "https://www.youtube.com/watch?v=Q79B1zaoivM"
+        },
+        {
+          "video_id": "JvA-_Npkalk",
+          "title": "Mars in the 3rd House – Sparks in the Mind",
+          "url": "https://www.youtube.com/watch?v=JvA-_Npkalk"
+        },
+        {
+          "video_id": "Vor8610EgC8",
+          "title": "Mars in the 4th House – Fire Beneath the Walls",
+          "url": "https://www.youtube.com/watch?v=Vor8610EgC8"
+        },
+        {
+          "video_id": "S_4NhFBVLsg",
+          "title": "Mars in the 5th House – Play with Fire",
+          "url": "https://www.youtube.com/watch?v=S_4NhFBVLsg"
+        },
+        {
+          "video_id": "VWz90tm32DA",
+          "title": "Mars in the 6th House – Work of Heart",
+          "url": "https://www.youtube.com/watch?v=VWz90tm32DA"
+        },
+        {
+          "video_id": "dDSmF7lVUOQ",
+          "title": "Mars in the 9th House – Run to the Horizon",
+          "url": "https://www.youtube.com/watch?v=dDSmF7lVUOQ"
+        },
+        {
+          "video_id": "4mc6wje0yio",
+          "title": "Mars in the 10th House – Climb to the Light",
+          "url": "https://www.youtube.com/watch?v=4mc6wje0yio"
+        },
+        {
+          "video_id": "p46UD7FzFzI",
+          "title": "Mars in the 11th House – Fire Among Friends",
+          "url": "https://www.youtube.com/watch?v=p46UD7FzFzI"
+        },
+        {
+          "video_id": "PqMdK8uaUe4",
+          "title": "Mars in the 12th House – Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=PqMdK8uaUe4"
+        },
+        {
+          "video_id": "YKa50vSMmxg",
+          "title": "Mars in the 7th House – Hearts at War",
+          "url": "https://www.youtube.com/watch?v=YKa50vSMmxg"
+        },
+        {
+          "video_id": "BjTzdwgXxfc",
+          "title": "Mars in the 8th House – Fire in the Depths",
+          "url": "https://www.youtube.com/watch?v=BjTzdwgXxfc"
+        },
+        {
+          "video_id": "ADLA2s94Hno",
+          "title": "Jupiter in the 1st House – Light Begins With Me",
+          "url": "https://www.youtube.com/watch?v=ADLA2s94Hno"
+        },
+        {
+          "video_id": "4zxBeVvwksI",
+          "title": "Jupiter in the 2nd House – Golden Ground",
+          "url": "https://www.youtube.com/watch?v=4zxBeVvwksI"
+        },
+        {
+          "video_id": "nUTDpl6yFBk",
+          "title": "Jupiter in the 3rd House – Voice of the Morning",
+          "url": "https://www.youtube.com/watch?v=nUTDpl6yFBk"
+        },
+        {
+          "video_id": "awO3ty0MHVg",
+          "title": "Jupiter in the 4th House – Home of the Heart",
+          "url": "https://www.youtube.com/watch?v=awO3ty0MHVg"
+        },
+        {
+          "video_id": "mt2fVa2Ovo8",
+          "title": "Jupiter in the 5th House – Light of Creation",
+          "url": "https://www.youtube.com/watch?v=mt2fVa2Ovo8"
+        },
+        {
+          "video_id": "u9laLPXi-t0",
+          "title": "Jupiter in the 6th House – Hands of Grace",
+          "url": "https://www.youtube.com/watch?v=u9laLPXi-t0"
+        },
+        {
+          "video_id": "fkdUSkj55T0",
+          "title": "Jupiter in the 7th House – Circle of Light",
+          "url": "https://www.youtube.com/watch?v=fkdUSkj55T0"
+        },
+        {
+          "video_id": "_t5d43mtYiY",
+          "title": "Jupiter in the 8th House – Depth of Gold",
+          "url": "https://www.youtube.com/watch?v=_t5d43mtYiY"
+        },
+        {
+          "video_id": "v7JwghoDXkw",
+          "title": "Jupiter in the 9th House – Miles of Meaning",
+          "url": "https://www.youtube.com/watch?v=v7JwghoDXkw"
+        },
+        {
+          "video_id": "li2uBnet528",
+          "title": "Jupiter in the 10th House – Rise Beyond",
+          "url": "https://www.youtube.com/watch?v=li2uBnet528"
+        },
+        {
+          "video_id": "uCdF_VA5EHc",
+          "title": "Jupiter in the 11th House – Circles of Light",
+          "url": "https://www.youtube.com/watch?v=uCdF_VA5EHc"
+        },
+        {
+          "video_id": "T1TYjYFN75E",
+          "title": "Jupiter in the 12th House – Ocean of Grace",
+          "url": "https://www.youtube.com/watch?v=T1TYjYFN75E"
+        },
+        {
+          "video_id": "0TX8lvufIck",
+          "title": "Saturn in the 1st House – Weight of Becoming",
+          "url": "https://www.youtube.com/watch?v=0TX8lvufIck"
+        },
+        {
+          "video_id": "JyMVsV724tE",
+          "title": "Saturn in the 2nd House – Steady Hands",
+          "url": "https://www.youtube.com/watch?v=JyMVsV724tE"
+        },
+        {
+          "video_id": "hb_lLX58xfc",
+          "title": "Saturn in the 3rd House – Quiet Roads",
+          "url": "https://www.youtube.com/watch?v=hb_lLX58xfc"
+        },
+        {
+          "video_id": "8ctt7FZdEy0",
+          "title": "Saturn in the 4th House – Roots of Strength",
+          "url": "https://www.youtube.com/watch?v=8ctt7FZdEy0"
+        },
+        {
+          "video_id": "F3GOKVcVMRY",
+          "title": "Saturn in the 5th House – The Art of Joy",
+          "url": "https://www.youtube.com/watch?v=F3GOKVcVMRY"
+        },
+        {
+          "video_id": "wZvOvNerhkA",
+          "title": "Saturn in the 6th House – Rhythm of Duty",
+          "url": "https://www.youtube.com/watch?v=wZvOvNerhkA"
+        },
+        {
+          "video_id": "Agx0no87Vx8",
+          "title": "Saturn in the 7th House – Bound by Promise",
+          "url": "https://www.youtube.com/watch?v=Agx0no87Vx8"
+        },
+        {
+          "video_id": "ZaLBE5pBRr8",
+          "title": "Saturn in the 8th House – Rise Again",
+          "url": "https://www.youtube.com/watch?v=ZaLBE5pBRr8"
+        },
+        {
+          "video_id": "gSfjoCOwmjE",
+          "title": "Saturn in the 9th House – Faith in the Climb",
+          "url": "https://www.youtube.com/watch?v=gSfjoCOwmjE"
+        },
+        {
+          "video_id": "JJza62CvJMA",
+          "title": "Saturn in the 10th House – Climb the Sky",
+          "url": "https://www.youtube.com/watch?v=JJza62CvJMA"
+        },
+        {
+          "video_id": "cUogvGs_Hec",
+          "title": "Saturn in the 11th House – Circles of Faith",
+          "url": "https://www.youtube.com/watch?v=cUogvGs_Hec"
+        },
+        {
+          "video_id": "Ocfy3CUc32U",
+          "title": "Saturn in the 12th House – Echoes of Light",
+          "url": "https://www.youtube.com/watch?v=Ocfy3CUc32U"
+        },
+        {
+          "video_id": "VhE2wyPfuMY",
+          "title": "Uranus in the 1st House – Born to Stand Out",
+          "url": "https://www.youtube.com/watch?v=VhE2wyPfuMY"
+        },
+        {
+          "video_id": "e72w4RaFIXI",
+          "title": "Uranus in the 2nd House – Freedom Over Gold",
+          "url": "https://www.youtube.com/watch?v=e72w4RaFIXI"
+        },
+        {
+          "video_id": "D5Xl1GJvE5g",
+          "title": "Uranus in the 3rd House – Voices of Change",
+          "url": "https://www.youtube.com/watch?v=D5Xl1GJvE5g"
+        },
+        {
+          "video_id": "3642jzG5Ass",
+          "title": "Uranus in the 4th House – Roots of Freedom",
+          "url": "https://www.youtube.com/watch?v=3642jzG5Ass"
+        },
+        {
+          "video_id": "dY8Kn5A8ebk",
+          "title": "Uranus in the 5th House – Wildfire of Creation",
+          "url": "https://www.youtube.com/watch?v=dY8Kn5A8ebk"
+        },
+        {
+          "video_id": "_e8yIPcduJ0",
+          "title": "Uranus in the 6th House – Rhythm of Change",
+          "url": "https://www.youtube.com/watch?v=_e8yIPcduJ0"
+        },
+        {
+          "video_id": "UapTWDIAnIg",
+          "title": "Uranus in the 7th House – Bound by Promise",
+          "url": "https://www.youtube.com/watch?v=UapTWDIAnIg"
+        },
+        {
+          "video_id": "fMQQi5Shg98",
+          "title": "Uranus in the 8th House – Rise from the Depths",
+          "url": "https://www.youtube.com/watch?v=fMQQi5Shg98"
+        },
+        {
+          "video_id": "HD7fL93oaYc",
+          "title": "Uranus in the 9th House – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=HD7fL93oaYc"
+        },
+        {
+          "video_id": "SujULw9G9us",
+          "title": "Uranus in the 10th House – Skybound Vision",
+          "url": "https://www.youtube.com/watch?v=SujULw9G9us"
+        },
+        {
+          "video_id": "BzPCOVyTvVY",
+          "title": "Uranus in the 12th House – The Hidden Light",
+          "url": "https://www.youtube.com/watch?v=BzPCOVyTvVY"
+        },
+        {
+          "video_id": "hSOIKLkYuEU",
+          "title": "Neptune in the 1st House – Reflections of Light",
+          "url": "https://www.youtube.com/watch?v=hSOIKLkYuEU"
+        },
+        {
+          "video_id": "EjV6y5Pn2H0",
+          "title": "Neptune in the 2nd House – Waves of Worth",
+          "url": "https://www.youtube.com/watch?v=EjV6y5Pn2H0"
+        },
+        {
+          "video_id": "nYK9hR1f3Xc",
+          "title": "Neptune in the 3rd House – Whispers in the Wind",
+          "url": "https://www.youtube.com/watch?v=nYK9hR1f3Xc"
+        },
+        {
+          "video_id": "BN2hwkE50Gw",
+          "title": "Neptune in the 4th House – Ocean of Belonging",
+          "url": "https://www.youtube.com/watch?v=BN2hwkE50Gw"
+        },
+        {
+          "video_id": "8R-u-cU_jVo",
+          "title": "Neptune in the 5th House – Painted in Stardust",
+          "url": "https://www.youtube.com/watch?v=8R-u-cU_jVo"
+        },
+        {
+          "video_id": "Am6GB8oOXgw",
+          "title": "Neptune in the 6th House – Echoes of Devotion",
+          "url": "https://www.youtube.com/watch?v=Am6GB8oOXgw"
+        },
+        {
+          "video_id": "fi0tHa7DlJ0",
+          "title": "Neptune in the 7th House – Mirror of Dreams",
+          "url": "https://www.youtube.com/watch?v=fi0tHa7DlJ0"
+        },
+        {
+          "video_id": "UoEhgWRVxXE",
+          "title": "Neptune in the 8th House – Depths of Forever",
+          "url": "https://www.youtube.com/watch?v=UoEhgWRVxXE"
+        },
+        {
+          "video_id": "hAZAzgIbHhQ",
+          "title": "Neptune in the 9th House – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=hAZAzgIbHhQ"
+        },
+        {
+          "video_id": "mt0Q7VH4ax8",
+          "title": "Neptune in the 10th House – Crown of Dreams",
+          "url": "https://www.youtube.com/watch?v=mt0Q7VH4ax8"
+        },
+        {
+          "video_id": "QyGa6CmQCsU",
+          "title": "Neptune in the 11th House – Voices of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=QyGa6CmQCsU"
+        },
+        {
+          "video_id": "IBm9zCO986k",
+          "title": "Neptune in the 12th House – Light Within the Deep",
+          "url": "https://www.youtube.com/watch?v=IBm9zCO986k"
+        },
+        {
+          "video_id": "cFQNMopk3ok",
+          "title": "Pluto in the 1st House – Mirror of Power",
+          "url": "https://www.youtube.com/watch?v=cFQNMopk3ok"
+        },
+        {
+          "video_id": "S19EgiFlMio",
+          "title": "Pluto in the 2nd House – Worth of the Soul",
+          "url": "https://www.youtube.com/watch?v=S19EgiFlMio"
+        },
+        {
+          "video_id": "hgXgNeJ3wTU",
+          "title": "Pluto in the 3rd House – Voice of Truth",
+          "url": "https://www.youtube.com/watch?v=hgXgNeJ3wTU"
+        },
+        {
+          "video_id": "pltfQiU_hco",
+          "title": "Pluto in the 4th House – Roots of Fire",
+          "url": "https://www.youtube.com/watch?v=pltfQiU_hco"
+        },
+        {
+          "video_id": "OJo2hYhcS5w",
+          "title": "Pluto in the 5th House – Flames of Creation",
+          "url": "https://www.youtube.com/watch?v=OJo2hYhcS5w"
+        },
+        {
+          "video_id": "PRzgDuLRYMk",
+          "title": "Pluto in the 6th House – Work of the Soul",
+          "url": "https://www.youtube.com/watch?v=PRzgDuLRYMk"
+        },
+        {
+          "video_id": "T360V-LJiQ4",
+          "title": "Pluto in the 7th House – Mirror of Power",
+          "url": "https://www.youtube.com/watch?v=T360V-LJiQ4"
+        },
+        {
+          "video_id": "UK_MiEGzGhk",
+          "title": "Pluto in the 8th House – Depths of Desire",
+          "url": "https://www.youtube.com/watch?v=UK_MiEGzGhk"
+        },
+        {
+          "video_id": "TBEOTdQ-Bsg",
+          "title": "Pluto in the 9th House – Fire of Belief",
+          "url": "https://www.youtube.com/watch?v=TBEOTdQ-Bsg"
+        },
+        {
+          "video_id": "us3BjBQ6hb8",
+          "title": "Pluto in the 11th House – The Power of Vision",
+          "url": "https://www.youtube.com/watch?v=us3BjBQ6hb8"
+        },
+        {
+          "video_id": "hcZbP-4RbNo",
+          "title": "Pluto in the 10th House – Crown of Shadows",
+          "url": "https://www.youtube.com/watch?v=hcZbP-4RbNo"
+        },
+        {
+          "video_id": "YkU1HrNhZfg",
+          "title": "Pluto in the 12th House – Depths of the Soul",
+          "url": "https://www.youtube.com/watch?v=YkU1HrNhZfg"
+        },
+        {
+          "video_id": "7n7fe3vC-gY",
+          "title": "Chiron in the 1st House – The Wound and the Wonder",
+          "url": "https://www.youtube.com/watch?v=7n7fe3vC-gY"
+        },
+        {
+          "video_id": "AL7CYPREu1Q",
+          "title": "Chiron in the 2nd House – Worth Beyond Gold",
+          "url": "https://www.youtube.com/watch?v=AL7CYPREu1Q"
+        },
+        {
+          "video_id": "4tjcjugX1UY",
+          "title": "Chiron in the 3rd House – Voice Unbound",
+          "url": "https://www.youtube.com/watch?v=4tjcjugX1UY"
+        },
+        {
+          "video_id": "jKKB5m6guWA",
+          "title": "Chiron in the 4th House – Coming Home to Me",
+          "url": "https://www.youtube.com/watch?v=jKKB5m6guWA"
+        },
+        {
+          "video_id": "QZzxpErfhkI",
+          "title": "Chiron in the 5th House – Heart of Creation",
+          "url": "https://www.youtube.com/watch?v=QZzxpErfhkI"
+        },
+        {
+          "video_id": "bNGFG9QodzY",
+          "title": "Chiron in the 6th House – Rhythm of Healing",
+          "url": "https://www.youtube.com/watch?v=bNGFG9QodzY"
+        },
+        {
+          "video_id": "AVPzHxGqoyI",
+          "title": "Chiron in the 7th House – Mirror of Love",
+          "url": "https://www.youtube.com/watch?v=AVPzHxGqoyI"
+        },
+        {
+          "video_id": "qVr1QtF7Nr4",
+          "title": "Chiron in the 8th House – Into the Depths",
+          "url": "https://www.youtube.com/watch?v=qVr1QtF7Nr4"
+        },
+        {
+          "video_id": "iDTzFWogFws",
+          "title": "Chiron in the 9th House – Faith in the Unknown",
+          "url": "https://www.youtube.com/watch?v=iDTzFWogFws"
+        },
+        {
+          "video_id": "t7vfOCEivCY",
+          "title": "Chiron in the 10th House – Climb of the Heart",
+          "url": "https://www.youtube.com/watch?v=t7vfOCEivCY"
+        },
+        {
+          "video_id": "N36T2YOzoY4",
+          "title": "Chiron in the 11th House – Circle of Light",
+          "url": "https://www.youtube.com/watch?v=N36T2YOzoY4"
+        },
+        {
+          "video_id": "UTvAuo-CM5k",
+          "title": "Chiron in the 12th House – Echoes of Light",
+          "url": "https://www.youtube.com/watch?v=UTvAuo-CM5k"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores what happens when each planet moves through the 12 houses of the natal chart.\n\nThe planet shows the type of energy.\nThe house shows where that energy plays out in real life.\n\nWhen you understand your planets in houses, you begin to see why certain themes repeat in specific areas of your life. You start recognizing patterns around relationships, money, career, family, creativity, belief systems, and purpose. Instead of feeling confused by your experiences, you begin to see the structure underneath them.\n\nEach video in this series focuses on one planet in one house in a clear and grounded way. This is astrology applied to real life, not just theory.\n\nIf you find yourself wanting more than a short explanation, the HD Astro Membership was created for that next step. Inside the membership you learn how to read your full chart including houses, signs, degrees, aspects, and the connection to the 64 Human Design Gates. It gives you the framework to understand your timing rather than just react to it.\n\nFor guidance that goes deeper than any single video, join the HD Astro Membership at\nhttps://healthmanifested.com/hd-astro-course-options\n\nThis is where the pieces of your chart begin to click and feel personal, meaningful, and useful in everyday life.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAmcWizr_3IzhSVHvnR8qJZ.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB6hxT_4SdHgPEBSBZ91Z_p",
+      "title": "Chiron Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB6hxT_4SdHgPEBSBZ91Z_p",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "K6wrQFemCPw",
+          "title": "Chiron Retrograde in Aries – Heal the Fire",
+          "url": "https://www.youtube.com/watch?v=K6wrQFemCPw"
+        },
+        {
+          "video_id": "ks-Cuq-0ROA",
+          "title": "Chiron Retrograde in Taurus – Roots of Worth",
+          "url": "https://www.youtube.com/watch?v=ks-Cuq-0ROA"
+        },
+        {
+          "video_id": "55fhW7osGdE",
+          "title": "Chiron Retrograde in Gemini – Voice Unbound",
+          "url": "https://www.youtube.com/watch?v=55fhW7osGdE"
+        },
+        {
+          "video_id": "44XK4loCALc",
+          "title": "Chiron Retrograde in Cancer – Safe to Feel",
+          "url": "https://www.youtube.com/watch?v=44XK4loCALc"
+        },
+        {
+          "video_id": "ZmoUZe21eTU",
+          "title": "Chiron Retrograde in Leo – Let Me Shine",
+          "url": "https://www.youtube.com/watch?v=ZmoUZe21eTU"
+        },
+        {
+          "video_id": "4SbvDvKs334",
+          "title": "Chiron Retrograde in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=4SbvDvKs334"
+        },
+        {
+          "video_id": "vKv0Oz_tvx4",
+          "title": "Chiron Retrograde in Libra – Mirror of My Heart",
+          "url": "https://www.youtube.com/watch?v=vKv0Oz_tvx4"
+        },
+        {
+          "video_id": "RUmo1teupG4",
+          "title": "Chiron Retrograde in Scorpio – Beneath the Ashes",
+          "url": "https://www.youtube.com/watch?v=RUmo1teupG4"
+        },
+        {
+          "video_id": "NjivSnJzNOY",
+          "title": "Chiron Retrograde in Sagittarius – My Own Horizon",
+          "url": "https://www.youtube.com/watch?v=NjivSnJzNOY"
+        },
+        {
+          "video_id": "se0zaJK_3u0",
+          "title": "Chiron Retrograde in Capricorn – Worth Beyond the Crown",
+          "url": "https://www.youtube.com/watch?v=se0zaJK_3u0"
+        },
+        {
+          "video_id": "glH-3zVfGkY",
+          "title": "Chiron Retrograde in Aquarius – The Gift of Being Me",
+          "url": "https://www.youtube.com/watch?v=glH-3zVfGkY"
+        },
+        {
+          "video_id": "3IgAyk3TyFo",
+          "title": "Chiron Retrograde in Pisces – Boundaries of Light",
+          "url": "https://www.youtube.com/watch?v=3IgAyk3TyFo"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "The Chiron Retrograde Songs take you on a journey of healing, reflection, and self-acceptance. Each song captures the energy of Chiron turning inward, inviting you to look at old wounds with compassion and discover the wisdom that comes through them. This is a time to transform pain into strength and remember that healing is a process that reveals your deepest gifts.\n\nIf you want to understand how Chiron retrograde influences your emotional and spiritual growth, explore the HD Astro Membership. Inside, you’ll find songs, affirmations, and insightful guidance that connect Astrology and Human Design in a way that helps you navigate your healing with clarity and purpose.\n\nStart exploring your chart and your healing journey here:\n👉 https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB6hxT_4SdHgPEBSBZ91Z_p.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaABf96PlvjSwu8DTrqxM1iQ",
+      "title": "Chiron in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaABf96PlvjSwu8DTrqxM1iQ",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7n7fe3vC-gY",
+          "title": "Chiron in the 1st House – The Wound and the Wonder",
+          "url": "https://www.youtube.com/watch?v=7n7fe3vC-gY"
+        },
+        {
+          "video_id": "AL7CYPREu1Q",
+          "title": "Chiron in the 2nd House – Worth Beyond Gold",
+          "url": "https://www.youtube.com/watch?v=AL7CYPREu1Q"
+        },
+        {
+          "video_id": "4tjcjugX1UY",
+          "title": "Chiron in the 3rd House – Voice Unbound",
+          "url": "https://www.youtube.com/watch?v=4tjcjugX1UY"
+        },
+        {
+          "video_id": "jKKB5m6guWA",
+          "title": "Chiron in the 4th House – Coming Home to Me",
+          "url": "https://www.youtube.com/watch?v=jKKB5m6guWA"
+        },
+        {
+          "video_id": "QZzxpErfhkI",
+          "title": "Chiron in the 5th House – Heart of Creation",
+          "url": "https://www.youtube.com/watch?v=QZzxpErfhkI"
+        },
+        {
+          "video_id": "bNGFG9QodzY",
+          "title": "Chiron in the 6th House – Rhythm of Healing",
+          "url": "https://www.youtube.com/watch?v=bNGFG9QodzY"
+        },
+        {
+          "video_id": "AVPzHxGqoyI",
+          "title": "Chiron in the 7th House – Mirror of Love",
+          "url": "https://www.youtube.com/watch?v=AVPzHxGqoyI"
+        },
+        {
+          "video_id": "qVr1QtF7Nr4",
+          "title": "Chiron in the 8th House – Into the Depths",
+          "url": "https://www.youtube.com/watch?v=qVr1QtF7Nr4"
+        },
+        {
+          "video_id": "iDTzFWogFws",
+          "title": "Chiron in the 9th House – Faith in the Unknown",
+          "url": "https://www.youtube.com/watch?v=iDTzFWogFws"
+        },
+        {
+          "video_id": "t7vfOCEivCY",
+          "title": "Chiron in the 10th House – Climb of the Heart",
+          "url": "https://www.youtube.com/watch?v=t7vfOCEivCY"
+        },
+        {
+          "video_id": "N36T2YOzoY4",
+          "title": "Chiron in the 11th House – Circle of Light",
+          "url": "https://www.youtube.com/watch?v=N36T2YOzoY4"
+        },
+        {
+          "video_id": "UTvAuo-CM5k",
+          "title": "Chiron in the 12th House – Echoes of Light",
+          "url": "https://www.youtube.com/watch?v=UTvAuo-CM5k"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "The Chiron in Houses Songs explore the unique ways healing unfolds in each area of life. Each track reflects how Chiron’s placement reveals the lessons of vulnerability, resilience, and self-acceptance that shape your path. Through these songs, you can feel how Chiron’s energy guides growth, helping you transform wounds into wisdom and compassion.\n\nIf you want to learn how Chiron influences your chart and discover the deeper meaning of your healing journey, explore the HD Astro Membership. Inside, you’ll find songs, affirmations, and clear guidance that connect Astrology and Human Design, making it easy to understand your energy and personal evolution.\n\nStart exploring your chart and your healing story today:\n👉 https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaABf96PlvjSwu8DTrqxM1iQ.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaACWPZ9DRVnFljNdjYGkzQ9",
+      "title": "Pluto Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaACWPZ9DRVnFljNdjYGkzQ9",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "SawmmIeBIJ8",
+          "title": "Pluto Retrograde in Aries – Fire Within",
+          "url": "https://www.youtube.com/watch?v=SawmmIeBIJ8"
+        },
+        {
+          "video_id": "U-n5IIYurvU",
+          "title": "Pluto Retrograde in Taurus – Roots of Renewal",
+          "url": "https://www.youtube.com/watch?v=U-n5IIYurvU"
+        },
+        {
+          "video_id": "xegEXjtAth8",
+          "title": "Pluto Retrograde in Gemini – Voice of Truth",
+          "url": "https://www.youtube.com/watch?v=xegEXjtAth8"
+        },
+        {
+          "video_id": "OjDi27ichac",
+          "title": "Pluto Retrograde in Cancer – Echoes of Home",
+          "url": "https://www.youtube.com/watch?v=OjDi27ichac"
+        },
+        {
+          "video_id": "sYHgMKNMbjA",
+          "title": "Pluto Retrograde in Leo – Fire of the True Self",
+          "url": "https://www.youtube.com/watch?v=sYHgMKNMbjA"
+        },
+        {
+          "video_id": "IgZ7UV7ke2s",
+          "title": "Pluto Retrograde in Virgo – Alchemy of Order",
+          "url": "https://www.youtube.com/watch?v=IgZ7UV7ke2s"
+        },
+        {
+          "video_id": "Q9Sn7aEq2jg",
+          "title": "Pluto Retrograde in Libra – Mirrors of the Heart",
+          "url": "https://www.youtube.com/watch?v=Q9Sn7aEq2jg"
+        },
+        {
+          "video_id": "jMlwN0rLrK0",
+          "title": "Pluto Retrograde in Scorpio – Depths of Becoming",
+          "url": "https://www.youtube.com/watch?v=jMlwN0rLrK0"
+        },
+        {
+          "video_id": "8OTPBC2zYqk",
+          "title": "Pluto Retrograde in Sagittarius – Flames of Truth",
+          "url": "https://www.youtube.com/watch?v=8OTPBC2zYqk"
+        },
+        {
+          "video_id": "nEzyMjtqgi4",
+          "title": "Pluto Retrograde in Capricorn – Pillars of Purpose",
+          "url": "https://www.youtube.com/watch?v=nEzyMjtqgi4"
+        },
+        {
+          "video_id": "YVxwUF97af4",
+          "title": "Pluto Retrograde in Aquarius – Waves of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=YVxwUF97af4"
+        },
+        {
+          "video_id": "KLrMbleRZmU",
+          "title": "Pluto Retrograde in Pisces – Tides of the Soul",
+          "url": "https://www.youtube.com/watch?v=KLrMbleRZmU"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "The Pluto Retrograde Songs guide you through transformation, renewal, and empowerment. Each song captures the essence of Pluto’s energy as it moves inward, encouraging you to release what no longer serves you and uncover the strength that comes from deep healing. This is a time to face truth, embrace change, and allow your inner power to rise.\n\nIf you want to understand how Pluto retrograde influences your personal growth and learn how to navigate these powerful cycles, explore the HD Astro Membership. Inside, you’ll find songs, affirmations, and clear guidance that help you connect Astrology and Human Design so you can align with your purpose and evolution.\n\nStart exploring your chart and your transformation here:\n👉 https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaACWPZ9DRVnFljNdjYGkzQ9.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAzO-EwAbrSLURRajoPK2bn",
+      "title": "Pluto in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAzO-EwAbrSLURRajoPK2bn",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "cFQNMopk3ok",
+          "title": "Pluto in the 1st House – Mirror of Power",
+          "url": "https://www.youtube.com/watch?v=cFQNMopk3ok"
+        },
+        {
+          "video_id": "S19EgiFlMio",
+          "title": "Pluto in the 2nd House – Worth of the Soul",
+          "url": "https://www.youtube.com/watch?v=S19EgiFlMio"
+        },
+        {
+          "video_id": "hgXgNeJ3wTU",
+          "title": "Pluto in the 3rd House – Voice of Truth",
+          "url": "https://www.youtube.com/watch?v=hgXgNeJ3wTU"
+        },
+        {
+          "video_id": "pltfQiU_hco",
+          "title": "Pluto in the 4th House – Roots of Fire",
+          "url": "https://www.youtube.com/watch?v=pltfQiU_hco"
+        },
+        {
+          "video_id": "OJo2hYhcS5w",
+          "title": "Pluto in the 5th House – Flames of Creation",
+          "url": "https://www.youtube.com/watch?v=OJo2hYhcS5w"
+        },
+        {
+          "video_id": "PRzgDuLRYMk",
+          "title": "Pluto in the 6th House – Work of the Soul",
+          "url": "https://www.youtube.com/watch?v=PRzgDuLRYMk"
+        },
+        {
+          "video_id": "T360V-LJiQ4",
+          "title": "Pluto in the 7th House – Mirror of Power",
+          "url": "https://www.youtube.com/watch?v=T360V-LJiQ4"
+        },
+        {
+          "video_id": "UK_MiEGzGhk",
+          "title": "Pluto in the 8th House – Depths of Desire",
+          "url": "https://www.youtube.com/watch?v=UK_MiEGzGhk"
+        },
+        {
+          "video_id": "TBEOTdQ-Bsg",
+          "title": "Pluto in the 9th House – Fire of Belief",
+          "url": "https://www.youtube.com/watch?v=TBEOTdQ-Bsg"
+        },
+        {
+          "video_id": "us3BjBQ6hb8",
+          "title": "Pluto in the 11th House – The Power of Vision",
+          "url": "https://www.youtube.com/watch?v=us3BjBQ6hb8"
+        },
+        {
+          "video_id": "hcZbP-4RbNo",
+          "title": "Pluto in the 10th House – Crown of Shadows",
+          "url": "https://www.youtube.com/watch?v=hcZbP-4RbNo"
+        },
+        {
+          "video_id": "YkU1HrNhZfg",
+          "title": "Pluto in the 12th House – Depths of the Soul",
+          "url": "https://www.youtube.com/watch?v=YkU1HrNhZfg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "The Pluto in Houses Songs explore transformation, power, and rebirth through sound. Each track reflects the hidden depths of Pluto’s placement in the birth chart, revealing where life invites profound change and renewal. These songs help you recognize where strength is born from surrender and where healing emerges through understanding your inner truth.\n\nIf you’re ready to explore how Pluto shapes your personal evolution and uncover the deeper meaning of your chart, the HD Astro Membership is your next step. Inside, you’ll find songs, affirmations, and easy-to-follow insights that connect Astrology and Human Design so you can align with your path and purpose.\n\nStart exploring your chart and your transformation today:\n👉 https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAzO-EwAbrSLURRajoPK2bn.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBAv6WKUWVW53hjAOrU5b6R",
+      "title": "Jupiter Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBAv6WKUWVW53hjAOrU5b6R",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "hD2oy8QaFQ0",
+          "title": "Jupiter Retrograde in Aries – Fire in Reflection",
+          "url": "https://www.youtube.com/watch?v=hD2oy8QaFQ0"
+        },
+        {
+          "video_id": "0S87EAVAJRQ",
+          "title": "Jupiter Retrograde in Taurus – Roots of Gold",
+          "url": "https://www.youtube.com/watch?v=0S87EAVAJRQ"
+        },
+        {
+          "video_id": "-Zq0xZbjCEs",
+          "title": "Jupiter Retrograde in Gemini – Echoes of Thought",
+          "url": "https://www.youtube.com/watch?v=-Zq0xZbjCEs"
+        },
+        {
+          "video_id": "hFSsqYrOcUo",
+          "title": "Jupiter Retrograde in Cancer – Harbor of the Heart",
+          "url": "https://www.youtube.com/watch?v=hFSsqYrOcUo"
+        },
+        {
+          "video_id": "sRyaE-eXoLU",
+          "title": "Jupiter Retrograde in Leo – Light Without Applause",
+          "url": "https://www.youtube.com/watch?v=sRyaE-eXoLU"
+        },
+        {
+          "video_id": "DH02KUmV5JA",
+          "title": "Jupiter Retrograde in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=DH02KUmV5JA"
+        },
+        {
+          "video_id": "a5RhETHNOaQ",
+          "title": "Jupiter Retrograde in Libra – Balance in the Mirror",
+          "url": "https://www.youtube.com/watch?v=a5RhETHNOaQ"
+        },
+        {
+          "video_id": "Xn8HsHotjM8",
+          "title": "Jupiter Retrograde in Scorpio – Shadows of Power",
+          "url": "https://www.youtube.com/watch?v=Xn8HsHotjM8"
+        },
+        {
+          "video_id": "13wUvxwpNIs",
+          "title": "Jupiter Retrograde in Sagittarius – Faith Rewritten",
+          "url": "https://www.youtube.com/watch?v=13wUvxwpNIs"
+        },
+        {
+          "video_id": "BGbt92dgOhQ",
+          "title": "Jupiter Retrograde in Capricorn – Steps That Last",
+          "url": "https://www.youtube.com/watch?v=BGbt92dgOhQ"
+        },
+        {
+          "video_id": "BU5PLSZe-QQ",
+          "title": "Jupiter Retrograde in Aquarius – Circles of Change",
+          "url": "https://www.youtube.com/watch?v=BU5PLSZe-QQ"
+        },
+        {
+          "video_id": "-idpRTDTGBk",
+          "title": "Jupiter Retrograde in Pisces – Oceans Within",
+          "url": "https://www.youtube.com/watch?v=-idpRTDTGBk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Jupiter retrograde invites you to pause, reflect, and reconnect with what truly matters. These songs are created to guide you through the deeper lessons of abundance, wisdom, and purpose. Each track captures the reflective nature of Jupiter’s energy, helping you realign with your values and inner truth.\n\nIf you enjoy learning through sound and want to understand how transits like this shape your energy, explore the HD Astro Membership. Inside, you’ll find songs, affirmations, and easy-to-follow insights that help you connect Astrology and Human Design in a way that feels natural and empowering.\n\nStart exploring your chart and the current energies at:\n👉 https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBAv6WKUWVW53hjAOrU5b6R.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCtPgqSIQ_dLWPOiJhFqNDL",
+      "title": "Pluto in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCtPgqSIQ_dLWPOiJhFqNDL",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7rD1vxSZGyQ",
+          "title": "Pluto in Aries – Rise from the Fire",
+          "url": "https://www.youtube.com/watch?v=7rD1vxSZGyQ"
+        },
+        {
+          "video_id": "JbMnaBLLItE",
+          "title": "Pluto in Taurus – Roots of Gold",
+          "url": "https://www.youtube.com/watch?v=JbMnaBLLItE"
+        },
+        {
+          "video_id": "Y3WR63woeok",
+          "title": "Pluto in Gemini – Voices of Change",
+          "url": "https://www.youtube.com/watch?v=Y3WR63woeok"
+        },
+        {
+          "video_id": "xk19Nyhl1HY",
+          "title": "Pluto in Cancer – Waves of Home",
+          "url": "https://www.youtube.com/watch?v=xk19Nyhl1HY"
+        },
+        {
+          "video_id": "2BxVtnAZTIw",
+          "title": "Pluto in Leo – Fire of Becoming",
+          "url": "https://www.youtube.com/watch?v=2BxVtnAZTIw"
+        },
+        {
+          "video_id": "BYSuwIcV6lk",
+          "title": "Pluto in Virgo – Seeds of Renewal",
+          "url": "https://www.youtube.com/watch?v=BYSuwIcV6lk"
+        },
+        {
+          "video_id": "A7_41cLd5Bk",
+          "title": "Pluto in Libra – Mirrors of the Heart",
+          "url": "https://www.youtube.com/watch?v=A7_41cLd5Bk"
+        },
+        {
+          "video_id": "Gta-vDJOa1M",
+          "title": "Pluto in Scorpio – Rise from the Depths",
+          "url": "https://www.youtube.com/watch?v=Gta-vDJOa1M"
+        },
+        {
+          "video_id": "PFwBlpczB4M",
+          "title": "Pluto in Sagittarius – Fire of the Infinite",
+          "url": "https://www.youtube.com/watch?v=PFwBlpczB4M"
+        },
+        {
+          "video_id": "mhWbfxQRdew",
+          "title": "Pluto in Capricorn – Towers of Time",
+          "url": "https://www.youtube.com/watch?v=mhWbfxQRdew"
+        },
+        {
+          "video_id": "pt3l4pwYqrI",
+          "title": "Revolution of Light – Pluto in Aquarius",
+          "url": "https://www.youtube.com/watch?v=pt3l4pwYqrI"
+        },
+        {
+          "video_id": "LMEnpmSRk6k",
+          "title": "Pluto in Pisces – Tides of Rebirth",
+          "url": "https://www.youtube.com/watch?v=LMEnpmSRk6k"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores Pluto’s journey through the zodiac, capturing the profound waves of transformation that shape each generation. Every song reflects the depth, intensity, and rebirth that Pluto inspires as it moves through each sign, awakening power, truth, and renewal in collective and personal ways.\n\nPluto in each sign reveals how people evolve through cycles of release and regeneration. These songs guide you into the heart of transformation, reminding you that growth often begins where old patterns end.\n\n✨ Discover how Pluto’s placement influences your chart and personal evolution through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCtPgqSIQ_dLWPOiJhFqNDL.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAM6i3dNH3mEYD2H_ytLUZm",
+      "title": "Neptune Retrograde in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAM6i3dNH3mEYD2H_ytLUZm",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ZESJ1av0ARM",
+          "title": "Neptune Retrograde in Aries – Mirror of Fire",
+          "url": "https://www.youtube.com/watch?v=ZESJ1av0ARM"
+        },
+        {
+          "video_id": "pG4rrwUmd7o",
+          "title": "Neptune Retrograde in Taurus – The Softness of Gold",
+          "url": "https://www.youtube.com/watch?v=pG4rrwUmd7o"
+        },
+        {
+          "video_id": "YwNNv4eNd2U",
+          "title": "Neptune Retrograde in Gemini – Whispers Between Worlds",
+          "url": "https://www.youtube.com/watch?v=YwNNv4eNd2U"
+        },
+        {
+          "video_id": "DaeALn3tR2M",
+          "title": "Neptune Retrograde in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=DaeALn3tR2M"
+        },
+        {
+          "video_id": "_6CTrMsGEao",
+          "title": "Neptune Retrograde in Leo – Fire of the Soul",
+          "url": "https://www.youtube.com/watch?v=_6CTrMsGEao"
+        },
+        {
+          "video_id": "pX0_RwZ2vAU",
+          "title": "Neptune Retrograde in Virgo – Grace in Motion",
+          "url": "https://www.youtube.com/watch?v=pX0_RwZ2vAU"
+        },
+        {
+          "video_id": "66quDJQSyME",
+          "title": "Neptune Retrograde in Libra – Mirror of the Heart",
+          "url": "https://www.youtube.com/watch?v=66quDJQSyME"
+        },
+        {
+          "video_id": "LfiQ90RuJLo",
+          "title": "Neptune Retrograde in Scorpio – Depths of Surrender",
+          "url": "https://www.youtube.com/watch?v=LfiQ90RuJLo"
+        },
+        {
+          "video_id": "tiiV-Tz0jt8",
+          "title": "Neptune Retrograde in Sagittarius – Truth in the Horizon",
+          "url": "https://www.youtube.com/watch?v=tiiV-Tz0jt8"
+        },
+        {
+          "video_id": "fq0lYy06-0E",
+          "title": "Neptune Retrograde in Capricorn – The Climb Within",
+          "url": "https://www.youtube.com/watch?v=fq0lYy06-0E"
+        },
+        {
+          "video_id": "WWv9sSNglzA",
+          "title": "Neptune Retrograde in Aquarius – Echoes of the Collective",
+          "url": "https://www.youtube.com/watch?v=WWv9sSNglzA"
+        },
+        {
+          "video_id": "iyMkaHluI6c",
+          "title": "Neptune Retrograde in Pisces – Whispers of the Infinite",
+          "url": "https://www.youtube.com/watch?v=iyMkaHluI6c"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the dreamy yet revealing energy of Neptune Retrograde, a time when illusions fade and truth quietly surfaces from within. Each song captures the essence of turning inward, questioning what’s real, and reconnecting with your intuition and imagination.\n\nNeptune Retrograde invites deep reflection, helping you see beyond fantasy to rediscover your authentic inspiration and spiritual clarity. Let these songs guide you through the mist, offering peace, awareness, and gentle awakening along the way.\n\n✨ Learn how Neptune’s retrograde influences your chart and spiritual growth through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAM6i3dNH3mEYD2H_ytLUZm.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBnxNJ6JjoMvRxxH-nuE5m2",
+      "title": "Neptune in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBnxNJ6JjoMvRxxH-nuE5m2",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "hSOIKLkYuEU",
+          "title": "Neptune in the 1st House – Reflections of Light",
+          "url": "https://www.youtube.com/watch?v=hSOIKLkYuEU"
+        },
+        {
+          "video_id": "EjV6y5Pn2H0",
+          "title": "Neptune in the 2nd House – Waves of Worth",
+          "url": "https://www.youtube.com/watch?v=EjV6y5Pn2H0"
+        },
+        {
+          "video_id": "nYK9hR1f3Xc",
+          "title": "Neptune in the 3rd House – Whispers in the Wind",
+          "url": "https://www.youtube.com/watch?v=nYK9hR1f3Xc"
+        },
+        {
+          "video_id": "BN2hwkE50Gw",
+          "title": "Neptune in the 4th House – Ocean of Belonging",
+          "url": "https://www.youtube.com/watch?v=BN2hwkE50Gw"
+        },
+        {
+          "video_id": "8R-u-cU_jVo",
+          "title": "Neptune in the 5th House – Painted in Stardust",
+          "url": "https://www.youtube.com/watch?v=8R-u-cU_jVo"
+        },
+        {
+          "video_id": "Am6GB8oOXgw",
+          "title": "Neptune in the 6th House – Echoes of Devotion",
+          "url": "https://www.youtube.com/watch?v=Am6GB8oOXgw"
+        },
+        {
+          "video_id": "fi0tHa7DlJ0",
+          "title": "Neptune in the 7th House – Mirror of Dreams",
+          "url": "https://www.youtube.com/watch?v=fi0tHa7DlJ0"
+        },
+        {
+          "video_id": "UoEhgWRVxXE",
+          "title": "Neptune in the 8th House – Depths of Forever",
+          "url": "https://www.youtube.com/watch?v=UoEhgWRVxXE"
+        },
+        {
+          "video_id": "hAZAzgIbHhQ",
+          "title": "Neptune in the 9th House – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=hAZAzgIbHhQ"
+        },
+        {
+          "video_id": "mt0Q7VH4ax8",
+          "title": "Neptune in the 10th House – Crown of Dreams",
+          "url": "https://www.youtube.com/watch?v=mt0Q7VH4ax8"
+        },
+        {
+          "video_id": "QyGa6CmQCsU",
+          "title": "Neptune in the 11th House – Voices of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=QyGa6CmQCsU"
+        },
+        {
+          "video_id": "IBm9zCO986k",
+          "title": "Neptune in the 12th House – Light Within the Deep",
+          "url": "https://www.youtube.com/watch?v=IBm9zCO986k"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist journeys through Neptune’s placement in each astrological house, capturing the spirit of imagination, sensitivity, and divine inspiration that Neptune brings wherever it resides. Each song reflects how Neptune expresses itself through different areas of life—from the first house of identity to the twelfth house of transcendence.\n\nThese songs invite you to drift beyond logic and step into the poetic rhythm of intuition and vision. Listen to explore how Neptune shapes your creativity, empathy, and connection to the unseen realms.\n\n✨ Learn how Neptune influences your chart and explore your spiritual and creative design through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBnxNJ6JjoMvRxxH-nuE5m2.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBZ8xSXPQ9fzZWqOqnpkG9A",
+      "title": "Neptune in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBZ8xSXPQ9fzZWqOqnpkG9A",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "n3kj80CQdYM",
+          "title": "Vision on Fire – Neptune in Aries",
+          "url": "https://www.youtube.com/watch?v=n3kj80CQdYM"
+        },
+        {
+          "video_id": "AZZFy4GuFnA",
+          "title": "Neptune in Pisces – Dreams of the Infinite",
+          "url": "https://www.youtube.com/watch?v=AZZFy4GuFnA"
+        },
+        {
+          "video_id": "oOb8s8RCaaQ",
+          "title": "Neptune in Taurus – Garden of Dreams",
+          "url": "https://www.youtube.com/watch?v=oOb8s8RCaaQ"
+        },
+        {
+          "video_id": "NM9gPClUve0",
+          "title": "Neptune in Gemini – Whispers of the Mind",
+          "url": "https://www.youtube.com/watch?v=NM9gPClUve0"
+        },
+        {
+          "video_id": "lkIvTXHd1pw",
+          "title": "Neptune in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=lkIvTXHd1pw"
+        },
+        {
+          "video_id": "qI_lX8TT-A8",
+          "title": "Neptune in Leo – Radiant Illusion",
+          "url": "https://www.youtube.com/watch?v=qI_lX8TT-A8"
+        },
+        {
+          "video_id": "3BwFITu1B4w",
+          "title": "Neptune in Virgo – Quiet Devotion",
+          "url": "https://www.youtube.com/watch?v=3BwFITu1B4w"
+        },
+        {
+          "video_id": "hPGaQ7ADfB4",
+          "title": "Neptune in Libra – Echoes of Harmony",
+          "url": "https://www.youtube.com/watch?v=hPGaQ7ADfB4"
+        },
+        {
+          "video_id": "rDZYDHZ-HQ8",
+          "title": "Neptune in Scorpio – Depths of Illusion",
+          "url": "https://www.youtube.com/watch?v=rDZYDHZ-HQ8"
+        },
+        {
+          "video_id": "PHerpDwPnEc",
+          "title": "Neptune in Sagittarius – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=PHerpDwPnEc"
+        },
+        {
+          "video_id": "jSQyAoapgMQ",
+          "title": "Neptune in Capricorn – Mountains of Vision",
+          "url": "https://www.youtube.com/watch?v=jSQyAoapgMQ"
+        },
+        {
+          "video_id": "5gR9NATfl98",
+          "title": "Neptune in Aquarius – Dreamers of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=5gR9NATfl98"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "These songs explore the mystical and imaginative energy of Neptune as it moves through each zodiac sign. Neptune inspires dreams, intuition, and higher awareness, guiding people toward compassion, creativity, and spiritual awakening. Each song captures the emotional tone and soul lesson of Neptune’s influence in that sign, helping you connect with your intuition and sense of divine purpose.\n\nLet these songs help you dive deeper into your spiritual flow and align with the cosmic rhythm of your chart. Discover how Neptune’s placement in your chart influences your creativity, ideals, and connection to the unseen realms.\n\n✨ Learn how Neptune and other planets shape your energy through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBZ8xSXPQ9fzZWqOqnpkG9A.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCW7k4ZRDHK-YAUzF_JfLog",
+      "title": "Uranus in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCW7k4ZRDHK-YAUzF_JfLog",
+      "displayed_video_count": "11 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "VhE2wyPfuMY",
+          "title": "Uranus in the 1st House – Born to Stand Out",
+          "url": "https://www.youtube.com/watch?v=VhE2wyPfuMY"
+        },
+        {
+          "video_id": "e72w4RaFIXI",
+          "title": "Uranus in the 2nd House – Freedom Over Gold",
+          "url": "https://www.youtube.com/watch?v=e72w4RaFIXI"
+        },
+        {
+          "video_id": "D5Xl1GJvE5g",
+          "title": "Uranus in the 3rd House – Voices of Change",
+          "url": "https://www.youtube.com/watch?v=D5Xl1GJvE5g"
+        },
+        {
+          "video_id": "3642jzG5Ass",
+          "title": "Uranus in the 4th House – Roots of Freedom",
+          "url": "https://www.youtube.com/watch?v=3642jzG5Ass"
+        },
+        {
+          "video_id": "dY8Kn5A8ebk",
+          "title": "Uranus in the 5th House – Wildfire of Creation",
+          "url": "https://www.youtube.com/watch?v=dY8Kn5A8ebk"
+        },
+        {
+          "video_id": "_e8yIPcduJ0",
+          "title": "Uranus in the 6th House – Rhythm of Change",
+          "url": "https://www.youtube.com/watch?v=_e8yIPcduJ0"
+        },
+        {
+          "video_id": "UapTWDIAnIg",
+          "title": "Uranus in the 7th House – Bound by Promise",
+          "url": "https://www.youtube.com/watch?v=UapTWDIAnIg"
+        },
+        {
+          "video_id": "fMQQi5Shg98",
+          "title": "Uranus in the 8th House – Rise from the Depths",
+          "url": "https://www.youtube.com/watch?v=fMQQi5Shg98"
+        },
+        {
+          "video_id": "HD7fL93oaYc",
+          "title": "Uranus in the 9th House – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=HD7fL93oaYc"
+        },
+        {
+          "video_id": "SujULw9G9us",
+          "title": "Uranus in the 10th House – Skybound Vision",
+          "url": "https://www.youtube.com/watch?v=SujULw9G9us"
+        },
+        {
+          "video_id": "BzPCOVyTvVY",
+          "title": "Uranus in the 12th House – The Hidden Light",
+          "url": "https://www.youtube.com/watch?v=BzPCOVyTvVY"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Experience the energy of Uranus as it moves through each of the twelve houses. Each song captures the spirit of innovation, awakening, and liberation that Uranus brings to every area of life. Whether Uranus is transforming your relationships, work, finances, or inner growth, these songs help you feel its influence and embrace change with courage and creativity.\n\nLearn how Uranus in your natal chart or current transits shapes your personal evolution through freedom, individuality, and discovery. Let the music guide you as you awaken new perspectives and step into the unexpected.\n\nFor deeper insight into your Uranus placement and how it interacts with your Human Design and Astrology chart, join the HD Astro Membership for only $11/month for self-study or $33/month with private group access.\n🌐 https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCW7k4ZRDHK-YAUzF_JfLog.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCIFYcZAWxawbG8virM2tSG",
+      "title": "Uranus Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCIFYcZAWxawbG8virM2tSG",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "luoELHK8yNY",
+          "title": "Uranus Retrograde in Aries – Reflections of Fire",
+          "url": "https://www.youtube.com/watch?v=luoELHK8yNY"
+        },
+        {
+          "video_id": "T8uGk_Pazt4",
+          "title": "Uranus Retrograde in Taurus – Ground Beneath the Stars",
+          "url": "https://www.youtube.com/watch?v=T8uGk_Pazt4"
+        },
+        {
+          "video_id": "WaJodFr0CZ8",
+          "title": "Uranus Retrograde in Gemini – Winds of Insight",
+          "url": "https://www.youtube.com/watch?v=WaJodFr0CZ8"
+        },
+        {
+          "video_id": "T2Rhn56fsX8",
+          "title": "Uranus Retrograde in Cancer – Waves of Home",
+          "url": "https://www.youtube.com/watch?v=T2Rhn56fsX8"
+        },
+        {
+          "video_id": "N-na-sNKwxg",
+          "title": "Uranus Retrograde in Leo – Fire Within",
+          "url": "https://www.youtube.com/watch?v=N-na-sNKwxg"
+        },
+        {
+          "video_id": "1akSJcZErJw",
+          "title": "Uranus Retrograde in Virgo – Rhythm of Renewal",
+          "url": "https://www.youtube.com/watch?v=1akSJcZErJw"
+        },
+        {
+          "video_id": "F2U2nmg9NTU",
+          "title": "Uranus Retrograde in Libra – Balance Unbound",
+          "url": "https://www.youtube.com/watch?v=F2U2nmg9NTU"
+        },
+        {
+          "video_id": "--Gxf2kcNV4",
+          "title": "Uranus Retrograde in Scorpio – Rise from the Depths",
+          "url": "https://www.youtube.com/watch?v=--Gxf2kcNV4"
+        },
+        {
+          "video_id": "oysl16nzzjQ",
+          "title": "Uranus Retrograde in Sagittarius – Faith in Flight",
+          "url": "https://www.youtube.com/watch?v=oysl16nzzjQ"
+        },
+        {
+          "video_id": "5VCCKNRwjQ0",
+          "title": "Uranus Retrograde in Capricorn – The Architect of Change",
+          "url": "https://www.youtube.com/watch?v=5VCCKNRwjQ0"
+        },
+        {
+          "video_id": "_DtRr8pONnM",
+          "title": "Uranus Retrograde in Aquarius – The Pulse of Freedom",
+          "url": "https://www.youtube.com/watch?v=_DtRr8pONnM"
+        },
+        {
+          "video_id": "Ie_LZak1ISI",
+          "title": "Uranus Retrograde in Pisces – Waves of Awakening",
+          "url": "https://www.youtube.com/watch?v=Ie_LZak1ISI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the reflective and awakening energy of Uranus Retrograde, a time when the desire for freedom turns inward. Each song explores themes of inner revolution, breaking old patterns, and rediscovering personal truth. Uranus Retrograde encourages people to question routines, beliefs, and attachments that no longer feel authentic. It’s a period for deep reflection, helping you reconnect with your individuality and embrace change from within before expressing it outwardly. These songs are designed to inspire self-discovery, innovation, and liberation through introspection.\n\nIf you want to understand how Uranus Retrograde influences your chart and what it reveals about your personal growth, explore the HD Astro Membership at https://healthmanifested.com/hd-astro-course-options/\n. This membership helps you learn how Uranus and other planetary energies shape your journey through the lens of Human Design and Astrology.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCIFYcZAWxawbG8virM2tSG.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCHH3ggiUxWAD8fxcNYSCC8",
+      "title": "Saturn Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCHH3ggiUxWAD8fxcNYSCC8",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "KsfGfz_PODU",
+          "title": "Saturn Retrograde in Aries – Fire in Restraint",
+          "url": "https://www.youtube.com/watch?v=KsfGfz_PODU"
+        },
+        {
+          "video_id": "15RF7jjCg1A",
+          "title": "Saturn Retrograde in Taurus – Roots of Patience",
+          "url": "https://www.youtube.com/watch?v=15RF7jjCg1A"
+        },
+        {
+          "video_id": "S_sDWp_D5VQ",
+          "title": "Saturn Retrograde in Gemini – Echoes of Intention",
+          "url": "https://www.youtube.com/watch?v=S_sDWp_D5VQ"
+        },
+        {
+          "video_id": "QqA0wQeVhFg",
+          "title": "Saturn Retrograde in Cancer – Walls of Grace",
+          "url": "https://www.youtube.com/watch?v=QqA0wQeVhFg"
+        },
+        {
+          "video_id": "jgU_zooL6jg",
+          "title": "Saturn Retrograde in Leo – Light Within",
+          "url": "https://www.youtube.com/watch?v=jgU_zooL6jg"
+        },
+        {
+          "video_id": "PO_J7A_j8YY",
+          "title": "Saturn Retrograde in Virgo – Rhythm of Grace",
+          "url": "https://www.youtube.com/watch?v=PO_J7A_j8YY"
+        },
+        {
+          "video_id": "p1kzGn4fek0",
+          "title": "Saturn Retrograde in Libra – Balance of Love",
+          "url": "https://www.youtube.com/watch?v=p1kzGn4fek0"
+        },
+        {
+          "video_id": "HEpjTJ8drZI",
+          "title": "Saturn Retrograde in Scorpio – Shadows of Strength",
+          "url": "https://www.youtube.com/watch?v=HEpjTJ8drZI"
+        },
+        {
+          "video_id": "vtsUDamPK5U",
+          "title": "Saturn Retrograde in Sagittarius – Faith in the Climb",
+          "url": "https://www.youtube.com/watch?v=vtsUDamPK5U"
+        },
+        {
+          "video_id": "xQqZl3jBz9c",
+          "title": "Saturn Retrograde in Capricorn – Pillars of Time",
+          "url": "https://www.youtube.com/watch?v=xQqZl3jBz9c"
+        },
+        {
+          "video_id": "a0SdCR_JzM0",
+          "title": "Saturn Retrograde in Aquarius – Legacy of Light",
+          "url": "https://www.youtube.com/watch?v=a0SdCR_JzM0"
+        },
+        {
+          "video_id": "SO6KR5npk_4",
+          "title": "Saturn Retrograde in Pisces – Faith in the Flow 1",
+          "url": "https://www.youtube.com/watch?v=SO6KR5npk_4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the reflective energy of Saturn Retrograde, a time when people are called to pause, review, and realign with their deeper sense of responsibility and purpose. Each song captures the emotional and spiritual themes of this transit, inviting you to look within and recognize where boundaries, fears, or limitations are ready to be released. Saturn Retrograde often brings lessons through introspection, encouraging patience, maturity, and inner strength. These songs were created to guide you through that process and help you reconnect with the wisdom that comes from reflection and discipline.\n\nIf you want to understand your Saturn placement and how Saturn Retrograde influences your chart, you can learn more in the HD Astro Membership at https://healthmanifested.com/hd-astro-course-options/\n. This membership helps you explore astrology and Human Design together in a way that’s easy to understand and apply in your daily life.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCHH3ggiUxWAD8fxcNYSCC8.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB1QHIH259BRKwOXc1GI8Xj",
+      "title": "Saturn in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB1QHIH259BRKwOXc1GI8Xj",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "0TX8lvufIck",
+          "title": "Saturn in the 1st House – Weight of Becoming",
+          "url": "https://www.youtube.com/watch?v=0TX8lvufIck"
+        },
+        {
+          "video_id": "JyMVsV724tE",
+          "title": "Saturn in the 2nd House – Steady Hands",
+          "url": "https://www.youtube.com/watch?v=JyMVsV724tE"
+        },
+        {
+          "video_id": "hb_lLX58xfc",
+          "title": "Saturn in the 3rd House – Quiet Roads",
+          "url": "https://www.youtube.com/watch?v=hb_lLX58xfc"
+        },
+        {
+          "video_id": "8ctt7FZdEy0",
+          "title": "Saturn in the 4th House – Roots of Strength",
+          "url": "https://www.youtube.com/watch?v=8ctt7FZdEy0"
+        },
+        {
+          "video_id": "F3GOKVcVMRY",
+          "title": "Saturn in the 5th House – The Art of Joy",
+          "url": "https://www.youtube.com/watch?v=F3GOKVcVMRY"
+        },
+        {
+          "video_id": "wZvOvNerhkA",
+          "title": "Saturn in the 6th House – Rhythm of Duty",
+          "url": "https://www.youtube.com/watch?v=wZvOvNerhkA"
+        },
+        {
+          "video_id": "Agx0no87Vx8",
+          "title": "Saturn in the 7th House – Bound by Promise",
+          "url": "https://www.youtube.com/watch?v=Agx0no87Vx8"
+        },
+        {
+          "video_id": "ZaLBE5pBRr8",
+          "title": "Saturn in the 8th House – Rise Again",
+          "url": "https://www.youtube.com/watch?v=ZaLBE5pBRr8"
+        },
+        {
+          "video_id": "gSfjoCOwmjE",
+          "title": "Saturn in the 9th House – Faith in the Climb",
+          "url": "https://www.youtube.com/watch?v=gSfjoCOwmjE"
+        },
+        {
+          "video_id": "JJza62CvJMA",
+          "title": "Saturn in the 10th House – Climb the Sky",
+          "url": "https://www.youtube.com/watch?v=JJza62CvJMA"
+        },
+        {
+          "video_id": "cUogvGs_Hec",
+          "title": "Saturn in the 11th House – Circles of Faith",
+          "url": "https://www.youtube.com/watch?v=cUogvGs_Hec"
+        },
+        {
+          "video_id": "Ocfy3CUc32U",
+          "title": "Saturn in the 12th House – Echoes of Light",
+          "url": "https://www.youtube.com/watch?v=Ocfy3CUc32U"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores how Saturn’s placement in each house shapes life lessons, growth, and mastery. Each song reflects the discipline, patience, and structure Saturn brings as it moves through different areas of life. Whether Saturn is in your 1st House guiding self-development, in your 7th House teaching partnership responsibility, or in your 10th House influencing career ambitions, these songs help you connect with the deeper purpose behind Saturn’s challenges.\n\nLet the music remind you that every limitation Saturn presents is a step toward strength, wisdom, and inner authority.\n\nLearn how Saturn influences your chart through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB1QHIH259BRKwOXc1GI8Xj.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCIadOOMdxzpjJRYKPwykJH",
+      "title": "Jupiter in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCIadOOMdxzpjJRYKPwykJH",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ADLA2s94Hno",
+          "title": "Jupiter in the 1st House – Light Begins With Me",
+          "url": "https://www.youtube.com/watch?v=ADLA2s94Hno"
+        },
+        {
+          "video_id": "4zxBeVvwksI",
+          "title": "Jupiter in the 2nd House – Golden Ground",
+          "url": "https://www.youtube.com/watch?v=4zxBeVvwksI"
+        },
+        {
+          "video_id": "nUTDpl6yFBk",
+          "title": "Jupiter in the 3rd House – Voice of the Morning",
+          "url": "https://www.youtube.com/watch?v=nUTDpl6yFBk"
+        },
+        {
+          "video_id": "awO3ty0MHVg",
+          "title": "Jupiter in the 4th House – Home of the Heart",
+          "url": "https://www.youtube.com/watch?v=awO3ty0MHVg"
+        },
+        {
+          "video_id": "mt2fVa2Ovo8",
+          "title": "Jupiter in the 5th House – Light of Creation",
+          "url": "https://www.youtube.com/watch?v=mt2fVa2Ovo8"
+        },
+        {
+          "video_id": "u9laLPXi-t0",
+          "title": "Jupiter in the 6th House – Hands of Grace",
+          "url": "https://www.youtube.com/watch?v=u9laLPXi-t0"
+        },
+        {
+          "video_id": "fkdUSkj55T0",
+          "title": "Jupiter in the 7th House – Circle of Light",
+          "url": "https://www.youtube.com/watch?v=fkdUSkj55T0"
+        },
+        {
+          "video_id": "_t5d43mtYiY",
+          "title": "Jupiter in the 8th House – Depth of Gold",
+          "url": "https://www.youtube.com/watch?v=_t5d43mtYiY"
+        },
+        {
+          "video_id": "v7JwghoDXkw",
+          "title": "Jupiter in the 9th House – Miles of Meaning",
+          "url": "https://www.youtube.com/watch?v=v7JwghoDXkw"
+        },
+        {
+          "video_id": "li2uBnet528",
+          "title": "Jupiter in the 10th House – Rise Beyond",
+          "url": "https://www.youtube.com/watch?v=li2uBnet528"
+        },
+        {
+          "video_id": "uCdF_VA5EHc",
+          "title": "Jupiter in the 11th House – Circles of Light",
+          "url": "https://www.youtube.com/watch?v=uCdF_VA5EHc"
+        },
+        {
+          "video_id": "T1TYjYFN75E",
+          "title": "Jupiter in the 12th House – Ocean of Grace",
+          "url": "https://www.youtube.com/watch?v=T1TYjYFN75E"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Step into the energy of expansion and opportunity with the Jupiter in Houses playlist. Each song reflects how Jupiter brings growth, wisdom, and abundance to the different areas of life represented by the twelve houses. These tracks celebrate optimism, faith, and the desire to reach your highest potential while revealing where life naturally opens doors for you.\n\nFrom career success and relationships to creativity and spirituality, each song helps you connect with how Jupiter’s placement shapes your blessings, opportunities, and personal growth. Let this playlist remind you that every experience can lead to greater meaning and fulfillment.\n\n✨ Discover how Jupiter influences your chart and where your greatest growth potential lies through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCIadOOMdxzpjJRYKPwykJH.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB_C32uUWzoe7nYVSQA0wdk",
+      "title": "Jupiter in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB_C32uUWzoe7nYVSQA0wdk",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "9mg_93-Bg2E",
+          "title": "Jupiter in Aries – Rise of the Fireheart",
+          "url": "https://www.youtube.com/watch?v=9mg_93-Bg2E"
+        },
+        {
+          "video_id": "FzJrpg7QbIs",
+          "title": "Jupiter in Taurus – Garden of Gold",
+          "url": "https://www.youtube.com/watch?v=FzJrpg7QbIs"
+        },
+        {
+          "video_id": "ywhMQzHIN5Q",
+          "title": "Jupiter in Gemini – Whispers of Wonder",
+          "url": "https://www.youtube.com/watch?v=ywhMQzHIN5Q"
+        },
+        {
+          "video_id": "wz7P0K3J4OA",
+          "title": "Heart of Home – Jupiter in Cancer",
+          "url": "https://www.youtube.com/watch?v=wz7P0K3J4OA"
+        },
+        {
+          "video_id": "4ayw9bvTVow",
+          "title": "Jupiter in Leo – Shine Through Me",
+          "url": "https://www.youtube.com/watch?v=4ayw9bvTVow"
+        },
+        {
+          "video_id": "YbTta6tR-fc",
+          "title": "Jupiter in Virgo – Threads of Precision",
+          "url": "https://www.youtube.com/watch?v=YbTta6tR-fc"
+        },
+        {
+          "video_id": "xNCKFnJJeEI",
+          "title": "Jupiter in Libra – Harmony’s Edge",
+          "url": "https://www.youtube.com/watch?v=xNCKFnJJeEI"
+        },
+        {
+          "video_id": "9jch9dEtpE8",
+          "title": "Jupiter in Scorpio – Depth of Fire",
+          "url": "https://www.youtube.com/watch?v=9jch9dEtpE8"
+        },
+        {
+          "video_id": "eh7xN8iFHvU",
+          "title": "Jupiter in Sagittarius – Beyond the Horizon",
+          "url": "https://www.youtube.com/watch?v=eh7xN8iFHvU"
+        },
+        {
+          "video_id": "os2Rz7Q4_bY",
+          "title": "Jupiter in Capricorn – Mountain of Time",
+          "url": "https://www.youtube.com/watch?v=os2Rz7Q4_bY"
+        },
+        {
+          "video_id": "20EfmY4s86Y",
+          "title": "Jupiter in Aquarius – Future Made of Light",
+          "url": "https://www.youtube.com/watch?v=20EfmY4s86Y"
+        },
+        {
+          "video_id": "5FOyh0bZhkc",
+          "title": "Jupiter in Pisces – Ocean of Dreams",
+          "url": "https://www.youtube.com/watch?v=5FOyh0bZhkc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Explore the energy of Jupiter through each zodiac sign with this uplifting playlist. These songs capture how Jupiter expands possibilities, faith, and growth in every area of life. Each track reflects the wisdom, optimism, and lessons of Jupiter’s placement in the signs, helping you tune into your natural abundance and higher purpose.\n\nLet these songs inspire self-belief and remind you of your unique potential for expansion, luck, and spiritual development. Whether you’re learning about your Jupiter placement or simply want to connect with its expansive energy, this playlist will help you align with joy, purpose, and gratitude.\n\n✨ Learn more about Jupiter in your chart and discover how it influences your growth, luck, and opportunities through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB_C32uUWzoe7nYVSQA0wdk.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDC6yPWrtIHINMTwr8ZBDZy",
+      "title": "Mars Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDC6yPWrtIHINMTwr8ZBDZy",
+      "displayed_video_count": "11 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "LT9vmnbxsZo",
+          "title": "Mars Retrograde in Aries – Fire Reborn",
+          "url": "https://www.youtube.com/watch?v=LT9vmnbxsZo"
+        },
+        {
+          "video_id": "8Zh_1VS2Q4o",
+          "title": "Mars Retrograde in Taurus – Still Fire",
+          "url": "https://www.youtube.com/watch?v=8Zh_1VS2Q4o"
+        },
+        {
+          "video_id": "vITSLlIJrn8",
+          "title": "Mars Retrograde in Gemini – Echoes in the Air",
+          "url": "https://www.youtube.com/watch?v=vITSLlIJrn8"
+        },
+        {
+          "video_id": "EB_5rCu9NLg",
+          "title": "Mars Retrograde in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=EB_5rCu9NLg"
+        },
+        {
+          "video_id": "v06OO9HoKvs",
+          "title": "Mars Retrograde in Leo – Burn from Within",
+          "url": "https://www.youtube.com/watch?v=v06OO9HoKvs"
+        },
+        {
+          "video_id": "bOJHxxxBNWg",
+          "title": "Mars Retrograde in Virgo – The Art of Stillness",
+          "url": "https://www.youtube.com/watch?v=bOJHxxxBNWg"
+        },
+        {
+          "video_id": "aV5VTvcex9I",
+          "title": "Mars Retrograde in Libra – Fractured Mirror",
+          "url": "https://www.youtube.com/watch?v=aV5VTvcex9I"
+        },
+        {
+          "video_id": "1153ZRCZMOk",
+          "title": "Mars Retrograde in Scorpio – Shadowfire",
+          "url": "https://www.youtube.com/watch?v=1153ZRCZMOk"
+        },
+        {
+          "video_id": "XrnQn1wxfx4",
+          "title": "Mars Retrograde in Sagittarius – Flame of Faith",
+          "url": "https://www.youtube.com/watch?v=XrnQn1wxfx4"
+        },
+        {
+          "video_id": "VsDk3W00au4",
+          "title": "Mars Retrograde in Aquarius – Electric Stillness",
+          "url": "https://www.youtube.com/watch?v=VsDk3W00au4"
+        },
+        {
+          "video_id": "qzrYWWpGS4Y",
+          "title": "Mars Retrograde in Pisces – Dreamtide",
+          "url": "https://www.youtube.com/watch?v=qzrYWWpGS4Y"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Explore how Mars expresses drive, courage, and motivation through each house in Astrology. Each song in this playlist captures the passion and power of Mars as it moves through the different areas of life, from personal growth and relationships to career and spirituality.\n\nThese songs are designed to help you connect with your own Mars energy—where you act boldly, take initiative, and learn to balance determination with awareness. Whether Mars is energizing your first house of self-expression or your tenth house of ambition, this playlist will inspire you to move forward with purpose.\n\nFor a deeper understanding of how Mars influences your chart, join the HD Astro Membership at https://healthmanifested.com/hd-astro-course-options\n\nMembers gain access to courses and references that combine Human Design, Astrology, and the Astro Gene Keys to help you interpret your chart with clarity and confidence.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDC6yPWrtIHINMTwr8ZBDZy.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAFZ578o_FAUsSrBYrNbEyN",
+      "title": "Mars in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAFZ578o_FAUsSrBYrNbEyN",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "wzbW78ovkBM",
+          "title": "Mars in the 1st House – Born to Begin",
+          "url": "https://www.youtube.com/watch?v=wzbW78ovkBM"
+        },
+        {
+          "video_id": "Q79B1zaoivM",
+          "title": "Mars in the 2nd House – Worth the Fight",
+          "url": "https://www.youtube.com/watch?v=Q79B1zaoivM"
+        },
+        {
+          "video_id": "JvA-_Npkalk",
+          "title": "Mars in the 3rd House – Sparks in the Mind",
+          "url": "https://www.youtube.com/watch?v=JvA-_Npkalk"
+        },
+        {
+          "video_id": "Vor8610EgC8",
+          "title": "Mars in the 4th House – Fire Beneath the Walls",
+          "url": "https://www.youtube.com/watch?v=Vor8610EgC8"
+        },
+        {
+          "video_id": "S_4NhFBVLsg",
+          "title": "Mars in the 5th House – Play with Fire",
+          "url": "https://www.youtube.com/watch?v=S_4NhFBVLsg"
+        },
+        {
+          "video_id": "VWz90tm32DA",
+          "title": "Mars in the 6th House – Work of Heart",
+          "url": "https://www.youtube.com/watch?v=VWz90tm32DA"
+        },
+        {
+          "video_id": "dDSmF7lVUOQ",
+          "title": "Mars in the 9th House – Run to the Horizon",
+          "url": "https://www.youtube.com/watch?v=dDSmF7lVUOQ"
+        },
+        {
+          "video_id": "4mc6wje0yio",
+          "title": "Mars in the 10th House – Climb to the Light",
+          "url": "https://www.youtube.com/watch?v=4mc6wje0yio"
+        },
+        {
+          "video_id": "p46UD7FzFzI",
+          "title": "Mars in the 11th House – Fire Among Friends",
+          "url": "https://www.youtube.com/watch?v=p46UD7FzFzI"
+        },
+        {
+          "video_id": "PqMdK8uaUe4",
+          "title": "Mars in the 12th House – Beneath the Surface",
+          "url": "https://www.youtube.com/watch?v=PqMdK8uaUe4"
+        },
+        {
+          "video_id": "YKa50vSMmxg",
+          "title": "Mars in the 7th House – Hearts at War",
+          "url": "https://www.youtube.com/watch?v=YKa50vSMmxg"
+        },
+        {
+          "video_id": "BjTzdwgXxfc",
+          "title": "Mars in the 8th House – Fire in the Depths",
+          "url": "https://www.youtube.com/watch?v=BjTzdwgXxfc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores the energy of Mars as it moves through each house in Astrology, revealing how action, passion, and motivation express themselves in different areas of life. Each song captures the unique drive Mars brings to love, career, creativity, and personal growth depending on its house placement.\n\nListen to how Mars inspires courage, confidence, and momentum, helping you understand where you naturally take initiative and how to direct your energy with purpose. Whether Mars is lighting up your relationships, career, or spiritual path, these songs guide you to move forward with clarity and strength.\n\nFor deeper insight into your Mars placement and how it influences your chart, join the HD Astro Membership at https://healthmanifested.com/hd-astro-course-options\n\nMembers gain access to the full HD Astro course and references that teach how to interpret Human Design, Astrology, and Astro Gene Keys charts together.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAFZ578o_FAUsSrBYrNbEyN.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAtvaOWQO9DgQYXNNAwKPnb",
+      "title": "Venus Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAtvaOWQO9DgQYXNNAwKPnb",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Q94CqhbtR9k",
+          "title": "Venus Retrograde in Aries – Love Rewritten",
+          "url": "https://www.youtube.com/watch?v=Q94CqhbtR9k"
+        },
+        {
+          "video_id": "jEePw7WZ_gk",
+          "title": "Venus Retrograde in Taurus – Worth the Wait",
+          "url": "https://www.youtube.com/watch?v=jEePw7WZ_gk"
+        },
+        {
+          "video_id": "ucSltW76Ug0",
+          "title": "Venus Retrograde in Gemini – Echoes of Love",
+          "url": "https://www.youtube.com/watch?v=ucSltW76Ug0"
+        },
+        {
+          "video_id": "bjolwtp0x8w",
+          "title": "Venus Retrograde in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=bjolwtp0x8w"
+        },
+        {
+          "video_id": "sabQYmqHdDk",
+          "title": "Venus Retrograde in Leo – Fire and Reflection",
+          "url": "https://www.youtube.com/watch?v=sabQYmqHdDk"
+        },
+        {
+          "video_id": "eqS4SfV79Y4",
+          "title": "Venus Retrograde in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=eqS4SfV79Y4"
+        },
+        {
+          "video_id": "AQ-FYod9v1E",
+          "title": "Venus Retrograde in Libra – Balancing Hearts",
+          "url": "https://www.youtube.com/watch?v=AQ-FYod9v1E"
+        },
+        {
+          "video_id": "nChgp636VlE",
+          "title": "Venus Retrograde in Scorpio – Shadows of the Heart",
+          "url": "https://www.youtube.com/watch?v=nChgp636VlE"
+        },
+        {
+          "video_id": "hhXX5BwUi6o",
+          "title": "Venus Retrograde in Sagittarius – Love Unbound 1",
+          "url": "https://www.youtube.com/watch?v=hhXX5BwUi6o"
+        },
+        {
+          "video_id": "fnkTjSZhf_A",
+          "title": "Venus Retrograde in Capricorn – Built to Last",
+          "url": "https://www.youtube.com/watch?v=fnkTjSZhf_A"
+        },
+        {
+          "video_id": "DDYhbB-wIrM",
+          "title": "Venus Retrograde in Aquarius – Love Redefined",
+          "url": "https://www.youtube.com/watch?v=DDYhbB-wIrM"
+        },
+        {
+          "video_id": "AWqY9fQFsas",
+          "title": "Venus Retrograde in Pisces – Dream Within a Dream",
+          "url": "https://www.youtube.com/watch?v=AWqY9fQFsas"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist captures the emotional and reflective energy of Venus Retrograde. Each song is designed to help you slow down, reconnect with your heart, and rediscover what truly matters in love, beauty, and self-worth. Venus Retrograde often brings the past back into view, giving us a chance to heal old wounds and see relationships with new clarity. Let these songs guide you through the shifts, helping you realign with your values and open your heart with renewed understanding.\n\nIf you’re ready to explore how Venus Retrograde connects with your chart and uncover the deeper meaning behind the transits shaping your life, sign up for the HD Astro Membership at HealthManifested.com\n. You’ll gain access to detailed lessons that combine Human Design and Astrology, personalized insights for current transits, and references to help you understand your chart and relationships on a deeper level.\n\n✨ Revisit. Reflect. Reawaken your heart with the Venus Retrograde songs.\n\n#VenusRetrograde #AstrologyPlaylist #HDAstroMembership #HealthManifested #SelfDiscovery #AstrologyMusic #VenusEnergy #RetrogradeHealing #LoveReflection",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAtvaOWQO9DgQYXNNAwKPnb.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCU05HW-ZK1AYadM_RNGToe",
+      "title": "Venus in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCU05HW-ZK1AYadM_RNGToe",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Oo8qZxl0KEk",
+          "title": "Venus in the 1st House – Magnetic Heart",
+          "url": "https://www.youtube.com/watch?v=Oo8qZxl0KEk"
+        },
+        {
+          "video_id": "vlWshXKO3no",
+          "title": "Venus in the 2nd House – Steady Love",
+          "url": "https://www.youtube.com/watch?v=vlWshXKO3no"
+        },
+        {
+          "video_id": "Iz_ji-IQtwg",
+          "title": "Venus in the 3rd House – Words of Love",
+          "url": "https://www.youtube.com/watch?v=Iz_ji-IQtwg"
+        },
+        {
+          "video_id": "cjTAKGS-2Fk",
+          "title": "Venus in the 4th House – Home of the Heart",
+          "url": "https://www.youtube.com/watch?v=cjTAKGS-2Fk"
+        },
+        {
+          "video_id": "1cRBEcb6Ip0",
+          "title": "Venus in the 5th House – Love Like Art",
+          "url": "https://www.youtube.com/watch?v=1cRBEcb6Ip0"
+        },
+        {
+          "video_id": "VXC-_Zwwh08",
+          "title": "Venus in the 6th House – Love in the Little Things",
+          "url": "https://www.youtube.com/watch?v=VXC-_Zwwh08"
+        },
+        {
+          "video_id": "SePR0cxz8ww",
+          "title": "Venus in the 7th House – Harmony of Two",
+          "url": "https://www.youtube.com/watch?v=SePR0cxz8ww"
+        },
+        {
+          "video_id": "gGeAP2B45Hk",
+          "title": "Venus in the 8th House – Depths of Desire",
+          "url": "https://www.youtube.com/watch?v=gGeAP2B45Hk"
+        },
+        {
+          "video_id": "E2W4wiTD_d8",
+          "title": "Venus in the 9th House – Love on the Horizon",
+          "url": "https://www.youtube.com/watch?v=E2W4wiTD_d8"
+        },
+        {
+          "video_id": "frskqli93dI",
+          "title": "Venus in the 10th House – Golden Reputation",
+          "url": "https://www.youtube.com/watch?v=frskqli93dI"
+        },
+        {
+          "video_id": "oYtOUZbqng0",
+          "title": "Venus in the 11th House – Electric Connection",
+          "url": "https://www.youtube.com/watch?v=oYtOUZbqng0"
+        },
+        {
+          "video_id": "0RNJWgkrXFI",
+          "title": "Venus in the 12th House – Hidden Love",
+          "url": "https://www.youtube.com/watch?v=0RNJWgkrXFI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Explore the beauty of Venus as she moves through each of the twelve astrological houses. Each song in this playlist captures the essence of love, harmony, creativity, and attraction expressed through different areas of life, from self-expression and relationships to career and spirituality.\n\nLet the music guide you through the journey of Venus as she highlights your desires, your values, and the ways you share love with the world. Whether Venus is in your First House inspiring confidence, or in your Twelfth House awakening compassion, these songs are designed to help you connect with her energy on a personal and emotional level.\n\n🎧 Listen, feel, and align with the energy of love and beauty in your chart.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCU05HW-ZK1AYadM_RNGToe.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCNbltGwP6fiQIzpVfsG5Kk",
+      "title": "Mercury Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCNbltGwP6fiQIzpVfsG5Kk",
+      "displayed_video_count": "13 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "GzIRhMSQdq4",
+          "title": "Mercury Retrograde – Echoes in Reverse",
+          "url": "https://www.youtube.com/watch?v=GzIRhMSQdq4"
+        },
+        {
+          "video_id": "SfZCNXDA6JY",
+          "title": "Mercury Retrograde in Aries – Rewrite the Flame",
+          "url": "https://www.youtube.com/watch?v=SfZCNXDA6JY"
+        },
+        {
+          "video_id": "w83ouzP3I-k",
+          "title": "Mercury Retrograde in Taurus – Rethinking the Gold",
+          "url": "https://www.youtube.com/watch?v=w83ouzP3I-k"
+        },
+        {
+          "video_id": "Menbh6ApGjY",
+          "title": "Mercury Retrograde in Gemini – Rewrite My Mind",
+          "url": "https://www.youtube.com/watch?v=Menbh6ApGjY"
+        },
+        {
+          "video_id": "umd_3khkTjQ",
+          "title": "Mercury Retrograde in Cancer – Echoes of Home",
+          "url": "https://www.youtube.com/watch?v=umd_3khkTjQ"
+        },
+        {
+          "video_id": "SfqYtx_Qk_0",
+          "title": "Mercury Retrograde in Leo – Speak from the Flame",
+          "url": "https://www.youtube.com/watch?v=SfqYtx_Qk_0"
+        },
+        {
+          "video_id": "cXCwA2P-yaY",
+          "title": "Mercury Retrograde in Virgo – Redefine the Rhythm",
+          "url": "https://www.youtube.com/watch?v=cXCwA2P-yaY"
+        },
+        {
+          "video_id": "XxnHTmlFuDw",
+          "title": "Mercury Retrograde in Libra – Balance the Heart",
+          "url": "https://www.youtube.com/watch?v=XxnHTmlFuDw"
+        },
+        {
+          "video_id": "jeMCpirOJNs",
+          "title": "Mercury Retrograde in Scorpio – Hidden Words",
+          "url": "https://www.youtube.com/watch?v=jeMCpirOJNs"
+        },
+        {
+          "video_id": "jRLKNO7j7zs",
+          "title": "Mercury Retrograde in Sagittarius – Rethink the Horizon",
+          "url": "https://www.youtube.com/watch?v=jRLKNO7j7zs"
+        },
+        {
+          "video_id": "oLprYo9iG74",
+          "title": "Mercury Retrograde in Capricorn – Rebuild the Vision",
+          "url": "https://www.youtube.com/watch?v=oLprYo9iG74"
+        },
+        {
+          "video_id": "Tpj7-6f_EAU",
+          "title": "Mercury Retrograde in Aquarius – Echoes of Connection",
+          "url": "https://www.youtube.com/watch?v=Tpj7-6f_EAU"
+        },
+        {
+          "video_id": "a1hfAObNIHI",
+          "title": "Mercury Retrograde in Pisces – Let It Flow Away",
+          "url": "https://www.youtube.com/watch?v=a1hfAObNIHI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Mercury Retrograde is a time to rethink, reevaluate, reconsider, and review. This playlist brings together songs that reflect the shifting energy of this period, helping you slow down, reflect on your path, and reconnect with clarity.\n\nThese songs are inspired by the themes of Mercury Retrograde, reminding us that delays and revisits often bring valuable insights. Use this time to tune into your inner guidance and realign with what truly matters.\n\nIf you want to learn more about Mercury Retrograde and how it influences your chart, explore the HD Astro Membership at https://healthmanifested.com/hd-astro-course-options\n. The membership includes lessons on astrology, Human Design, and planetary transits to help you understand how these energies personally affect you.\n\n🎧 Listen, reflect, and realign with the rhythm of Mercury Retrograde.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCNbltGwP6fiQIzpVfsG5Kk.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBOk6NhhpzhYU_yeuZefPXf",
+      "title": "South Node in Signs Songs Playlist",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBOk6NhhpzhYU_yeuZefPXf",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "FeDSEhzJVQI",
+          "title": "South Node in Aries – Echo of Independence",
+          "url": "https://www.youtube.com/watch?v=FeDSEhzJVQI"
+        },
+        {
+          "video_id": "W6rpaKmDiQA",
+          "title": "South Node in Taurus – Letting Go of Gold",
+          "url": "https://www.youtube.com/watch?v=W6rpaKmDiQA"
+        },
+        {
+          "video_id": "ZuJ3iitCC38",
+          "title": "South Node in Gemini – Whisper of Meaning",
+          "url": "https://www.youtube.com/watch?v=ZuJ3iitCC38"
+        },
+        {
+          "video_id": "ajrA39ocmDc",
+          "title": "South Node in Cancer – Tides of Release",
+          "url": "https://www.youtube.com/watch?v=ajrA39ocmDc"
+        },
+        {
+          "video_id": "YV4xRHmXUoc",
+          "title": "South Node in Leo – Let the Crown Fall",
+          "url": "https://www.youtube.com/watch?v=YV4xRHmXUoc"
+        },
+        {
+          "video_id": "qiy0o1IreFc",
+          "title": "South Node in Virgo – Dust of Perfection",
+          "url": "https://www.youtube.com/watch?v=qiy0o1IreFc"
+        },
+        {
+          "video_id": "h8BiEOeE3tg",
+          "title": "South Node in Libra – Mirror Unbound",
+          "url": "https://www.youtube.com/watch?v=h8BiEOeE3tg"
+        },
+        {
+          "video_id": "GjCxexp2Vg0",
+          "title": "South Node in Scorpio – Ashes to Clarity",
+          "url": "https://www.youtube.com/watch?v=GjCxexp2Vg0"
+        },
+        {
+          "video_id": "sYeNESMXOcE",
+          "title": "South Node in Sagittarius – Ground the Sky",
+          "url": "https://www.youtube.com/watch?v=sYeNESMXOcE"
+        },
+        {
+          "video_id": "UzkS8RU5nAs",
+          "title": "South Node in Capricorn – Walls of Gold",
+          "url": "https://www.youtube.com/watch?v=UzkS8RU5nAs"
+        },
+        {
+          "video_id": "9io5WjpUhtk",
+          "title": "South Node in Aquarius – Alone Among Stars",
+          "url": "https://www.youtube.com/watch?v=9io5WjpUhtk"
+        },
+        {
+          "video_id": "NjgJD3ZMsRA",
+          "title": "South Node in Pisces – Wake from the Dream",
+          "url": "https://www.youtube.com/watch?v=NjgJD3ZMsRA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBOk6NhhpzhYU_yeuZefPXf.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAHKtWvbted3fL9pIiO2qik",
+      "title": "North Node in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAHKtWvbted3fL9pIiO2qik",
+      "displayed_video_count": "14 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "CiuWALq1X0A",
+          "title": "North Node in Aquarius – The Future Calls",
+          "url": "https://www.youtube.com/watch?v=CiuWALq1X0A"
+        },
+        {
+          "video_id": "8n8Hh8ul4fs",
+          "title": "North Node in Aries – Path of Fire",
+          "url": "https://www.youtube.com/watch?v=8n8Hh8ul4fs"
+        },
+        {
+          "video_id": "-09tREURug4",
+          "title": "North Node in Taurus – Grounded Gold",
+          "url": "https://www.youtube.com/watch?v=-09tREURug4"
+        },
+        {
+          "video_id": "Vwb2lqXHxwM",
+          "title": "North Node in Gemini – Voice of the Wind",
+          "url": "https://www.youtube.com/watch?v=Vwb2lqXHxwM"
+        },
+        {
+          "video_id": "fM8L095SAmM",
+          "title": "North Node in Cancer – Heart of Home",
+          "url": "https://www.youtube.com/watch?v=fM8L095SAmM"
+        },
+        {
+          "video_id": "RNrzrKhQod8",
+          "title": "North Node in Leo – Crown of Light",
+          "url": "https://www.youtube.com/watch?v=RNrzrKhQod8"
+        },
+        {
+          "video_id": "eLJasFt3d5k",
+          "title": "North Node in Virgo – Precision of Purpose",
+          "url": "https://www.youtube.com/watch?v=eLJasFt3d5k"
+        },
+        {
+          "video_id": "fWRlj3udP-g",
+          "title": "North Node in Libra – Harmony Within",
+          "url": "https://www.youtube.com/watch?v=fWRlj3udP-g"
+        },
+        {
+          "video_id": "v5-d0dJD4i8",
+          "title": "North Node in Scorpio – Depth of Truth",
+          "url": "https://www.youtube.com/watch?v=v5-d0dJD4i8"
+        },
+        {
+          "video_id": "bdBilqaiDPk",
+          "title": "North Node in Sagittarius – Flame of Wisdom",
+          "url": "https://www.youtube.com/watch?v=bdBilqaiDPk"
+        },
+        {
+          "video_id": "xwpTwozSu24",
+          "title": "North Node in Capricorn – Mountain of Purpose",
+          "url": "https://www.youtube.com/watch?v=xwpTwozSu24"
+        },
+        {
+          "video_id": "RN71GDmxsTw",
+          "title": "Into the Unknown – North Node in Pisces",
+          "url": "https://www.youtube.com/watch?v=RN71GDmxsTw"
+        },
+        {
+          "video_id": "W6rpaKmDiQA",
+          "title": "South Node in Taurus – Letting Go of Gold",
+          "url": "https://www.youtube.com/watch?v=W6rpaKmDiQA"
+        },
+        {
+          "video_id": "ZuJ3iitCC38",
+          "title": "South Node in Gemini – Whisper of Meaning",
+          "url": "https://www.youtube.com/watch?v=ZuJ3iitCC38"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAHKtWvbted3fL9pIiO2qik.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDODF9Nmy9dg8qbkFdg94k-",
+      "title": "Chiron in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDODF9Nmy9dg8qbkFdg94k-",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ae-u0qtAiws",
+          "title": "Chiron in Aries: Rise Again",
+          "url": "https://www.youtube.com/watch?v=ae-u0qtAiws"
+        },
+        {
+          "video_id": "otJcTEn-TsA",
+          "title": "Chiron in Taurus – Worth of the Soul",
+          "url": "https://www.youtube.com/watch?v=otJcTEn-TsA"
+        },
+        {
+          "video_id": "lbVm0EILfpk",
+          "title": "Chiron in Gemini – Voice Unbound",
+          "url": "https://www.youtube.com/watch?v=lbVm0EILfpk"
+        },
+        {
+          "video_id": "I_-AYsPm3WU",
+          "title": "Chiron in Cancer – Home Within",
+          "url": "https://www.youtube.com/watch?v=I_-AYsPm3WU"
+        },
+        {
+          "video_id": "8PB60PSwKQc",
+          "title": "Chiron in Leo – Shine Anyway",
+          "url": "https://www.youtube.com/watch?v=8PB60PSwKQc"
+        },
+        {
+          "video_id": "9Sg7Qi7bs7c",
+          "title": "Chiron in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=9Sg7Qi7bs7c"
+        },
+        {
+          "video_id": "ciHH8CnNFas",
+          "title": "Chiron in Libra – The Space Between Us",
+          "url": "https://www.youtube.com/watch?v=ciHH8CnNFas"
+        },
+        {
+          "video_id": "kHhbPUtmEqg",
+          "title": "Chiron in Scorpio – Beneath the Flame",
+          "url": "https://www.youtube.com/watch?v=kHhbPUtmEqg"
+        },
+        {
+          "video_id": "549MAsYkx2E",
+          "title": "Chiron in Sagittarius – Fire of Faith",
+          "url": "https://www.youtube.com/watch?v=549MAsYkx2E"
+        },
+        {
+          "video_id": "4eYUw8jNcjY",
+          "title": "Chiron in Capricorn – Climb the Sky",
+          "url": "https://www.youtube.com/watch?v=4eYUw8jNcjY"
+        },
+        {
+          "video_id": "rNHOINqPe4Y",
+          "title": "Chiron in Aquarius – Starlight Belonging",
+          "url": "https://www.youtube.com/watch?v=rNHOINqPe4Y"
+        },
+        {
+          "video_id": "Famat9_HP2I",
+          "title": "Chiron in Pisces – The Heart That Heals",
+          "url": "https://www.youtube.com/watch?v=Famat9_HP2I"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDODF9Nmy9dg8qbkFdg94k-.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAn8EB9EsgN014waUKjDihE",
+      "title": "Mercury in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAn8EB9EsgN014waUKjDihE",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "1HEiNYo44zE",
+          "title": "Mercury in the 1st House – Voice of Fire",
+          "url": "https://www.youtube.com/watch?v=1HEiNYo44zE"
+        },
+        {
+          "video_id": "QXQHPZsokW4",
+          "title": "Mercury in the 2nd House – Steady Echoes",
+          "url": "https://www.youtube.com/watch?v=QXQHPZsokW4"
+        },
+        {
+          "video_id": "p3n1fQgukiA",
+          "title": "Mercury in the 3rd House – Sparks of Conversation",
+          "url": "https://www.youtube.com/watch?v=p3n1fQgukiA"
+        },
+        {
+          "video_id": "XRQtZ4UnoYw",
+          "title": "Mercury in the 4th House – Echoes of Home",
+          "url": "https://www.youtube.com/watch?v=XRQtZ4UnoYw"
+        },
+        {
+          "video_id": "hA8UJ0y5li0",
+          "title": "Mercury in the 5th House – Playful Words",
+          "url": "https://www.youtube.com/watch?v=hA8UJ0y5li0"
+        },
+        {
+          "video_id": "IDNy2DjMK94",
+          "title": "Mercury in the 6th House – Whispers of Order",
+          "url": "https://www.youtube.com/watch?v=IDNy2DjMK94"
+        },
+        {
+          "video_id": "1812NrqaKjg",
+          "title": "Mercury in the 7th House – Echoes of Balance",
+          "url": "https://www.youtube.com/watch?v=1812NrqaKjg"
+        },
+        {
+          "video_id": "4Fb3me7P8Rk",
+          "title": "Mercury in the 8th House – Hidden Currents",
+          "url": "https://www.youtube.com/watch?v=4Fb3me7P8Rk"
+        },
+        {
+          "video_id": "MjHfw-qJnDs",
+          "title": "Mercury in the 9th House – Horizons of Thought",
+          "url": "https://www.youtube.com/watch?v=MjHfw-qJnDs"
+        },
+        {
+          "video_id": "w-VEdwcqdYc",
+          "title": "Mercury in the 10th House – Voice of Ambition",
+          "url": "https://www.youtube.com/watch?v=w-VEdwcqdYc"
+        },
+        {
+          "video_id": "Bjd1XoThmvs",
+          "title": "Mercury in the 11th House – Echoes of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=Bjd1XoThmvs"
+        },
+        {
+          "video_id": "lUF4iENwW9g",
+          "title": "Mercury in the 12th House – Hidden Whispers",
+          "url": "https://www.youtube.com/watch?v=lUF4iENwW9g"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Unlock the voice of Mercury through the houses of your birth chart with this unique playlist. Each song is tuned to the energy of Mercury’s placement in a house, giving sound and rhythm to how communication, thought, and expression flow in different areas of life.\n\nWhether Mercury is in your 1st house bringing direct self-expression, in the 7th house highlighting communication in relationships, or in the 10th house guiding career direction, these songs let you feel the atmosphere of your chart in music form.\n\n🎶 Listen, reflect, and let the songs help you understand how Mercury moves through your world.\n\nExplore more about Human Design and Astrology with the HD Astro Membership here: https://healthmanifested.com/hd-astro-course-options/\n\n#MercuryInHouses #AstrologySongs #HealthManifested #AstrologyMusic #HumanDesign",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAn8EB9EsgN014waUKjDihE.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaC9Wk2JbCSygAfTCVmpyFk4",
+      "title": "Retrograde Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaC9Wk2JbCSygAfTCVmpyFk4",
+      "displayed_video_count": "109 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "GzIRhMSQdq4",
+          "title": "Mercury Retrograde – Echoes in Reverse",
+          "url": "https://www.youtube.com/watch?v=GzIRhMSQdq4"
+        },
+        {
+          "video_id": "jeMCpirOJNs",
+          "title": "Mercury Retrograde in Scorpio – Hidden Words",
+          "url": "https://www.youtube.com/watch?v=jeMCpirOJNs"
+        },
+        {
+          "video_id": "SfZCNXDA6JY",
+          "title": "Mercury Retrograde in Aries – Rewrite the Flame",
+          "url": "https://www.youtube.com/watch?v=SfZCNXDA6JY"
+        },
+        {
+          "video_id": "w83ouzP3I-k",
+          "title": "Mercury Retrograde in Taurus – Rethinking the Gold",
+          "url": "https://www.youtube.com/watch?v=w83ouzP3I-k"
+        },
+        {
+          "video_id": "Menbh6ApGjY",
+          "title": "Mercury Retrograde in Gemini – Rewrite My Mind",
+          "url": "https://www.youtube.com/watch?v=Menbh6ApGjY"
+        },
+        {
+          "video_id": "umd_3khkTjQ",
+          "title": "Mercury Retrograde in Cancer – Echoes of Home",
+          "url": "https://www.youtube.com/watch?v=umd_3khkTjQ"
+        },
+        {
+          "video_id": "SfqYtx_Qk_0",
+          "title": "Mercury Retrograde in Leo – Speak from the Flame",
+          "url": "https://www.youtube.com/watch?v=SfqYtx_Qk_0"
+        },
+        {
+          "video_id": "cXCwA2P-yaY",
+          "title": "Mercury Retrograde in Virgo – Redefine the Rhythm",
+          "url": "https://www.youtube.com/watch?v=cXCwA2P-yaY"
+        },
+        {
+          "video_id": "XxnHTmlFuDw",
+          "title": "Mercury Retrograde in Libra – Balance the Heart",
+          "url": "https://www.youtube.com/watch?v=XxnHTmlFuDw"
+        },
+        {
+          "video_id": "jRLKNO7j7zs",
+          "title": "Mercury Retrograde in Sagittarius – Rethink the Horizon",
+          "url": "https://www.youtube.com/watch?v=jRLKNO7j7zs"
+        },
+        {
+          "video_id": "oLprYo9iG74",
+          "title": "Mercury Retrograde in Capricorn – Rebuild the Vision",
+          "url": "https://www.youtube.com/watch?v=oLprYo9iG74"
+        },
+        {
+          "video_id": "Tpj7-6f_EAU",
+          "title": "Mercury Retrograde in Aquarius – Echoes of Connection",
+          "url": "https://www.youtube.com/watch?v=Tpj7-6f_EAU"
+        },
+        {
+          "video_id": "a1hfAObNIHI",
+          "title": "Mercury Retrograde in Pisces – Let It Flow Away",
+          "url": "https://www.youtube.com/watch?v=a1hfAObNIHI"
+        },
+        {
+          "video_id": "Q94CqhbtR9k",
+          "title": "Venus Retrograde in Aries – Love Rewritten",
+          "url": "https://www.youtube.com/watch?v=Q94CqhbtR9k"
+        },
+        {
+          "video_id": "jEePw7WZ_gk",
+          "title": "Venus Retrograde in Taurus – Worth the Wait",
+          "url": "https://www.youtube.com/watch?v=jEePw7WZ_gk"
+        },
+        {
+          "video_id": "ucSltW76Ug0",
+          "title": "Venus Retrograde in Gemini – Echoes of Love",
+          "url": "https://www.youtube.com/watch?v=ucSltW76Ug0"
+        },
+        {
+          "video_id": "bjolwtp0x8w",
+          "title": "Venus Retrograde in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=bjolwtp0x8w"
+        },
+        {
+          "video_id": "sabQYmqHdDk",
+          "title": "Venus Retrograde in Leo – Fire and Reflection",
+          "url": "https://www.youtube.com/watch?v=sabQYmqHdDk"
+        },
+        {
+          "video_id": "eqS4SfV79Y4",
+          "title": "Venus Retrograde in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=eqS4SfV79Y4"
+        },
+        {
+          "video_id": "AQ-FYod9v1E",
+          "title": "Venus Retrograde in Libra – Balancing Hearts",
+          "url": "https://www.youtube.com/watch?v=AQ-FYod9v1E"
+        },
+        {
+          "video_id": "nChgp636VlE",
+          "title": "Venus Retrograde in Scorpio – Shadows of the Heart",
+          "url": "https://www.youtube.com/watch?v=nChgp636VlE"
+        },
+        {
+          "video_id": "hhXX5BwUi6o",
+          "title": "Venus Retrograde in Sagittarius – Love Unbound 1",
+          "url": "https://www.youtube.com/watch?v=hhXX5BwUi6o"
+        },
+        {
+          "video_id": "fnkTjSZhf_A",
+          "title": "Venus Retrograde in Capricorn – Built to Last",
+          "url": "https://www.youtube.com/watch?v=fnkTjSZhf_A"
+        },
+        {
+          "video_id": "DDYhbB-wIrM",
+          "title": "Venus Retrograde in Aquarius – Love Redefined",
+          "url": "https://www.youtube.com/watch?v=DDYhbB-wIrM"
+        },
+        {
+          "video_id": "AWqY9fQFsas",
+          "title": "Venus Retrograde in Pisces – Dream Within a Dream",
+          "url": "https://www.youtube.com/watch?v=AWqY9fQFsas"
+        },
+        {
+          "video_id": "LT9vmnbxsZo",
+          "title": "Mars Retrograde in Aries – Fire Reborn",
+          "url": "https://www.youtube.com/watch?v=LT9vmnbxsZo"
+        },
+        {
+          "video_id": "8Zh_1VS2Q4o",
+          "title": "Mars Retrograde in Taurus – Still Fire",
+          "url": "https://www.youtube.com/watch?v=8Zh_1VS2Q4o"
+        },
+        {
+          "video_id": "vITSLlIJrn8",
+          "title": "Mars Retrograde in Gemini – Echoes in the Air",
+          "url": "https://www.youtube.com/watch?v=vITSLlIJrn8"
+        },
+        {
+          "video_id": "EB_5rCu9NLg",
+          "title": "Mars Retrograde in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=EB_5rCu9NLg"
+        },
+        {
+          "video_id": "v06OO9HoKvs",
+          "title": "Mars Retrograde in Leo – Burn from Within",
+          "url": "https://www.youtube.com/watch?v=v06OO9HoKvs"
+        },
+        {
+          "video_id": "bOJHxxxBNWg",
+          "title": "Mars Retrograde in Virgo – The Art of Stillness",
+          "url": "https://www.youtube.com/watch?v=bOJHxxxBNWg"
+        },
+        {
+          "video_id": "aV5VTvcex9I",
+          "title": "Mars Retrograde in Libra – Fractured Mirror",
+          "url": "https://www.youtube.com/watch?v=aV5VTvcex9I"
+        },
+        {
+          "video_id": "1153ZRCZMOk",
+          "title": "Mars Retrograde in Scorpio – Shadowfire",
+          "url": "https://www.youtube.com/watch?v=1153ZRCZMOk"
+        },
+        {
+          "video_id": "XrnQn1wxfx4",
+          "title": "Mars Retrograde in Sagittarius – Flame of Faith",
+          "url": "https://www.youtube.com/watch?v=XrnQn1wxfx4"
+        },
+        {
+          "video_id": "VsDk3W00au4",
+          "title": "Mars Retrograde in Aquarius – Electric Stillness",
+          "url": "https://www.youtube.com/watch?v=VsDk3W00au4"
+        },
+        {
+          "video_id": "qzrYWWpGS4Y",
+          "title": "Mars Retrograde in Pisces – Dreamtide",
+          "url": "https://www.youtube.com/watch?v=qzrYWWpGS4Y"
+        },
+        {
+          "video_id": "hD2oy8QaFQ0",
+          "title": "Jupiter Retrograde in Aries – Fire in Reflection",
+          "url": "https://www.youtube.com/watch?v=hD2oy8QaFQ0"
+        },
+        {
+          "video_id": "0S87EAVAJRQ",
+          "title": "Jupiter Retrograde in Taurus – Roots of Gold",
+          "url": "https://www.youtube.com/watch?v=0S87EAVAJRQ"
+        },
+        {
+          "video_id": "-Zq0xZbjCEs",
+          "title": "Jupiter Retrograde in Gemini – Echoes of Thought",
+          "url": "https://www.youtube.com/watch?v=-Zq0xZbjCEs"
+        },
+        {
+          "video_id": "hFSsqYrOcUo",
+          "title": "Jupiter Retrograde in Cancer – Harbor of the Heart",
+          "url": "https://www.youtube.com/watch?v=hFSsqYrOcUo"
+        },
+        {
+          "video_id": "sRyaE-eXoLU",
+          "title": "Jupiter Retrograde in Leo – Light Without Applause",
+          "url": "https://www.youtube.com/watch?v=sRyaE-eXoLU"
+        },
+        {
+          "video_id": "DH02KUmV5JA",
+          "title": "Jupiter Retrograde in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=DH02KUmV5JA"
+        },
+        {
+          "video_id": "a5RhETHNOaQ",
+          "title": "Jupiter Retrograde in Libra – Balance in the Mirror",
+          "url": "https://www.youtube.com/watch?v=a5RhETHNOaQ"
+        },
+        {
+          "video_id": "Xn8HsHotjM8",
+          "title": "Jupiter Retrograde in Scorpio – Shadows of Power",
+          "url": "https://www.youtube.com/watch?v=Xn8HsHotjM8"
+        },
+        {
+          "video_id": "13wUvxwpNIs",
+          "title": "Jupiter Retrograde in Sagittarius – Faith Rewritten",
+          "url": "https://www.youtube.com/watch?v=13wUvxwpNIs"
+        },
+        {
+          "video_id": "BU5PLSZe-QQ",
+          "title": "Jupiter Retrograde in Aquarius – Circles of Change",
+          "url": "https://www.youtube.com/watch?v=BU5PLSZe-QQ"
+        },
+        {
+          "video_id": "-idpRTDTGBk",
+          "title": "Jupiter Retrograde in Pisces – Oceans Within",
+          "url": "https://www.youtube.com/watch?v=-idpRTDTGBk"
+        },
+        {
+          "video_id": "BGbt92dgOhQ",
+          "title": "Jupiter Retrograde in Capricorn – Steps That Last",
+          "url": "https://www.youtube.com/watch?v=BGbt92dgOhQ"
+        },
+        {
+          "video_id": "KsfGfz_PODU",
+          "title": "Saturn Retrograde in Aries – Fire in Restraint",
+          "url": "https://www.youtube.com/watch?v=KsfGfz_PODU"
+        },
+        {
+          "video_id": "15RF7jjCg1A",
+          "title": "Saturn Retrograde in Taurus – Roots of Patience",
+          "url": "https://www.youtube.com/watch?v=15RF7jjCg1A"
+        },
+        {
+          "video_id": "S_sDWp_D5VQ",
+          "title": "Saturn Retrograde in Gemini – Echoes of Intention",
+          "url": "https://www.youtube.com/watch?v=S_sDWp_D5VQ"
+        },
+        {
+          "video_id": "QqA0wQeVhFg",
+          "title": "Saturn Retrograde in Cancer – Walls of Grace",
+          "url": "https://www.youtube.com/watch?v=QqA0wQeVhFg"
+        },
+        {
+          "video_id": "jgU_zooL6jg",
+          "title": "Saturn Retrograde in Leo – Light Within",
+          "url": "https://www.youtube.com/watch?v=jgU_zooL6jg"
+        },
+        {
+          "video_id": "PO_J7A_j8YY",
+          "title": "Saturn Retrograde in Virgo – Rhythm of Grace",
+          "url": "https://www.youtube.com/watch?v=PO_J7A_j8YY"
+        },
+        {
+          "video_id": "p1kzGn4fek0",
+          "title": "Saturn Retrograde in Libra – Balance of Love",
+          "url": "https://www.youtube.com/watch?v=p1kzGn4fek0"
+        },
+        {
+          "video_id": "HEpjTJ8drZI",
+          "title": "Saturn Retrograde in Scorpio – Shadows of Strength",
+          "url": "https://www.youtube.com/watch?v=HEpjTJ8drZI"
+        },
+        {
+          "video_id": "vtsUDamPK5U",
+          "title": "Saturn Retrograde in Sagittarius – Faith in the Climb",
+          "url": "https://www.youtube.com/watch?v=vtsUDamPK5U"
+        },
+        {
+          "video_id": "xQqZl3jBz9c",
+          "title": "Saturn Retrograde in Capricorn – Pillars of Time",
+          "url": "https://www.youtube.com/watch?v=xQqZl3jBz9c"
+        },
+        {
+          "video_id": "a0SdCR_JzM0",
+          "title": "Saturn Retrograde in Aquarius – Legacy of Light",
+          "url": "https://www.youtube.com/watch?v=a0SdCR_JzM0"
+        },
+        {
+          "video_id": "SO6KR5npk_4",
+          "title": "Saturn Retrograde in Pisces – Faith in the Flow 1",
+          "url": "https://www.youtube.com/watch?v=SO6KR5npk_4"
+        },
+        {
+          "video_id": "luoELHK8yNY",
+          "title": "Uranus Retrograde in Aries – Reflections of Fire",
+          "url": "https://www.youtube.com/watch?v=luoELHK8yNY"
+        },
+        {
+          "video_id": "T8uGk_Pazt4",
+          "title": "Uranus Retrograde in Taurus – Ground Beneath the Stars",
+          "url": "https://www.youtube.com/watch?v=T8uGk_Pazt4"
+        },
+        {
+          "video_id": "WaJodFr0CZ8",
+          "title": "Uranus Retrograde in Gemini – Winds of Insight",
+          "url": "https://www.youtube.com/watch?v=WaJodFr0CZ8"
+        },
+        {
+          "video_id": "T2Rhn56fsX8",
+          "title": "Uranus Retrograde in Cancer – Waves of Home",
+          "url": "https://www.youtube.com/watch?v=T2Rhn56fsX8"
+        },
+        {
+          "video_id": "N-na-sNKwxg",
+          "title": "Uranus Retrograde in Leo – Fire Within",
+          "url": "https://www.youtube.com/watch?v=N-na-sNKwxg"
+        },
+        {
+          "video_id": "1akSJcZErJw",
+          "title": "Uranus Retrograde in Virgo – Rhythm of Renewal",
+          "url": "https://www.youtube.com/watch?v=1akSJcZErJw"
+        },
+        {
+          "video_id": "F2U2nmg9NTU",
+          "title": "Uranus Retrograde in Libra – Balance Unbound",
+          "url": "https://www.youtube.com/watch?v=F2U2nmg9NTU"
+        },
+        {
+          "video_id": "--Gxf2kcNV4",
+          "title": "Uranus Retrograde in Scorpio – Rise from the Depths",
+          "url": "https://www.youtube.com/watch?v=--Gxf2kcNV4"
+        },
+        {
+          "video_id": "oysl16nzzjQ",
+          "title": "Uranus Retrograde in Sagittarius – Faith in Flight",
+          "url": "https://www.youtube.com/watch?v=oysl16nzzjQ"
+        },
+        {
+          "video_id": "5VCCKNRwjQ0",
+          "title": "Uranus Retrograde in Capricorn – The Architect of Change",
+          "url": "https://www.youtube.com/watch?v=5VCCKNRwjQ0"
+        },
+        {
+          "video_id": "_DtRr8pONnM",
+          "title": "Uranus Retrograde in Aquarius – The Pulse of Freedom",
+          "url": "https://www.youtube.com/watch?v=_DtRr8pONnM"
+        },
+        {
+          "video_id": "Ie_LZak1ISI",
+          "title": "Uranus Retrograde in Pisces – Waves of Awakening",
+          "url": "https://www.youtube.com/watch?v=Ie_LZak1ISI"
+        },
+        {
+          "video_id": "ZESJ1av0ARM",
+          "title": "Neptune Retrograde in Aries – Mirror of Fire",
+          "url": "https://www.youtube.com/watch?v=ZESJ1av0ARM"
+        },
+        {
+          "video_id": "pG4rrwUmd7o",
+          "title": "Neptune Retrograde in Taurus – The Softness of Gold",
+          "url": "https://www.youtube.com/watch?v=pG4rrwUmd7o"
+        },
+        {
+          "video_id": "YwNNv4eNd2U",
+          "title": "Neptune Retrograde in Gemini – Whispers Between Worlds",
+          "url": "https://www.youtube.com/watch?v=YwNNv4eNd2U"
+        },
+        {
+          "video_id": "DaeALn3tR2M",
+          "title": "Neptune Retrograde in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=DaeALn3tR2M"
+        },
+        {
+          "video_id": "_6CTrMsGEao",
+          "title": "Neptune Retrograde in Leo – Fire of the Soul",
+          "url": "https://www.youtube.com/watch?v=_6CTrMsGEao"
+        },
+        {
+          "video_id": "pX0_RwZ2vAU",
+          "title": "Neptune Retrograde in Virgo – Grace in Motion",
+          "url": "https://www.youtube.com/watch?v=pX0_RwZ2vAU"
+        },
+        {
+          "video_id": "66quDJQSyME",
+          "title": "Neptune Retrograde in Libra – Mirror of the Heart",
+          "url": "https://www.youtube.com/watch?v=66quDJQSyME"
+        },
+        {
+          "video_id": "LfiQ90RuJLo",
+          "title": "Neptune Retrograde in Scorpio – Depths of Surrender",
+          "url": "https://www.youtube.com/watch?v=LfiQ90RuJLo"
+        },
+        {
+          "video_id": "tiiV-Tz0jt8",
+          "title": "Neptune Retrograde in Sagittarius – Truth in the Horizon",
+          "url": "https://www.youtube.com/watch?v=tiiV-Tz0jt8"
+        },
+        {
+          "video_id": "fq0lYy06-0E",
+          "title": "Neptune Retrograde in Capricorn – The Climb Within",
+          "url": "https://www.youtube.com/watch?v=fq0lYy06-0E"
+        },
+        {
+          "video_id": "WWv9sSNglzA",
+          "title": "Neptune Retrograde in Aquarius – Echoes of the Collective",
+          "url": "https://www.youtube.com/watch?v=WWv9sSNglzA"
+        },
+        {
+          "video_id": "iyMkaHluI6c",
+          "title": "Neptune Retrograde in Pisces – Whispers of the Infinite",
+          "url": "https://www.youtube.com/watch?v=iyMkaHluI6c"
+        },
+        {
+          "video_id": "SawmmIeBIJ8",
+          "title": "Pluto Retrograde in Aries – Fire Within",
+          "url": "https://www.youtube.com/watch?v=SawmmIeBIJ8"
+        },
+        {
+          "video_id": "U-n5IIYurvU",
+          "title": "Pluto Retrograde in Taurus – Roots of Renewal",
+          "url": "https://www.youtube.com/watch?v=U-n5IIYurvU"
+        },
+        {
+          "video_id": "xegEXjtAth8",
+          "title": "Pluto Retrograde in Gemini – Voice of Truth",
+          "url": "https://www.youtube.com/watch?v=xegEXjtAth8"
+        },
+        {
+          "video_id": "OjDi27ichac",
+          "title": "Pluto Retrograde in Cancer – Echoes of Home",
+          "url": "https://www.youtube.com/watch?v=OjDi27ichac"
+        },
+        {
+          "video_id": "sYHgMKNMbjA",
+          "title": "Pluto Retrograde in Leo – Fire of the True Self",
+          "url": "https://www.youtube.com/watch?v=sYHgMKNMbjA"
+        },
+        {
+          "video_id": "IgZ7UV7ke2s",
+          "title": "Pluto Retrograde in Virgo – Alchemy of Order",
+          "url": "https://www.youtube.com/watch?v=IgZ7UV7ke2s"
+        },
+        {
+          "video_id": "Q9Sn7aEq2jg",
+          "title": "Pluto Retrograde in Libra – Mirrors of the Heart",
+          "url": "https://www.youtube.com/watch?v=Q9Sn7aEq2jg"
+        },
+        {
+          "video_id": "jMlwN0rLrK0",
+          "title": "Pluto Retrograde in Scorpio – Depths of Becoming",
+          "url": "https://www.youtube.com/watch?v=jMlwN0rLrK0"
+        },
+        {
+          "video_id": "8OTPBC2zYqk",
+          "title": "Pluto Retrograde in Sagittarius – Flames of Truth",
+          "url": "https://www.youtube.com/watch?v=8OTPBC2zYqk"
+        },
+        {
+          "video_id": "nEzyMjtqgi4",
+          "title": "Pluto Retrograde in Capricorn – Pillars of Purpose",
+          "url": "https://www.youtube.com/watch?v=nEzyMjtqgi4"
+        },
+        {
+          "video_id": "YVxwUF97af4",
+          "title": "Pluto Retrograde in Aquarius – Waves of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=YVxwUF97af4"
+        },
+        {
+          "video_id": "KLrMbleRZmU",
+          "title": "Pluto Retrograde in Pisces – Tides of the Soul",
+          "url": "https://www.youtube.com/watch?v=KLrMbleRZmU"
+        },
+        {
+          "video_id": "K6wrQFemCPw",
+          "title": "Chiron Retrograde in Aries – Heal the Fire",
+          "url": "https://www.youtube.com/watch?v=K6wrQFemCPw"
+        },
+        {
+          "video_id": "ks-Cuq-0ROA",
+          "title": "Chiron Retrograde in Taurus – Roots of Worth",
+          "url": "https://www.youtube.com/watch?v=ks-Cuq-0ROA"
+        },
+        {
+          "video_id": "55fhW7osGdE",
+          "title": "Chiron Retrograde in Gemini – Voice Unbound",
+          "url": "https://www.youtube.com/watch?v=55fhW7osGdE"
+        },
+        {
+          "video_id": "44XK4loCALc",
+          "title": "Chiron Retrograde in Cancer – Safe to Feel",
+          "url": "https://www.youtube.com/watch?v=44XK4loCALc"
+        },
+        {
+          "video_id": "ZmoUZe21eTU",
+          "title": "Chiron Retrograde in Leo – Let Me Shine",
+          "url": "https://www.youtube.com/watch?v=ZmoUZe21eTU"
+        },
+        {
+          "video_id": "4SbvDvKs334",
+          "title": "Chiron Retrograde in Virgo – Perfectly Human",
+          "url": "https://www.youtube.com/watch?v=4SbvDvKs334"
+        },
+        {
+          "video_id": "vKv0Oz_tvx4",
+          "title": "Chiron Retrograde in Libra – Mirror of My Heart",
+          "url": "https://www.youtube.com/watch?v=vKv0Oz_tvx4"
+        },
+        {
+          "video_id": "RUmo1teupG4",
+          "title": "Chiron Retrograde in Scorpio – Beneath the Ashes",
+          "url": "https://www.youtube.com/watch?v=RUmo1teupG4"
+        },
+        {
+          "video_id": "NjivSnJzNOY",
+          "title": "Chiron Retrograde in Sagittarius – My Own Horizon",
+          "url": "https://www.youtube.com/watch?v=NjivSnJzNOY"
+        },
+        {
+          "video_id": "se0zaJK_3u0",
+          "title": "Chiron Retrograde in Capricorn – Worth Beyond the Crown",
+          "url": "https://www.youtube.com/watch?v=se0zaJK_3u0"
+        },
+        {
+          "video_id": "glH-3zVfGkY",
+          "title": "Chiron Retrograde in Aquarius – The Gift of Being Me",
+          "url": "https://www.youtube.com/watch?v=glH-3zVfGkY"
+        },
+        {
+          "video_id": "3IgAyk3TyFo",
+          "title": "Chiron Retrograde in Pisces – Boundaries of Light",
+          "url": "https://www.youtube.com/watch?v=3IgAyk3TyFo"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaC9Wk2JbCSygAfTCVmpyFk4.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCdp_bhchr5tVnOv_MrpCAF",
+      "title": "Saturn in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCdp_bhchr5tVnOv_MrpCAF",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "ou3g_tDp9Iw",
+          "title": "Saturn in Aries – Burden and Fire",
+          "url": "https://www.youtube.com/watch?v=ou3g_tDp9Iw"
+        },
+        {
+          "video_id": "bNfD75el8SQ",
+          "title": "Saturn in Taurus – Built to Last",
+          "url": "https://www.youtube.com/watch?v=bNfD75el8SQ"
+        },
+        {
+          "video_id": "dkVj3VItROk",
+          "title": "Saturn in Gemini – Voices of Structure",
+          "url": "https://www.youtube.com/watch?v=dkVj3VItROk"
+        },
+        {
+          "video_id": "eaoj1Yh5_QM",
+          "title": "Saturn in Cancer – Walls of the Heart",
+          "url": "https://www.youtube.com/watch?v=eaoj1Yh5_QM"
+        },
+        {
+          "video_id": "nfMDfwTSo58",
+          "title": "Saturn in Leo – Light Behind the Curtain",
+          "url": "https://www.youtube.com/watch?v=nfMDfwTSo58"
+        },
+        {
+          "video_id": "_p6j4fShuRg",
+          "title": "Saturn in Virgo – Perfect by Design",
+          "url": "https://www.youtube.com/watch?v=_p6j4fShuRg"
+        },
+        {
+          "video_id": "d2qUvHi7BJ4",
+          "title": "Saturn in Libra – Balance of Hearts",
+          "url": "https://www.youtube.com/watch?v=d2qUvHi7BJ4"
+        },
+        {
+          "video_id": "z8X0yMDVL9A",
+          "title": "Saturn in Scorpio – Depths of Power",
+          "url": "https://www.youtube.com/watch?v=z8X0yMDVL9A"
+        },
+        {
+          "video_id": "Xh8XlDDw9vg",
+          "title": "Saturn in Sagittarius – Roads of Wisdom",
+          "url": "https://www.youtube.com/watch?v=Xh8XlDDw9vg"
+        },
+        {
+          "video_id": "QkHwfOv5PlQ",
+          "title": "Saturn in Capricorn – Built to Rise",
+          "url": "https://www.youtube.com/watch?v=QkHwfOv5PlQ"
+        },
+        {
+          "video_id": "WfOfza5Nt54",
+          "title": "Saturn in Aquarius – Blueprint of Change",
+          "url": "https://www.youtube.com/watch?v=WfOfza5Nt54"
+        },
+        {
+          "video_id": "N3XsL98NmA4",
+          "title": "Saturn in Pisces Song Grounding the Dream",
+          "url": "https://www.youtube.com/watch?v=N3XsL98NmA4"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCdp_bhchr5tVnOv_MrpCAF.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCo7AojROS79n9RnVa55pcu",
+      "title": "Mercury in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCo7AojROS79n9RnVa55pcu",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "lTCU_d1Ikqs",
+          "title": "Mercury in Aries – Speak Your Fire",
+          "url": "https://www.youtube.com/watch?v=lTCU_d1Ikqs"
+        },
+        {
+          "video_id": "LeLFImastoQ",
+          "title": "Mercury in Taurus – Words of Earth",
+          "url": "https://www.youtube.com/watch?v=LeLFImastoQ"
+        },
+        {
+          "video_id": "1_VtYBcUuH8",
+          "title": "Mercury in Gemini – Voices in Motion",
+          "url": "https://www.youtube.com/watch?v=1_VtYBcUuH8"
+        },
+        {
+          "video_id": "t_e3GSxC2qk",
+          "title": "Mercury in Cancer – Voice of the Heart",
+          "url": "https://www.youtube.com/watch?v=t_e3GSxC2qk"
+        },
+        {
+          "video_id": "ctfUvWvMXvE",
+          "title": "Mercury in Leo – Speak the Light",
+          "url": "https://www.youtube.com/watch?v=ctfUvWvMXvE"
+        },
+        {
+          "video_id": "bKguvyMCulo",
+          "title": "Mercury in Virgo: Words of Precision",
+          "url": "https://www.youtube.com/watch?v=bKguvyMCulo"
+        },
+        {
+          "video_id": "FuNIdbf9zJQ",
+          "title": "Harmony in Words – Mercury in Libra",
+          "url": "https://www.youtube.com/watch?v=FuNIdbf9zJQ"
+        },
+        {
+          "video_id": "NgpeP1ItKV8",
+          "title": "Mercury in Scorpio – Secrets in the Silence",
+          "url": "https://www.youtube.com/watch?v=NgpeP1ItKV8"
+        },
+        {
+          "video_id": "9EI3xkZpMq8",
+          "title": "Voice of the Horizon – Mercury in Sagittarius",
+          "url": "https://www.youtube.com/watch?v=9EI3xkZpMq8"
+        },
+        {
+          "video_id": "FkF550aOGc4",
+          "title": "Mercury in Capricorn – Words of Stone",
+          "url": "https://www.youtube.com/watch?v=FkF550aOGc4"
+        },
+        {
+          "video_id": "rYtO1C2y8sk",
+          "title": "Mercury in Aquarius – Voices of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=rYtO1C2y8sk"
+        },
+        {
+          "video_id": "A-4o2m-flYI",
+          "title": "Mercury in Pisces – Ocean of Words",
+          "url": "https://www.youtube.com/watch?v=A-4o2m-flYI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCo7AojROS79n9RnVa55pcu.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaD5kHguWZACCd_lMLyy_S_x",
+      "title": "Uranus in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaD5kHguWZACCd_lMLyy_S_x",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "_ptHeuUG3aw",
+          "title": "Uranus in Aries – Fire of the New",
+          "url": "https://www.youtube.com/watch?v=_ptHeuUG3aw"
+        },
+        {
+          "video_id": "diN4vf4k-Fc",
+          "title": "Uranus in Taurus – Breaking the Ground",
+          "url": "https://www.youtube.com/watch?v=diN4vf4k-Fc"
+        },
+        {
+          "video_id": "hCIzfI7yxS8",
+          "title": "Winds of Change – Uranus in Gemini",
+          "url": "https://www.youtube.com/watch?v=hCIzfI7yxS8"
+        },
+        {
+          "video_id": "xT8gli_ROzY",
+          "title": "Uranus in Cancer – Waves of Change",
+          "url": "https://www.youtube.com/watch?v=xT8gli_ROzY"
+        },
+        {
+          "video_id": "Q7YzAJOFBc0",
+          "title": "Uranus in Leo – Spark of the Unseen",
+          "url": "https://www.youtube.com/watch?v=Q7YzAJOFBc0"
+        },
+        {
+          "video_id": "vebFzNTiTdk",
+          "title": "Uranus in Virgo – The Pulse of Change",
+          "url": "https://www.youtube.com/watch?v=vebFzNTiTdk"
+        },
+        {
+          "video_id": "cGgsBkqrGd0",
+          "title": "Uranus in Libra – Electric Harmony",
+          "url": "https://www.youtube.com/watch?v=cGgsBkqrGd0"
+        },
+        {
+          "video_id": "3GYuRhXdxno",
+          "title": "Uranus in Scorpio – Depths Rewritten",
+          "url": "https://www.youtube.com/watch?v=3GYuRhXdxno"
+        },
+        {
+          "video_id": "Vt68k5Gelm4",
+          "title": "Uranus in Sagittarius – Fire of Freedom",
+          "url": "https://www.youtube.com/watch?v=Vt68k5Gelm4"
+        },
+        {
+          "video_id": "pDKxUmrR8OA",
+          "title": "Uranus in Aquarius – Electric Freedom",
+          "url": "https://www.youtube.com/watch?v=pDKxUmrR8OA"
+        },
+        {
+          "video_id": "51Vp1nkGaCQ",
+          "title": "Uranus in Pisces – Waves of Awakening",
+          "url": "https://www.youtube.com/watch?v=51Vp1nkGaCQ"
+        },
+        {
+          "video_id": "XfHi-nuLzMg",
+          "title": "Uranus in Capricorn – Breaking the Mold",
+          "url": "https://www.youtube.com/watch?v=XfHi-nuLzMg"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaD5kHguWZACCd_lMLyy_S_x.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCFQzIXBprTNiSC-0AcS8rC",
+      "title": "Mars in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCFQzIXBprTNiSC-0AcS8rC",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "msLpDFTAQxo",
+          "title": "Mars in Aries – Fire to Win",
+          "url": "https://www.youtube.com/watch?v=msLpDFTAQxo"
+        },
+        {
+          "video_id": "qjHqOsCJ-uw",
+          "title": "Mars in Taurus – Steady Fire",
+          "url": "https://www.youtube.com/watch?v=qjHqOsCJ-uw"
+        },
+        {
+          "video_id": "BFNpaSG1Fg4",
+          "title": "Mars in Gemini – Words on Fire",
+          "url": "https://www.youtube.com/watch?v=BFNpaSG1Fg4"
+        },
+        {
+          "video_id": "q1bvFnXsPgo",
+          "title": "Mars in Cancer – Fire Beneath the Waves",
+          "url": "https://www.youtube.com/watch?v=q1bvFnXsPgo"
+        },
+        {
+          "video_id": "j6AU03-Spis",
+          "title": "Mars in Leo – Born for the Spotlight",
+          "url": "https://www.youtube.com/watch?v=j6AU03-Spis"
+        },
+        {
+          "video_id": "KzC_CpwLwzQ",
+          "title": "Mars in Virgo – Precision and Fire",
+          "url": "https://www.youtube.com/watch?v=KzC_CpwLwzQ"
+        },
+        {
+          "video_id": "g3BWtVgZ_SE",
+          "title": "Peaceful Warrior – Mars in Libra",
+          "url": "https://www.youtube.com/watch?v=g3BWtVgZ_SE"
+        },
+        {
+          "video_id": "AiatuV6Dx9Y",
+          "title": "Into the Fire – Mars in Scorpio",
+          "url": "https://www.youtube.com/watch?v=AiatuV6Dx9Y"
+        },
+        {
+          "video_id": "StzVbXvAPKs",
+          "title": "Mars in Sagittarius – Flames of Freedom",
+          "url": "https://www.youtube.com/watch?v=StzVbXvAPKs"
+        },
+        {
+          "video_id": "B7FDfRo2OeA",
+          "title": "Mars in Capricorn – Climbing the Summit",
+          "url": "https://www.youtube.com/watch?v=B7FDfRo2OeA"
+        },
+        {
+          "video_id": "SY--SFJLZrg",
+          "title": "Mars in Aquarius – Sparks of Rebellion",
+          "url": "https://www.youtube.com/watch?v=SY--SFJLZrg"
+        },
+        {
+          "video_id": "mmiu_L2Qgqk",
+          "title": "Mars in Pisces – Silent Fire",
+          "url": "https://www.youtube.com/watch?v=mmiu_L2Qgqk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCFQzIXBprTNiSC-0AcS8rC.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCatS5S862t5j1hlWJvh7xn",
+      "title": "Venus in Sign Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCatS5S862t5j1hlWJvh7xn",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7kQUr8JZZaM",
+          "title": "Venus in Aries Wild Heart",
+          "url": "https://www.youtube.com/watch?v=7kQUr8JZZaM"
+        },
+        {
+          "video_id": "rmO8s-Y509Y",
+          "title": "Venus in Taurus – Garden of Desire",
+          "url": "https://www.youtube.com/watch?v=rmO8s-Y509Y"
+        },
+        {
+          "video_id": "DdOaKzpHBKI",
+          "title": "Venus in Gemini – Words of Love",
+          "url": "https://www.youtube.com/watch?v=DdOaKzpHBKI"
+        },
+        {
+          "video_id": "2eaODJcJpSQ",
+          "title": "Venus in Cancer – Home of the Heart",
+          "url": "https://www.youtube.com/watch?v=2eaODJcJpSQ"
+        },
+        {
+          "video_id": "XScYvVZCcNg",
+          "title": "Shine for Love – Venus in Leo",
+          "url": "https://www.youtube.com/watch?v=XScYvVZCcNg"
+        },
+        {
+          "video_id": "nkW0rawf2n4",
+          "title": "Quiet Devotion – Venus in Virgo",
+          "url": "https://www.youtube.com/watch?v=nkW0rawf2n4"
+        },
+        {
+          "video_id": "SGYveYXlxZc",
+          "title": "Venus in Libra – Harmony of Love",
+          "url": "https://www.youtube.com/watch?v=SGYveYXlxZc"
+        },
+        {
+          "video_id": "8xLR7vQ7LQA",
+          "title": "Venus in Scorpio – Into the Deep",
+          "url": "https://www.youtube.com/watch?v=8xLR7vQ7LQA"
+        },
+        {
+          "video_id": "ZCDR9BinbWw",
+          "title": "Venus in Sagittarius – Wild Hearts, Free Skies",
+          "url": "https://www.youtube.com/watch?v=ZCDR9BinbWw"
+        },
+        {
+          "video_id": "clx3q3-vmoc",
+          "title": "Venus in Capricorn – Steadfast Love",
+          "url": "https://www.youtube.com/watch?v=clx3q3-vmoc"
+        },
+        {
+          "video_id": "fPjpZIwtQj8",
+          "title": "Venus in Aquarius – Electric Hearts",
+          "url": "https://www.youtube.com/watch?v=fPjpZIwtQj8"
+        },
+        {
+          "video_id": "1EQ6rWoUjdk",
+          "title": "Venus in Pisces – Ocean of Devotion",
+          "url": "https://www.youtube.com/watch?v=1EQ6rWoUjdk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "These songs reflect how Venus expresses love, beauty, and creativity through each zodiac sign. Each track captures the unique energy of Venus in every sign, from passion to peace, helping you connect with your own way of giving and receiving love.\n\nTo learn more about what your Venus sign means and how it influences your relationships and desires, sign up for the HD Astro membership. You’ll get access to in-depth lessons, astrology transits, affirmations, and insights.\n\nhttps://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCatS5S862t5j1hlWJvh7xn.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCKkCzTV-_CEg_R-gaCttec",
+      "title": "Sun in Houses Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCKkCzTV-_CEg_R-gaCttec",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "5hb_yjxqwwg",
+          "title": "Sun in the 1st House – Radiance of Self",
+          "url": "https://www.youtube.com/watch?v=5hb_yjxqwwg"
+        },
+        {
+          "video_id": "KY6A6BQ3c4s",
+          "title": "Sun in the 2nd House – Treasures of Worth",
+          "url": "https://www.youtube.com/watch?v=KY6A6BQ3c4s"
+        },
+        {
+          "video_id": "gCQdXRPKNrA",
+          "title": "Sun in the 3rd House – Voices of Light",
+          "url": "https://www.youtube.com/watch?v=gCQdXRPKNrA"
+        },
+        {
+          "video_id": "Ixgv3jy68-o",
+          "title": "Sun in the 4th House – Roots of Light",
+          "url": "https://www.youtube.com/watch?v=Ixgv3jy68-o"
+        },
+        {
+          "video_id": "Fpu9Rye09vs",
+          "title": "Sun in the 5th House – Flame of Joy",
+          "url": "https://www.youtube.com/watch?v=Fpu9Rye09vs"
+        },
+        {
+          "video_id": "45jC3y40ABs",
+          "title": "Sun in the 6th House – Rhythm of Service",
+          "url": "https://www.youtube.com/watch?v=45jC3y40ABs"
+        },
+        {
+          "video_id": "CifTwRNLWLg",
+          "title": "Sun in the 7th House – Light of Partnership",
+          "url": "https://www.youtube.com/watch?v=CifTwRNLWLg"
+        },
+        {
+          "video_id": "k4FvI_txN4Y",
+          "title": "Sun in the 8th House – Depths of Mystery",
+          "url": "https://www.youtube.com/watch?v=k4FvI_txN4Y"
+        },
+        {
+          "video_id": "JOy3n6PTqEU",
+          "title": "Sun in the 9th House – Horizons of Trut",
+          "url": "https://www.youtube.com/watch?v=JOy3n6PTqEU"
+        },
+        {
+          "video_id": "Fvwdu-sBRjs",
+          "title": "Sun in the 10th House – Crown of Ambition",
+          "url": "https://www.youtube.com/watch?v=Fvwdu-sBRjs"
+        },
+        {
+          "video_id": "7rCv-UkBft8",
+          "title": "Sun in the 11th House – Circles of Light",
+          "url": "https://www.youtube.com/watch?v=7rCv-UkBft8"
+        },
+        {
+          "video_id": "aAA-IAgUq1Y",
+          "title": "Sun in the 12th House – Hidden Flame",
+          "url": "https://www.youtube.com/watch?v=aAA-IAgUq1Y"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "✨ Discover the journey of the Sun through the 12 Astrology Houses ✨\n\nEach song in this series is created to capture the energy of the Sun in every house of the chart. The Sun shows where we shine, how we express our essence, and what motivates us. By exploring the houses, we uncover the unique way our light comes through in different areas of life.\n\n🌞 What you’ll experience in this series:\n\nThe essence of the Sun in each of the 12 Houses\n\nMusic designed to reflect the themes of identity, purpose, and personal growth\n\nA creative way to learn Astrology and connect with the rhythm of your chart\n\nWhether you are learning Astrology, exploring your natal chart, or simply enjoying the music, these songs are a tool for inspiration, reflection, and understanding.\n\n🔮 Want to go deeper join the HD Astro member: \nhttps://healthmanifested.com/hd-astro-course-options\n\n🎶 Subscribe for more songs and insights on Astrology, Human Design, Gene Keys, and Tarot:\nhttps://www.youtube.com/@healthmanifested",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCKkCzTV-_CEg_R-gaCttec.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBKqZB4pE2Ujj8xTsMNA1Yr",
+      "title": "Sun in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBKqZB4pE2Ujj8xTsMNA1Yr",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "HadxZG6Ot30",
+          "title": "Sun in Aries – Flames of Confidence",
+          "url": "https://www.youtube.com/watch?v=HadxZG6Ot30"
+        },
+        {
+          "video_id": "dU61u7fkvJI",
+          "title": "Sun in Taurus – Treasures of the Heart",
+          "url": "https://www.youtube.com/watch?v=dU61u7fkvJI"
+        },
+        {
+          "video_id": "huX8exCJILs",
+          "title": "Sun in Gemini – Voices of the Wind",
+          "url": "https://www.youtube.com/watch?v=huX8exCJILs"
+        },
+        {
+          "video_id": "_soZ2Lfwlyw",
+          "title": "Sun in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=_soZ2Lfwlyw"
+        },
+        {
+          "video_id": "xsaLqmQYfPw",
+          "title": "Sun in Leo – Crown of Fire",
+          "url": "https://www.youtube.com/watch?v=xsaLqmQYfPw"
+        },
+        {
+          "video_id": "Ql2JoirFKF8",
+          "title": "Light of Precision – Sun in Virgo",
+          "url": "https://www.youtube.com/watch?v=Ql2JoirFKF8"
+        },
+        {
+          "video_id": "DvGLVKKrYoc",
+          "title": "Harmony of the Heart – Sun in Libra",
+          "url": "https://www.youtube.com/watch?v=DvGLVKKrYoc"
+        },
+        {
+          "video_id": "6sZgHre-QqQ",
+          "title": "Shadows of Power – Sun in Scorpio",
+          "url": "https://www.youtube.com/watch?v=6sZgHre-QqQ"
+        },
+        {
+          "video_id": "KL5ElRRAKeE",
+          "title": "Sun in Sagittarius – Arrows of Truth",
+          "url": "https://www.youtube.com/watch?v=KL5ElRRAKeE"
+        },
+        {
+          "video_id": "7wmqasYxO6E",
+          "title": "Sun in Capricorn – Mountain of Resolve",
+          "url": "https://www.youtube.com/watch?v=7wmqasYxO6E"
+        },
+        {
+          "video_id": "qVy1ifAdMy8",
+          "title": "Sun in Aquarius – Vision of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=qVy1ifAdMy8"
+        },
+        {
+          "video_id": "ahhW4ysD5MA",
+          "title": "Sun in Pisces – Oceans of Dreams",
+          "url": "https://www.youtube.com/watch?v=ahhW4ysD5MA"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Explore the Sun in each zodiac sign and uncover the unique qualities, lessons, and gifts it brings. These songs and insights dive into the confidence of Leo, the sensitivity of Pisces, the boldness of Aries, the grounded nature of Taurus, and all the other expressions of the Sun.\n\nEach video highlights the essence of the Sun’s placement, helping you connect with your own chart and the energy of others. Whether you’re learning Astrology, Human Design, or simply curious about your Sun sign, this playlist offers inspiration and understanding.\n\n🌟 Want to go deeper? Sign up for the HD Astro Membership to access a complete course, references, and guidance that blend Astrology and Human Design together: https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBKqZB4pE2Ujj8xTsMNA1Yr.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDDkJpuQalpQ17L0V0TP9ss",
+      "title": "Mercury in Signs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDDkJpuQalpQ17L0V0TP9ss",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "zOL8fjouoEk",
+          "title": "Mercury in Aries, Astrology",
+          "url": "https://www.youtube.com/watch?v=zOL8fjouoEk"
+        },
+        {
+          "video_id": "eS3lpQ8xIPs",
+          "title": "Mercury in Taurus, Astrology",
+          "url": "https://www.youtube.com/watch?v=eS3lpQ8xIPs"
+        },
+        {
+          "video_id": "QtIygFPNtKs",
+          "title": "Mercury in Gemini, Astrology",
+          "url": "https://www.youtube.com/watch?v=QtIygFPNtKs"
+        },
+        {
+          "video_id": "UXS9jbsDRc4",
+          "title": "Mercury in Cancer, Astrology",
+          "url": "https://www.youtube.com/watch?v=UXS9jbsDRc4"
+        },
+        {
+          "video_id": "K8VSaXsan6g",
+          "title": "Mercury in Leo, Astrology",
+          "url": "https://www.youtube.com/watch?v=K8VSaXsan6g"
+        },
+        {
+          "video_id": "vAbLtEVLTgA",
+          "title": "Mercury in Virgo, Astrology",
+          "url": "https://www.youtube.com/watch?v=vAbLtEVLTgA"
+        },
+        {
+          "video_id": "wpA34XQE_X8",
+          "title": "Mercury in Libra, Astrology",
+          "url": "https://www.youtube.com/watch?v=wpA34XQE_X8"
+        },
+        {
+          "video_id": "B4CXC8sVCUc",
+          "title": "Mercury in Scorpio, Astrology",
+          "url": "https://www.youtube.com/watch?v=B4CXC8sVCUc"
+        },
+        {
+          "video_id": "rYaHyUJ3Iyc",
+          "title": "Mercury in Sagittarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=rYaHyUJ3Iyc"
+        },
+        {
+          "video_id": "TgyKbrg9uPg",
+          "title": "Mercury in Capricorn, Astrology",
+          "url": "https://www.youtube.com/watch?v=TgyKbrg9uPg"
+        },
+        {
+          "video_id": "h_S9r18EKqI",
+          "title": "Mercury in Aquarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=h_S9r18EKqI"
+        },
+        {
+          "video_id": "kTFg_m9Odgk",
+          "title": "Mercury in Pisces, Astrology",
+          "url": "https://www.youtube.com/watch?v=kTFg_m9Odgk"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDDkJpuQalpQ17L0V0TP9ss.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCSULOrPdgqa9-s3p3EtaQP",
+      "title": "Jupiter in Signs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCSULOrPdgqa9-s3p3EtaQP",
+      "displayed_video_count": "13 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "Y2TeQVihNwA",
+          "title": "Jupiter In Aries, Astrology",
+          "url": "https://www.youtube.com/watch?v=Y2TeQVihNwA"
+        },
+        {
+          "video_id": "FORfjeM1bUo",
+          "title": "Jupiter In Taurus, Astrology",
+          "url": "https://www.youtube.com/watch?v=FORfjeM1bUo"
+        },
+        {
+          "video_id": "13BuPeXfg7U",
+          "title": "Jupiter In Gemini, Astrology",
+          "url": "https://www.youtube.com/watch?v=13BuPeXfg7U"
+        },
+        {
+          "video_id": "l_pl6TICdy0",
+          "title": "Jupiter In Cancer, Astrology",
+          "url": "https://www.youtube.com/watch?v=l_pl6TICdy0"
+        },
+        {
+          "video_id": "o7DYcd8b5AQ",
+          "title": "Jupiter In Leo, Astrology",
+          "url": "https://www.youtube.com/watch?v=o7DYcd8b5AQ"
+        },
+        {
+          "video_id": "tfjchIhP6b0",
+          "title": "Jupiter In Virgo, Astrology",
+          "url": "https://www.youtube.com/watch?v=tfjchIhP6b0"
+        },
+        {
+          "video_id": "UmQVL9AMzdM",
+          "title": "Jupiter In Libra, Astrology",
+          "url": "https://www.youtube.com/watch?v=UmQVL9AMzdM"
+        },
+        {
+          "video_id": "J5mCwzkRT7s",
+          "title": "Jupiter In Scorpio, Astrology",
+          "url": "https://www.youtube.com/watch?v=J5mCwzkRT7s"
+        },
+        {
+          "video_id": "F7RxRKvYOf4",
+          "title": "Jupiter In Sagittarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=F7RxRKvYOf4"
+        },
+        {
+          "video_id": "rT3A_y5ck1U",
+          "title": "Jupiter In Capricorn, Astrology",
+          "url": "https://www.youtube.com/watch?v=rT3A_y5ck1U"
+        },
+        {
+          "video_id": "tndE_KmsXc0",
+          "title": "Jupiter In Aquarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=tndE_KmsXc0"
+        },
+        {
+          "video_id": "4BiJNmLhgtw",
+          "title": "Jupiter In Pisces, Astrology",
+          "url": "https://www.youtube.com/watch?v=4BiJNmLhgtw"
+        },
+        {
+          "video_id": "4ayw9bvTVow",
+          "title": "Jupiter in Leo – Shine Through Me",
+          "url": "https://www.youtube.com/watch?v=4ayw9bvTVow"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCSULOrPdgqa9-s3p3EtaQP.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaD4u3mW69nDQT7XLJ1_QMM_",
+      "title": "Chiron in Signs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaD4u3mW69nDQT7XLJ1_QMM_",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "hYXYtzymyrA",
+          "title": "Chiron in Aries, Astrology",
+          "url": "https://www.youtube.com/watch?v=hYXYtzymyrA"
+        },
+        {
+          "video_id": "eQt6gCSTUTU",
+          "title": "Chiron in Taurus, Astrology",
+          "url": "https://www.youtube.com/watch?v=eQt6gCSTUTU"
+        },
+        {
+          "video_id": "IR4aQPiEGRk",
+          "title": "Chiron in Gemini, Astrology",
+          "url": "https://www.youtube.com/watch?v=IR4aQPiEGRk"
+        },
+        {
+          "video_id": "9NOkmyLO93g",
+          "title": "Chiron in Cancer, Astrology",
+          "url": "https://www.youtube.com/watch?v=9NOkmyLO93g"
+        },
+        {
+          "video_id": "9Q5GFbBh1BM",
+          "title": "Chiron in Leo, Astrology",
+          "url": "https://www.youtube.com/watch?v=9Q5GFbBh1BM"
+        },
+        {
+          "video_id": "3wi9PMcnsfg",
+          "title": "Chiron in Virgo, Astrology",
+          "url": "https://www.youtube.com/watch?v=3wi9PMcnsfg"
+        },
+        {
+          "video_id": "uxvi97KPJ_4",
+          "title": "Chiron in Libra, Astrology",
+          "url": "https://www.youtube.com/watch?v=uxvi97KPJ_4"
+        },
+        {
+          "video_id": "4ALLB1qKXow",
+          "title": "Chiron in Scorpio, Astrology",
+          "url": "https://www.youtube.com/watch?v=4ALLB1qKXow"
+        },
+        {
+          "video_id": "ee6ub8VYIXk",
+          "title": "Chiron in Capricorn, Astrology",
+          "url": "https://www.youtube.com/watch?v=ee6ub8VYIXk"
+        },
+        {
+          "video_id": "esiJvCqWmvM",
+          "title": "Chiron in Sagittarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=esiJvCqWmvM"
+        },
+        {
+          "video_id": "objT9sg7zGE",
+          "title": "Chiron in Aquarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=objT9sg7zGE"
+        },
+        {
+          "video_id": "XPmKx7xDYwc",
+          "title": "Chiron in Pisces, Astrology",
+          "url": "https://www.youtube.com/watch?v=XPmKx7xDYwc"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaD4u3mW69nDQT7XLJ1_QMM_.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCD4kOJnoGYD6QmUknMl7Cn",
+      "title": "Mars in Signs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCD4kOJnoGYD6QmUknMl7Cn",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "h9woLBdQgAM",
+          "title": "Mars in Aries, Astrology",
+          "url": "https://www.youtube.com/watch?v=h9woLBdQgAM"
+        },
+        {
+          "video_id": "C0VOZ27nMjI",
+          "title": "Mars in Taurus, Astrology",
+          "url": "https://www.youtube.com/watch?v=C0VOZ27nMjI"
+        },
+        {
+          "video_id": "k57cfdkzuSA",
+          "title": "Mars in Gemini, Astrology",
+          "url": "https://www.youtube.com/watch?v=k57cfdkzuSA"
+        },
+        {
+          "video_id": "2son_80BEb8",
+          "title": "Mars in Cancer, Astrology",
+          "url": "https://www.youtube.com/watch?v=2son_80BEb8"
+        },
+        {
+          "video_id": "RrCE5uY_-PE",
+          "title": "Mars in Leo, Astrology",
+          "url": "https://www.youtube.com/watch?v=RrCE5uY_-PE"
+        },
+        {
+          "video_id": "QGtin7onanc",
+          "title": "Mars in Virgo, Astrology",
+          "url": "https://www.youtube.com/watch?v=QGtin7onanc"
+        },
+        {
+          "video_id": "GL9G18sqoUc",
+          "title": "Mars in Libra, Astrology",
+          "url": "https://www.youtube.com/watch?v=GL9G18sqoUc"
+        },
+        {
+          "video_id": "w7bdSY3tNpU",
+          "title": "Mars in Scorpio, Astrology",
+          "url": "https://www.youtube.com/watch?v=w7bdSY3tNpU"
+        },
+        {
+          "video_id": "rkeFdG8Q2HQ",
+          "title": "Mars in Sagittarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=rkeFdG8Q2HQ"
+        },
+        {
+          "video_id": "DISYHWtjqYc",
+          "title": "Mars in Capricorn, Astrology",
+          "url": "https://www.youtube.com/watch?v=DISYHWtjqYc"
+        },
+        {
+          "video_id": "ASrvvtXLzn0",
+          "title": "Mars in Aquarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=ASrvvtXLzn0"
+        },
+        {
+          "video_id": "QPdCI8kUjkE",
+          "title": "Mars in Pisces, Astrology",
+          "url": "https://www.youtube.com/watch?v=QPdCI8kUjkE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCD4kOJnoGYD6QmUknMl7Cn.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBlACwh23bnNzgmcHSYxy__",
+      "title": "Venus in Signs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBlACwh23bnNzgmcHSYxy__",
+      "displayed_video_count": "13 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "qxkn45eOpF0",
+          "title": "Venus, Astrology",
+          "url": "https://www.youtube.com/watch?v=qxkn45eOpF0"
+        },
+        {
+          "video_id": "oMDxd3kV414",
+          "title": "Venus In Aries, Astrology",
+          "url": "https://www.youtube.com/watch?v=oMDxd3kV414"
+        },
+        {
+          "video_id": "lLaZeSkJ8Xo",
+          "title": "Venus In Taurus, Astrology",
+          "url": "https://www.youtube.com/watch?v=lLaZeSkJ8Xo"
+        },
+        {
+          "video_id": "gry0A8Or3W4",
+          "title": "Venus In Gemini, Astrology",
+          "url": "https://www.youtube.com/watch?v=gry0A8Or3W4"
+        },
+        {
+          "video_id": "rZ4SBr6HnGI",
+          "title": "Venus In Cancer, Astrology",
+          "url": "https://www.youtube.com/watch?v=rZ4SBr6HnGI"
+        },
+        {
+          "video_id": "L_FXnOC7JsQ",
+          "title": "Venus In Leo, Astrology",
+          "url": "https://www.youtube.com/watch?v=L_FXnOC7JsQ"
+        },
+        {
+          "video_id": "3i73yOGXy8U",
+          "title": "Venus In Virgo, Astrology",
+          "url": "https://www.youtube.com/watch?v=3i73yOGXy8U"
+        },
+        {
+          "video_id": "umrB25rC9e4",
+          "title": "Venus In Libra, Astrology",
+          "url": "https://www.youtube.com/watch?v=umrB25rC9e4"
+        },
+        {
+          "video_id": "3jQMQbBfCo4",
+          "title": "Venus In Scorpio, Astrology",
+          "url": "https://www.youtube.com/watch?v=3jQMQbBfCo4"
+        },
+        {
+          "video_id": "SWaepRvvExo",
+          "title": "Venus In Sagittarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=SWaepRvvExo"
+        },
+        {
+          "video_id": "Cktwi5z_a2g",
+          "title": "Venus In Capricorn, Astrology",
+          "url": "https://www.youtube.com/watch?v=Cktwi5z_a2g"
+        },
+        {
+          "video_id": "gcoURaUNiGY",
+          "title": "Venus in Aquarius, Astrology",
+          "url": "https://www.youtube.com/watch?v=gcoURaUNiGY"
+        },
+        {
+          "video_id": "OFuuHaTfzco",
+          "title": "Venus In Pisces, Astrology",
+          "url": "https://www.youtube.com/watch?v=OFuuHaTfzco"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBlACwh23bnNzgmcHSYxy__.md"
+    }
+  ]
+}

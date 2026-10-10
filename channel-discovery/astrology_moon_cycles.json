@@ -1,0 +1,580 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Moon Phases, Moon Signs, and Eclipse Songs",
+  "purpose": "Songs organized around lunar phases, zodiac placements, and eclipse themes.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 8,
+  "unique_listed_video_ids": 91,
+  "playlists": [
+    {
+      "playlist_id": "PL0rem6quVJaAXsTerx4IPoKkNg3Ubkj03",
+      "title": "Third Quarter Moon Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAXsTerx4IPoKkNg3Ubkj03",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "sMw_iGpGnl0",
+          "title": "Third Quarter Moon in Aries – Ashes of Renewal",
+          "url": "https://www.youtube.com/watch?v=sMw_iGpGnl0"
+        },
+        {
+          "video_id": "yuz60kFbZVk",
+          "title": "Third Quarter Moon in Taurus – Echoes of Stability",
+          "url": "https://www.youtube.com/watch?v=yuz60kFbZVk"
+        },
+        {
+          "video_id": "ObRPCmtVOsw",
+          "title": "Third Quarter Moon in Gemini Simple Smiles",
+          "url": "https://www.youtube.com/watch?v=ObRPCmtVOsw"
+        },
+        {
+          "video_id": "qIv6as49pvQ",
+          "title": "Third Quarter Moon in Cancer – Heart of Home",
+          "url": "https://www.youtube.com/watch?v=qIv6as49pvQ"
+        },
+        {
+          "video_id": "ahb3F31aUcA",
+          "title": "Third Quarter Moon in Leo – Flames of Reflection",
+          "url": "https://www.youtube.com/watch?v=ahb3F31aUcA"
+        },
+        {
+          "video_id": "-wuSXak9KFI",
+          "title": "Third Quarter Moon in Virgo – Threads of Clarity",
+          "url": "https://www.youtube.com/watch?v=-wuSXak9KFI"
+        },
+        {
+          "video_id": "obT4Q0JRmn8",
+          "title": "Third Quarter Moon in Libra – Scales of Release",
+          "url": "https://www.youtube.com/watch?v=obT4Q0JRmn8"
+        },
+        {
+          "video_id": "9Bh9y6V1K_M",
+          "title": "Third Quarter Moon in Scorpio – Shadows of Desire",
+          "url": "https://www.youtube.com/watch?v=9Bh9y6V1K_M"
+        },
+        {
+          "video_id": "5KqOe0R9UoQ",
+          "title": "Third Quarter Moon in Sagittarius – Arrows of Hope",
+          "url": "https://www.youtube.com/watch?v=5KqOe0R9UoQ"
+        },
+        {
+          "video_id": "Jca8lRtL7rM",
+          "title": "Third Quarter Moon in Capricorn – Pillars of Resolve",
+          "url": "https://www.youtube.com/watch?v=Jca8lRtL7rM"
+        },
+        {
+          "video_id": "lAo41ve_emA",
+          "title": "Third Quarter Moon in Aquarius – Visions of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=lAo41ve_emA"
+        },
+        {
+          "video_id": "SZs_fLvRJlM",
+          "title": "Third Quarter Moon in Pisces – Tides of Surrender",
+          "url": "https://www.youtube.com/watch?v=SZs_fLvRJlM"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌗 The Third Quarter Moon is a time of reflection, release, and integration. This phase invites you to look back on what has unfolded since the New Moon, assess what has served you, and let go of what no longer aligns with your path. It’s a period of inner wisdom, acceptance, and preparation for renewal as the lunar cycle moves toward completion.\n\n✨ These songs are created to support you in embracing release, finding clarity, and reconnecting with your inner balance during this phase of the Moon.\n\n🎶 Explore deeper connections with astrology, Human Design, and lunar cycles through the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAXsTerx4IPoKkNg3Ubkj03.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAgAtGSSday-D9P8aRg31eb",
+      "title": "First Quarter Moon Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAgAtGSSday-D9P8aRg31eb",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "qZI1GXoM_1M",
+          "title": "First Quarter Moon in Aries – Flames of Resolve",
+          "url": "https://www.youtube.com/watch?v=qZI1GXoM_1M"
+        },
+        {
+          "video_id": "BUCg7UT3HwI",
+          "title": "First Quarter Moon in Taurus – Steadfast Path",
+          "url": "https://www.youtube.com/watch?v=BUCg7UT3HwI"
+        },
+        {
+          "video_id": "mdZtWmVuFRw",
+          "title": "First Quarter Moon in Cancer – Roots of Strength",
+          "url": "https://www.youtube.com/watch?v=mdZtWmVuFRw"
+        },
+        {
+          "video_id": "Nq_kq88E0IM",
+          "title": "First Quarter Moon in Gemini – Voices of the Path",
+          "url": "https://www.youtube.com/watch?v=Nq_kq88E0IM"
+        },
+        {
+          "video_id": "vc5obPfE3LI",
+          "title": "First Quarter Moon in Leo – Crown of Fire",
+          "url": "https://www.youtube.com/watch?v=vc5obPfE3LI"
+        },
+        {
+          "video_id": "ThdEmRpYcEg",
+          "title": "First Quarter Moon in Virgo – Steps of Precision",
+          "url": "https://www.youtube.com/watch?v=ThdEmRpYcEg"
+        },
+        {
+          "video_id": "chUnaUXkIqs",
+          "title": "First Quarter Moon in Libra – Scales of Harmony",
+          "url": "https://www.youtube.com/watch?v=chUnaUXkIqs"
+        },
+        {
+          "video_id": "U1HxYN-0PMA",
+          "title": "First Quarter Moon in Scorpio – Flames of Transformation",
+          "url": "https://www.youtube.com/watch?v=U1HxYN-0PMA"
+        },
+        {
+          "video_id": "HhNnPpBfjW4",
+          "title": "First Quarter Moon in Sagittarius – Arrows of Ascent",
+          "url": "https://www.youtube.com/watch?v=HhNnPpBfjW4"
+        },
+        {
+          "video_id": "rAxaX9Iwrrc",
+          "title": "Climb the Mountain: First Quarter Moon in Capricorn",
+          "url": "https://www.youtube.com/watch?v=rAxaX9Iwrrc"
+        },
+        {
+          "video_id": "HUMEhHwGkEw",
+          "title": "Sparks of Tomorrow – First Quarter Moon in Aquarius",
+          "url": "https://www.youtube.com/watch?v=HUMEhHwGkEw"
+        },
+        {
+          "video_id": "UZO7VZ_R0xU",
+          "title": "First Quarter Moon in Pisces – Tides of Vision",
+          "url": "https://www.youtube.com/watch?v=UZO7VZ_R0xU"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌙 The First Quarter Moon is a powerful time of action, decision-making, and growth. These songs are created to align with the energy of the lunar cycle, helping you tune into motivation, strength, and momentum. Whether you’re working on new projects, making important choices, or seeking clarity, this phase encourages you to take steps forward with confidence.\n\n✨ Explore the rhythms of the First Quarter Moon through music and let the energy of this phase guide your journey.\n\n🎶 Discover more ways to understand astrology, Human Design, and lunar cycles with the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAgAtGSSday-D9P8aRg31eb.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCbzm8o20VRQL8aHDpyuRlu",
+      "title": "New Moon Eclipse in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCbzm8o20VRQL8aHDpyuRlu",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "jFhlUjr0Xw0",
+          "title": "New Moon Solar Eclipse in Aries – Fire of Becoming",
+          "url": "https://www.youtube.com/watch?v=jFhlUjr0Xw0"
+        },
+        {
+          "video_id": "araDlVuWMVQ",
+          "title": "New Moon Solar Eclipse in Taurus – Seeds of Serenity",
+          "url": "https://www.youtube.com/watch?v=araDlVuWMVQ"
+        },
+        {
+          "video_id": "xvcH2qg0Vuk",
+          "title": "New Moon Solar Eclipse in Gemini – Winds of Discovery",
+          "url": "https://www.youtube.com/watch?v=xvcH2qg0Vuk"
+        },
+        {
+          "video_id": "vOojct1bbi0",
+          "title": "New Moon Solar Eclipse in Cancer – Ocean of Beginnings",
+          "url": "https://www.youtube.com/watch?v=vOojct1bbi0"
+        },
+        {
+          "video_id": "qVKR01Usw0Y",
+          "title": "New Moon Solar Eclipse in Leo – Heart of Fire",
+          "url": "https://www.youtube.com/watch?v=qVKR01Usw0Y"
+        },
+        {
+          "video_id": "IApPixwoJBA",
+          "title": "New Moon Solar Eclipse in Virgo: Begin Again",
+          "url": "https://www.youtube.com/watch?v=IApPixwoJBA"
+        },
+        {
+          "video_id": "6cYauKf23AI",
+          "title": "New Moon Solar Eclipse in Libra – Harmony’s Dawn",
+          "url": "https://www.youtube.com/watch?v=6cYauKf23AI"
+        },
+        {
+          "video_id": "Y6AQJ74b8b0",
+          "title": "New Moon Solar Eclipse in Scorpio – Shadow into Light",
+          "url": "https://www.youtube.com/watch?v=Y6AQJ74b8b0"
+        },
+        {
+          "video_id": "ehW0fO0rblk",
+          "title": "New Moon Solar Eclipse in Sagittarius – Arrows of Freedom",
+          "url": "https://www.youtube.com/watch?v=ehW0fO0rblk"
+        },
+        {
+          "video_id": "h6FLjkWhons",
+          "title": "Solar Eclipse in Capricorn – Summit of Resolve",
+          "url": "https://www.youtube.com/watch?v=h6FLjkWhons"
+        },
+        {
+          "video_id": "s8wixrpPqsY",
+          "title": "Solar Eclipse in Aquarius – Horizon of Dreams",
+          "url": "https://www.youtube.com/watch?v=s8wixrpPqsY"
+        },
+        {
+          "video_id": "7smzsm_F_ts",
+          "title": "Solar Eclipse in Pisces – Tides of Surrender",
+          "url": "https://www.youtube.com/watch?v=7smzsm_F_ts"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "Experience the New Moon Lunar Eclipse through music \n\nThis playlist is a collection of songs created for the New Moon Lunar Eclipse in each zodiac sign. Lunar Eclipses mark powerful times of change, new beginnings, and hidden truths coming to the surface. Each track captures the unique energy of the zodiac sign the eclipse is in, helping you set intentions, release the past, and step into transformation.\n\nLet the music guide you through the eclipse energy, inspiring renewal, clarity, and a deeper alignment with your path forward.\n\n🔮 Want to go deeper into Human Design and Astrology?\nJoin the HD Astro membership for access to courses, references, and tools that make learning simple and empowering:\n👉 https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCbzm8o20VRQL8aHDpyuRlu.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaCFD4kZJjNd9KJ-ieWHHj9R",
+      "title": "Full Moon Lunar Eclipse in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaCFD4kZJjNd9KJ-ieWHHj9R",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "7y4Tw6nE1I8",
+          "title": "Full Moon Lunar Eclipse in Aries Flames of Renewal",
+          "url": "https://www.youtube.com/watch?v=7y4Tw6nE1I8"
+        },
+        {
+          "video_id": "vojaAOu7NnU",
+          "title": "Full Moon Lunar Eclipse in Taurus – Shadows into Gold",
+          "url": "https://www.youtube.com/watch?v=vojaAOu7NnU"
+        },
+        {
+          "video_id": "j7gxw22AMz4",
+          "title": "Full Moon Lunar Eclipse in Gemini – Echoes of Change",
+          "url": "https://www.youtube.com/watch?v=j7gxw22AMz4"
+        },
+        {
+          "video_id": "xA6No2CIEg4",
+          "title": "Full Moon Lunar Eclipse in Cancer – Tides of Release",
+          "url": "https://www.youtube.com/watch?v=xA6No2CIEg4"
+        },
+        {
+          "video_id": "F3TJ3QGIdlw",
+          "title": "Full Moon Lunar Eclipse in Leo – Crown of Fire",
+          "url": "https://www.youtube.com/watch?v=F3TJ3QGIdlw"
+        },
+        {
+          "video_id": "gIGdZH1aRtg",
+          "title": "Full Moon Lunar Eclipse in Virgo – Light of Renewal",
+          "url": "https://www.youtube.com/watch?v=gIGdZH1aRtg"
+        },
+        {
+          "video_id": "K0AfcBWzxpo",
+          "title": "Full Moon Lunar Eclipse in Libra – Veil of Balance",
+          "url": "https://www.youtube.com/watch?v=K0AfcBWzxpo"
+        },
+        {
+          "video_id": "xpb3IkJM5to",
+          "title": "Full Moon Lunar Eclipse in Scorpio – Flames of Transformation",
+          "url": "https://www.youtube.com/watch?v=xpb3IkJM5to"
+        },
+        {
+          "video_id": "IVsuWBLxk3k",
+          "title": "Full Moon Lunar Eclipse in Sagittarius – Arrows of Belief",
+          "url": "https://www.youtube.com/watch?v=IVsuWBLxk3k"
+        },
+        {
+          "video_id": "1xlVOKs3n8M",
+          "title": "Lunar Eclipse in Capricorn – Mountain of Decisions",
+          "url": "https://www.youtube.com/watch?v=1xlVOKs3n8M"
+        },
+        {
+          "video_id": "OoZiq1ZrYEs",
+          "title": "Full Moon Lunar Eclipse in Aquarius – Sky of Liberation",
+          "url": "https://www.youtube.com/watch?v=OoZiq1ZrYEs"
+        },
+        {
+          "video_id": "ardzz-eo1XY",
+          "title": "Eclipsed Dreams – Full Moon Eclipse in Pisces",
+          "url": "https://www.youtube.com/watch?v=ardzz-eo1XY"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌕✨ Experience the Full Moon Lunar Eclipse through music ✨🌕\n\nThis playlist is a collection of songs created for the Full Moon Lunar Eclipse in each zodiac sign. Lunar Eclipses bring powerful shifts, emotional breakthroughs, and moments of awakening. Each track reflects the unique qualities of the zodiac sign the eclipse is in, helping you connect with its themes and embrace the transformations it reveals.\n\nLet the music guide you through the intensity of the eclipse, inspiring release, clarity, and a deeper alignment with your path.\n\n🔮 Want to go deeper into Human Design and Astrology?\nJoin the HD Astro membership for access to courses, references, and tools that make learning simple and empowering:\n👉 https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaCFD4kZJjNd9KJ-ieWHHj9R.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBQSQ_oy-ZR4TSTDeC-q6yK",
+      "title": "Full Moon in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBQSQ_oy-ZR4TSTDeC-q6yK",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "9pgGeY1EXXM",
+          "title": "Full Moon in Aries – A New Fire Rising",
+          "url": "https://www.youtube.com/watch?v=9pgGeY1EXXM"
+        },
+        {
+          "video_id": "FO9rexdeeec",
+          "title": "Full Moon in Taurus – Harvest of Worth",
+          "url": "https://www.youtube.com/watch?v=FO9rexdeeec"
+        },
+        {
+          "video_id": "zPo8dH2qARY",
+          "title": "Full Moon in Gemini – Voices of Change",
+          "url": "https://www.youtube.com/watch?v=zPo8dH2qARY"
+        },
+        {
+          "video_id": "IRvrGOtLUH4",
+          "title": "Full Moon in Cancer – Tides of the Heart",
+          "url": "https://www.youtube.com/watch?v=IRvrGOtLUH4"
+        },
+        {
+          "video_id": "0If2itmYfmE",
+          "title": "Full Moon in Leo – Fire of Joy",
+          "url": "https://www.youtube.com/watch?v=0If2itmYfmE"
+        },
+        {
+          "video_id": "_xT_MvKyZrg",
+          "title": "Full Moon in Virgo – Light of Renewal",
+          "url": "https://www.youtube.com/watch?v=_xT_MvKyZrg"
+        },
+        {
+          "video_id": "pKRFkyhsVlI",
+          "title": "Full Moon in Libra – Balance of Hearts",
+          "url": "https://www.youtube.com/watch?v=pKRFkyhsVlI"
+        },
+        {
+          "video_id": "HAMD3BjinE0",
+          "title": "Full Moon in Scorpio – Flames of Desire",
+          "url": "https://www.youtube.com/watch?v=HAMD3BjinE0"
+        },
+        {
+          "video_id": "KIwyNOCX1co",
+          "title": "Full Moon in Sagittarius – Arrows of Light",
+          "url": "https://www.youtube.com/watch?v=KIwyNOCX1co"
+        },
+        {
+          "video_id": "bldm8vmd_d8",
+          "title": "Full Moon in Capricorn – Mountain of Clarity",
+          "url": "https://www.youtube.com/watch?v=bldm8vmd_d8"
+        },
+        {
+          "video_id": "Lto4KWGH9_s",
+          "title": "Full Moon in Aquarius – Sky of Freedom",
+          "url": "https://www.youtube.com/watch?v=Lto4KWGH9_s"
+        },
+        {
+          "video_id": "VUH84SfEBh8",
+          "title": "Moonlit Surrender – Full Moon in Pisces",
+          "url": "https://www.youtube.com/watch?v=VUH84SfEBh8"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌕 Experience the Full Moon through music  🌕\n\nThis playlist is a collection of songs created for the Full Moon in each zodiac sign. The Full Moon brings heightened energy, illumination, and a time of completion. Each track reflects the unique qualities of the zodiac sign the Full Moon is in, helping you connect with its energy and gain clarity on what is coming to light.\n\nLet the music guide you into the fullness of the Moon, inspiring awareness, release, and alignment with your intentions.\n\n🔮 Want to go deeper into Human Design and Astrology?\nJoin the HD Astro membership for access to courses, references, and tools that make learning simple and empowering:\n👉 https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBQSQ_oy-ZR4TSTDeC-q6yK.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAuHwVZ2xARzMqtVRLspDiT",
+      "title": "New Moon in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAuHwVZ2xARzMqtVRLspDiT",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "refsoNw__8c",
+          "title": "New Moon in Aries – Sparks of Beginning",
+          "url": "https://www.youtube.com/watch?v=refsoNw__8c"
+        },
+        {
+          "video_id": "PvcUyFLx07M",
+          "title": "New Moon in Taurus – Seeds of Comfort",
+          "url": "https://www.youtube.com/watch?v=PvcUyFLx07M"
+        },
+        {
+          "video_id": "6GzWrpZ3GBY",
+          "title": "New Moon in Gemini – Winds of Possibility",
+          "url": "https://www.youtube.com/watch?v=6GzWrpZ3GBY"
+        },
+        {
+          "video_id": "bn7ARCkyWv0",
+          "title": "New Moon in Cancer – Shores of Belonging",
+          "url": "https://www.youtube.com/watch?v=bn7ARCkyWv0"
+        },
+        {
+          "video_id": "xcsGMOJmLa0",
+          "title": "New Moon in Leo – Flame of Creation",
+          "url": "https://www.youtube.com/watch?v=xcsGMOJmLa0"
+        },
+        {
+          "video_id": "fjy-SBcVEaE",
+          "title": "New Moon in Virgo: Clear the Path",
+          "url": "https://www.youtube.com/watch?v=fjy-SBcVEaE"
+        },
+        {
+          "video_id": "ueb6q5J7HXM",
+          "title": "New Moon in Libra – A Gentle Beginning",
+          "url": "https://www.youtube.com/watch?v=ueb6q5J7HXM"
+        },
+        {
+          "video_id": "gFBt8gGdW2k",
+          "title": "New Moon in Scorpio – Phoenix Rising",
+          "url": "https://www.youtube.com/watch?v=gFBt8gGdW2k"
+        },
+        {
+          "video_id": "L3gqmyg-xHk",
+          "title": "New Moon in Sagittarius – Arrows of Dawn",
+          "url": "https://www.youtube.com/watch?v=L3gqmyg-xHk"
+        },
+        {
+          "video_id": "ti5XZk9iEHI",
+          "title": "New Moon in Capricorn – Steps of Resolve",
+          "url": "https://www.youtube.com/watch?v=ti5XZk9iEHI"
+        },
+        {
+          "video_id": "7s7iK8pobIY",
+          "title": "New Moon in Aquarius – Dreamers of the Sky",
+          "url": "https://www.youtube.com/watch?v=7s7iK8pobIY"
+        },
+        {
+          "video_id": "WZYxDBHF90c",
+          "title": "New Moon in Pisces – Tides of Surrender",
+          "url": "https://www.youtube.com/watch?v=WZYxDBHF90c"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌙Experience the New Moon through music 🌙\n\nThis playlist is a collection of songs created for the New Moon in each zodiac sign. The New Moon is a time of fresh beginnings, setting intentions, and planting seeds for the future. Each track reflects the unique energy of the zodiac sign the New Moon is in, helping you align with its themes and open to new possibilities.\n\nLet the music guide you into the quiet power of the New Moon, inspiring clarity, renewal, and intention for what lies ahead.\n\n🔮 Want to go deeper into Human Design and Astrology?\nJoin the HD Astro membership for access to courses, references, and tools that make learning simple and empowering:\n👉 https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAuHwVZ2xARzMqtVRLspDiT.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaA6nNG3wto6vw_1xPQtuvFV",
+      "title": "Moon Phase Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaA6nNG3wto6vw_1xPQtuvFV",
+      "displayed_video_count": "7 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "fy92oNowGnU",
+          "title": "New Moon – Seeds of Tomorrow",
+          "url": "https://www.youtube.com/watch?v=fy92oNowGnU"
+        },
+        {
+          "video_id": "fqAYSFQDodc",
+          "title": "Waxing Moon – Rise of the Light",
+          "url": "https://www.youtube.com/watch?v=fqAYSFQDodc"
+        },
+        {
+          "video_id": "E2Ft8nMJyvM",
+          "title": "Full Moon – Circle of Completion",
+          "url": "https://www.youtube.com/watch?v=E2Ft8nMJyvM"
+        },
+        {
+          "video_id": "IsECgsfL4nM",
+          "title": "Waning Moon – Quiet Release",
+          "url": "https://www.youtube.com/watch?v=IsECgsfL4nM"
+        },
+        {
+          "video_id": "bf8rBAe4x2o",
+          "title": "Eclipses – Shadows of Destiny",
+          "url": "https://www.youtube.com/watch?v=bf8rBAe4x2o"
+        },
+        {
+          "video_id": "FwCPl_vMd2c",
+          "title": "Third Quarter Moon – Light in the Dark",
+          "url": "https://www.youtube.com/watch?v=FwCPl_vMd2c"
+        },
+        {
+          "video_id": "Y9rxuk0qK2w",
+          "title": "First Quarter Moon – Halfway to Light",
+          "url": "https://www.youtube.com/watch?v=Y9rxuk0qK2w"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌙✨ Explore the energy of the Moon through music ✨🌙\n\nThis playlist is a collection of songs created for each phase of the Moon. Each track captures the rhythm, emotion, and transformation that the lunar cycle brings. From the New Moon’s quiet beginnings to the fullness of the Full Moon and the release of the Waning Moon, these songs are designed to guide you through the phases of renewal, growth, clarity, and reflection.\n\nLet the music help you connect with the cycles of the Moon in a way that inspires awareness and alignment.\n\n🔮 Want to go deeper into Human Design and Astrology?\nJoin the HD Astro membership for access to courses, references, and tools that make learning simple and empowering:\n👉 https://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaA6nNG3wto6vw_1xPQtuvFV.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAUQ1O6MZ60fjHtM1sbj_km",
+      "title": "Moon in Signs Songs",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAUQ1O6MZ60fjHtM1sbj_km",
+      "displayed_video_count": "12 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "YA2Pd9SAmS8",
+          "title": "Moon in Aries – Fire of the Heart",
+          "url": "https://www.youtube.com/watch?v=YA2Pd9SAmS8"
+        },
+        {
+          "video_id": "siTIZDm9N7E",
+          "title": "Moon in Taurus – Steady Heart",
+          "url": "https://www.youtube.com/watch?v=siTIZDm9N7E"
+        },
+        {
+          "video_id": "sMFpGsyQ-oQ",
+          "title": "Moon in Gemini – Whispers in the Air",
+          "url": "https://www.youtube.com/watch?v=sMFpGsyQ-oQ"
+        },
+        {
+          "video_id": "nZn_RhRPbnc",
+          "title": "Moon in Cancer – Heart of the Tide",
+          "url": "https://www.youtube.com/watch?v=nZn_RhRPbnc"
+        },
+        {
+          "video_id": "Jkzjey4pI3E",
+          "title": "Moon in Leo – Flame of the Heart",
+          "url": "https://www.youtube.com/watch?v=Jkzjey4pI3E"
+        },
+        {
+          "video_id": "fDf_IIoB1m8",
+          "title": "Moon in Virgo – Silent Perfection",
+          "url": "https://www.youtube.com/watch?v=fDf_IIoB1m8"
+        },
+        {
+          "video_id": "jSCqMYZiNq4",
+          "title": "Balancing Light – Moon in Libra",
+          "url": "https://www.youtube.com/watch?v=jSCqMYZiNq4"
+        },
+        {
+          "video_id": "iyL1r3myKb0",
+          "title": "Moon in Scorpio – Depth of the Soul",
+          "url": "https://www.youtube.com/watch?v=iyL1r3myKb0"
+        },
+        {
+          "video_id": "iKl1I5HQKVc",
+          "title": "Moon in Sagittarius – Arrows of Freedom",
+          "url": "https://www.youtube.com/watch?v=iKl1I5HQKVc"
+        },
+        {
+          "video_id": "Y80cP6GDwgw",
+          "title": "Moon in Capricorn – Mountain of Strength",
+          "url": "https://www.youtube.com/watch?v=Y80cP6GDwgw"
+        },
+        {
+          "video_id": "1hWyeNIbBPc",
+          "title": "Moon in Aquarius – Winds of Freedom",
+          "url": "https://www.youtube.com/watch?v=1hWyeNIbBPc"
+        },
+        {
+          "video_id": "Qb9YAz5PrmE",
+          "title": "Ocean of Dreams – Moon in Pisces",
+          "url": "https://www.youtube.com/watch?v=Qb9YAz5PrmE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "🌙 Explore the Moon in Every Sign 🌙\n\nThe Moon in your chart reflects your inner world, emotions, and deepest needs. Each zodiac sign colors the Moon’s energy differently, shaping how feelings are processed, expressed, and experienced.\n\nThis playlist brings together songs that capture the unique qualities of the Moon in each sign, offering a creative and intuitive way to connect with your emotional self. Whether your Moon is fiery, earthy, airy, or watery, you’ll find inspiration and resonance here.\n\n✨ Listen to the full playlist and discover how the Moon in signs speaks to your heart and soul.\n✨ For deeper insight into your chart and to learn how astrology and Human Design connect, explore the HD Astro Membership: https://healthmanifested.com/hd-astro-course-options",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAUQ1O6MZ60fjHtM1sbj_km.md"
+    }
+  ]
+}

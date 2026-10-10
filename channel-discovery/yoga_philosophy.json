@@ -1,0 +1,2087 @@
+{
+  "schema_version": "1.0.0",
+  "channel": "Health Manifested",
+  "retrieved_at": "2026-10-10",
+  "title": "Yoga Sutras and Bhagavad Gita Songs",
+  "purpose": "Music collections for yoga philosophy and spiritual texts.",
+  "topic_grouping_basis": "Playlist titles, used for navigation rather than video-content classification. Actual membership comes from the linked playlist pages.",
+  "scope": "All playlists returned by the public channel playlist tab; video membership is collected from public playlist pages. Listed videos can include members-only content. Uploads outside playlists are not covered by this snapshot. Individual retrieval failures are recorded.",
+  "playlist_count": 6,
+  "unique_listed_video_ids": 203,
+  "playlists": [
+    {
+      "playlist_id": "PL0rem6quVJaBse-G_eTD6V6h4nzkxZ-4B",
+      "title": "Bhagavad Gita Chapter 1: The Inner Battlefield",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBse-G_eTD6V6h4nzkxZ-4B",
+      "displayed_video_count": "8 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "PYMyWet44NQ",
+          "title": "Bhagavad Gita 1.10   Unlimited and Limited",
+          "url": "https://www.youtube.com/watch?v=PYMyWet44NQ"
+        },
+        {
+          "video_id": "Ufr1W08709E",
+          "title": "Bhagavad Gita 1.9   Ready to Die for Me",
+          "url": "https://www.youtube.com/watch?v=Ufr1W08709E"
+        },
+        {
+          "video_id": "UAklluXV7OE",
+          "title": "Bhagavad Gita 1.8   Bound by Loyalty",
+          "url": "https://www.youtube.com/watch?v=UAklluXV7OE"
+        },
+        {
+          "video_id": "G1BUFoRi_Yg",
+          "title": "Bhagavad Gita 1.7   The Need for Reassurance",
+          "url": "https://www.youtube.com/watch?v=G1BUFoRi_Yg"
+        },
+        {
+          "video_id": "PPzmZcQsuaE",
+          "title": "Bhagavad Gita 1.4–6   The Names of Fear",
+          "url": "https://www.youtube.com/watch?v=PPzmZcQsuaE"
+        },
+        {
+          "video_id": "lIceYw5ZpPU",
+          "title": "Bhagavad Gita 1 3   The Wound Remembered",
+          "url": "https://www.youtube.com/watch?v=lIceYw5ZpPU"
+        },
+        {
+          "video_id": "rYSo8MeBu7A",
+          "title": "Bhagavad Gita 1.2   The Formation of Truth",
+          "url": "https://www.youtube.com/watch?v=rYSo8MeBu7A"
+        },
+        {
+          "video_id": "45UKglsjwVI",
+          "title": "Bhagavad Gita 1.1   The Field of Dharma Within",
+          "url": "https://www.youtube.com/watch?v=45UKglsjwVI"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist follows Chapter 1 of the Bhagavad Gita, the moment Arjuna stands on the battlefield and faces inner conflict, fear, and moral confusion. These songs move through anxiety, grief, identity crisis, and the pause before transformation. Listen in order for a journey from tension to surrender.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBse-G_eTD6V6h4nzkxZ-4B.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAPlBP2AOiQRAEiwsQ7Z0_b",
+      "title": "Yoga Sutras: Book IV: The Mechanism of Spiritual Liberation",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAPlBP2AOiQRAEiwsQ7Z0_b",
+      "displayed_video_count": "34 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "OXloiUFXops",
+          "title": "Yoga Sutra 4.1 – The Sources of Psychic and Spiritual Powers",
+          "url": "https://www.youtube.com/watch?v=OXloiUFXops"
+        },
+        {
+          "video_id": "iNgkvslsObM",
+          "title": "Yoga Sutra 4.2 – The Evolution of Consciousness",
+          "url": "https://www.youtube.com/watch?v=iNgkvslsObM"
+        },
+        {
+          "video_id": "6maJi_SGv54",
+          "title": "Yoga Sutra 4.3 – Preparing the Ground for Spiritual Growth",
+          "url": "https://www.youtube.com/watch?v=6maJi_SGv54"
+        },
+        {
+          "video_id": "bWn7htjxNpc",
+          "title": "Yoga Sutra 4.4 – Beyond the Layers of Self",
+          "url": "https://www.youtube.com/watch?v=bWn7htjxNpc"
+        },
+        {
+          "video_id": "9mfS-fkKslk",
+          "title": "Yoga Sutra 4.5 – The Unity Behind Diversity",
+          "url": "https://www.youtube.com/watch?v=9mfS-fkKslk"
+        },
+        {
+          "video_id": "Gn_O3ZJGNrk",
+          "title": "Yoga Sutra 4.6 – Liberation Through Meditation",
+          "url": "https://www.youtube.com/watch?v=Gn_O3ZJGNrk"
+        },
+        {
+          "video_id": "MEWUyBVHm78",
+          "title": "Yoga Sutra 4.7 – Actions Beyond Desire",
+          "url": "https://www.youtube.com/watch?v=MEWUyBVHm78"
+        },
+        {
+          "video_id": "hqKpbB83QfE",
+          "title": "Yoga Sutra 4.8 – Karma and the Seeds of Destiny",
+          "url": "https://www.youtube.com/watch?v=hqKpbB83QfE"
+        },
+        {
+          "video_id": "8lBIAS2xXN0",
+          "title": "Yoga Sutra 4.9 – The Thread of Karma Across Lifetimes",
+          "url": "https://www.youtube.com/watch?v=8lBIAS2xXN0"
+        },
+        {
+          "video_id": "a6ladLhZhsk",
+          "title": "Yoga Sutra 4.10 – The Eternal Stream of Desire",
+          "url": "https://www.youtube.com/watch?v=a6ladLhZhsk"
+        },
+        {
+          "video_id": "O7MkW0SSh0A",
+          "title": "Yoga Sutra 4.11 – Stopping the Cycle of Mind Images",
+          "url": "https://www.youtube.com/watch?v=O7MkW0SSh0A"
+        },
+        {
+          "video_id": "_D60Blu_wH4",
+          "title": "Yoga Sutra 4.12 – Transcending Time",
+          "url": "https://www.youtube.com/watch?v=_D60Blu_wH4"
+        },
+        {
+          "video_id": "B4DQia6qhI8",
+          "title": "Yoga Sutra 4.13 – The Three Qualities of Matter",
+          "url": "https://www.youtube.com/watch?v=B4DQia6qhI8"
+        },
+        {
+          "video_id": "5kU4X1P85rE",
+          "title": "Yoga Sutra 4.14 – Aligning Perception with Vibrations",
+          "url": "https://www.youtube.com/watch?v=5kU4X1P85rE"
+        },
+        {
+          "video_id": "9JFI_EAHSeY",
+          "title": "Yoga Sutra 4.15 – Consciousness and Form",
+          "url": "https://www.youtube.com/watch?v=9JFI_EAHSeY"
+        },
+        {
+          "video_id": "xtLmMu6Xvbs",
+          "title": "Yoga Sutra 4.16 – The Universality of Thought and Form",
+          "url": "https://www.youtube.com/watch?v=xtLmMu6Xvbs"
+        },
+        {
+          "video_id": "tjn-PRuDFww",
+          "title": "Yoga Sutra 4.17 – Perception Depends on Inner Readiness",
+          "url": "https://www.youtube.com/watch?v=tjn-PRuDFww"
+        },
+        {
+          "video_id": "pj_NiFNUjTo",
+          "title": "Yoga Sutra 4.18 – The Observer and the Restless Mind",
+          "url": "https://www.youtube.com/watch?v=pj_NiFNUjTo"
+        },
+        {
+          "video_id": "qFcM7me6HU8",
+          "title": "Yoga Sutra 4.19 – The Mind Is Not the Source of Light",
+          "url": "https://www.youtube.com/watch?v=qFcM7me6HU8"
+        },
+        {
+          "video_id": "KCD-P6EVGPI",
+          "title": "Yoga Sutra 4.20 – The Mind as an Instrument",
+          "url": "https://www.youtube.com/watch?v=KCD-P6EVGPI"
+        },
+        {
+          "video_id": "U6VxBbhMeAI",
+          "title": "Yoga Sutra 4.21 – The Observer Beyond the Mind",
+          "url": "https://www.youtube.com/watch?v=U6VxBbhMeAI"
+        },
+        {
+          "video_id": "5dpZhfn_0SI",
+          "title": "Yoga Sutra 4.22 – Awakening to the True Self",
+          "url": "https://www.youtube.com/watch?v=5dpZhfn_0SI"
+        },
+        {
+          "video_id": "RpP9MCSo3Ew",
+          "title": "Yoga Sutra 4.23 – Reflecting the Light of the Soul",
+          "url": "https://www.youtube.com/watch?v=RpP9MCSo3Ew"
+        },
+        {
+          "video_id": "WmE6f0S057A",
+          "title": "Yoga Sutra 4.24 – The Mind as the Soul’s Instrument",
+          "url": "https://www.youtube.com/watch?v=WmE6f0S057A"
+        },
+        {
+          "video_id": "O-YU3IlVIgs",
+          "title": "Yoga Sutra 4.25 – Isolated Unity",
+          "url": "https://www.youtube.com/watch?v=O-YU3IlVIgs"
+        },
+        {
+          "video_id": "Uy8KowiDIqo",
+          "title": "Yoga Sutra 4 26 – The Turning Toward Illumination",
+          "url": "https://www.youtube.com/watch?v=Uy8KowiDIqo"
+        },
+        {
+          "video_id": "S5heJiHXVNA",
+          "title": "Yoga Sutra 4.27 – The Inner Battle for Transformation",
+          "url": "https://www.youtube.com/watch?v=S5heJiHXVNA"
+        },
+        {
+          "video_id": "eeMh3GHKaQk",
+          "title": "Yoga Sutra 4.28 – Overcoming Obstacles with Persistence",
+          "url": "https://www.youtube.com/watch?v=eeMh3GHKaQk"
+        },
+        {
+          "video_id": "4Y-Q76pIfKI",
+          "title": "Yoga Sutra 4.29 – The Cloud of Spiritual Knowledge",
+          "url": "https://www.youtube.com/watch?v=4Y-Q76pIfKI"
+        },
+        {
+          "video_id": "ZpcA8wvOo2c",
+          "title": "Yoga Sutra 4.30 – Freedom from Karma and Sorrow",
+          "url": "https://www.youtube.com/watch?v=ZpcA8wvOo2c"
+        },
+        {
+          "video_id": "ztxtpmCnjbM",
+          "title": "Yoga Sutra 4.31 – The Dissolution of Illusions",
+          "url": "https://www.youtube.com/watch?v=ztxtpmCnjbM"
+        },
+        {
+          "video_id": "6OwMhIDblHU",
+          "title": "Yoga Sutra 4.32 – The Fulfillment of Nature’s Purpose",
+          "url": "https://www.youtube.com/watch?v=6OwMhIDblHU"
+        },
+        {
+          "video_id": "i_rVZaWbfGw",
+          "title": "Yoga Sutra 4.33 – Beyond the Cycle of Change",
+          "url": "https://www.youtube.com/watch?v=i_rVZaWbfGw"
+        },
+        {
+          "video_id": "Ea1DNdCAIIE",
+          "title": "Yoga Sutra 4.34 – The Culmination of Spiritual Awakening",
+          "url": "https://www.youtube.com/watch?v=Ea1DNdCAIIE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist centers on Book IV of the Yoga Sutras, which reveals the deeper laws that guide spiritual awakening, growth, and ultimate liberation. These teachings describe how the universe naturally supports the unfolding of the spiritual self once the earlier stages of discipline, clarity, and inner refinement have been lived.\n\nThe sutras in this book are brief and precise, pointing to vast truths with only a few words. Themes such as time, universal law, and consciousness are presented in a way that invites reflection beyond the intellect. When attention remains anchored in the spiritual self, the deeper meaning begins to emerge.\n\nA central focus of Book IV is the nature of personality and the mind. The teachings illuminate how the mind resists spiritual freedom and attempts to maintain control through doubt and questioning. With the experience gained from earlier practice, people are now prepared to recognize these patterns and move beyond them.\n\nThis final book brings the path full circle, offering insight into liberation through lived understanding rather than belief. These songs are intended for deep listening, contemplation, and integration of the teachings into daily life.\n\nTo explore the Yoga Sutras as a complete spiritual path, you can join the Yoga membership here:\nhttps://healthmanifested.com/yogi-at-heart/\n\nFor people who want to integrate the Yoga Sutras with astrology, Human Design, Gene Keys, and planetary cycles, the HD Astro membership offers a broader framework for spiritual understanding:\nhttps://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAPlBP2AOiQRAEiwsQ7Z0_b.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaDpG6m8a4mIMOWHyGh7_KNt",
+      "title": "Yoga Sutras: Book III: The Path to Spiritual Powers",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaDpG6m8a4mIMOWHyGh7_KNt",
+      "displayed_video_count": "55 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "OVNKUbOQfSI",
+          "title": "Yoga Sutras 3.1 – The Power of Concentration",
+          "url": "https://www.youtube.com/watch?v=OVNKUbOQfSI"
+        },
+        {
+          "video_id": "Qf0cDyM_tXE",
+          "title": "Yoga Sutras 3.2 – The Essence of Meditation",
+          "url": "https://www.youtube.com/watch?v=Qf0cDyM_tXE"
+        },
+        {
+          "video_id": "N8IFfvltq4M",
+          "title": "Yoga Sutras 3.3 – Merging With Essence",
+          "url": "https://www.youtube.com/watch?v=N8IFfvltq4M"
+        },
+        {
+          "video_id": "nJiMXZyOEXU",
+          "title": "Yoga Sutras 3.4 – One Point of Knowing",
+          "url": "https://www.youtube.com/watch?v=nJiMXZyOEXU"
+        },
+        {
+          "video_id": "PoEfFNPY7PM",
+          "title": "Yoga Sutras 3.5 – Inner Light Revealed",
+          "url": "https://www.youtube.com/watch?v=PoEfFNPY7PM"
+        },
+        {
+          "video_id": "ZEP8qQkN98E",
+          "title": "Yoga Sutra 3.6 – The gradual path to illumination",
+          "url": "https://www.youtube.com/watch?v=ZEP8qQkN98E"
+        },
+        {
+          "video_id": "wqaP6e392Ew",
+          "title": "Yoga Sutra 3.7 – The Deeper Practice",
+          "url": "https://www.youtube.com/watch?v=wqaP6e392Ew"
+        },
+        {
+          "video_id": "_9MvE622G3o",
+          "title": "Yoga Sutra 3.8 – Knowing the Essence Beyond Form",
+          "url": "https://www.youtube.com/watch?v=_9MvE622G3o"
+        },
+        {
+          "video_id": "gRxO5q954HA",
+          "title": "Yoga Sutra 3.9 – Mastering the Mind through Steady Focus",
+          "url": "https://www.youtube.com/watch?v=gRxO5q954HA"
+        },
+        {
+          "video_id": "P9Ghyq0XdSY",
+          "title": "Yoga Sutra 3.10 – Mastering the Mind Through Steady Practice",
+          "url": "https://www.youtube.com/watch?v=P9Ghyq0XdSY"
+        },
+        {
+          "video_id": "bwPZrozzTgY",
+          "title": "Yoga Sutra 3.11 – Steadying the Wandering Mind",
+          "url": "https://www.youtube.com/watch?v=bwPZrozzTgY"
+        },
+        {
+          "video_id": "kn6R_eWVqpg",
+          "title": "Yoga Sutra 3.12 – The Practice of Balanced Awareness",
+          "url": "https://www.youtube.com/watch?v=kn6R_eWVqpg"
+        },
+        {
+          "video_id": "G1TcjkTLYrI",
+          "title": "Yoga Sutra 3.13 – Understanding Through Steady Effort",
+          "url": "https://www.youtube.com/watch?v=G1TcjkTLYrI"
+        },
+        {
+          "video_id": "QRzaG-vvpeA",
+          "title": "Yoga Sutra 3.14 – The Journey of Becoming",
+          "url": "https://www.youtube.com/watch?v=QRzaG-vvpeA"
+        },
+        {
+          "video_id": "t5XETag7ZYs",
+          "title": "Yoga Sutra 3.15 – Growth through Non Attachment",
+          "url": "https://www.youtube.com/watch?v=t5XETag7ZYs"
+        },
+        {
+          "video_id": "N0Y4mTX-VwI",
+          "title": "Yoga Sutra 3.16 – Timeless Unity of Life",
+          "url": "https://www.youtube.com/watch?v=N0Y4mTX-VwI"
+        },
+        {
+          "video_id": "p2kRN8R0q0w",
+          "title": "Yoga Sutra 3.17 – Understanding through deep meditation",
+          "url": "https://www.youtube.com/watch?v=p2kRN8R0q0w"
+        },
+        {
+          "video_id": "qjt19SOvhxs",
+          "title": "Yoga Sutra 3.18 – Insight into Past Journeys",
+          "url": "https://www.youtube.com/watch?v=qjt19SOvhxs"
+        },
+        {
+          "video_id": "CocXhOQxCMI",
+          "title": "Yoga Sutra 3.19 – Understanding Thoughts through Focus",
+          "url": "https://www.youtube.com/watch?v=CocXhOQxCMI"
+        },
+        {
+          "video_id": "F4cp6uWZrG8",
+          "title": "Yoga Sutra 3.20 – Understanding through Focused Awareness",
+          "url": "https://www.youtube.com/watch?v=F4cp6uWZrG8"
+        },
+        {
+          "video_id": "ZG41nwHD7FQ",
+          "title": "Yoga Sutra 3.21 – Understanding Life’s Timing through Karma",
+          "url": "https://www.youtube.com/watch?v=ZG41nwHD7FQ"
+        },
+        {
+          "video_id": "lxOCGVZBAck",
+          "title": "Yoga Sutra 3.22 – Cultivating Unity and Compassion",
+          "url": "https://www.youtube.com/watch?v=lxOCGVZBAck"
+        },
+        {
+          "video_id": "9s9z8sRB1ls",
+          "title": "Yoga Sutra 3.23 – Strength through Devotion",
+          "url": "https://www.youtube.com/watch?v=9s9z8sRB1ls"
+        },
+        {
+          "video_id": "R2YakLm-WAM",
+          "title": "Yoga Sutra 3.24 – Illuminating the Subtle and Hidden",
+          "url": "https://www.youtube.com/watch?v=R2YakLm-WAM"
+        },
+        {
+          "video_id": "pC101E8pZt4",
+          "title": "Yoga Sutra 3.25 – Insight Through the Sun",
+          "url": "https://www.youtube.com/watch?v=pC101E8pZt4"
+        },
+        {
+          "video_id": "vxSJ5IZvhoo",
+          "title": "Yoga Sutra 3.26 – Insight Through Lunar Meditation",
+          "url": "https://www.youtube.com/watch?v=vxSJ5IZvhoo"
+        },
+        {
+          "video_id": "Y6UmfkltSiI",
+          "title": "Yoga Sutra 3.27 – Insight Through Meditation on the Pole Star",
+          "url": "https://www.youtube.com/watch?v=Y6UmfkltSiI"
+        },
+        {
+          "video_id": "E7YIPGRb0eM",
+          "title": "Yoga Sutra 3.28 – Mastery of Life Force",
+          "url": "https://www.youtube.com/watch?v=E7YIPGRb0eM"
+        },
+        {
+          "video_id": "1F27598wCiY",
+          "title": "Yoga Sutra 3.29 – Mastery Through the Throat Center",
+          "url": "https://www.youtube.com/watch?v=1F27598wCiY"
+        },
+        {
+          "video_id": "L9IRGqRcQtk",
+          "title": "Yoga Sutra 3.30 – Cultivating Steadfastness and Overcoming Fear",
+          "url": "https://www.youtube.com/watch?v=L9IRGqRcQtk"
+        },
+        {
+          "video_id": "T2Kd5zXADLM",
+          "title": "Yoga Sutra 3.31 – Awakening Inner Light",
+          "url": "https://www.youtube.com/watch?v=T2Kd5zXADLM"
+        },
+        {
+          "video_id": "xg4VGZrKNEo",
+          "title": "Yoga Sutra 3.32 – Awakening the Light of Inner Vision",
+          "url": "https://www.youtube.com/watch?v=xg4VGZrKNEo"
+        },
+        {
+          "video_id": "U3nn-yLDcAU",
+          "title": "Yoga Sutra 3.33 – Awakening Through the Wisdom of the Heart",
+          "url": "https://www.youtube.com/watch?v=U3nn-yLDcAU"
+        },
+        {
+          "video_id": "vwzdTZK-RGA",
+          "title": "Yoga Sutra 3.34 – Awakening the Spiritual Self",
+          "url": "https://www.youtube.com/watch?v=vwzdTZK-RGA"
+        },
+        {
+          "video_id": "Yq-VgQU8BI4",
+          "title": "Yoga Sutra 3.35 – Awakening the Divine Senses",
+          "url": "https://www.youtube.com/watch?v=Yq-VgQU8BI4"
+        },
+        {
+          "video_id": "iOyFYfsv9G4",
+          "title": "Yoga Sutra 3.36 – The Path Beyond Spiritual Powers",
+          "url": "https://www.youtube.com/watch?v=iOyFYfsv9G4"
+        },
+        {
+          "video_id": "eqs4HRZIPrM",
+          "title": "Yoga Sutra 3.37 – Shifting to the Spiritual Self",
+          "url": "https://www.youtube.com/watch?v=eqs4HRZIPrM"
+        },
+        {
+          "video_id": "A9k5QKNvy7E",
+          "title": "Yoga Sutra 3.38 – The Power of Aspiration and Liberation",
+          "url": "https://www.youtube.com/watch?v=A9k5QKNvy7E"
+        },
+        {
+          "video_id": "rpvd0SVFxmE",
+          "title": "Yoga Sutra 3.39 – Mastery of the Vital Energies",
+          "url": "https://www.youtube.com/watch?v=rpvd0SVFxmE"
+        },
+        {
+          "video_id": "ZB6ADgwnbhA",
+          "title": "Yoga Sutra 3.40 – Awakening Divine Hearing and Radiance",
+          "url": "https://www.youtube.com/watch?v=ZB6ADgwnbhA"
+        },
+        {
+          "video_id": "21Yn5hV2hbs",
+          "title": "Yoga Sutra 3.41 – Mastery of the Etheric Realm",
+          "url": "https://www.youtube.com/watch?v=21Yn5hV2hbs"
+        },
+        {
+          "video_id": "mKTv_-HX3E4",
+          "title": "Yoga Sutra 3.42 – Lifting the Veil of Physical Boundaries",
+          "url": "https://www.youtube.com/watch?v=mKTv_-HX3E4"
+        },
+        {
+          "video_id": "-G169v9wvdo",
+          "title": "Yoga Sutra 3.43 – Mastery Over the Elements and the Illumination of Light",
+          "url": "https://www.youtube.com/watch?v=-G169v9wvdo"
+        },
+        {
+          "video_id": "3RSy4P23GKE",
+          "title": "Yoga Sutra 3.44 – Mastery Over the Elements",
+          "url": "https://www.youtube.com/watch?v=3RSy4P23GKE"
+        },
+        {
+          "video_id": "1MQPWCgQFaE",
+          "title": "Yoga Sutra 3.45 – The Diamond Like Spiritual Self",
+          "url": "https://www.youtube.com/watch?v=1MQPWCgQFaE"
+        },
+        {
+          "video_id": "SX73rfL5_hg",
+          "title": "Yoga Sutra 3.46 – Mastery Over the Senses and Bodily Perfection",
+          "url": "https://www.youtube.com/watch?v=SX73rfL5_hg"
+        },
+        {
+          "video_id": "5F7eBax1ZDg",
+          "title": "Yoga Sutra 3.47 – Mastery Over the Senses",
+          "url": "https://www.youtube.com/watch?v=5F7eBax1ZDg"
+        },
+        {
+          "video_id": "H-3t9wIXTfs",
+          "title": "Yoga Sutra 3.48 – Liberation Through Spiritual Mastery",
+          "url": "https://www.youtube.com/watch?v=H-3t9wIXTfs"
+        },
+        {
+          "video_id": "CLV0BXcv1Lo",
+          "title": "Yoga Sutra 3.49 – Liberation Through Discrimination",
+          "url": "https://www.youtube.com/watch?v=CLV0BXcv1Lo"
+        },
+        {
+          "video_id": "Gq4FEUmNQBU",
+          "title": "Yoga Sutra 3.50 – Detachment from Powers",
+          "url": "https://www.youtube.com/watch?v=Gq4FEUmNQBU"
+        },
+        {
+          "video_id": "y1vxnc6Z358",
+          "title": "Yoga Sutra 3.51 – Transcending Time and Illusion",
+          "url": "https://www.youtube.com/watch?v=y1vxnc6Z358"
+        },
+        {
+          "video_id": "QZieBt68r9M",
+          "title": "Yoga Sutra 3.52 – The Wisdom of Discernment",
+          "url": "https://www.youtube.com/watch?v=QZieBt68r9M"
+        },
+        {
+          "video_id": "prDUWGOgVTw",
+          "title": "Yoga Sutra 3.53 – The Radiance of Intuitive Knowledge",
+          "url": "https://www.youtube.com/watch?v=prDUWGOgVTw"
+        },
+        {
+          "video_id": "tMum1w-XmmE",
+          "title": "Yoga Sutra 3.54 – The Eternal Now",
+          "url": "https://www.youtube.com/watch?v=tMum1w-XmmE"
+        },
+        {
+          "video_id": "J_R57nrUTrQ",
+          "title": "Yoga Sutra 3.55 – The Unity of Purity and Liberation",
+          "url": "https://www.youtube.com/watch?v=J_R57nrUTrQ"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist focuses on Book III of the Yoga Sutras, which explores the natural abilities of the spiritual self that emerge through deep inner purification and disciplined practice. These capacities arise only after the mind and emotions have been refined through the teachings of the earlier books.\n\nBook III reveals that spiritual powers are not supernatural achievements but inherent qualities of awakened consciousness. As awareness aligns with universal consciousness, perception expands beyond personal limitation, allowing insight, clarity, and understanding to flow naturally.\n\nThese teachings emphasize that spiritual abilities unfold through integrity, devotion, and self-conquest. When motives are pure and attention is directed beyond personal gain, the spiritual self resonates with the greater unity of all consciousness. This alignment opens access to deeper knowledge and refined perception.\n\nThe sutras also remind us that not all inner phenomena reflect true spiritual development. Psychic distractions and illusions can arise when attention drifts from truth and selflessness. Genuine spiritual powers remain grounded in clarity, humility, and dedication to higher purpose.\n\nThese songs are designed for meditation, focused listening, and reflection, supporting steady awareness as spiritual insight deepens.\n\nTo explore the Yoga Sutras as a living spiritual path, you can join the Yoga membership here:\nhttps://healthmanifested.com/yogi-at-heart/\n\nFor people who want to integrate yoga with astrology, Human Design, Gene Keys, and planetary cycles, the HD Astro membership offers a broader framework for understanding spiritual growth:\nhttps://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaDpG6m8a4mIMOWHyGh7_KNt.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaAmorwHo1uA91bEGWSrq62Y",
+      "title": "Yoga Sutras: Complete Collection",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaAmorwHo1uA91bEGWSrq62Y",
+      "displayed_video_count": "195 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "MfDQbx-YhYM",
+          "title": "Yoga Sutras 1.1   OM the Path to Union",
+          "url": "https://www.youtube.com/watch?v=MfDQbx-YhYM"
+        },
+        {
+          "video_id": "-XQyck4051E",
+          "title": "Yoga Sutras 1.2   The Mastery of the Mind",
+          "url": "https://www.youtube.com/watch?v=-XQyck4051E"
+        },
+        {
+          "video_id": "8A8qOBDJDPo",
+          "title": "Yoga Sutras 1.3   The Emergence of the True Self",
+          "url": "https://www.youtube.com/watch?v=8A8qOBDJDPo"
+        },
+        {
+          "video_id": "5UmfGEUvplA",
+          "title": "Yoga Sutras 1.4   Reclaiming the soul",
+          "url": "https://www.youtube.com/watch?v=5UmfGEUvplA"
+        },
+        {
+          "video_id": "MMFAVQ5pPb8",
+          "title": "Yoga Sutras 1.5   Activities of the Mind",
+          "url": "https://www.youtube.com/watch?v=MMFAVQ5pPb8"
+        },
+        {
+          "video_id": "xsgV77WQgZs",
+          "title": "Yoga Sutras 1.6   Movements of the Mind",
+          "url": "https://www.youtube.com/watch?v=xsgV77WQgZs"
+        },
+        {
+          "video_id": "8Oxv2PSH82Y",
+          "title": "Yoga Sutras 1.7   Clear Thinking",
+          "url": "https://www.youtube.com/watch?v=8Oxv2PSH82Y"
+        },
+        {
+          "video_id": "wtF_dgGrSME",
+          "title": "Yoga Sutras 1.8: False Understanding",
+          "url": "https://www.youtube.com/watch?v=wtF_dgGrSME"
+        },
+        {
+          "video_id": "9SKW5EccgwU",
+          "title": "Yoga Sutras 1.9   Illusion of Fantasy",
+          "url": "https://www.youtube.com/watch?v=9SKW5EccgwU"
+        },
+        {
+          "video_id": "cutHJW3HIx0",
+          "title": "Yoga Sutras 1.10   Sleep and Awareness",
+          "url": "https://www.youtube.com/watch?v=cutHJW3HIx0"
+        },
+        {
+          "video_id": "Hrd2sQxWXG4",
+          "title": "Yoga Sutras 1.11   Memory and Release",
+          "url": "https://www.youtube.com/watch?v=Hrd2sQxWXG4"
+        },
+        {
+          "video_id": "B7AlgMLTTJs",
+          "title": "Yoga Sutras 1.12   Effort and non attachment",
+          "url": "https://www.youtube.com/watch?v=B7AlgMLTTJs"
+        },
+        {
+          "video_id": "dyxZChNOpLM",
+          "title": "Yoga Sutras 1.13   Tireless Effort",
+          "url": "https://www.youtube.com/watch?v=dyxZChNOpLM"
+        },
+        {
+          "video_id": "JeXR39SjJeM",
+          "title": "Yoga Sutras 1.14   Steadfast Devotion and Effort",
+          "url": "https://www.youtube.com/watch?v=JeXR39SjJeM"
+        },
+        {
+          "video_id": "sgP_eJZwYPA",
+          "title": "Yoga Sutras 1.15   Freedom from Desire",
+          "url": "https://www.youtube.com/watch?v=sgP_eJZwYPA"
+        },
+        {
+          "video_id": "F0gprVwDDFk",
+          "title": "Yoga Sutras 1.16   Liberation through non attachment",
+          "url": "https://www.youtube.com/watch?v=F0gprVwDDFk"
+        },
+        {
+          "video_id": "HAcn6PnaAj0",
+          "title": "Yoga Sutras 1.17   Stages of Awareness",
+          "url": "https://www.youtube.com/watch?v=HAcn6PnaAj0"
+        },
+        {
+          "video_id": "eVi4sqP5fVY",
+          "title": "Yoga Sutras 1.18   True Spiritual Stillness",
+          "url": "https://www.youtube.com/watch?v=eVi4sqP5fVY"
+        },
+        {
+          "video_id": "u2_KahUgLQI",
+          "title": "Yoga Sutras 1.19   Transcending Worldly Ties",
+          "url": "https://www.youtube.com/watch?v=u2_KahUgLQI"
+        },
+        {
+          "video_id": "XkeLZvFKFVs",
+          "title": "Yoga Sutras 1.20   The Path to Realization",
+          "url": "https://www.youtube.com/watch?v=XkeLZvFKFVs"
+        },
+        {
+          "video_id": "Nheasx6UI5o",
+          "title": "Yoga Sutras 1.21   Focused Will",
+          "url": "https://www.youtube.com/watch?v=Nheasx6UI5o"
+        },
+        {
+          "video_id": "3sh_27eyOKA",
+          "title": "Yoga Sutras 1.22   Will and Devotion",
+          "url": "https://www.youtube.com/watch?v=3sh_27eyOKA"
+        },
+        {
+          "video_id": "knTaJHViH3M",
+          "title": "Yoga Sutras 1.23   Devotion to the Divine",
+          "url": "https://www.youtube.com/watch?v=knTaJHViH3M"
+        },
+        {
+          "video_id": "0R5JzodNnJo",
+          "title": "Yoga Sutras 1.24   The Freed Soul",
+          "url": "https://www.youtube.com/watch?v=0R5JzodNnJo"
+        },
+        {
+          "video_id": "EzMb96i2RpM",
+          "title": "Yoga Sutras 1.25   Infinite Knowledge",
+          "url": "https://www.youtube.com/watch?v=EzMb96i2RpM"
+        },
+        {
+          "video_id": "kAT-4ZDdjAQ",
+          "title": "Yoga Sutras 1.26   The Eternal Teacher",
+          "url": "https://www.youtube.com/watch?v=kAT-4ZDdjAQ"
+        },
+        {
+          "video_id": "OFJ2omVwQbY",
+          "title": "Yoga Sutras 1.27   The sacred word AUM",
+          "url": "https://www.youtube.com/watch?v=OFJ2omVwQbY"
+        },
+        {
+          "video_id": "ZxAV0kcc9KE",
+          "title": "Yoga Sutras 1.28   Meditating on OM",
+          "url": "https://www.youtube.com/watch?v=ZxAV0kcc9KE"
+        },
+        {
+          "video_id": "6MPXpqf51_s",
+          "title": "Yoga Sutras 1.29   Realization of the Soul",
+          "url": "https://www.youtube.com/watch?v=6MPXpqf51_s"
+        },
+        {
+          "video_id": "_uvwh3UWaPc",
+          "title": "Yoga Sutras 1.30   Overcoming Inner Barriers",
+          "url": "https://www.youtube.com/watch?v=_uvwh3UWaPc"
+        },
+        {
+          "video_id": "fNLgWHngVJA",
+          "title": "Yoga Sutras 1.31   Overcoming inner Turmoil",
+          "url": "https://www.youtube.com/watch?v=fNLgWHngVJA"
+        },
+        {
+          "video_id": "NttrXoBoVI0",
+          "title": "Yoga Sutras 1.32   Strengthening the will through purpose",
+          "url": "https://www.youtube.com/watch?v=NttrXoBoVI0"
+        },
+        {
+          "video_id": "Ve3Ytjkcjug",
+          "title": "Yoga Sutras 1.33   Cultivating Peace through Compassion",
+          "url": "https://www.youtube.com/watch?v=Ve3Ytjkcjug"
+        },
+        {
+          "video_id": "Rx3cv153f_8",
+          "title": "Yoga Sutras 1.34   Finding Peace through Breath and Rhythm",
+          "url": "https://www.youtube.com/watch?v=Rx3cv153f_8"
+        },
+        {
+          "video_id": "GgG8-DDPV4s",
+          "title": "Yoga Sutras 1.35   Gracious Peace through Steady Effort",
+          "url": "https://www.youtube.com/watch?v=GgG8-DDPV4s"
+        },
+        {
+          "video_id": "tOQbPeTOIH0",
+          "title": "Yoga Sutras 1.36   Radiance of Light",
+          "url": "https://www.youtube.com/watch?v=tOQbPeTOIH0"
+        },
+        {
+          "video_id": "mjNwr6TmNOE",
+          "title": "Yoga Sutras 1.37   Liberation through Purity",
+          "url": "https://www.youtube.com/watch?v=mjNwr6TmNOE"
+        },
+        {
+          "video_id": "BJTjLUQ2KEQ",
+          "title": "Yoga Sutras 1.38   Wisdom through Dreams and Imagination",
+          "url": "https://www.youtube.com/watch?v=BJTjLUQ2KEQ"
+        },
+        {
+          "video_id": "70cLUt_Q9zc",
+          "title": "Yoga Sutras 1.39   Peace through the Heart",
+          "url": "https://www.youtube.com/watch?v=70cLUt_Q9zc"
+        },
+        {
+          "video_id": "_JiQlJJGx_4",
+          "title": "Yoga Sutras 1.40   Unity in Understanding",
+          "url": "https://www.youtube.com/watch?v=_JiQlJJGx_4"
+        },
+        {
+          "video_id": "sMOUxdLLDuU",
+          "title": "Yoga Sutras 1.41   The Still Mind Reflects the Infinite",
+          "url": "https://www.youtube.com/watch?v=sMOUxdLLDuU"
+        },
+        {
+          "video_id": "iWq_vQR1wFw",
+          "title": "Yoga Sutras 1.42   Stages of Perception",
+          "url": "https://www.youtube.com/watch?v=iWq_vQR1wFw"
+        },
+        {
+          "video_id": "bUsZo_DNx2c",
+          "title": "Yoga Sutras 1.43   Beyond Form and Memory",
+          "url": "https://www.youtube.com/watch?v=bUsZo_DNx2c"
+        },
+        {
+          "video_id": "MnMpIVowX60",
+          "title": "Yoga Sutras 1.44   Perceiving the Subtle",
+          "url": "https://www.youtube.com/watch?v=MnMpIVowX60"
+        },
+        {
+          "video_id": "4uQmSjBYRNY",
+          "title": "Yoga Sutras 1.45   Moving From the Gross to the Subtle",
+          "url": "https://www.youtube.com/watch?v=4uQmSjBYRNY"
+        },
+        {
+          "video_id": "l53DAwuy7ho",
+          "title": "Yoga Sutras 1.46   Meditation with Seed",
+          "url": "https://www.youtube.com/watch?v=l53DAwuy7ho"
+        },
+        {
+          "video_id": "F7HgOlIppro",
+          "title": "Yoga Sutras 1.47   Pure Spiritual Realization",
+          "url": "https://www.youtube.com/watch?v=F7HgOlIppro"
+        },
+        {
+          "video_id": "5AG4ZOMEEEQ",
+          "title": "Yoga Sutras 1.48   Perception of Exact Truth",
+          "url": "https://www.youtube.com/watch?v=5AG4ZOMEEEQ"
+        },
+        {
+          "video_id": "d9LegWe-F-Y",
+          "title": "Yoga Sutras 1.49   Beyond Logic",
+          "url": "https://www.youtube.com/watch?v=d9LegWe-F-Y"
+        },
+        {
+          "video_id": "LcN-NEc2sqY",
+          "title": "Yoga Sutras 1.50   Pure Spiritual Insight",
+          "url": "https://www.youtube.com/watch?v=LcN-NEc2sqY"
+        },
+        {
+          "video_id": "ENqR5NPz6P8",
+          "title": "Yoga Sutras 1.51   The Final Dissolution",
+          "url": "https://www.youtube.com/watch?v=ENqR5NPz6P8"
+        },
+        {
+          "video_id": "_hyDQiR_5u0",
+          "title": "Yoga Sutra 2.1 – The Path to Union",
+          "url": "https://www.youtube.com/watch?v=_hyDQiR_5u0"
+        },
+        {
+          "video_id": "jTrRqW7pV7Y",
+          "title": "Yoga Sutra 2.2 – Awakening Soul Vision",
+          "url": "https://www.youtube.com/watch?v=jTrRqW7pV7Y"
+        },
+        {
+          "video_id": "YzQbaSSWYeU",
+          "title": "Yoga Sutra 2.3 – The Barriers to Awakening",
+          "url": "https://www.youtube.com/watch?v=YzQbaSSWYeU"
+        },
+        {
+          "video_id": "f6ZgUSCcks8",
+          "title": "Yoga Sutra 2.4 – Ignorance the Root of Barriers",
+          "url": "https://www.youtube.com/watch?v=f6ZgUSCcks8"
+        },
+        {
+          "video_id": "9jOIMOrSCKo",
+          "title": "Yoga Sutra 2.5 – Mistaking the unreal for the real",
+          "url": "https://www.youtube.com/watch?v=9jOIMOrSCKo"
+        },
+        {
+          "video_id": "gQyA-KICZQ4",
+          "title": "Yoga Sutra 2.6 – The Illusion of Self assertion",
+          "url": "https://www.youtube.com/watch?v=gQyA-KICZQ4"
+        },
+        {
+          "video_id": "RN0e5t6smKQ",
+          "title": "Yoga Sutras 2.7 – The Nature of Desire",
+          "url": "https://www.youtube.com/watch?v=RN0e5t6smKQ"
+        },
+        {
+          "video_id": "86VA8ThWT50",
+          "title": "Yoga Sutras 2.8 – The Root of Hate",
+          "url": "https://www.youtube.com/watch?v=86VA8ThWT50"
+        },
+        {
+          "video_id": "GpCU_Q64Sao",
+          "title": "Yoga Sutras 2.9 – The Root of Attachment",
+          "url": "https://www.youtube.com/watch?v=GpCU_Q64Sao"
+        },
+        {
+          "video_id": "1yWDgSEMU98",
+          "title": "Yoga Sutras 2.10 – Overcoming Hindrances",
+          "url": "https://www.youtube.com/watch?v=1yWDgSEMU98"
+        },
+        {
+          "video_id": "qfut_Ix0Jiw",
+          "title": "Yoga Sutras 2.11 – Stilling Restless Distractions",
+          "url": "https://www.youtube.com/watch?v=qfut_Ix0Jiw"
+        },
+        {
+          "video_id": "h3l-gHVTf-Q",
+          "title": "Yoga Sutras 2.12 – The Root of Sorrow and the Cycle of Karma",
+          "url": "https://www.youtube.com/watch?v=h3l-gHVTf-Q"
+        },
+        {
+          "video_id": "VJUdik_8m2Y",
+          "title": "Yoga Sutras 2.13 – The Seeds of Karma",
+          "url": "https://www.youtube.com/watch?v=VJUdik_8m2Y"
+        },
+        {
+          "video_id": "_-JBAKoVAv0",
+          "title": "Yoga Sutras 2.14 – The Fruits of Actions",
+          "url": "https://www.youtube.com/watch?v=_-JBAKoVAv0"
+        },
+        {
+          "video_id": "mxC-sEzeRh4",
+          "title": "Yoga Sutras 2.15 – The Restlessness of the Psychic Self",
+          "url": "https://www.youtube.com/watch?v=mxC-sEzeRh4"
+        },
+        {
+          "video_id": "Y9gt9MVxVO0",
+          "title": "Yoga Sutras 2.16 – Avoiding Future Pain",
+          "url": "https://www.youtube.com/watch?v=Y9gt9MVxVO0"
+        },
+        {
+          "video_id": "ibPZbU79Gjs",
+          "title": "Yoga Sutras 2.17 – The Root of Misery and the Path to Liberation",
+          "url": "https://www.youtube.com/watch?v=ibPZbU79Gjs"
+        },
+        {
+          "video_id": "FmyAUBcp45s",
+          "title": "Yoga Sutras 2.18 – The World Exists for the Soul’s Growth",
+          "url": "https://www.youtube.com/watch?v=FmyAUBcp45s"
+        },
+        {
+          "video_id": "20DOFXfvFMU",
+          "title": "Yoga Sutras 2.19 – The Layers of Existence",
+          "url": "https://www.youtube.com/watch?v=20DOFXfvFMU"
+        },
+        {
+          "video_id": "Jt3ziWDBNyk",
+          "title": "Yoga Sutras 2.20 – The Seer and the Mind",
+          "url": "https://www.youtube.com/watch?v=Jt3ziWDBNyk"
+        },
+        {
+          "video_id": "wm9-2XCdmNM",
+          "title": "Yoga Sutras 2.21 – The Purpose of the Outer World",
+          "url": "https://www.youtube.com/watch?v=wm9-2XCdmNM"
+        },
+        {
+          "video_id": "1sZ6Q30rZrw",
+          "title": "Yoga Sutras 2.22 – Liberation from Illusion",
+          "url": "https://www.youtube.com/watch?v=1sZ6Q30rZrw"
+        },
+        {
+          "video_id": "WYBENOqJvnY",
+          "title": "Yoga Sutras 2.23 – The Journey of Understanding",
+          "url": "https://www.youtube.com/watch?v=WYBENOqJvnY"
+        },
+        {
+          "video_id": "SyI_hmT5rUI",
+          "title": "Yoga Sutras 2.24 – The Root of Ignorance",
+          "url": "https://www.youtube.com/watch?v=SyI_hmT5rUI"
+        },
+        {
+          "video_id": "qlbSTvvRLEw",
+          "title": "Yoga Sutras 2.25 – Liberation Through Wisdom",
+          "url": "https://www.youtube.com/watch?v=qlbSTvvRLEw"
+        },
+        {
+          "video_id": "7INANwr53eE",
+          "title": "Yoga Sutras 2.26 – Liberation Through Continuous Discernment",
+          "url": "https://www.youtube.com/watch?v=7INANwr53eE"
+        },
+        {
+          "video_id": "knK6FFi23nk",
+          "title": "Yoga Sutras 2.27 – The Sevenfold Path to Liberation",
+          "url": "https://www.youtube.com/watch?v=knK6FFi23nk"
+        },
+        {
+          "video_id": "_4NtavXTVkg",
+          "title": "Yoga Sutras 2.28 – The Path to Illumination",
+          "url": "https://www.youtube.com/watch?v=_4NtavXTVkg"
+        },
+        {
+          "video_id": "X2QXV2anY-s",
+          "title": "Yoga Sutras 2.29 – The Eight fold Path of Yoga",
+          "url": "https://www.youtube.com/watch?v=X2QXV2anY-s"
+        },
+        {
+          "video_id": "qUQV04Na-6Y",
+          "title": "Yoga Sutras 2.30 – The Five Commandments",
+          "url": "https://www.youtube.com/watch?v=qUQV04Na-6Y"
+        },
+        {
+          "video_id": "635Y3plyhjA",
+          "title": "Yoga Sutras 2.31 – The Universal Nature of the Commandments",
+          "url": "https://www.youtube.com/watch?v=635Y3plyhjA"
+        },
+        {
+          "video_id": "1k0D6OkeMQE",
+          "title": "Yoga Sutras 2.32 – The Five Rules",
+          "url": "https://www.youtube.com/watch?v=1k0D6OkeMQE"
+        },
+        {
+          "video_id": "Lu1d7i5ZqwM",
+          "title": "Yoga Sutras 2.33 – Cultivating Opposite Thoughts",
+          "url": "https://www.youtube.com/watch?v=Lu1d7i5ZqwM"
+        },
+        {
+          "video_id": "mrrnsYue5O8",
+          "title": "Yoga Sutras 2.34 – Transforming Thoughts Contrary to Yoga",
+          "url": "https://www.youtube.com/watch?v=mrrnsYue5O8"
+        },
+        {
+          "video_id": "n7Rwl0HhEmQ",
+          "title": "Yoga Sutras 2.35 – The Power of Non Injury",
+          "url": "https://www.youtube.com/watch?v=n7Rwl0HhEmQ"
+        },
+        {
+          "video_id": "aXBZctay0t4",
+          "title": "Yoga Sutras 2.36 – The Power of Truth",
+          "url": "https://www.youtube.com/watch?v=aXBZctay0t4"
+        },
+        {
+          "video_id": "5Z-dnEY4A8Y",
+          "title": "Yoga Sutras 2.37 – The Treasure of Non Stealing",
+          "url": "https://www.youtube.com/watch?v=5Z-dnEY4A8Y"
+        },
+        {
+          "video_id": "tUY_zEnV76g",
+          "title": "Yoga Sutras 2.38 – The Power of Self Control",
+          "url": "https://www.youtube.com/watch?v=tUY_zEnV76g"
+        },
+        {
+          "video_id": "JOUISXzFFmo",
+          "title": "Yoga Sutras 2.39 – Freedom from Greed Brings Understanding",
+          "url": "https://www.youtube.com/watch?v=JOUISXzFFmo"
+        },
+        {
+          "video_id": "J66Kna7-9mU",
+          "title": "Yoga Sutras 2.40   Purification Brings Freedom from Attachment to Form",
+          "url": "https://www.youtube.com/watch?v=J66Kna7-9mU"
+        },
+        {
+          "video_id": "JpPNcV5ONaA",
+          "title": "Yoga Sutras 2.41   The Gifts of Purification",
+          "url": "https://www.youtube.com/watch?v=JpPNcV5ONaA"
+        },
+        {
+          "video_id": "SOlLuPbHytM",
+          "title": "Yoga Sutras 2.42 – The Power of Contentment",
+          "url": "https://www.youtube.com/watch?v=SOlLuPbHytM"
+        },
+        {
+          "video_id": "y1uCpTLmiiE",
+          "title": "Yoga Sutras 2.43 – Transformation Through Aspiration and Purity",
+          "url": "https://www.youtube.com/watch?v=y1uCpTLmiiE"
+        },
+        {
+          "video_id": "MuvDi1yvFFc",
+          "title": "Yoga Sutras 2.44 – Spiritual Reading and Soul Connection",
+          "url": "https://www.youtube.com/watch?v=MuvDi1yvFFc"
+        },
+        {
+          "video_id": "HGQleNfm51M",
+          "title": "Yoga Sutras 2.45 – Devotion to the Higher Will",
+          "url": "https://www.youtube.com/watch?v=HGQleNfm51M"
+        },
+        {
+          "video_id": "EypV3Ri6Xk4",
+          "title": "Yoga Sutras 2.46 – Steady and Relaxed Posture",
+          "url": "https://www.youtube.com/watch?v=EypV3Ri6Xk4"
+        },
+        {
+          "video_id": "2nciPa0cA-g",
+          "title": "Yoga Sutras 2.47 – Achieving Steadiness and Ease",
+          "url": "https://www.youtube.com/watch?v=2nciPa0cA-g"
+        },
+        {
+          "video_id": "K_6QWM1Oj9Q",
+          "title": "Yoga Sutras 2.48 – Freedom from the Pairs of Opposit",
+          "url": "https://www.youtube.com/watch?v=K_6QWM1Oj9Q"
+        },
+        {
+          "video_id": "kX_T7lOpLkw",
+          "title": "Yoga Sutras 2 49 – Mastery of Life’s Current",
+          "url": "https://www.youtube.com/watch?v=kX_T7lOpLkw"
+        },
+        {
+          "video_id": "eclwyJmVOxQ",
+          "title": "Yoga Sutras 2.50 – Mastering the Flow of Life’s Energy",
+          "url": "https://www.youtube.com/watch?v=eclwyJmVOxQ"
+        },
+        {
+          "video_id": "KUweMOYQBDA",
+          "title": "Yoga Sutras 2.51 – The Fourth Degree of Mastery",
+          "url": "https://www.youtube.com/watch?v=KUweMOYQBDA"
+        },
+        {
+          "video_id": "-Rcny4V6Fgc",
+          "title": "Yoga Sutras 2.52 – Removing the Veil of Distraction",
+          "url": "https://www.youtube.com/watch?v=-Rcny4V6Fgc"
+        },
+        {
+          "video_id": "-th_1NkovTE",
+          "title": "Yoga Sutras 2.53 – Preparing the Mind for Meditation",
+          "url": "https://www.youtube.com/watch?v=-th_1NkovTE"
+        },
+        {
+          "video_id": "AKQshdw9KrA",
+          "title": "Yoga Sutras 2.54 – Withdrawing the Senses",
+          "url": "https://www.youtube.com/watch?v=AKQshdw9KrA"
+        },
+        {
+          "video_id": "S5QOWFPcV2c",
+          "title": "Yoga Sutras 2.55 – Mastery Over the Senses",
+          "url": "https://www.youtube.com/watch?v=S5QOWFPcV2c"
+        },
+        {
+          "video_id": "OVNKUbOQfSI",
+          "title": "Yoga Sutras 3.1 – The Power of Concentration",
+          "url": "https://www.youtube.com/watch?v=OVNKUbOQfSI"
+        },
+        {
+          "video_id": "Qf0cDyM_tXE",
+          "title": "Yoga Sutras 3.2 – The Essence of Meditation",
+          "url": "https://www.youtube.com/watch?v=Qf0cDyM_tXE"
+        },
+        {
+          "video_id": "N8IFfvltq4M",
+          "title": "Yoga Sutras 3.3 – Merging With Essence",
+          "url": "https://www.youtube.com/watch?v=N8IFfvltq4M"
+        },
+        {
+          "video_id": "nJiMXZyOEXU",
+          "title": "Yoga Sutras 3.4 – One Point of Knowing",
+          "url": "https://www.youtube.com/watch?v=nJiMXZyOEXU"
+        },
+        {
+          "video_id": "PoEfFNPY7PM",
+          "title": "Yoga Sutras 3.5 – Inner Light Revealed",
+          "url": "https://www.youtube.com/watch?v=PoEfFNPY7PM"
+        },
+        {
+          "video_id": "ZEP8qQkN98E",
+          "title": "Yoga Sutra 3.6 – The gradual path to illumination",
+          "url": "https://www.youtube.com/watch?v=ZEP8qQkN98E"
+        },
+        {
+          "video_id": "wqaP6e392Ew",
+          "title": "Yoga Sutra 3.7 – The Deeper Practice",
+          "url": "https://www.youtube.com/watch?v=wqaP6e392Ew"
+        },
+        {
+          "video_id": "_9MvE622G3o",
+          "title": "Yoga Sutra 3.8 – Knowing the Essence Beyond Form",
+          "url": "https://www.youtube.com/watch?v=_9MvE622G3o"
+        },
+        {
+          "video_id": "gRxO5q954HA",
+          "title": "Yoga Sutra 3.9 – Mastering the Mind through Steady Focus",
+          "url": "https://www.youtube.com/watch?v=gRxO5q954HA"
+        },
+        {
+          "video_id": "P9Ghyq0XdSY",
+          "title": "Yoga Sutra 3.10 – Mastering the Mind Through Steady Practice",
+          "url": "https://www.youtube.com/watch?v=P9Ghyq0XdSY"
+        },
+        {
+          "video_id": "bwPZrozzTgY",
+          "title": "Yoga Sutra 3.11 – Steadying the Wandering Mind",
+          "url": "https://www.youtube.com/watch?v=bwPZrozzTgY"
+        },
+        {
+          "video_id": "kn6R_eWVqpg",
+          "title": "Yoga Sutra 3.12 – The Practice of Balanced Awareness",
+          "url": "https://www.youtube.com/watch?v=kn6R_eWVqpg"
+        },
+        {
+          "video_id": "G1TcjkTLYrI",
+          "title": "Yoga Sutra 3.13 – Understanding Through Steady Effort",
+          "url": "https://www.youtube.com/watch?v=G1TcjkTLYrI"
+        },
+        {
+          "video_id": "QRzaG-vvpeA",
+          "title": "Yoga Sutra 3.14 – The Journey of Becoming",
+          "url": "https://www.youtube.com/watch?v=QRzaG-vvpeA"
+        },
+        {
+          "video_id": "t5XETag7ZYs",
+          "title": "Yoga Sutra 3.15 – Growth through Non Attachment",
+          "url": "https://www.youtube.com/watch?v=t5XETag7ZYs"
+        },
+        {
+          "video_id": "N0Y4mTX-VwI",
+          "title": "Yoga Sutra 3.16 – Timeless Unity of Life",
+          "url": "https://www.youtube.com/watch?v=N0Y4mTX-VwI"
+        },
+        {
+          "video_id": "p2kRN8R0q0w",
+          "title": "Yoga Sutra 3.17 – Understanding through deep meditation",
+          "url": "https://www.youtube.com/watch?v=p2kRN8R0q0w"
+        },
+        {
+          "video_id": "qjt19SOvhxs",
+          "title": "Yoga Sutra 3.18 – Insight into Past Journeys",
+          "url": "https://www.youtube.com/watch?v=qjt19SOvhxs"
+        },
+        {
+          "video_id": "CocXhOQxCMI",
+          "title": "Yoga Sutra 3.19 – Understanding Thoughts through Focus",
+          "url": "https://www.youtube.com/watch?v=CocXhOQxCMI"
+        },
+        {
+          "video_id": "F4cp6uWZrG8",
+          "title": "Yoga Sutra 3.20 – Understanding through Focused Awareness",
+          "url": "https://www.youtube.com/watch?v=F4cp6uWZrG8"
+        },
+        {
+          "video_id": "ZG41nwHD7FQ",
+          "title": "Yoga Sutra 3.21 – Understanding Life’s Timing through Karma",
+          "url": "https://www.youtube.com/watch?v=ZG41nwHD7FQ"
+        },
+        {
+          "video_id": "lxOCGVZBAck",
+          "title": "Yoga Sutra 3.22 – Cultivating Unity and Compassion",
+          "url": "https://www.youtube.com/watch?v=lxOCGVZBAck"
+        },
+        {
+          "video_id": "9s9z8sRB1ls",
+          "title": "Yoga Sutra 3.23 – Strength through Devotion",
+          "url": "https://www.youtube.com/watch?v=9s9z8sRB1ls"
+        },
+        {
+          "video_id": "R2YakLm-WAM",
+          "title": "Yoga Sutra 3.24 – Illuminating the Subtle and Hidden",
+          "url": "https://www.youtube.com/watch?v=R2YakLm-WAM"
+        },
+        {
+          "video_id": "pC101E8pZt4",
+          "title": "Yoga Sutra 3.25 – Insight Through the Sun",
+          "url": "https://www.youtube.com/watch?v=pC101E8pZt4"
+        },
+        {
+          "video_id": "vxSJ5IZvhoo",
+          "title": "Yoga Sutra 3.26 – Insight Through Lunar Meditation",
+          "url": "https://www.youtube.com/watch?v=vxSJ5IZvhoo"
+        },
+        {
+          "video_id": "Y6UmfkltSiI",
+          "title": "Yoga Sutra 3.27 – Insight Through Meditation on the Pole Star",
+          "url": "https://www.youtube.com/watch?v=Y6UmfkltSiI"
+        },
+        {
+          "video_id": "E7YIPGRb0eM",
+          "title": "Yoga Sutra 3.28 – Mastery of Life Force",
+          "url": "https://www.youtube.com/watch?v=E7YIPGRb0eM"
+        },
+        {
+          "video_id": "1F27598wCiY",
+          "title": "Yoga Sutra 3.29 – Mastery Through the Throat Center",
+          "url": "https://www.youtube.com/watch?v=1F27598wCiY"
+        },
+        {
+          "video_id": "L9IRGqRcQtk",
+          "title": "Yoga Sutra 3.30 – Cultivating Steadfastness and Overcoming Fear",
+          "url": "https://www.youtube.com/watch?v=L9IRGqRcQtk"
+        },
+        {
+          "video_id": "T2Kd5zXADLM",
+          "title": "Yoga Sutra 3.31 – Awakening Inner Light",
+          "url": "https://www.youtube.com/watch?v=T2Kd5zXADLM"
+        },
+        {
+          "video_id": "xg4VGZrKNEo",
+          "title": "Yoga Sutra 3.32 – Awakening the Light of Inner Vision",
+          "url": "https://www.youtube.com/watch?v=xg4VGZrKNEo"
+        },
+        {
+          "video_id": "U3nn-yLDcAU",
+          "title": "Yoga Sutra 3.33 – Awakening Through the Wisdom of the Heart",
+          "url": "https://www.youtube.com/watch?v=U3nn-yLDcAU"
+        },
+        {
+          "video_id": "vwzdTZK-RGA",
+          "title": "Yoga Sutra 3.34 – Awakening the Spiritual Self",
+          "url": "https://www.youtube.com/watch?v=vwzdTZK-RGA"
+        },
+        {
+          "video_id": "Yq-VgQU8BI4",
+          "title": "Yoga Sutra 3.35 – Awakening the Divine Senses",
+          "url": "https://www.youtube.com/watch?v=Yq-VgQU8BI4"
+        },
+        {
+          "video_id": "iOyFYfsv9G4",
+          "title": "Yoga Sutra 3.36 – The Path Beyond Spiritual Powers",
+          "url": "https://www.youtube.com/watch?v=iOyFYfsv9G4"
+        },
+        {
+          "video_id": "eqs4HRZIPrM",
+          "title": "Yoga Sutra 3.37 – Shifting to the Spiritual Self",
+          "url": "https://www.youtube.com/watch?v=eqs4HRZIPrM"
+        },
+        {
+          "video_id": "A9k5QKNvy7E",
+          "title": "Yoga Sutra 3.38 – The Power of Aspiration and Liberation",
+          "url": "https://www.youtube.com/watch?v=A9k5QKNvy7E"
+        },
+        {
+          "video_id": "rpvd0SVFxmE",
+          "title": "Yoga Sutra 3.39 – Mastery of the Vital Energies",
+          "url": "https://www.youtube.com/watch?v=rpvd0SVFxmE"
+        },
+        {
+          "video_id": "ZB6ADgwnbhA",
+          "title": "Yoga Sutra 3.40 – Awakening Divine Hearing and Radiance",
+          "url": "https://www.youtube.com/watch?v=ZB6ADgwnbhA"
+        },
+        {
+          "video_id": "21Yn5hV2hbs",
+          "title": "Yoga Sutra 3.41 – Mastery of the Etheric Realm",
+          "url": "https://www.youtube.com/watch?v=21Yn5hV2hbs"
+        },
+        {
+          "video_id": "mKTv_-HX3E4",
+          "title": "Yoga Sutra 3.42 – Lifting the Veil of Physical Boundaries",
+          "url": "https://www.youtube.com/watch?v=mKTv_-HX3E4"
+        },
+        {
+          "video_id": "-G169v9wvdo",
+          "title": "Yoga Sutra 3.43 – Mastery Over the Elements and the Illumination of Light",
+          "url": "https://www.youtube.com/watch?v=-G169v9wvdo"
+        },
+        {
+          "video_id": "3RSy4P23GKE",
+          "title": "Yoga Sutra 3.44 – Mastery Over the Elements",
+          "url": "https://www.youtube.com/watch?v=3RSy4P23GKE"
+        },
+        {
+          "video_id": "1MQPWCgQFaE",
+          "title": "Yoga Sutra 3.45 – The Diamond Like Spiritual Self",
+          "url": "https://www.youtube.com/watch?v=1MQPWCgQFaE"
+        },
+        {
+          "video_id": "SX73rfL5_hg",
+          "title": "Yoga Sutra 3.46 – Mastery Over the Senses and Bodily Perfection",
+          "url": "https://www.youtube.com/watch?v=SX73rfL5_hg"
+        },
+        {
+          "video_id": "5F7eBax1ZDg",
+          "title": "Yoga Sutra 3.47 – Mastery Over the Senses",
+          "url": "https://www.youtube.com/watch?v=5F7eBax1ZDg"
+        },
+        {
+          "video_id": "H-3t9wIXTfs",
+          "title": "Yoga Sutra 3.48 – Liberation Through Spiritual Mastery",
+          "url": "https://www.youtube.com/watch?v=H-3t9wIXTfs"
+        },
+        {
+          "video_id": "CLV0BXcv1Lo",
+          "title": "Yoga Sutra 3.49 – Liberation Through Discrimination",
+          "url": "https://www.youtube.com/watch?v=CLV0BXcv1Lo"
+        },
+        {
+          "video_id": "Gq4FEUmNQBU",
+          "title": "Yoga Sutra 3.50 – Detachment from Powers",
+          "url": "https://www.youtube.com/watch?v=Gq4FEUmNQBU"
+        },
+        {
+          "video_id": "y1vxnc6Z358",
+          "title": "Yoga Sutra 3.51 – Transcending Time and Illusion",
+          "url": "https://www.youtube.com/watch?v=y1vxnc6Z358"
+        },
+        {
+          "video_id": "QZieBt68r9M",
+          "title": "Yoga Sutra 3.52 – The Wisdom of Discernment",
+          "url": "https://www.youtube.com/watch?v=QZieBt68r9M"
+        },
+        {
+          "video_id": "prDUWGOgVTw",
+          "title": "Yoga Sutra 3.53 – The Radiance of Intuitive Knowledge",
+          "url": "https://www.youtube.com/watch?v=prDUWGOgVTw"
+        },
+        {
+          "video_id": "tMum1w-XmmE",
+          "title": "Yoga Sutra 3.54 – The Eternal Now",
+          "url": "https://www.youtube.com/watch?v=tMum1w-XmmE"
+        },
+        {
+          "video_id": "J_R57nrUTrQ",
+          "title": "Yoga Sutra 3.55 – The Unity of Purity and Liberation",
+          "url": "https://www.youtube.com/watch?v=J_R57nrUTrQ"
+        },
+        {
+          "video_id": "OXloiUFXops",
+          "title": "Yoga Sutra 4.1 – The Sources of Psychic and Spiritual Powers",
+          "url": "https://www.youtube.com/watch?v=OXloiUFXops"
+        },
+        {
+          "video_id": "iNgkvslsObM",
+          "title": "Yoga Sutra 4.2 – The Evolution of Consciousness",
+          "url": "https://www.youtube.com/watch?v=iNgkvslsObM"
+        },
+        {
+          "video_id": "6maJi_SGv54",
+          "title": "Yoga Sutra 4.3 – Preparing the Ground for Spiritual Growth",
+          "url": "https://www.youtube.com/watch?v=6maJi_SGv54"
+        },
+        {
+          "video_id": "bWn7htjxNpc",
+          "title": "Yoga Sutra 4.4 – Beyond the Layers of Self",
+          "url": "https://www.youtube.com/watch?v=bWn7htjxNpc"
+        },
+        {
+          "video_id": "9mfS-fkKslk",
+          "title": "Yoga Sutra 4.5 – The Unity Behind Diversity",
+          "url": "https://www.youtube.com/watch?v=9mfS-fkKslk"
+        },
+        {
+          "video_id": "Gn_O3ZJGNrk",
+          "title": "Yoga Sutra 4.6 – Liberation Through Meditation",
+          "url": "https://www.youtube.com/watch?v=Gn_O3ZJGNrk"
+        },
+        {
+          "video_id": "MEWUyBVHm78",
+          "title": "Yoga Sutra 4.7 – Actions Beyond Desire",
+          "url": "https://www.youtube.com/watch?v=MEWUyBVHm78"
+        },
+        {
+          "video_id": "hqKpbB83QfE",
+          "title": "Yoga Sutra 4.8 – Karma and the Seeds of Destiny",
+          "url": "https://www.youtube.com/watch?v=hqKpbB83QfE"
+        },
+        {
+          "video_id": "8lBIAS2xXN0",
+          "title": "Yoga Sutra 4.9 – The Thread of Karma Across Lifetimes",
+          "url": "https://www.youtube.com/watch?v=8lBIAS2xXN0"
+        },
+        {
+          "video_id": "a6ladLhZhsk",
+          "title": "Yoga Sutra 4.10 – The Eternal Stream of Desire",
+          "url": "https://www.youtube.com/watch?v=a6ladLhZhsk"
+        },
+        {
+          "video_id": "O7MkW0SSh0A",
+          "title": "Yoga Sutra 4.11 – Stopping the Cycle of Mind Images",
+          "url": "https://www.youtube.com/watch?v=O7MkW0SSh0A"
+        },
+        {
+          "video_id": "_D60Blu_wH4",
+          "title": "Yoga Sutra 4.12 – Transcending Time",
+          "url": "https://www.youtube.com/watch?v=_D60Blu_wH4"
+        },
+        {
+          "video_id": "B4DQia6qhI8",
+          "title": "Yoga Sutra 4.13 – The Three Qualities of Matter",
+          "url": "https://www.youtube.com/watch?v=B4DQia6qhI8"
+        },
+        {
+          "video_id": "5kU4X1P85rE",
+          "title": "Yoga Sutra 4.14 – Aligning Perception with Vibrations",
+          "url": "https://www.youtube.com/watch?v=5kU4X1P85rE"
+        },
+        {
+          "video_id": "9JFI_EAHSeY",
+          "title": "Yoga Sutra 4.15 – Consciousness and Form",
+          "url": "https://www.youtube.com/watch?v=9JFI_EAHSeY"
+        },
+        {
+          "video_id": "xtLmMu6Xvbs",
+          "title": "Yoga Sutra 4.16 – The Universality of Thought and Form",
+          "url": "https://www.youtube.com/watch?v=xtLmMu6Xvbs"
+        },
+        {
+          "video_id": "tjn-PRuDFww",
+          "title": "Yoga Sutra 4.17 – Perception Depends on Inner Readiness",
+          "url": "https://www.youtube.com/watch?v=tjn-PRuDFww"
+        },
+        {
+          "video_id": "pj_NiFNUjTo",
+          "title": "Yoga Sutra 4.18 – The Observer and the Restless Mind",
+          "url": "https://www.youtube.com/watch?v=pj_NiFNUjTo"
+        },
+        {
+          "video_id": "qFcM7me6HU8",
+          "title": "Yoga Sutra 4.19 – The Mind Is Not the Source of Light",
+          "url": "https://www.youtube.com/watch?v=qFcM7me6HU8"
+        },
+        {
+          "video_id": "KCD-P6EVGPI",
+          "title": "Yoga Sutra 4.20 – The Mind as an Instrument",
+          "url": "https://www.youtube.com/watch?v=KCD-P6EVGPI"
+        },
+        {
+          "video_id": "U6VxBbhMeAI",
+          "title": "Yoga Sutra 4.21 – The Observer Beyond the Mind",
+          "url": "https://www.youtube.com/watch?v=U6VxBbhMeAI"
+        },
+        {
+          "video_id": "5dpZhfn_0SI",
+          "title": "Yoga Sutra 4.22 – Awakening to the True Self",
+          "url": "https://www.youtube.com/watch?v=5dpZhfn_0SI"
+        },
+        {
+          "video_id": "RpP9MCSo3Ew",
+          "title": "Yoga Sutra 4.23 – Reflecting the Light of the Soul",
+          "url": "https://www.youtube.com/watch?v=RpP9MCSo3Ew"
+        },
+        {
+          "video_id": "WmE6f0S057A",
+          "title": "Yoga Sutra 4.24 – The Mind as the Soul’s Instrument",
+          "url": "https://www.youtube.com/watch?v=WmE6f0S057A"
+        },
+        {
+          "video_id": "O-YU3IlVIgs",
+          "title": "Yoga Sutra 4.25 – Isolated Unity",
+          "url": "https://www.youtube.com/watch?v=O-YU3IlVIgs"
+        },
+        {
+          "video_id": "Uy8KowiDIqo",
+          "title": "Yoga Sutra 4 26 – The Turning Toward Illumination",
+          "url": "https://www.youtube.com/watch?v=Uy8KowiDIqo"
+        },
+        {
+          "video_id": "S5heJiHXVNA",
+          "title": "Yoga Sutra 4.27 – The Inner Battle for Transformation",
+          "url": "https://www.youtube.com/watch?v=S5heJiHXVNA"
+        },
+        {
+          "video_id": "eeMh3GHKaQk",
+          "title": "Yoga Sutra 4.28 – Overcoming Obstacles with Persistence",
+          "url": "https://www.youtube.com/watch?v=eeMh3GHKaQk"
+        },
+        {
+          "video_id": "4Y-Q76pIfKI",
+          "title": "Yoga Sutra 4.29 – The Cloud of Spiritual Knowledge",
+          "url": "https://www.youtube.com/watch?v=4Y-Q76pIfKI"
+        },
+        {
+          "video_id": "ZpcA8wvOo2c",
+          "title": "Yoga Sutra 4.30 – Freedom from Karma and Sorrow",
+          "url": "https://www.youtube.com/watch?v=ZpcA8wvOo2c"
+        },
+        {
+          "video_id": "ztxtpmCnjbM",
+          "title": "Yoga Sutra 4.31 – The Dissolution of Illusions",
+          "url": "https://www.youtube.com/watch?v=ztxtpmCnjbM"
+        },
+        {
+          "video_id": "6OwMhIDblHU",
+          "title": "Yoga Sutra 4.32 – The Fulfillment of Nature’s Purpose",
+          "url": "https://www.youtube.com/watch?v=6OwMhIDblHU"
+        },
+        {
+          "video_id": "i_rVZaWbfGw",
+          "title": "Yoga Sutra 4.33 – Beyond the Cycle of Change",
+          "url": "https://www.youtube.com/watch?v=i_rVZaWbfGw"
+        },
+        {
+          "video_id": "Ea1DNdCAIIE",
+          "title": "Yoga Sutra 4.34 – The Culmination of Spiritual Awakening",
+          "url": "https://www.youtube.com/watch?v=Ea1DNdCAIIE"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist brings together songs inspired by all four books of Patanjali’s Yoga Sutras, offering a complete journey through the teachings of yoga as a path of inner clarity, discipline, and spiritual realization.\n\nThe Yoga Sutras present a clear and practical system for understanding the mind, refining awareness, and revealing the deeper spiritual self beneath thoughts, emotions, and habits. Across the full collection, the teachings move from awakening spiritual awareness, to practical inner training, to the refinement of perception, and finally toward liberation and freedom from mental limitation.\n\nEach song reflects the essence of a sutra, allowing the wisdom to be absorbed through listening rather than analysis alone. These tracks are suited for meditation, yoga practice, journaling, rest, or quiet reflection, supporting both study and lived experience.\n\nIf you would like to study the Yoga Sutras more deeply and explore yoga as a spiritual path, you can join the Yoga membership here:\nhttps://healthmanifested.com/yogi-at-heart/\n\nFor people who want to integrate the Yoga Sutras with astrology, Human Design, Gene Keys, planetary timing, and cycles of consciousness, the HD Astro membership offers a broader framework for understanding how these teachings apply to daily life:\nhttps://healthmanifested.com/hd-astro-course-options/\n\nLet this playlist be a steady companion for grounding awareness, refining the mind, and reconnecting with the timeless thread of spiritual wisdom found within the Yoga Sutras.",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaAmorwHo1uA91bEGWSrq62Y.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaB9uZ9QrTAKVecebgIO0mdz",
+      "title": "Yoga Sutras: Book II: The Path to Spiritual Growth",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaB9uZ9QrTAKVecebgIO0mdz",
+      "displayed_video_count": "55 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "_hyDQiR_5u0",
+          "title": "Yoga Sutra 2.1 – The Path to Union",
+          "url": "https://www.youtube.com/watch?v=_hyDQiR_5u0"
+        },
+        {
+          "video_id": "jTrRqW7pV7Y",
+          "title": "Yoga Sutra 2.2 – Awakening Soul Vision",
+          "url": "https://www.youtube.com/watch?v=jTrRqW7pV7Y"
+        },
+        {
+          "video_id": "YzQbaSSWYeU",
+          "title": "Yoga Sutra 2.3 – The Barriers to Awakening",
+          "url": "https://www.youtube.com/watch?v=YzQbaSSWYeU"
+        },
+        {
+          "video_id": "f6ZgUSCcks8",
+          "title": "Yoga Sutra 2.4 – Ignorance the Root of Barriers",
+          "url": "https://www.youtube.com/watch?v=f6ZgUSCcks8"
+        },
+        {
+          "video_id": "9jOIMOrSCKo",
+          "title": "Yoga Sutra 2.5 – Mistaking the unreal for the real",
+          "url": "https://www.youtube.com/watch?v=9jOIMOrSCKo"
+        },
+        {
+          "video_id": "gQyA-KICZQ4",
+          "title": "Yoga Sutra 2.6 – The Illusion of Self assertion",
+          "url": "https://www.youtube.com/watch?v=gQyA-KICZQ4"
+        },
+        {
+          "video_id": "RN0e5t6smKQ",
+          "title": "Yoga Sutras 2.7 – The Nature of Desire",
+          "url": "https://www.youtube.com/watch?v=RN0e5t6smKQ"
+        },
+        {
+          "video_id": "86VA8ThWT50",
+          "title": "Yoga Sutras 2.8 – The Root of Hate",
+          "url": "https://www.youtube.com/watch?v=86VA8ThWT50"
+        },
+        {
+          "video_id": "GpCU_Q64Sao",
+          "title": "Yoga Sutras 2.9 – The Root of Attachment",
+          "url": "https://www.youtube.com/watch?v=GpCU_Q64Sao"
+        },
+        {
+          "video_id": "1yWDgSEMU98",
+          "title": "Yoga Sutras 2.10 – Overcoming Hindrances",
+          "url": "https://www.youtube.com/watch?v=1yWDgSEMU98"
+        },
+        {
+          "video_id": "qfut_Ix0Jiw",
+          "title": "Yoga Sutras 2.11 – Stilling Restless Distractions",
+          "url": "https://www.youtube.com/watch?v=qfut_Ix0Jiw"
+        },
+        {
+          "video_id": "h3l-gHVTf-Q",
+          "title": "Yoga Sutras 2.12 – The Root of Sorrow and the Cycle of Karma",
+          "url": "https://www.youtube.com/watch?v=h3l-gHVTf-Q"
+        },
+        {
+          "video_id": "VJUdik_8m2Y",
+          "title": "Yoga Sutras 2.13 – The Seeds of Karma",
+          "url": "https://www.youtube.com/watch?v=VJUdik_8m2Y"
+        },
+        {
+          "video_id": "_-JBAKoVAv0",
+          "title": "Yoga Sutras 2.14 – The Fruits of Actions",
+          "url": "https://www.youtube.com/watch?v=_-JBAKoVAv0"
+        },
+        {
+          "video_id": "mxC-sEzeRh4",
+          "title": "Yoga Sutras 2.15 – The Restlessness of the Psychic Self",
+          "url": "https://www.youtube.com/watch?v=mxC-sEzeRh4"
+        },
+        {
+          "video_id": "Y9gt9MVxVO0",
+          "title": "Yoga Sutras 2.16 – Avoiding Future Pain",
+          "url": "https://www.youtube.com/watch?v=Y9gt9MVxVO0"
+        },
+        {
+          "video_id": "ibPZbU79Gjs",
+          "title": "Yoga Sutras 2.17 – The Root of Misery and the Path to Liberation",
+          "url": "https://www.youtube.com/watch?v=ibPZbU79Gjs"
+        },
+        {
+          "video_id": "FmyAUBcp45s",
+          "title": "Yoga Sutras 2.18 – The World Exists for the Soul’s Growth",
+          "url": "https://www.youtube.com/watch?v=FmyAUBcp45s"
+        },
+        {
+          "video_id": "20DOFXfvFMU",
+          "title": "Yoga Sutras 2.19 – The Layers of Existence",
+          "url": "https://www.youtube.com/watch?v=20DOFXfvFMU"
+        },
+        {
+          "video_id": "Jt3ziWDBNyk",
+          "title": "Yoga Sutras 2.20 – The Seer and the Mind",
+          "url": "https://www.youtube.com/watch?v=Jt3ziWDBNyk"
+        },
+        {
+          "video_id": "wm9-2XCdmNM",
+          "title": "Yoga Sutras 2.21 – The Purpose of the Outer World",
+          "url": "https://www.youtube.com/watch?v=wm9-2XCdmNM"
+        },
+        {
+          "video_id": "1sZ6Q30rZrw",
+          "title": "Yoga Sutras 2.22 – Liberation from Illusion",
+          "url": "https://www.youtube.com/watch?v=1sZ6Q30rZrw"
+        },
+        {
+          "video_id": "WYBENOqJvnY",
+          "title": "Yoga Sutras 2.23 – The Journey of Understanding",
+          "url": "https://www.youtube.com/watch?v=WYBENOqJvnY"
+        },
+        {
+          "video_id": "SyI_hmT5rUI",
+          "title": "Yoga Sutras 2.24 – The Root of Ignorance",
+          "url": "https://www.youtube.com/watch?v=SyI_hmT5rUI"
+        },
+        {
+          "video_id": "qlbSTvvRLEw",
+          "title": "Yoga Sutras 2.25 – Liberation Through Wisdom",
+          "url": "https://www.youtube.com/watch?v=qlbSTvvRLEw"
+        },
+        {
+          "video_id": "7INANwr53eE",
+          "title": "Yoga Sutras 2.26 – Liberation Through Continuous Discernment",
+          "url": "https://www.youtube.com/watch?v=7INANwr53eE"
+        },
+        {
+          "video_id": "knK6FFi23nk",
+          "title": "Yoga Sutras 2.27 – The Sevenfold Path to Liberation",
+          "url": "https://www.youtube.com/watch?v=knK6FFi23nk"
+        },
+        {
+          "video_id": "_4NtavXTVkg",
+          "title": "Yoga Sutras 2.28 – The Path to Illumination",
+          "url": "https://www.youtube.com/watch?v=_4NtavXTVkg"
+        },
+        {
+          "video_id": "X2QXV2anY-s",
+          "title": "Yoga Sutras 2.29 – The Eight fold Path of Yoga",
+          "url": "https://www.youtube.com/watch?v=X2QXV2anY-s"
+        },
+        {
+          "video_id": "qUQV04Na-6Y",
+          "title": "Yoga Sutras 2.30 – The Five Commandments",
+          "url": "https://www.youtube.com/watch?v=qUQV04Na-6Y"
+        },
+        {
+          "video_id": "635Y3plyhjA",
+          "title": "Yoga Sutras 2.31 – The Universal Nature of the Commandments",
+          "url": "https://www.youtube.com/watch?v=635Y3plyhjA"
+        },
+        {
+          "video_id": "1k0D6OkeMQE",
+          "title": "Yoga Sutras 2.32 – The Five Rules",
+          "url": "https://www.youtube.com/watch?v=1k0D6OkeMQE"
+        },
+        {
+          "video_id": "Lu1d7i5ZqwM",
+          "title": "Yoga Sutras 2.33 – Cultivating Opposite Thoughts",
+          "url": "https://www.youtube.com/watch?v=Lu1d7i5ZqwM"
+        },
+        {
+          "video_id": "mrrnsYue5O8",
+          "title": "Yoga Sutras 2.34 – Transforming Thoughts Contrary to Yoga",
+          "url": "https://www.youtube.com/watch?v=mrrnsYue5O8"
+        },
+        {
+          "video_id": "n7Rwl0HhEmQ",
+          "title": "Yoga Sutras 2.35 – The Power of Non Injury",
+          "url": "https://www.youtube.com/watch?v=n7Rwl0HhEmQ"
+        },
+        {
+          "video_id": "aXBZctay0t4",
+          "title": "Yoga Sutras 2.36 – The Power of Truth",
+          "url": "https://www.youtube.com/watch?v=aXBZctay0t4"
+        },
+        {
+          "video_id": "5Z-dnEY4A8Y",
+          "title": "Yoga Sutras 2.37 – The Treasure of Non Stealing",
+          "url": "https://www.youtube.com/watch?v=5Z-dnEY4A8Y"
+        },
+        {
+          "video_id": "tUY_zEnV76g",
+          "title": "Yoga Sutras 2.38 – The Power of Self Control",
+          "url": "https://www.youtube.com/watch?v=tUY_zEnV76g"
+        },
+        {
+          "video_id": "JOUISXzFFmo",
+          "title": "Yoga Sutras 2.39 – Freedom from Greed Brings Understanding",
+          "url": "https://www.youtube.com/watch?v=JOUISXzFFmo"
+        },
+        {
+          "video_id": "J66Kna7-9mU",
+          "title": "Yoga Sutras 2.40   Purification Brings Freedom from Attachment to Form",
+          "url": "https://www.youtube.com/watch?v=J66Kna7-9mU"
+        },
+        {
+          "video_id": "JpPNcV5ONaA",
+          "title": "Yoga Sutras 2.41   The Gifts of Purification",
+          "url": "https://www.youtube.com/watch?v=JpPNcV5ONaA"
+        },
+        {
+          "video_id": "SOlLuPbHytM",
+          "title": "Yoga Sutras 2.42 – The Power of Contentment",
+          "url": "https://www.youtube.com/watch?v=SOlLuPbHytM"
+        },
+        {
+          "video_id": "y1uCpTLmiiE",
+          "title": "Yoga Sutras 2.43 – Transformation Through Aspiration and Purity",
+          "url": "https://www.youtube.com/watch?v=y1uCpTLmiiE"
+        },
+        {
+          "video_id": "MuvDi1yvFFc",
+          "title": "Yoga Sutras 2.44 – Spiritual Reading and Soul Connection",
+          "url": "https://www.youtube.com/watch?v=MuvDi1yvFFc"
+        },
+        {
+          "video_id": "HGQleNfm51M",
+          "title": "Yoga Sutras 2.45 – Devotion to the Higher Will",
+          "url": "https://www.youtube.com/watch?v=HGQleNfm51M"
+        },
+        {
+          "video_id": "EypV3Ri6Xk4",
+          "title": "Yoga Sutras 2.46 – Steady and Relaxed Posture",
+          "url": "https://www.youtube.com/watch?v=EypV3Ri6Xk4"
+        },
+        {
+          "video_id": "2nciPa0cA-g",
+          "title": "Yoga Sutras 2.47 – Achieving Steadiness and Ease",
+          "url": "https://www.youtube.com/watch?v=2nciPa0cA-g"
+        },
+        {
+          "video_id": "K_6QWM1Oj9Q",
+          "title": "Yoga Sutras 2.48 – Freedom from the Pairs of Opposit",
+          "url": "https://www.youtube.com/watch?v=K_6QWM1Oj9Q"
+        },
+        {
+          "video_id": "kX_T7lOpLkw",
+          "title": "Yoga Sutras 2 49 – Mastery of Life’s Current",
+          "url": "https://www.youtube.com/watch?v=kX_T7lOpLkw"
+        },
+        {
+          "video_id": "eclwyJmVOxQ",
+          "title": "Yoga Sutras 2.50 – Mastering the Flow of Life’s Energy",
+          "url": "https://www.youtube.com/watch?v=eclwyJmVOxQ"
+        },
+        {
+          "video_id": "KUweMOYQBDA",
+          "title": "Yoga Sutras 2.51 – The Fourth Degree of Mastery",
+          "url": "https://www.youtube.com/watch?v=KUweMOYQBDA"
+        },
+        {
+          "video_id": "-Rcny4V6Fgc",
+          "title": "Yoga Sutras 2.52 – Removing the Veil of Distraction",
+          "url": "https://www.youtube.com/watch?v=-Rcny4V6Fgc"
+        },
+        {
+          "video_id": "-th_1NkovTE",
+          "title": "Yoga Sutras 2.53 – Preparing the Mind for Meditation",
+          "url": "https://www.youtube.com/watch?v=-th_1NkovTE"
+        },
+        {
+          "video_id": "AKQshdw9KrA",
+          "title": "Yoga Sutras 2.54 – Withdrawing the Senses",
+          "url": "https://www.youtube.com/watch?v=AKQshdw9KrA"
+        },
+        {
+          "video_id": "S5QOWFPcV2c",
+          "title": "Yoga Sutras 2.55 – Mastery Over the Senses",
+          "url": "https://www.youtube.com/watch?v=S5QOWFPcV2c"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist is devoted to Book II of the Yoga Sutras, which moves from awakening awareness into practical spiritual growth. Here, Patanjali focuses on the daily disciplines that free the spiritual self from mental habits, emotional entanglements, and distraction.\n\nBook II answers a central question: how does the spiritual self become clear and unobstructed in everyday life? The teachings offer direct, grounded guidance through ethical living, self-discipline, and devotion to a higher purpose. Integrity, honesty, purity, and inner responsibility form the foundation of this path.\n\nRather than pursuing spiritual insight through curiosity or desire, Book II emphasizes preparation. When these core principles are practiced consistently, the inner ground becomes stable, allowing deeper awareness to emerge naturally.\n\nThese songs are meant to support reflection, steady practice, and integration of spiritual principles into daily life.\n\nTo explore the Yoga Sutras as a living practice and deepen your spiritual discipline, you can join the Yoga membership here:\nhttps://healthmanifested.com/yogi-at-heart/\n\nFor people who want to connect yoga with astrology, Human Design, Gene Keys, and planetary timing, the HD Astro membership offers a broader framework for understanding spiritual growth and life cycles:\nhttps://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaB9uZ9QrTAKVecebgIO0mdz.md"
+    },
+    {
+      "playlist_id": "PL0rem6quVJaBcmZMoKQpx-o0JC1kEbA1A",
+      "title": "Yoga Sutras: Book I: The Path to Spiritual Awakening",
+      "url": "https://www.youtube.com/playlist?list=PL0rem6quVJaBcmZMoKQpx-o0JC1kEbA1A",
+      "displayed_video_count": "51 videos",
+      "retrieved_at": "2026-10-10",
+      "videos": [
+        {
+          "video_id": "MfDQbx-YhYM",
+          "title": "Yoga Sutras 1.1   OM the Path to Union",
+          "url": "https://www.youtube.com/watch?v=MfDQbx-YhYM"
+        },
+        {
+          "video_id": "-XQyck4051E",
+          "title": "Yoga Sutras 1.2   The Mastery of the Mind",
+          "url": "https://www.youtube.com/watch?v=-XQyck4051E"
+        },
+        {
+          "video_id": "8A8qOBDJDPo",
+          "title": "Yoga Sutras 1.3   The Emergence of the True Self",
+          "url": "https://www.youtube.com/watch?v=8A8qOBDJDPo"
+        },
+        {
+          "video_id": "5UmfGEUvplA",
+          "title": "Yoga Sutras 1.4   Reclaiming the soul",
+          "url": "https://www.youtube.com/watch?v=5UmfGEUvplA"
+        },
+        {
+          "video_id": "MMFAVQ5pPb8",
+          "title": "Yoga Sutras 1.5   Activities of the Mind",
+          "url": "https://www.youtube.com/watch?v=MMFAVQ5pPb8"
+        },
+        {
+          "video_id": "xsgV77WQgZs",
+          "title": "Yoga Sutras 1.6   Movements of the Mind",
+          "url": "https://www.youtube.com/watch?v=xsgV77WQgZs"
+        },
+        {
+          "video_id": "8Oxv2PSH82Y",
+          "title": "Yoga Sutras 1.7   Clear Thinking",
+          "url": "https://www.youtube.com/watch?v=8Oxv2PSH82Y"
+        },
+        {
+          "video_id": "wtF_dgGrSME",
+          "title": "Yoga Sutras 1.8: False Understanding",
+          "url": "https://www.youtube.com/watch?v=wtF_dgGrSME"
+        },
+        {
+          "video_id": "9SKW5EccgwU",
+          "title": "Yoga Sutras 1.9   Illusion of Fantasy",
+          "url": "https://www.youtube.com/watch?v=9SKW5EccgwU"
+        },
+        {
+          "video_id": "cutHJW3HIx0",
+          "title": "Yoga Sutras 1.10   Sleep and Awareness",
+          "url": "https://www.youtube.com/watch?v=cutHJW3HIx0"
+        },
+        {
+          "video_id": "Hrd2sQxWXG4",
+          "title": "Yoga Sutras 1.11   Memory and Release",
+          "url": "https://www.youtube.com/watch?v=Hrd2sQxWXG4"
+        },
+        {
+          "video_id": "B7AlgMLTTJs",
+          "title": "Yoga Sutras 1.12   Effort and non attachment",
+          "url": "https://www.youtube.com/watch?v=B7AlgMLTTJs"
+        },
+        {
+          "video_id": "dyxZChNOpLM",
+          "title": "Yoga Sutras 1.13   Tireless Effort",
+          "url": "https://www.youtube.com/watch?v=dyxZChNOpLM"
+        },
+        {
+          "video_id": "JeXR39SjJeM",
+          "title": "Yoga Sutras 1.14   Steadfast Devotion and Effort",
+          "url": "https://www.youtube.com/watch?v=JeXR39SjJeM"
+        },
+        {
+          "video_id": "sgP_eJZwYPA",
+          "title": "Yoga Sutras 1.15   Freedom from Desire",
+          "url": "https://www.youtube.com/watch?v=sgP_eJZwYPA"
+        },
+        {
+          "video_id": "F0gprVwDDFk",
+          "title": "Yoga Sutras 1.16   Liberation through non attachment",
+          "url": "https://www.youtube.com/watch?v=F0gprVwDDFk"
+        },
+        {
+          "video_id": "HAcn6PnaAj0",
+          "title": "Yoga Sutras 1.17   Stages of Awareness",
+          "url": "https://www.youtube.com/watch?v=HAcn6PnaAj0"
+        },
+        {
+          "video_id": "eVi4sqP5fVY",
+          "title": "Yoga Sutras 1.18   True Spiritual Stillness",
+          "url": "https://www.youtube.com/watch?v=eVi4sqP5fVY"
+        },
+        {
+          "video_id": "u2_KahUgLQI",
+          "title": "Yoga Sutras 1.19   Transcending Worldly Ties",
+          "url": "https://www.youtube.com/watch?v=u2_KahUgLQI"
+        },
+        {
+          "video_id": "XkeLZvFKFVs",
+          "title": "Yoga Sutras 1.20   The Path to Realization",
+          "url": "https://www.youtube.com/watch?v=XkeLZvFKFVs"
+        },
+        {
+          "video_id": "Nheasx6UI5o",
+          "title": "Yoga Sutras 1.21   Focused Will",
+          "url": "https://www.youtube.com/watch?v=Nheasx6UI5o"
+        },
+        {
+          "video_id": "3sh_27eyOKA",
+          "title": "Yoga Sutras 1.22   Will and Devotion",
+          "url": "https://www.youtube.com/watch?v=3sh_27eyOKA"
+        },
+        {
+          "video_id": "knTaJHViH3M",
+          "title": "Yoga Sutras 1.23   Devotion to the Divine",
+          "url": "https://www.youtube.com/watch?v=knTaJHViH3M"
+        },
+        {
+          "video_id": "0R5JzodNnJo",
+          "title": "Yoga Sutras 1.24   The Freed Soul",
+          "url": "https://www.youtube.com/watch?v=0R5JzodNnJo"
+        },
+        {
+          "video_id": "EzMb96i2RpM",
+          "title": "Yoga Sutras 1.25   Infinite Knowledge",
+          "url": "https://www.youtube.com/watch?v=EzMb96i2RpM"
+        },
+        {
+          "video_id": "kAT-4ZDdjAQ",
+          "title": "Yoga Sutras 1.26   The Eternal Teacher",
+          "url": "https://www.youtube.com/watch?v=kAT-4ZDdjAQ"
+        },
+        {
+          "video_id": "OFJ2omVwQbY",
+          "title": "Yoga Sutras 1.27   The sacred word AUM",
+          "url": "https://www.youtube.com/watch?v=OFJ2omVwQbY"
+        },
+        {
+          "video_id": "ZxAV0kcc9KE",
+          "title": "Yoga Sutras 1.28   Meditating on OM",
+          "url": "https://www.youtube.com/watch?v=ZxAV0kcc9KE"
+        },
+        {
+          "video_id": "6MPXpqf51_s",
+          "title": "Yoga Sutras 1.29   Realization of the Soul",
+          "url": "https://www.youtube.com/watch?v=6MPXpqf51_s"
+        },
+        {
+          "video_id": "_uvwh3UWaPc",
+          "title": "Yoga Sutras 1.30   Overcoming Inner Barriers",
+          "url": "https://www.youtube.com/watch?v=_uvwh3UWaPc"
+        },
+        {
+          "video_id": "fNLgWHngVJA",
+          "title": "Yoga Sutras 1.31   Overcoming inner Turmoil",
+          "url": "https://www.youtube.com/watch?v=fNLgWHngVJA"
+        },
+        {
+          "video_id": "NttrXoBoVI0",
+          "title": "Yoga Sutras 1.32   Strengthening the will through purpose",
+          "url": "https://www.youtube.com/watch?v=NttrXoBoVI0"
+        },
+        {
+          "video_id": "Ve3Ytjkcjug",
+          "title": "Yoga Sutras 1.33   Cultivating Peace through Compassion",
+          "url": "https://www.youtube.com/watch?v=Ve3Ytjkcjug"
+        },
+        {
+          "video_id": "Rx3cv153f_8",
+          "title": "Yoga Sutras 1.34   Finding Peace through Breath and Rhythm",
+          "url": "https://www.youtube.com/watch?v=Rx3cv153f_8"
+        },
+        {
+          "video_id": "GgG8-DDPV4s",
+          "title": "Yoga Sutras 1.35   Gracious Peace through Steady Effort",
+          "url": "https://www.youtube.com/watch?v=GgG8-DDPV4s"
+        },
+        {
+          "video_id": "tOQbPeTOIH0",
+          "title": "Yoga Sutras 1.36   Radiance of Light",
+          "url": "https://www.youtube.com/watch?v=tOQbPeTOIH0"
+        },
+        {
+          "video_id": "mjNwr6TmNOE",
+          "title": "Yoga Sutras 1.37   Liberation through Purity",
+          "url": "https://www.youtube.com/watch?v=mjNwr6TmNOE"
+        },
+        {
+          "video_id": "BJTjLUQ2KEQ",
+          "title": "Yoga Sutras 1.38   Wisdom through Dreams and Imagination",
+          "url": "https://www.youtube.com/watch?v=BJTjLUQ2KEQ"
+        },
+        {
+          "video_id": "70cLUt_Q9zc",
+          "title": "Yoga Sutras 1.39   Peace through the Heart",
+          "url": "https://www.youtube.com/watch?v=70cLUt_Q9zc"
+        },
+        {
+          "video_id": "_JiQlJJGx_4",
+          "title": "Yoga Sutras 1.40   Unity in Understanding",
+          "url": "https://www.youtube.com/watch?v=_JiQlJJGx_4"
+        },
+        {
+          "video_id": "sMOUxdLLDuU",
+          "title": "Yoga Sutras 1.41   The Still Mind Reflects the Infinite",
+          "url": "https://www.youtube.com/watch?v=sMOUxdLLDuU"
+        },
+        {
+          "video_id": "iWq_vQR1wFw",
+          "title": "Yoga Sutras 1.42   Stages of Perception",
+          "url": "https://www.youtube.com/watch?v=iWq_vQR1wFw"
+        },
+        {
+          "video_id": "bUsZo_DNx2c",
+          "title": "Yoga Sutras 1.43   Beyond Form and Memory",
+          "url": "https://www.youtube.com/watch?v=bUsZo_DNx2c"
+        },
+        {
+          "video_id": "MnMpIVowX60",
+          "title": "Yoga Sutras 1.44   Perceiving the Subtle",
+          "url": "https://www.youtube.com/watch?v=MnMpIVowX60"
+        },
+        {
+          "video_id": "4uQmSjBYRNY",
+          "title": "Yoga Sutras 1.45   Moving From the Gross to the Subtle",
+          "url": "https://www.youtube.com/watch?v=4uQmSjBYRNY"
+        },
+        {
+          "video_id": "l53DAwuy7ho",
+          "title": "Yoga Sutras 1.46   Meditation with Seed",
+          "url": "https://www.youtube.com/watch?v=l53DAwuy7ho"
+        },
+        {
+          "video_id": "F7HgOlIppro",
+          "title": "Yoga Sutras 1.47   Pure Spiritual Realization",
+          "url": "https://www.youtube.com/watch?v=F7HgOlIppro"
+        },
+        {
+          "video_id": "5AG4ZOMEEEQ",
+          "title": "Yoga Sutras 1.48   Perception of Exact Truth",
+          "url": "https://www.youtube.com/watch?v=5AG4ZOMEEEQ"
+        },
+        {
+          "video_id": "d9LegWe-F-Y",
+          "title": "Yoga Sutras 1.49   Beyond Logic",
+          "url": "https://www.youtube.com/watch?v=d9LegWe-F-Y"
+        },
+        {
+          "video_id": "LcN-NEc2sqY",
+          "title": "Yoga Sutras 1.50   Pure Spiritual Insight",
+          "url": "https://www.youtube.com/watch?v=LcN-NEc2sqY"
+        },
+        {
+          "video_id": "ENqR5NPz6P8",
+          "title": "Yoga Sutras 1.51   The Final Dissolution",
+          "url": "https://www.youtube.com/watch?v=ENqR5NPz6P8"
+        }
+      ],
+      "complete": true,
+      "parser_version": 3,
+      "description": "This playlist explores Book I of the Yoga Sutras, focusing on the nature of yoga, the mind, and the path toward samadhi. These teachings guide awareness beyond mental habits and emotional patterns, revealing the steady presence of the spiritual self beneath them.\n\nEach sutra builds upon the last, offering a clear and practical system for inner clarity, stillness, and spiritual awakening. The later teachings address the obstacles that arise along the path and the practices that help consciousness refine and deepen.\n\nThese songs are meant for meditation, reflection, gentle movement, or quiet listening, allowing the wisdom of the Yoga Sutras to settle naturally.\n\nTo study the Yoga Sutras more deeply and explore yoga as a spiritual practice, you can join the Yoga membership here:\nhttps://healthmanifested.com/yogi-at-heart/\n\nFor people interested in integrating yoga with astrology, Human Design, Gene Keys, and planetary timing, the HD Astro membership offers a broader path of study:\nhttps://healthmanifested.com/hd-astro-course-options/",
+      "status": "public_items_retrieved",
+      "repository_guide": "channel-discovery/playlists/PL0rem6quVJaBcmZMoKQpx-o0JC1kEbA1A.md"
+    }
+  ]
+}

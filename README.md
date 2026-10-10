@@ -4,6 +4,15 @@ This repository helps search engines, AI assistants, and LLM tools understand th
 
 Health Manifested is a spiritual learning channel and sonic reference library. The songs and videos are created to help people learn astrology, Human Design, Gene Keys, I Ching, affirmations, manifestation, meditation, yoga philosophy, tarot, spiritual growth, and self discovery through music, audio, and visual lessons.
 
+## Whole-channel discovery guides
+
+Updated on 2026-10-10 from the public channel playlist pages: **560 playlists**, organized into **19 topic areas**, with individual playlist guides and direct video links. The playlist snapshot contains 7716 distinct video IDs. A combined catalog preserves the earlier upload export and adds current playlist entries, totaling 8004 distinct video IDs; it is not a complete new export of all current uploads.
+
+- [Start with the whole-channel discovery directory](channel-discovery/README.md)
+- [All songs, videos, meditations, and cartoons](channel-discovery/all_channel_videos.md)
+- [Structured whole-channel discovery index](channel-discovery/index.json)
+- [Individual playlist guides](channel-discovery/playlists)
+
 ## Main channel links
 
 - YouTube channel: https://www.youtube.com/@healthmanifested
@@ -89,7 +98,7 @@ The Health Manifested playlist guide index organizes playlists for songs, medita
 
 ## Latest update
 
-Updated on 2026-09-27 to add clearer AI and search metadata for newer songs, money manifestation music, Tarot content, Human Design cartoons, zodiac and planet cartoons, and other beginner friendly cartoon lessons.
+Updated on 2026-10-10 to add whole-channel discovery guides from 560 public playlists, including songs, videos, meditations, and cartoons across 19 topic areas. The earlier upload export is preserved, with source dates and scope recorded.
 
 ## Focused Neptune song guides
 
