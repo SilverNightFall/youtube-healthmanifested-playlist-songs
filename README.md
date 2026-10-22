@@ -107,3 +107,8 @@ Added on 2026-10-10, using titles and direct YouTube links from the existing Nep
 - [Neptune in the Houses: Astrology Song Guide](planets/guides/neptune_in_houses_song_guide.md): 12 songs. [Structured song links](metadata/planets/neptune_in_houses_song_guide.json).
 - [Neptune Retrograde in the Signs: Astrology Song Guide](planets/guides/neptune_retrograde_song_guide.md): 12 songs. [Structured song links](metadata/planets/neptune_retrograde_song_guide.json).
 - [Venus and Neptune: Love, Dreams, and Astrology Songs](planets/guides/venus_neptune_love_song_guide.md): 24 songs. [Structured song links](metadata/planets/venus_neptune_love_song_guide.json).
+
+## October 2026 PDF playlist library
+
+- [Browse 560 playlist PDF guides and the main channel PDF](playlist-pdfs/README.md)
+- [Structured playlist index](playlist-pdfs/playlist_index.json)
